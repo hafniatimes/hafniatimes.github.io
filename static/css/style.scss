@@ -38,6 +38,12 @@
 #posts a { color: $blue !important; }
 
 .post {
+    img.avatar,
+    .byline {
+        text-align: center;
+        font-weight: bold;
+    }
+
     img.avatar {
         width: $avatarSize;
         height: $avatarSize;
@@ -46,6 +52,8 @@
         } @elseif $avatarShape == "rounded" {
             @include border-radius(5px);
         } // @else == square
+        @include center;
+        display: block;
     }
 
     h2 {
