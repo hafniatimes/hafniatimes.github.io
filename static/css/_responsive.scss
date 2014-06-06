@@ -15,66 +15,37 @@
 
         #site-navigation.box {
             @include getFontSize(10px);
+            font-weight: bold;
+            background-color: #F8F8F8;
             margin-top: 0 !important; //!
             margin-bottom: 0 !important;  //!
             text-align: center;
 
-            li a {
-                padding: 0 .75em;
-            }
+            li a { padding: 0 .75em; }
         }
 
-        #name {
-            background-color: #F8F8F8;
+        #name h1 { @include getVerticalRhythm(21px); }
 
-            h1 {
-                @include getVerticalRhythm(21px);
-            }
-
-            #header {
-                @include getVerticalRhythm(14px);
-            }
-        }
-
-        #company-info.box {
-            float: left;
-            clear: both;
-        }
-
-        #content {
+        #info.box {
             float: left;
             clear: both;
         }
     }
 
     // iPhone 5+
-    @media #{$mediaQueryiPhoneLarge} {
-        @include iphone-mq;
-    }
+    @media #{$mediaQueryiPhoneLarge} { @include iphone-mq; }
 
     // iPhone <5
-    @media #{$mediaQueryiPhoneSmall} {
-        @include iphone-mq;
-    }
+    @media #{$mediaQueryiPhoneSmall} { @include iphone-mq; }
 
     // iPad
     @media #{$mediaQueryiPad} {
         #site-navigation {
             @include getFontSize(10px);
 
-            a {
-                font-weight: bold;
-            }
+            a { font-weight: bold; }
         }
 
-        #name {
-            h1 {
-                @include getVerticalRhythm(21px);
-            }
-
-            #header {
-                @include getVerticalRhythm(14px);
-            }
-        }
+        #name { h1 { @include getVerticalRhythm(21px); } }
     }
 }

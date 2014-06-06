@@ -295,28 +295,20 @@ mark {
   #site-navigation.box {
     font-size: 0.71429em;
     color: #000;
+    font-weight: bold;
+    background-color: #F8F8F8;
     margin-top: 0 !important;
     margin-bottom: 0 !important;
     text-align: center; }
     #site-navigation.box li a {
       padding: 0 .75em; }
 
-  #name {
-    background-color: #F8F8F8; }
-    #name h1 {
-      font-size: 1.5em;
-      margin-top: 0;
-      line-height: 1em; }
-    #name #header {
-      font-size: 1em;
-      margin-top: 0;
-      line-height: 1.5em; }
+  #name h1 {
+    font-size: 1.5em;
+    margin-top: 0;
+    line-height: 1em; }
 
-  #company-info.box {
-    float: left;
-    clear: both; }
-
-  #content {
+  #info.box {
     float: left;
     clear: both; } }
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
@@ -329,8 +321,4 @@ mark {
   #name h1 {
     font-size: 1.5em;
     margin-top: 0;
-    line-height: 1em; }
-  #name #header {
-    font-size: 1em;
-    margin-top: 0;
-    line-height: 1.5em; } }
+    line-height: 1em; } }
