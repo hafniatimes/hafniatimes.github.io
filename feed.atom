@@ -15,7 +15,7 @@ layout: none
     <id>{{ base }}/</id>
     <author>
         <name>{{ site.data.people[page.author].name }}</name>
-        {% if {{ site.data.people[page.author].mail != "" }} %}<email>{{ {{ site.data.people[page.author].mail }} }}</email>{% endif %}
+        {% if site.data.people[page.author].mail != "" %}<email>{{ site.data.people[page.author].mail }}</email>{% endif %}
     </author>
 
     {% for post in site.posts %}
