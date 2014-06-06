@@ -1,121 +1,323 @@
-/*
-Syntax error: Undefined variable: "$mobileNamehHSize".
-        on line 27 of _responsive.scss, in `getVerticalRhythm'
-        from line 27 of _responsive.scss
-        from line 73 of style.scss
+/*! normalize.css v3.0.0 | MIT License | git.io/normalize */
+/*! Modified to only include relevant selectors */
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%; }
 
-22: }
-23: 
-24: #name {
-25:     .box { padding: 0 5em; }
-26: 
-27:     h1 {
-28:         @include getVerticalRhythm($nameH1Size);
-29:         font-family: "Palatino Linotype", $font;
-30:     }
-31: }
-32: 
+body {
+  margin: 0; }
 
-Backtrace:
-_responsive.scss:27:in `getVerticalRhythm'
-_responsive.scss:27
-style.scss:73
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/script/tree/variable.rb:49:in `_perform'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/script/tree/node.rb:50:in `perform'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:326:in `block (2 levels) in visit_mixin'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:326:in `map'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:326:in `block in visit_mixin'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/stack.rb:98:in `block in with_mixin'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/stack.rb:121:in `with_frame'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/stack.rb:98:in `with_mixin'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:318:in `visit_mixin'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/base.rb:36:in `visit'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:152:in `block in visit'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/stack.rb:79:in `block in with_base'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/stack.rb:121:in `with_frame'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/stack.rb:79:in `with_base'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:152:in `visit'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:389:in `block (2 levels) in visit_rule'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:389:in `map'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:389:in `block in visit_rule'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:173:in `with_environment'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:387:in `visit_rule'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/base.rb:36:in `visit'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:152:in `block in visit'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/stack.rb:79:in `block in with_base'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/stack.rb:121:in `with_frame'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/stack.rb:79:in `with_base'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:152:in `visit'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/base.rb:52:in `block in visit_children'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/base.rb:52:in `map'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/base.rb:52:in `visit_children'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:161:in `block in visit_children'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:173:in `with_environment'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:160:in `visit_children'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/base.rb:36:in `block in visit'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:479:in `visit_media'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/base.rb:36:in `visit'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:152:in `block in visit'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/stack.rb:79:in `block in with_base'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/stack.rb:121:in `with_frame'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/stack.rb:79:in `with_base'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:152:in `visit'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/base.rb:52:in `block in visit_children'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/base.rb:52:in `map'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/base.rb:52:in `visit_children'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:161:in `block in visit_children'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:173:in `with_environment'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:160:in `visit_children'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/base.rb:36:in `block in visit'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:479:in `visit_media'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/base.rb:36:in `visit'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:152:in `block in visit'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/stack.rb:79:in `block in with_base'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/stack.rb:121:in `with_frame'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/stack.rb:79:in `with_base'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:152:in `visit'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:297:in `block (2 levels) in visit_import'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:297:in `map'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:297:in `block in visit_import'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/stack.rb:88:in `block in with_import'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/stack.rb:121:in `with_frame'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/stack.rb:88:in `with_import'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:294:in `visit_import'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/base.rb:36:in `visit'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:152:in `block in visit'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/stack.rb:79:in `block in with_base'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/stack.rb:121:in `with_frame'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/stack.rb:79:in `with_base'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:152:in `visit'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/base.rb:52:in `block in visit_children'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/base.rb:52:in `map'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/base.rb:52:in `visit_children'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:161:in `block in visit_children'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:173:in `with_environment'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:160:in `visit_children'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/base.rb:36:in `block in visit'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:180:in `visit_root'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/base.rb:36:in `visit'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:151:in `visit'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/visitors/perform.rb:8:in `visit'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/root_node.rb:36:in `css_tree'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/tree/root_node.rb:20:in `render'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/engine.rb:274:in `render'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/plugin/compiler.rb:378:in `update_stylesheet'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/plugin/compiler.rb:189:in `block in update_stylesheets'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/plugin/compiler.rb:186:in `each'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/plugin/compiler.rb:186:in `update_stylesheets'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/plugin/compiler.rb:357:in `on_file_changed'
-/Users/darville/.rvm/gems/ruby-2.1.0/gems/sass-3.3.8/lib/sass/plugin/compiler.rb:250:in `block in watch'
-/Users/darville/.rvm/gems/ruby-2.1.0@global/gems/listen-1.3.1/lib/listen/listener.rb:252:in `call'
-/Users/darville/.rvm/gems/ruby-2.1.0@global/gems/listen-1.3.1/lib/listen/listener.rb:252:in `on_change'
-/Users/darville/.rvm/gems/ruby-2.1.0@global/gems/listen-1.3.1/lib/listen/listener.rb:290:in `block in initialize_adapter'
-/Users/darville/.rvm/gems/ruby-2.1.0@global/gems/listen-1.3.1/lib/listen/adapter.rb:252:in `call'
-/Users/darville/.rvm/gems/ruby-2.1.0@global/gems/listen-1.3.1/lib/listen/adapter.rb:252:in `report_changes'
-/Users/darville/.rvm/gems/ruby-2.1.0@global/gems/listen-1.3.1/lib/listen/adapter.rb:321:in `poll_changed_directories'
-/Users/darville/.rvm/gems/ruby-2.1.0@global/gems/listen-1.3.1/lib/listen/adapter.rb:297:in `block in start_poller'
-*/
-body:before {
-  white-space: pre;
-  font-family: monospace;
-  content: "Syntax error: Undefined variable: \"$mobileNamehHSize\".\A         on line 27 of _responsive.scss, in `getVerticalRhythm'\A         from line 27 of _responsive.scss\A         from line 73 of style.scss\A \A 22: }\A 23: \A 24: #name {\A 25:     .box { padding: 0 5em; }\A 26: \A 27:     h1 {\A 28:         @include getVerticalRhythm($nameH1Size);\A 29:         font-family: \"Palatino Linotype\", $font;\A 30:     }\A 31: }\A 32: "; }
+/* Links
+   ========================================================================== */
+a {
+  background: transparent; }
+
+a:active,
+a:hover {
+  outline: 0; }
+
+/* Text-level semantics
+   ========================================================================== */
+abbr[title] {
+  border-bottom: 1px dotted; }
+
+b,
+strong {
+  font-weight: bold; }
+
+dfn {
+  font-style: italic; }
+
+h1 {
+  font-size: 2em;
+  margin: .67em 0; }
+
+mark {
+  background: #FF0;
+  color: #000; }
+
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
+
+sup {
+  top: -.5em; }
+
+sub {
+  bottom: -.25em; }
+
+/* Embedded content
+   ========================================================================== */
+img {
+  border: 0; }
+
+svg:not(:root) {
+  overflow: hidden; }
+
+/* Grouping content
+   ========================================================================== */
+hr {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0; }
+
+pre {
+  overflow: auto; }
+
+code,
+pre {
+  font-family: monospace, monospace;
+  font-size: 1em; }
+
+/* Forms
+   ========================================================================== */
+button,
+input,
+optgroup,
+select,
+textarea {
+  color: inherit;
+  font: inherit;
+  margin: 0; }
+
+button {
+  overflow: visible; }
+
+button,
+select {
+  text-transform: none; }
+
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button;
+  cursor: pointer; }
+
+button[disabled],
+html input[disabled] {
+  cursor: default; }
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0; }
+
+input {
+  line-height: normal; }
+
+input[type="checkbox"],
+input[type="radio"] {
+  box-sizing: border-box;
+  /* 1 */
+  padding: 0;
+  /* 2 */ }
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  height: auto; }
+
+input[type="search"] {
+  -webkit-appearance: textfield;
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box; }
+
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none; }
+
+fieldset {
+  border: 1px solid #C0C0C0;
+  margin: 0 2px;
+  padding: .35em .625em .75em; }
+
+legend {
+  border: 0;
+  padding: 0; }
+
+textarea {
+  overflow: auto; }
+
+optgroup {
+  font-weight: bold; }
+
+/* Tables
+   ========================================================================== */
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+td,
+th {
+  padding: 0; }
+
+/* Custom
+   ========================================================================== */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+  -webkit-padding-start: 0; }
+
+body {
+  font: 14px/21px Georgia, serif;
+  color: #555555; }
+
+a {
+  text-decoration: none;
+  color: #555555; }
+  a:visited {
+    color: black; }
+
+p a {
+  text-decoration: underline; }
+
+mark {
+  padding: 0 3px;
+  background-color: #FFA; }
+
+#container {
+  margin: 0 auto;
+  width: 600px; }
+
+#padder {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0; }
+
+.row {
+  width: 100%;
+  float: left;
+  clear: both; }
+  .row:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden; }
+
+.box {
+  width: 100%;
+  display: inline-block;
+  float: left;
+  padding: 2.5em;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+  .box:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden; }
+
+#site-navigation {
+  font-size: 1em;
+  text-align: right;
+  margin-top: 0 !important;
+  /** Margin and padding reset in WebKit */
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+  -webkit-padding-start: 0;
+  padding: 0; }
+  #site-navigation.box {
+    padding: .5em 2em; }
+  #site-navigation li {
+    display: inline-block; }
+    #site-navigation li a {
+      display: inline-block;
+      padding: 0 1em;
+      color: #555555; }
+      #site-navigation li a:visited {
+        color: #555555; }
+
+#name .box {
+  padding: 0 5em; }
+#name h1 {
+  font-size: 2.28571em;
+  margin-top: 0;
+  line-height: 0.65625em;
+  font-family: "Palatino Linotype", Georgia, serif; }
+
+#info h2,
+#posts h2 {
+  font-family: "Palatino Linotype", Georgia, serif; }
+
+#posts a {
+  color: #7f8ebc !important; }
+
+.post img.avatar {
+  width: 125px;
+  height: 125px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%; }
+.post h2 {
+  font-size: 1.71429em;
+  margin-top: 0;
+  line-height: 0.875em;
+  font-family: "Palatino Linotype", Georgia, serif; }
+.post .post-content a {
+  background-color: rgba(200, 200, 200, 0.7);
+  text-decoration: none !important; }
+
+#footer {
+  font-size: 0.85714em;
+  color: #000;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto; }
+  #footer a {
+    font-weight: bold;
+    color: #7f8ebc; }
+
+@media only screen and (max-device-width: 599px) {
+  body {
+    font-size: 10px;
+    line-height: 15px; }
+
+  #container {
+    width: 100%;
+    max-width: 450px; }
+
+  #site-navigation.box {
+    font-size: 1em;
+    font-weight: bold;
+    background-color: #F8F8F8;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    text-align: center; }
+    #site-navigation.box li a {
+      padding: 0 .75em; }
+
+  #name h1 {
+    font-size: 2.28571em;
+    margin-top: 0;
+    line-height: 0.65625em; }
+
+  #info.box {
+    float: left;
+    clear: both; } }
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  #site-navigation {
+    font-size: 0.71429em;
+    color: #000; }
+    #site-navigation a {
+      font-weight: bold; }
+
+  #name h1 {
+    font-size: 1.5em;
+    margin-top: 0;
+    line-height: 1em; } }

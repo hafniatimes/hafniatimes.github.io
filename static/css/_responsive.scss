@@ -24,7 +24,7 @@
             li a { padding: 0 .75em; }
         }
 
-        #name h1 { @include getVerticalRhythm($mobileNamehHSize); }
+        #name h1 { @include getVerticalRhythm($mobilenameH1Size); }
 
         #info.box {
             float: left;
