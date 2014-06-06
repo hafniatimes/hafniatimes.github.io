@@ -19,6 +19,28 @@
 
         <link rel="shortcut icon" href="/favicon.ico" />
         <link href="/feed.atom" rel="alternate" title="All English articles" type="application/atom+xml" />
+
+        <meta name="twitter:creator" content="@pessimism">
+    {% if page.title %}
+        <meta property="og:title" content="{{ page.title }}">
+    {% else %}
+        <meta property="og:title" content="{{ site.name }}">
+    {% endif %}
+    {% if page.excerpt %}
+        <meta property="og:description" content="{{ page.excerpt | markdownify | strip_html }}">
+    {% else %}
+        <meta property="og:description" content="{{ site.description }}.">
+    {% endif %}
+    {% if page.url %}
+        <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    {% endif %}
+    {% if page.image %}
+        <meta name="twitter:card" content="summary_large_image">
+        <meta property="og:image" content="{{ site.url }}/assets/{{ page.slug }}/image.png">
+    {% else %}
+        <meta name="twitter:card" content="summary">
+        <meta property="og:image" content="{{ site.url }}/identicon.png">
+    {% endif %}
     </head>
     <body>
         <div id="container">
