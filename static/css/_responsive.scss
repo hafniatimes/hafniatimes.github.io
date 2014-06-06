@@ -14,7 +14,7 @@
         }
 
         #site-navigation.box {
-            @include getFontSize(10px);
+            @include getFontSize($mobileNavigationSize);
             font-weight: bold;
             background-color: #F8F8F8;
             margin-top: 0 !important; //!

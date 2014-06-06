@@ -293,8 +293,7 @@ mark {
     max-width: 450px; }
 
   #site-navigation.box {
-    font-size: 0.71429em;
-    color: #000;
+    font-size: 1em;
     font-weight: bold;
     background-color: #F8F8F8;
     margin-top: 0 !important;
