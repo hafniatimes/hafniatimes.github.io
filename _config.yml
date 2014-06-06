@@ -93,13 +93,22 @@ prose:
                   element: checkbox
     ignore:
         - _config.yml
-        # - favicon.ico
-        # - CNAME
-        # - feed.atom
-        # - Gemfile
-        # - identicon.png
+        - .csslintrc
+        - .gitignore
+        - .htaccess
+        - .scss-lint.yml
+        - .travis.yml
+        - _favicon.ico
+        - CNAME
+        - favicon.ico
+        - feed.atom
+        - Gemfile
+        - identicon.png
+        - index.html
+        - LICENSE.md
+        - package.json
         - README.md
-        # - index.html
+        - WRITERS.md
         - /_layouts
         - /_includes
         - /404
