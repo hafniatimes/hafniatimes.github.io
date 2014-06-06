@@ -2,14 +2,11 @@
 
 #site-navigation {
     @include getFontSize($navigationSize);
-    font-weight: bold;
     text-align: right;
     margin-top: 0 !important; //!
     @include padding-fix;
 
-    &.box {
-        padding: .5em 2em;
-    }
+    &.box { padding: .5em 2em; }
 
     li {
         display: inline-block;
@@ -17,39 +14,30 @@
         a {
             display: inline-block;
             padding: 0 1em;
-            text-transform: uppercase;
             color: $black;
 
-            &:visited {
-                color: $black;
-            }
+            &:visited { color: $black; }
         }
     }
 }
 
 #name {
-    .box {
-        padding: 0 5em;
-    }
+    .box { padding: 0 5em; }
 
     h1 {
         @include getVerticalRhythm($nameH1Size);
-        line-height: 1em;
-    }
-
-    #header {
-        @include getVerticalRhythm($nameHeaderSize);
-        line-height: 1.25em;
+        font-family: "Palatino Linotype", $font;
     }
 }
 
-#company-info h2,
-#posts h2,
-#posts a {
-    color: $blue !important;
+#info h2,
+#posts h2 {
+    font-family: "Palatino Linotype", $font;
 }
 
-#post {
+#posts a { color: $blue !important; }
+
+.post {
     img.avatar {
         width: $avatarSize;
         height: $avatarSize;
@@ -60,8 +48,15 @@
         } // @else == square
     }
 
-    a {
+    h2 {
+        @include getVerticalRhythm($postTitleSize);
+        font-family: "Palatino Linotype", $font;
+
+    }
+
+    .post-content a {  //! Doesn't work
         background-color: rgba(200, 200, 200, .7);
+        text-decoration: none !important;
     }
 }
 
@@ -72,23 +67,6 @@
     a {
         font-weight: bold;
         color: $blue;
-    }
-}
-
-#content {
-    float: left;
-
-    #header {  //!
-        @include getVerticalRhythm($PageHeaderSize);
-    }
-
-    h1 {
-        @include getVerticalRhythm($pageH1Size);
-    }
-
-    a {
-        color: $blue;
-        font-weight: bold;
     }
 }
 

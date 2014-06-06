@@ -171,7 +171,7 @@ h6 {
   -webkit-padding-start: 0; }
 
 body {
-  font: 14px/21px Verdana, sans-serif;
+  font: 14px/21px Georgia, serif;
   color: #555555; }
 
 a {
@@ -189,7 +189,7 @@ mark {
 
 #container {
   margin: 0 auto;
-  width: 800px; }
+  width: 600px; }
 
 #padder {
   -webkit-box-sizing: border-box;
@@ -224,9 +224,7 @@ mark {
     visibility: hidden; }
 
 #site-navigation {
-  font-size: 0.85714em;
-  color: #000;
-  font-weight: bold;
+  font-size: 1em;
   text-align: right;
   margin-top: 0 !important;
   /** Margin and padding reset in WebKit */
@@ -241,7 +239,6 @@ mark {
     #site-navigation li a {
       display: inline-block;
       padding: 0 1em;
-      text-transform: uppercase;
       color: #555555; }
       #site-navigation li a:visited {
         color: #555555; }
@@ -252,26 +249,29 @@ mark {
   font-size: 2.28571em;
   margin-top: 0;
   line-height: 0.65625em;
-  line-height: 1em; }
-#name #header {
-  font-size: 1.71429em;
-  margin-top: 0;
-  line-height: 0.875em;
-  line-height: 1.25em; }
+  font-family: "Palatino Linotype", Georgia, serif; }
 
-#company-info h2,
-#posts h2,
+#info h2,
+#posts h2 {
+  font-family: "Palatino Linotype", Georgia, serif; }
+
 #posts a {
   color: #7f8ebc !important; }
 
-#post img.avatar {
+.post img.avatar {
   width: 125px;
   height: 125px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%; }
-#post a {
-  background-color: rgba(200, 200, 200, 0.7); }
+.post h2 {
+  font-size: 1.71429em;
+  margin-top: 0;
+  line-height: 0.875em;
+  font-family: "Palatino Linotype", Georgia, serif; }
+.post .post-content a {
+  background-color: rgba(200, 200, 200, 0.7);
+  text-decoration: none !important; }
 
 #footer {
   font-size: 0.85714em;
@@ -283,21 +283,7 @@ mark {
     font-weight: bold;
     color: #7f8ebc; }
 
-#content {
-  float: left; }
-  #content #header {
-    font-size: 1.28571em;
-    margin-top: 0;
-    line-height: 1.16667em; }
-  #content h1 {
-    font-size: 1.71429em;
-    margin-top: 0;
-    line-height: 0.875em; }
-  #content a {
-    color: #7f8ebc;
-    font-weight: bold; }
-
-@media only screen and (max-device-width: 600px) {
+@media only screen and (max-device-width: 599px) {
   body {
     font-size: 10px;
     line-height: 15px; }
