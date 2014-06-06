@@ -1,0 +1,42 @@
+name: "Hafnia Times"
+url:   http://hafniatimes.com
+ga:   "UA-XXXXXXXX-Y"
+
+github_hosted: true
+
+show_footer: false
+
+# Posts # # # # # #
+show_posts: true
+show_bylines: true
+limit_posts: 0
+# # # # # # # # # #
+
+# Markdown # # # # # # # # # # # # # # # # # # # #
+markdown: kramdown
+kramdown:
+    input: GFM
+redcarpet:
+    extensions: ["smart", "footnotes", "tables"]
+ # # # # # # # # # # # # # # # # # # # # # # # # #
+
+gems:
+    - jekyll-redirect-from
+    - jekyll-sitemap
+
+include: [".htaccess"]
+exclude:
+    - ".travis.yml"
+    - "Gemfile"
+    - "Gemfile.lock"
+    - "LICENSE.md"
+    - "README.md"
+    - "WRITERS.md"
+    - "npm-debug.log"
+    - "package.json"
+    - ".sass-cache"
+    - "node_modules"
+
+sass:
+    sass_dir: static/css/
+    style: :nested

@@ -1,0 +1,35 @@
+language: ruby
+
+rvm:
+  - 1.9.3
+
+env:
+  global:
+    - HTML_FOLDER="_site/"
+    - STYLE_FOLDER="static/css"
+    - CSS_FILES="static/css/style.css"
+    - CSS_EXCLUDES=""
+    - JS_FOLDER="static/js/"
+
+install:
+  - bundle install --quiet
+  - npm install htmlhint csslint jshint
+
+before_script:
+  - cat Gemfile.lock
+# - bundle outdated
+
+script:
+  - bundle exec jekyll build
+
+after_script:
+  - htmlhint $HTML_FOLDER
+  - bundle exec sass --check $STYLE_FOLDER/*.scss
+  - bundle exec scss-lint $STYLE_FOLDER/*.scss
+  - csslint $CSS_FILES --exclude-list=$CSS_EXCLUDES
+  - jshint $JS_FOLDER
+
+notifications:
+  email:
+    on_success: change
+    on_failure: always
