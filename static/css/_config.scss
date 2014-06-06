@@ -23,4 +23,5 @@ $footerSize:     12px;
 $postTitleSize: 24px;
 
 // Mobile
-$mobileNavigationSize: 14px;
+$mobileNavigationSize: $navigationSize;
+$mobilenameH1Size:     $nameH1Size;
