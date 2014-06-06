@@ -40,3 +40,67 @@ exclude:
 sass:
     sass_dir: static/css/
     style: :nested
+
+prose:
+    siteurl: "http://hafniatimes.com"
+    metadata:
+        _posts:
+            - name: layout
+              field:
+                  element: hidden
+                  value: post
+            - name: author
+              field:
+                  label: Author
+                  help: Use your GitHub username
+                  element: text
+                  value: ""
+            - name: title
+              field:
+                  label: Title
+                  element: text
+                  value: ""
+            - name: date
+              field:
+                  label: Date
+                  help: Use 24-hour notation
+                  placeholder: YYYY-MM-DD HH:MM:SS
+                  element: text
+                  value: ""
+            - name: excerpt
+              field:
+                  label: Excerpt/Description/Summary
+                  help: Used for the Twitter Card summary
+                  placeholder: Use 200 characters at most.
+                  element: text
+                  value: ""
+            - name: slug
+              field:
+                  label: URL Slug
+                  element: text
+                  value: ""
+                  alterable: true
+            - name: categories
+              field:
+                  label: Categories
+                  element: hidden
+                  value: article
+            - name: updated
+              field:
+                  label: Updated
+                  help: Has the article been edited since its publication?
+                  value: false
+                  element: checkbox
+    ignore:
+        - _config.yml
+        # - favicon.ico
+        # - CNAME
+        # - feed.atom
+        # - Gemfile
+        # - identicon.png
+        - README.md
+        # - index.html
+        - /_layouts
+        - /_includes
+        - /404
+        - /static
