@@ -20,10 +20,6 @@ redcarpet:
     extensions: ["smart", "footnotes", "tables"]
  # # # # # # # # # # # # # # # # # # # # # # # # #
 
-gems:
-    - jekyll-redirect-from
-    - jekyll-sitemap
-
 include: [".htaccess"]
 exclude:
     - ".travis.yml"
