@@ -259,25 +259,6 @@ mark {
   line-height: 0.875em;
   line-height: 1.25em; }
 
-#intro .box {
-  padding: 0; }
-  #intro .box .embed-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    padding-top: 30px;
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-    height: auto; }
-    #intro .box .embed-container iframe,
-    #intro .box .embed-container object,
-    #intro .box .embed-container embed {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%; }
-
 #company-info h2,
 #posts h2,
 #posts a {
