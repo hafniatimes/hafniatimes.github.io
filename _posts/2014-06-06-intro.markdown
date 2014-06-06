@@ -1,0 +1,15 @@
+---
+layout: post
+title: "A Humble Experiment"
+author: ndarville
+date: 2014-06-06 20:00:00
+excerpt: A brief introduction to Hafnia Times.
+slug: intro
+categories: articles
+---
+This is part of a small experiment of mine in how to create a digital-only, collaborative "publication" using only the technical tools of [GitHub](https://github.com), [Jekyll](http://jekyllrb.com), [Prose.io](http://prose.io).
+
+The gravitational point will be Denmark, but like the <i>Washington Post</i> and the <i>New York Times</i>, <i>Hafnia Times</i>[^hafnia] will be internationally oriented with a solid geographic base.
+
+
+[^hafnia]: "Hafnia" being Latin for Copenhagen.
