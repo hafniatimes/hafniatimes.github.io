@@ -30,6 +30,13 @@
             float: left;
             clear: both;
         }
+
+        .post {
+            img.avatar {
+                width: $avatarSizeMobile;
+                height: $avatarSizeMobile;
+            }
+        }
     }
 
     // iPhone 5+
