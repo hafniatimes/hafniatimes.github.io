@@ -186,13 +186,13 @@ mark {
 
 #container {
   margin: 0 auto;
-  width: 650px; }
+  width: 690px; }
 
 #padder {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  margin: 0; }
+  margin: 0 0; }
 
 .row {
   width: 100%;
