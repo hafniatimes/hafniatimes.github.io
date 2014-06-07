@@ -20,7 +20,15 @@
         <link rel="shortcut icon" href="/favicon.ico" />
         <link href="/feed.atom" rel="alternate" title="All English articles" type="application/atom+xml" />
 
+    {% if page.author %}
+        {% if site.data.people[page.author].twitter %}
+            <meta name="twitter:creator" content="@site.data.people[page.author].twitter">
+        {% else %}
+            <meta name="twitter:creator" content="@HafniaTimes">
+        {% endif %}
+    {% else %}
         <meta name="twitter:creator" content="@pessimism">
+    {% endif }
     {% if page.title %}
         <meta property="og:title" content="{{ page.title }}">
     {% else %}
