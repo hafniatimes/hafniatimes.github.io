@@ -22,15 +22,12 @@
     }
 }
 
-#name {
-    .box { padding: 0 5em; }
-
-    h1 {
-        @include getVerticalRhythm($nameH1Size);
-        font-family: "Palatino Linotype", $font;
-    }
+#name h1 {
+    @include getVerticalRhythm($nameH1Size);
+    text-align: center;
 }
 
+h1,
 h2 {
     font-family: "Palatino Linotype", $font;
 }

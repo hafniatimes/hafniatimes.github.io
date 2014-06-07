@@ -3,10 +3,10 @@ $font: Georgia, serif;
 $blue:  #7F8EBC;
 $black: #555;
 
-$containerWidth: 700px;
+$containerWidth: 650px;
 $mobileWidth:    600px;
 
-$boxPadding: 2.5em;
+$boxPadding: 2.5em 0;
 $padding:    20px;
 
 $fontSize:   16px;
@@ -18,7 +18,7 @@ $avatarShape: "circle";  // "rounded"
 
 // Desktop
 $navigationSize: 16px;
-$nameH1Size:     32px;
+$nameH1Size:     48px;
 $footerSize:     12px;
 
 $postTitleSize:  24px;

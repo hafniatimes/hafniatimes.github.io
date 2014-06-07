@@ -186,7 +186,7 @@ mark {
 
 #container {
   margin: 0 auto;
-  width: 700px; }
+  width: 650px; }
 
 #padder {
   -webkit-box-sizing: border-box;
@@ -209,7 +209,7 @@ mark {
   width: 100%;
   display: inline-block;
   float: left;
-  padding: 2.5em;
+  padding: 2.5em 0;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
@@ -241,14 +241,13 @@ mark {
       #site-navigation li a:visited {
         color: #555555; }
 
-#name .box {
-  padding: 0 5em; }
 #name h1 {
-  font-size: 2em;
+  font-size: 3em;
   margin-top: 0;
-  line-height: 0.75em;
-  font-family: "Palatino Linotype", Georgia, serif; }
+  line-height: 0.5em;
+  text-align: center; }
 
+h1,
 h2 {
   font-family: "Palatino Linotype", Georgia, serif; }
 
@@ -320,9 +319,9 @@ h2 {
       padding: 0 .75em; }
 
   #name h1 {
-    font-size: 2em;
+    font-size: 3em;
     margin-top: 0;
-    line-height: 0.75em; }
+    line-height: 0.5em; }
 
   #info.box {
     float: left;
