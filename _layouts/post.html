@@ -5,7 +5,7 @@ layout: default
     <div class="post box">
             <h2>{{ page.title }}</h2>
             <div class="date">
-                <time datetime="{{ page.date }}" is="time-ago" title="{{ page.date }}">{{ page.date | date_to_string }}</time>
+                <time datetime="{{ page.date }}" is="time-ago" title="{{ page.date }}">{{ page.date | date: "%B %-d" }}</time>
             </div>
             {% if site.show_bylines == true %}
                 {% if site.github_hosted == true %}
