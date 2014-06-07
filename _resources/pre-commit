@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+# Build site before committing
+cd $(git rev-parse --git-dir) && cd .. && bundle exec scss-lint static/css/*.scss && bundle exec jekyll build
