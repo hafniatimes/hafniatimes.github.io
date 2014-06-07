@@ -1,4 +1,10 @@
 #!/usr/bin/env bash
 
-# Build site before committing
-cd $(git rev-parse --git-dir) && cd .. && bundle exec scss-lint static/css/*.scss && bundle exec jekyll build
+# Go to root
+cd $(git rev-parse --git-dir) && cd ..
+
+# Validate SCSS
+bundle exec scss-lint static/css/*.scss
+
+# Build Jekyll site
+bundle exec jekyll build
