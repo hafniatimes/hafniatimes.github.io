@@ -6,12 +6,15 @@ date: 2014-06-06 20:00:00
 excerpt: A brief introduction to Hafnia Times.
 slug: intro
 categories: articles
+updated: true
 ---
 This is part of a small experiment of mine in how to create a digital-only, collaborative "publication" using only the technical tools of [GitHub](https://github.com), [Jekyll](http://jekyllrb.com), [Prose.io](http://prose.io).
 
 The gravitational point will be Denmark, but like the <i>Washington Post</i> and the <i>New York Times</i>, <i>Hafnia Times</i>[^hafnia] will be internationally oriented with a solid geographic base.
 
 My aspiration is to bring a, shall we say, more factual voice to the Danish political conversation with little to no "commentary" and Smart Takes. The [open](https://github.com/hafniatimes/hafniatimes.github.io) nature will support and transparency and sharing of open data that is sorely missed today.
+
+For instance, the box at the start of this article will tell you that this article has been edited since publication, and that you can the entire edit history [here](https://github.com/hafniatimes/hafniatimes.github.io/commits/master/_posts/2014-06-06-intro.markdown). You can also get a glimpse of how this article was written by visiting its [raw source code](https://raw.githubusercontent.com/hafniatimes/hafniatimes.github.io/master/_posts/2014-06-06-intro.markdown).
 
 
 [^hafnia]: "Hafnia" being Latin for Copenhagen.

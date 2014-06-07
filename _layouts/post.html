@@ -20,9 +20,9 @@ layout: default
                     By {{ site.data.people[page.author].name }}
                 </div>
             {% endif %}
-            {% if page.updated == true %} <!-- Doesn't work? -->
-                <div class="updated">
-                    This post has been updated since it was first published. To view all the changes, visit <a href="{{ site.github.repository_url }}/commits/master/{{ page.path }}">GitHub</a>
+            {% if page.updated == true %}
+                <div class="updated box">
+                    This post has been updated, since it was first published. View all changes <a href="{{ site.repo }}/commits/master/{{ page.path }}">here</a>.
                 </div>
             {% endif %}
 

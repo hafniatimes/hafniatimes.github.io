@@ -290,13 +290,26 @@ h2 {
   margin-top: 0;
   line-height: 1em;
   font-family: "Palatino Linotype", Georgia, serif; }
-.post .post-content a,
-.post .post-content a:visited,
-.post .post-content a:active {
-  color: #555555;
-  background-color: rgba(200, 200, 200, 0.7);
-  text-decoration: none;
+.post .updated.box {
+  font-size: 0.875em;
+  margin-top: 0;
+  line-height: 1.71429em;
+  background-color: beige;
+  border: 1px solid steelblue;
+  padding: .75em;
+  float: none;
+  margin: 20px auto;
+  display: block;
+  width: 85%;
+  text-align: center; }
+  .post .updated.box a, .post .updated.box:active, .post .updated.box:visited {
+    color: #555555; }
+.post .post-content a {
   padding: 0 3px; }
+  .post .post-content a, .post .post-content a:active, .post .post-content a:visited {
+    color: #555555;
+    background-color: rgba(200, 200, 200, 0.7);
+    text-decoration: none; }
 
 #footer {
   font-size: 0.75em;
