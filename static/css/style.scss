@@ -59,6 +59,9 @@ h2 {
         } // @else == square
         @include center;
         display: block;
+        // Add circle around avatar
+        border: 1px solid beige;
+        padding: 5px;
     }
 
     .byline {

@@ -277,7 +277,9 @@ h2 {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  display: block; }
+  display: block;
+  border: 1px solid beige;
+  padding: 5px; }
 .post .byline {
   font-size: 0.875em;
   margin-top: 0;
