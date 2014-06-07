@@ -263,6 +263,8 @@ h2 {
   #articles ul li {
     list-style: none; }
 
+.post .date {
+  font-variant: small-caps; }
 .post img.avatar,
 .post .byline {
   text-align: center; }
