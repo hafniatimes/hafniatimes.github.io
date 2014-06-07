@@ -41,7 +41,6 @@
     img.avatar,
     .byline {
         text-align: center;
-        font-weight: bold;
     }
 
     img.avatar {
@@ -54,6 +53,13 @@
         } // @else == square
         @include center;
         display: block;
+    }
+
+    .byline {
+        @include getVerticalRhythm($postBylineSize);
+        font-variant: small-caps;
+        font-weight: normal;
+        font-size: 16px;
     }
 
     h2 {

@@ -171,7 +171,7 @@ h6 {
   -webkit-padding-start: 0; }
 
 body {
-  font: 14px/21px Georgia, serif;
+  font: 16px/24px Georgia, serif;
   color: #555555; }
 
 a {
@@ -189,7 +189,7 @@ mark {
 
 #container {
   margin: 0 auto;
-  width: 600px; }
+  width: 700px; }
 
 #padder {
   -webkit-box-sizing: border-box;
@@ -246,9 +246,9 @@ mark {
 #name .box {
   padding: 0 5em; }
 #name h1 {
-  font-size: 2.28571em;
+  font-size: 2em;
   margin-top: 0;
-  line-height: 0.65625em;
+  line-height: 0.75em;
   font-family: "Palatino Linotype", Georgia, serif; }
 
 #info h2,
@@ -260,8 +260,7 @@ mark {
 
 .post img.avatar,
 .post .byline {
-  text-align: center;
-  font-weight: bold; }
+  text-align: center; }
 .post img.avatar {
   width: 125px;
   height: 125px;
@@ -272,17 +271,24 @@ mark {
   margin-left: auto;
   margin-right: auto;
   display: block; }
-.post h2 {
-  font-size: 1.71429em;
+.post .byline {
+  font-size: 0.875em;
   margin-top: 0;
-  line-height: 0.875em;
+  line-height: 1.71429em;
+  font-variant: small-caps;
+  font-weight: normal;
+  font-size: 16px; }
+.post h2 {
+  font-size: 1.5em;
+  margin-top: 0;
+  line-height: 1em;
   font-family: "Palatino Linotype", Georgia, serif; }
 .post .post-content a {
   background-color: rgba(200, 200, 200, 0.7);
   text-decoration: none !important; }
 
 #footer {
-  font-size: 0.85714em;
+  font-size: 0.75em;
   color: #000;
   text-align: center;
   margin-left: auto;
@@ -291,7 +297,7 @@ mark {
     font-weight: bold;
     color: #7f8ebc; }
 
-@media only screen and (max-device-width: 599px) {
+@media only screen and (max-device-width: 600px) {
   body {
     font-size: 10px;
     line-height: 15px; }
@@ -311,9 +317,9 @@ mark {
       padding: 0 .75em; }
 
   #name h1 {
-    font-size: 2.28571em;
+    font-size: 2em;
     margin-top: 0;
-    line-height: 0.65625em; }
+    line-height: 0.75em; }
 
   #info.box {
     float: left;
@@ -324,12 +330,12 @@ mark {
     height: 75px; } }
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
   #site-navigation {
-    font-size: 0.71429em;
+    font-size: 0.625em;
     color: #000; }
     #site-navigation a {
       font-weight: bold; }
 
   #name h1 {
-    font-size: 1.5em;
+    font-size: 1.3125em;
     margin-top: 0;
-    line-height: 1em; } }
+    line-height: 1.14286em; } }

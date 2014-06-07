@@ -3,13 +3,13 @@ $font: Georgia, serif;
 $blue:  #7F8EBC;
 $black: #555;
 
-$containerWidth: 600px;
-$mobileWidth:    599px;
+$containerWidth: 700px;
+$mobileWidth:    600px;
 
 $boxPadding: 2.5em;
 $padding:    20px;
 
-$fontSize:   14px;
+$fontSize:   16px;
 $lineHeight: 1.5 * $fontSize; // 21px
 
 $avatarSize:       125px;
@@ -17,11 +17,12 @@ $avatarSizeMobile:  75px;
 $avatarShape: "circle";  // "rounded"
 
 // Desktop
-$navigationSize: 14px;
+$navigationSize: 16px;
 $nameH1Size:     32px;
 $footerSize:     12px;
 
-$postTitleSize: 24px;
+$postTitleSize:  24px;
+$postBylineSize: 14px;
 
 // Mobile
 $mobileNavigationSize: $navigationSize;
