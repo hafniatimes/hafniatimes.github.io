@@ -170,6 +170,12 @@ h6 {
   -webkit-margin-after: 0;
   -webkit-padding-start: 0; }
 
+ol,
+ul {
+  -webkit-padding-start: 0;
+  margin-left: 0;
+  margin-right: 0; }
+
 body {
   font: 16px/24px Georgia, serif;
   color: #555555; }
