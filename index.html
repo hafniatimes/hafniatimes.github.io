@@ -9,7 +9,7 @@ title:  "Hafnia Times"
 </div>
 
 <div class="row">
-    <div class="box" id="company-info" role="section">
+    <div class="box" id="info" role="section">
         <h2>Who We Are</h2>
 
         <p>{{ site.description }}</p>
@@ -17,9 +17,9 @@ title:  "Hafnia Times"
 </div>
 
 {% if site.show_posts == true %}
-    <div class="row" id="posts">
-        <div class="box" role="section">
-            <h2>Posts</h2>
+    <div class="row">
+        <div id="articles" class="box" role="section">
+            <h2>Articles</h2>
 
             <ul>
             {% for post in site.posts %}

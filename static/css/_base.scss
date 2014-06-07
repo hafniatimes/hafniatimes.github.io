@@ -3,19 +3,6 @@ body {
     color: $black;
 }
 
-a {
-    text-decoration: none;
-    color: $black;
-
-    &:visited {
-        color: black;
-    }
-}
-
-p a {
-    text-decoration: underline;
-}
-
 mark {
     padding: 0 3px;
     background-color: #FFA;

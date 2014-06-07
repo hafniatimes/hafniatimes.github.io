@@ -14,6 +14,7 @@
         a {
             display: inline-block;
             padding: 0 1em;
+            text-decoration: none;
             color: $black;
 
             &:visited { color: $black; }
@@ -30,12 +31,14 @@
     }
 }
 
-#info h2,
-#posts h2 {
+h2 {
     font-family: "Palatino Linotype", $font;
 }
 
-#posts a { color: $blue !important; }
+#articles {
+    h2 { text-align: center; }
+    a  { color: $blue !important; }
+}
 
 .post {
     img.avatar,
@@ -68,9 +71,13 @@
 
     }
 
-    .post-content a {  //! Doesn't work
+    .post-content a,
+    .post-content a:visited,
+    .post-content a:active {
+        color: $black;
         background-color: rgba(200, 200, 200, .7);
-        text-decoration: none !important;
+        text-decoration: none;
+        padding: 0 3px;
     }
 }
 

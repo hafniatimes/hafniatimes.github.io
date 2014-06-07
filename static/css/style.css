@@ -180,15 +180,6 @@ body {
   font: 16px/24px Georgia, serif;
   color: #555555; }
 
-a {
-  text-decoration: none;
-  color: #555555; }
-  a:visited {
-    color: black; }
-
-p a {
-  text-decoration: underline; }
-
 mark {
   padding: 0 3px;
   background-color: #FFA; }
@@ -245,6 +236,7 @@ mark {
     #site-navigation li a {
       display: inline-block;
       padding: 0 1em;
+      text-decoration: none;
       color: #555555; }
       #site-navigation li a:visited {
         color: #555555; }
@@ -257,11 +249,12 @@ mark {
   line-height: 0.75em;
   font-family: "Palatino Linotype", Georgia, serif; }
 
-#info h2,
-#posts h2 {
+h2 {
   font-family: "Palatino Linotype", Georgia, serif; }
 
-#posts a {
+#articles h2 {
+  text-align: center; }
+#articles a {
   color: #7f8ebc !important; }
 
 .post img.avatar,
@@ -289,9 +282,13 @@ mark {
   margin-top: 0;
   line-height: 1em;
   font-family: "Palatino Linotype", Georgia, serif; }
-.post .post-content a {
+.post .post-content a,
+.post .post-content a:visited,
+.post .post-content a:active {
+  color: #555555;
   background-color: rgba(200, 200, 200, 0.7);
-  text-decoration: none !important; }
+  text-decoration: none;
+  padding: 0 3px; }
 
 #footer {
   font-size: 0.75em;
