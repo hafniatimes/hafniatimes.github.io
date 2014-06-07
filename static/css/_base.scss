@@ -10,20 +10,17 @@ mark {
 
 #container {
     margin: 0 auto;
-    @if $boxPaddingHor != 0 {
-        width: $containerWidth;
-    } @else {
-        width: $containerWidth + 2*$padding;
-    }
+    @include box-sizing;
+    @if $boxPaddingHor != 0 { width: $containerWidth; }
+    @else { width: $containerWidth + 2*$padding; }
 }
 
 #padder {
     @include box-sizing;
-    @if $boxPaddingHor != 0 {
-        margin: 0;
-    } @else {
-        margin: 0 $boxPaddingHor;
-    }
+    //! Temporary hotfix
+    // @if $boxPaddingHor != 0 { margin: 0; }
+    // @else { margin: 0 $boxPaddingHor; }
+    margin: 0 $padding;
 }
 
 .row {
