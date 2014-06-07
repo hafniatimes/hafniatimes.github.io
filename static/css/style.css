@@ -258,6 +258,10 @@ h2 {
   text-align: center; }
 #articles a {
   color: #7f8ebc !important; }
+#articles ul {
+  text-align: center; }
+  #articles ul li {
+    list-style: none; }
 
 .post img.avatar,
 .post .byline {

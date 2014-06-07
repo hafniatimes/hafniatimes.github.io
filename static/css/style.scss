@@ -35,6 +35,10 @@ h2 {
 #articles {
     h2 { text-align: center; }
     a  { color: $blue !important; }
+    ul {
+        text-align: center;
+        li { list-style: none; }
+    }
 }
 
 .post {
