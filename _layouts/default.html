@@ -12,10 +12,11 @@
     {% assign page_title = site.name %}
 {% endif %}
 
-{% comment %}
-    - [ ] Add support for localized "/" URL
-    - [ ] Add support for multilpe Atom feeds
-{% endcomment %}
+{% if page_language != "en" %}
+    {% assign base_relative = "/" | append: page.lang | append: "/" %}
+{% else %}
+    {% assign base_relative = "/" %}
+{% endif %}
 
 <!DOCTYPE html>
 <html lang="{{ page_language }}">
@@ -29,7 +30,9 @@
         <link href="/static/css/print.css" rel="stylesheet" type="text/css" media="print" />
 
         <!-- <link rel="shortcut icon" href="/favicon.ico" /> -->
-        <link href="/feed.atom" rel="alternate" title="All English articles" type="application/atom+xml" />
+    {% for l in site.languages %}
+        <link href="{% if l.value != "en" %}/{{ l.value }}{% endif %}/feed.atom" rel="alternate" title="{{ site.translations._atom[l.value] }}" type="application/atom+xml" />
+    {% endfor %}
 
     {% if page.author %}
         {% if site.data.people[page.author].twitter %}
@@ -66,7 +69,7 @@
 
             <div class="row" id="name" role="banner">
                 <div class="box">
-                    <h1><a href="/">{{ site.name }}</a></h1>
+                    <h1><a href="{{ base_relative }}">{{ site.name }}</a></h1>
                 </div>
             </div>
 

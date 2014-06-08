@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Et Ydmygt Eksperiment"
+author: ndarville
+date: 2014-06-06 20:00:00
+excerpt: En kort introduktion til Hafnia Times.
+slug: intro
+lang: da
+categories:
+    - da
+    - articles
+updated: true
+---
+Dette er en del af et lille eksperiment, der går ud på at skabe en kollaborativ "publikation", der kun er digital, udelukkende ved brug de tekniske værktøjer [GitHub](https://github.com), [Jekyll](http://jekyllrb.com), [Prose.io](http://prose.io).
+
+Omdrejningspunktet for siden er Danmark, men ligesom <i>Washington Post</i> og <i>New York Times</i> er <i>Hafnia Times</i>[^hafnia] international, men med en solid geografisk base.
+
+Min forhåbning er at bibringe den politiske debat et, lad os det et mere faktuelt islæt uden alle for mange kommentatorer og "erfaringer". Sidens [åbne stil](https://github.com/hafniatimes/hafniatimes.github.io) vil støtte en gennemsigtighed og deling af åbne data og metodikker, hvilket er stærkt tiltrængt i dag.
+
+For eksempel vil kassen i begyndelsen af denne artikel fortælle dig, at artiklen er blevet redigeret siden udgivelsen, og at du kan se hele redigeringshistorikken [hér](https://github.com/hafniatimes/hafniatimes.github.io/commits/master/_posts/2014-06-06-intro.markdown). Du kan også få et indblik i, hvordan artiklen er blevet skrevet, ved at inspicere dens [rå kildekode](https://raw.githubusercontent.com/hafniatimes/hafniatimes.github.io/master/_posts/2014-06-06-intro.markdown)
+
+
+[^hafnia]: "Hafnia" er latinsk for København.

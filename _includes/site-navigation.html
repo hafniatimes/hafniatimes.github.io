@@ -1,5 +1,5 @@
 <ul id="site-navigation" class="box" role="navigation">
-    <li><a href="/">{{ t.navigation[page_language].home }}</a></li>
+    <li><a href="{{ base_relative }}">{{ t.navigation[page_language].home }}</a></li>
     <li><a href="{{ site.repo }}">{{ t.navigation[page_language].code }}</a></li>
-    <li><a href="/feed.atom">{{ t.navigation[page_language].feed }}</a></li>
+    <li><a href="{{ base_relative }}feed.atom">{{ t.navigation[page_language].feed }}</a></li>
 </ul>

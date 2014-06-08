@@ -40,6 +40,32 @@ sass:
     style: :nested
 
 translations:
+    _atom:
+        da: "Alle danske artikler"
+        en: "All English articles"
+    _dates:
+        da:
+            months:
+                jan:  "Januar"
+                feb:  "Februar"
+                mar:  "Marts"
+                apr:  "April"
+                may:  "Maj"
+                jun:  "Juni"
+                jul:  "Juli"
+                aug:  "August"
+                sep:  "September"
+                oct: "Oktober"
+                nov: "November"
+                dec: "December"
+            weekdays:
+                mon: "Mandag"
+                tue: "Tirsdag"
+                wed: "Onsdag"
+                thu: "Torsdag"
+                fri: "Fredag"
+                sat: "Lørdag"
+                sun: "Søndag"
     navigation:
         da:
             code: "Kildekode"

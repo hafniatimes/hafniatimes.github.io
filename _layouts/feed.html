@@ -3,20 +3,26 @@ layout: none
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-{% assign base = site.url %}
+    {% if page.lang != "en" %}
+        {% assign base = site.url | append: "/" | append: page.lang %}
+    {% else %}
+        {% assign base = site.url %}
+    {% endif %}
     <title>{{ site.name }}</title>
     <link href="{{ base }}/feed.atom" rel="self"/>
     <link href="{{ base }}/"/>
     <updated>{{ site.time | date_to_xmlschema }}</updated>
     <id>{{ base }}/</id>
 
-    {% for post in site.posts %}
+{% for post in site.posts %}
+    {% if post.lang == page.lang %}
     <entry>
         <title>{{ post.title | xml_escape }}</title>
-        <link href="{{ base }}{{ post.url }}"/>
+        <link href="{{ site.url }}{{ post.url }}"/>
         <updated>{{ post.date | date_to_xmlschema }}</updated>
-        <id>{{ base }}{{ post.id }}</id>
+        <id>{{ site.url }}{{ post.id }}</id>
         <content type="html">{{ post.content | xml_escape }}</content>
     </entry>
-    {% endfor %}
+    {% endif %}
+{% endfor %}
 </feed>
