@@ -163,14 +163,14 @@ prose:
                   help: Has the article been edited since its publication?
                   value: false
                   element: checkbox
-        _posts/da:
-            - name: categories
-              field:
-                  label: Categories
-                  element: hidden
-                  value:
-                      - da
-                      - article
+        # _posts/da:
+        #     - name: categories
+        #       field:
+        #           label: Categories
+        #           element: hidden
+        #           value:
+        #               - da
+        #               - article
     ignore:
         - _config.yml
         - .csslintrc
