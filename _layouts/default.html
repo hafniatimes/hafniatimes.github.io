@@ -1,9 +1,7 @@
+{% if page.lang %}{% assign lang = page.lang %}{% else %}{% assign lang = "en" %}{% endif %}
+
 <!DOCTYPE html>
-{% if page.lang %}
-<html lang="{{ page.lang }}">
-{% else %}
-<html lang="en">
-{% endif %}
+<html lang="{{ lang }}">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
