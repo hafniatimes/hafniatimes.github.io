@@ -25,6 +25,13 @@
 #name h1 {
     @include getVerticalRhythm($nameH1Size);
     text-align: center;
+
+    a,
+    &:active,
+    &:visited {
+        color: $black;
+        text-decoration: none;
+    }
 }
 
 h1,

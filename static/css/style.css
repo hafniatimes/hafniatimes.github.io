@@ -249,6 +249,9 @@ mark {
   margin-top: 0;
   line-height: 0.5em;
   text-align: center; }
+  #name h1 a, #name h1:active, #name h1:visited {
+    color: #555555;
+    text-decoration: none; }
 
 h1,
 h2 {
