@@ -31,8 +31,23 @@
 
         <!-- <link rel="shortcut icon" href="/favicon.ico" /> -->
     {% for l in site.languages %}
-        <link href="{% if l.value != "en" %}/{{ l.value }}{% endif %}/feed.atom" rel="alternate" title="{{ site.translations._atom[l.value] }}" type="application/atom+xml" />
+        <link
+            href="{% if l.value != "en" %}/{{ l.value }}{% endif %}/feed.atom"
+            rel="alternate"
+            title="{{ site.translations._atom[l.value] }}"
+            type="application/atom+xml"
+        />
     {% endfor %}
+
+    {% if page.section == "frontpage" or page.translations == true %}
+        {% for l in site.languages %}
+            <link
+                rel="alternate"
+                hreflang="{{ l.value }}"
+                href="{% if l.value != "en" %}/{{ l.value}}{% endif %}{{ page.url }}"
+            />
+        {% endfor %}
+    {% endif %}
 
     {% if page.author %}
         {% if site.data.people[page.author].twitter %}

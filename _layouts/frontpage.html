@@ -1,6 +1,8 @@
 ---
 layout: default
+section: frontpage
 ---
+{% comment %}Do something better than page.section==frontpage for default.html{% endcomment %}
 {% assign u = site.translations.frontpage[page.lang] %} {% comment %}Refactor `.frontpage` to [page.layout]{% endcomment %}
 
 <div class="row">
