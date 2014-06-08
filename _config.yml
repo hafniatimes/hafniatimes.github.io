@@ -191,5 +191,7 @@ prose:
         - WRITERS.md
         - /_layouts
         - /_includes
+        - /_resources
         - /404
+        - /da
         - /static
