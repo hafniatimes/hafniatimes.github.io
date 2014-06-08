@@ -116,6 +116,10 @@ h2 {
             background-color: rgba(215, 215, 215, .7);
             text-decoration: none;
         }
+
+        &:hover {
+            background-color: orange;
+        }
     }
 }
 

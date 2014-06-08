@@ -315,6 +315,8 @@ h2 {
     color: #555555;
     background-color: rgba(215, 215, 215, 0.7);
     text-decoration: none; }
+  .post .post-content a:hover {
+    background-color: orange; }
 
 #footer {
   font-size: 0.75em;
