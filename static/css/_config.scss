@@ -13,6 +13,9 @@ $padding:        20px;
 $fontSize:   16px;
 $lineHeight: 1.5 * $fontSize; // 21px
 
+$mobileFontSize:   10px; //!
+$mobileLineHeight: $mobileFontSize*1.5;
+
 $avatarSize:       125px;
 $avatarSizeMobile:  75px;
 $avatarShape: "circle";  // "rounded"
