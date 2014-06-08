@@ -1,16 +1,22 @@
-{% if page.lang %}{% assign lang = page.lang %}{% else %}{% assign lang = "en" %}{% endif %}
+{% if page.lang %}
+    {% assign page_language = page.lang %}
+{% else %}
+    {% assign page_language = "en" %}
+{% endif %}
+
+{% if page.title %}
+    {% assign page_title = page.title %}
+{% else %}
+    {% assign page_title = site.name %}
+{% endif %}
 
 <!DOCTYPE html>
-<html lang="{{ lang }}">
+<html lang="{{ page_language }}">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-    {% if page.title %}
-        <title>{{ page.title }}</title>
-    {% else %}
-        <title>{{ site.name }}</title>
-    {% endif %}
+        <title>{{ page_title }}</title>
         <link rel="canonical" href="{{ page.url }}" />
         <link href="/static/css/style.css" rel="stylesheet" type="text/css" />
         <link href="/static/css/print.css" rel="stylesheet" type="text/css" media="print" />
@@ -27,11 +33,7 @@
     {% else %}
         <meta name="twitter:creator" content="@pessimism">
     {% endif %}
-    {% if page.title %}
-        <meta property="og:title" content="{{ page.title }}">
-    {% else %}
-        <meta property="og:title" content="{{ site.name }}">
-    {% endif %}
+        <meta property="og:title" content="{{ page_title }}">
     {% if page.excerpt %}
         <meta property="og:description" content="{{ page.excerpt | markdownify | strip_html }}">
     {% else %}
