@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+{% if page.guest == true %}
+    {% assign author_name = page.author %}
+{% else %}
+    {% assign author_name = site.data.people[page.author].name %}
+{% endif %}
 <div class="row">
     <div class="post box">
             <h2>{{ page.title }}</h2>
@@ -11,13 +16,13 @@ layout: default
                 {% if site.github_hosted == true %}
                     <img
                         class="avatar"
-                        src="https://github.com/{{ page.author }}.png"
-                        alt="{{ site.data.people[page.author].name }}"
-                        title="{{ site.data.people[page.author].name }}"
+                        src="{% if page.guest == true %}/identicon.png{% else %}https://github.com/{{ page.author }}.png{% endif %}"
+                        alt="{{ author_name }}"
+                        title="{{ author_name }}"
                     />
                 {% endif %}
                 <div class="byline">
-                    By {{ site.data.people[page.author].name }}
+                    By {{ author_name }}
                 </div>
             {% endif %}
             {% if page.updated == true %}

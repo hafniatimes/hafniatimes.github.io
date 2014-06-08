@@ -53,6 +53,12 @@ prose:
                   help: Use your GitHub username
                   element: text
                   value: ""
+            - name: Guest
+              field:
+                  label: Guest
+                  help: Is the author a guest contributor with no GitHub account?
+                  value: false
+                  element: checkbox
             - name: title
               field:
                   label: Title
@@ -69,7 +75,7 @@ prose:
               field:
                   label: Excerpt/Description/Summary
                   help: Used for the Twitter Card summary
-                  placeholder: Use 200 characters at most.
+                  placeholder: Use 200 characters at most
                   element: text
                   value: ""
             - name: slug
