@@ -5,6 +5,7 @@ author: ndarville
 date: 2014-06-06 20:00:00
 excerpt: A brief introduction to Hafnia Times.
 slug: intro
+lang: en
 categories: articles
 updated: true
 ---

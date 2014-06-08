@@ -39,6 +39,31 @@ sass:
     sass_dir: static/css/
     style: :nested
 
+translations:
+    navigation:
+        da:
+            code: "Kildekode"
+            feed: "RSS"
+            home: "Forside"
+        en:
+            code: "Code"
+            feed: "Feed"
+            home: "Home"
+    frontpage:
+        da:
+            articles: "Artikler"
+            description: "En dansk udgivelse på engelsk, som advokerer for åben data og gennemsigtighed i teknologi og politik."
+            who: "Hvem Vi Er"
+        en:
+            articles: "Articles"
+            description: "A Danish publication in English promoting open data and transparency in tech and politics."
+            who: "Who We Are"
+
+languages: &languages
+    - name:  "English"
+      value: "en"
+    - name:  "Dansk"
+      value: "da"
 prose:
     siteurl: "http://hafniatimes.com"
     metadata:
@@ -84,6 +109,14 @@ prose:
                   element: text
                   value: ""
                   alterable: true
+            - name: lang
+              field:
+                  label: Language"
+                  help: The language of the post
+                  placeholder: English
+                  element: select
+                  options: *languages
+                  selected: en
             - name: categories
               field:
                   label: Categories

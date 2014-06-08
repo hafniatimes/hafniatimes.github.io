@@ -1,3 +1,5 @@
-<li><a href="/">Home</a></li>
-<li><a href="{{ site.repo }}">Code</a></li>
-<li><a href="/feed.atom">Feed</a></li>
+<ul id="site-navigation" class="box" role="navigation">
+    <li><a href="/">{{ t.navigation[page_language].home }}</a></li>
+    <li><a href="{{ site.repo }}">{{ t.navigation[page_language].code }}</a></li>
+    <li><a href="/feed.atom">{{ t.navigation[page_language].feed }}</a></li>
+</ul>

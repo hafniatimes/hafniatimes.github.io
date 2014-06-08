@@ -1,25 +1,4 @@
 ---
-layout: default
-title:  "Hafnia Times"
+layout: frontpage
+lang:   en
 ---
-<div class="row">
-    <div class="box" id="info" role="section">
-        <h2>Who We Are</h2>
-
-        <p>{{ site.description }}</p>
-    </div>
-</div>
-
-{% if site.show_posts == true %}
-    <div class="row">
-        <div id="articles" class="box" role="section">
-            <h2>Articles</h2>
-
-            <ul>
-            {% for post in site.posts %}
-                <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-            {% endfor %}
-            </ul>
-        </div>
-    <div>
-{% endif %}

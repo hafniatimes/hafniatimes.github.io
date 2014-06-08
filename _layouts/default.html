@@ -1,3 +1,5 @@
+{% assign t = site.translations %}
+
 {% if page.lang %}
     {% assign page_language = page.lang %}
 {% else %}
@@ -9,6 +11,11 @@
 {% else %}
     {% assign page_title = site.name %}
 {% endif %}
+
+{% comment %}
+    - [ ] Add support for localized "/" URL
+    - [ ] Add support for multilpe Atom feeds
+{% endcomment %}
 
 <!DOCTYPE html>
 <html lang="{{ page_language }}">
@@ -54,9 +61,7 @@
         <div id="container">
         <div id="padder">
             <div class="row">
-                <ul id="site-navigation" class="box" role="navigation">
-                    {% include site-navigation.html %}
-                </ul>
+                {% include site-navigation.html %}
             </div>
 
             <div class="row" id="name" role="banner">
