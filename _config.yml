@@ -58,6 +58,15 @@ translations:
             articles: "Articles"
             description: "A Danish publication in English promoting open data and transparency in tech and politics."
             who: "Who We Are"
+    post:
+        da:
+            by: "Af"
+            update_text: "Dette indlæg er blevet opdateret, siden det blev udgivet. Se alle ændringer"
+            update_link: "hér"
+        en:
+            by: "By"
+            update_text: "This post has been updated, since it was first published. View all changes"
+            update_link: "here"
 
 languages: &languages
     - name:  "English"

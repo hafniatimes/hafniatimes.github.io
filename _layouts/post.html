@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+{% assign u = site.translations.post[page.lang] %}
+
 {% if page.guest == true %}
     {% assign author_name = page.author %}
 {% else %}
@@ -22,12 +24,12 @@ layout: default
                     />
                 {% endif %}
                 <div class="byline">
-                    By {{ author_name }}
+                    {{ u.by }} {{ author_name }}
                 </div>
             {% endif %}
             {% if page.updated == true %}
                 <div class="updated box">
-                    This post has been updated, since it was first published. View all changes <a href="{{ site.repo }}/commits/master/{{ page.path }}">here</a>.
+                    {{ u.update_text }} <a href="{{ site.repo }}/commits/master/{{ page.path }}">{{ u.update_link }}</a>.
                 </div>
             {% endif %}
 
