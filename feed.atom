@@ -13,10 +13,6 @@ layout: none
     <link href="{{ base }}/"/>
     <updated>{{ site.time | date_to_xmlschema }}</updated>
     <id>{{ base }}/</id>
-    <author>
-        <name>{{ site.data.people[page.author].name }}</name>
-        {% if site.data.people[page.author].mail != "" %}<email>{{ site.data.people[page.author].mail }}</email>{% endif %}
-    </author>
 
     {% for post in site.posts %}
     <entry>
