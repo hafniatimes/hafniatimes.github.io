@@ -2,4 +2,8 @@
     <li><a href="{{ base_relative }}">{{ t.navigation[page_language].home }}</a></li>
     <li><a href="{{ site.repo }}">{{ t.navigation[page_language].code }}</a></li>
     <li><a href="{{ base_relative }}feed.atom">{{ t.navigation[page_language].feed }}</a></li>
+{% if page_language == "en" %}
+    <li><a href="/da/" title="Siden på dansk">da</a></li>
+{% else %}
+    <li><a href="/" title="Site in English">en</a>{% endif %}</li>
 </ul>
