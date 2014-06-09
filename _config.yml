@@ -68,7 +68,7 @@ translations:
                 sun: "Søndag"
     navigation:
         da:
-            code: "Kildekode"
+            code: "Kode"
             feed: "RSS"
             home: "Forside"
         en:
