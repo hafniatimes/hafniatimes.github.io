@@ -1,0 +1,58 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    {% for post in site.posts %}{% unless post.sitemap == false %}
+    <url>
+        <loc>{{ site.url }}{{ post.url }}</loc>
+        {% if post.trans %}
+            <xhtml:link rel="alternate"
+                        hreflang="{{ post.lang }}"
+                        href="{{ site.url }}{{ post.url }}"
+            />
+            <xhtml:link rel="alternate"
+                        hreflang="{% if post.lang == "da" %}en{% else %}da{% endif %}"
+                    {% if post.lang == "en" %}
+                        href="{{ site.url }}/da{{ post.url }}"
+                    {% else %}
+                        href="{{ site.url }}{{ post.url | remove: "/da" }}"
+                    {% endif %}
+            />
+        {% endif %}
+    {% comment %}
+        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod> {% comment %}Doesn't render{% endcomment %}
+        <changefreq>weekly</changefreq>
+    {% endcomment %}
+    </url>
+    {% endunless %}{% endfor %}
+
+    {% for post in site.html_pages %}{% unless post.sitemap == false %}
+    <url>
+        <loc>{{ site.url }}{{ post.url }}</loc>
+            <xhtml:link rel="alternate"
+                        hreflang="{{ post.lang }}"
+                        href="{{ site.url }}{{ post.url }}"
+            />
+            <xhtml:link rel="alternate"
+                        hreflang="{% if post.lang == "da" %}en{% else %}da{% endif %}"
+                    {% if post.lang == "en" %}
+                        href="{{ site.url }}/da{{ post.url }}"
+                    {% else %}
+                        href="{{ site.url }}{{ post.url | remove: "/da" }}"
+                    {% endif %}
+            />
+    {% if post.updated %}
+        <lastmod>{{ post.updated | date_to_xmlschema }}</lastmod>
+    {% elsif post.date %}
+        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    {% else %}
+        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    {% endif %}
+    {% comment %}
+        <changefreq>weekly</changefreq>
+        <priority>{% if post.section == "frontpage" %}1.0{% else %}0.7{% endif %}</priority>
+    {% endcomment %}
+    </url>
+    {% endunless %}{% endfor %}
+</urlset>
