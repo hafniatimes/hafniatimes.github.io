@@ -20,6 +20,13 @@
                     {% endif %}
             />
         {% endif %}
+    {% if post.updated and post.updated != true %}
+        <lastmod>{{ post.updated | date_to_xmlschema }}</lastmod>
+    {% elsif post.date %}
+        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    {% else %}
+        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    {% endif %}
     {% comment %}
         <lastmod>{{ post.date | date_to_xmlschema }}</lastmod> {% comment %}Doesn't render{% endcomment %}
         <changefreq>weekly</changefreq>
@@ -42,7 +49,7 @@
                         href="{{ site.url }}{{ post.url | remove: "/da" }}"
                     {% endif %}
             />
-    {% if post.updated %}
+    {% if post.updated and post.updated != true %}
         <lastmod>{{ post.updated | date_to_xmlschema }}</lastmod>
     {% elsif post.date %}
         <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
