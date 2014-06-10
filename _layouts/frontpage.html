@@ -19,11 +19,9 @@ section: frontpage
             <h2>{{ u.articles }}</h2>
 
             <ul>
-        {% for post in site.posts %}
-            {% if post.lang == page.lang %}
+            {% for post in site.posts %}{% unless post.lang != page.lang %}
                 <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-            {% endif %}
-        {% endfor %}
+            {% endunless %}{% endfor %}
             </ul>
         </div>
     <div>
