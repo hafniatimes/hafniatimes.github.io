@@ -24,7 +24,7 @@ script:
   - bundle exec jekyll build
 
 after_script:
-  - htmlproof ./$HTML_FOLDER
+  - htmlproof ./_site
   - htmlhint $HTML_FOLDER
   - bundle exec sass --check $STYLE_FOLDER/*.scss
   - bundle exec scss-lint $STYLE_FOLDER/*.scss
