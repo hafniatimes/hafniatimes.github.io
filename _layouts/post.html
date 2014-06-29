@@ -26,6 +26,20 @@ layout: default
                 <div class="byline">
                     {{ u.by }} {{ author_name }}
                 </div>
+                {% if page.translator and page.translator != page.author %}
+                    <div class="translators">
+                        {{ u.translation }} {{ page.translator }}
+                    </div>
+                {% endif %}
+            {% endif %}
+            {% if page.trans %} {% comment %}Add support for multiple translations{% endcomment %}
+                <ul class="translations">
+                {% if page.lang == "en" %}
+                    <li><a class="da lang-icon" href="{{ page.trans }}">{{ site.translations.post.da.read }}</a></li>
+                {% else %}
+                    <li><a class="en lang-icon" href="{{ page.trans }}">{{ site.translations.post.en.read }}</a></li>
+                {% endif %}
+                </ul>
             {% endif %}
             {% if page.updated == true %}
                 <div class="updated box">

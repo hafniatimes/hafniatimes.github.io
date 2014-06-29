@@ -223,10 +223,10 @@ mark {
     clear: both;
     visibility: hidden; }
 
-#site-navigation li a, #name h1 a, .post .post-content a, #footer a {
+#site-navigation li a, #name h1 a, .post .translations a, .post .post-content a, #footer a {
   text-decoration: none;
   color: #555555; }
-  #site-navigation li a:visited, #name h1 a:visited, .post .post-content a:visited, #footer a:visited, #site-navigation li a:hover, #name h1 a:hover, .post .post-content a:hover, #footer a:hover, #site-navigation li a:active, #name h1 a:active, .post .post-content a:active, #footer a:active {
+  #site-navigation li a:visited, #name h1 a:visited, .post .translations a:visited, .post .post-content a:visited, #footer a:visited, #site-navigation li a:hover, #name h1 a:hover, .post .translations a:hover, .post .post-content a:hover, #footer a:hover, #site-navigation li a:active, #name h1 a:active, .post .translations a:active, .post .post-content a:active, #footer a:active {
     color: #555555; }
 
 #site-navigation {
@@ -268,7 +268,8 @@ h2 {
 .post .date {
   font-variant: small-caps; }
 .post img.avatar,
-.post .byline {
+.post .byline,
+.post .translators {
   text-align: center; }
 .post img.avatar {
   width: 125px;
@@ -282,13 +283,28 @@ h2 {
   display: block;
   border: 1px solid beige;
   padding: 5px; }
-.post .byline {
-  font-size: 0.875em;
+.post .byline, .post .translators {
+  font-size: 1em;
   margin-top: 0;
-  line-height: 1.71429em;
+  line-height: 1.5em;
   font-variant: small-caps;
-  font-weight: normal;
-  font-size: 16px; }
+  font-weight: normal; }
+.post .translations {
+  font-variant: small-caps;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto; }
+  .post .translations li {
+    display: inline-block;
+    text-align: center;
+    list-style: none;
+    padding: 5px 10px;
+    border: 1px solid #555555;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px; }
+    .post .translations li:hover {
+      background-color: rgba(215, 215, 215, 0.7); }
 .post h2 {
   font-size: 1.5em;
   margin-top: 0;

@@ -80,7 +80,29 @@ h2 {
         @include getVerticalRhythm($postBylineSize);
         font-variant: small-caps;
         font-weight: normal;
-        font-size: 16px;
+    }
+
+    .translators {
+        @extend .byline;
+    }
+
+    .translations {
+        font-variant: small-caps;
+        @include center();
+
+        li {
+            display: inline-block;
+            text-align: center;
+            list-style: none;
+
+            padding: 5px 10px;
+            border: 1px solid $black;
+            @include border-radius(5px);
+
+            &:hover { background-color: rgba(215, 215, 215, .7); }
+        }
+
+        a { @extend %a; }
     }
 
     h2 {

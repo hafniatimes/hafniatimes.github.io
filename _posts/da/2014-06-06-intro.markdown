@@ -6,6 +6,7 @@ date: 2014-06-06 20:00:00
 excerpt: En kort introduktion til Hafnia Times.
 slug: intro
 lang: da
+trans: /articles/2014/06/06/intro.html
 categories:
     - da
     - articles

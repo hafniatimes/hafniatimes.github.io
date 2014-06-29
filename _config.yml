@@ -66,6 +66,13 @@ translations:
                 fri: "Fredag"
                 sat: "Lørdag"
                 sun: "Søndag"
+    _languages:
+        da:
+            da: "Dansk"
+            en: "Engelsk"
+        en:
+            da: "Danish"
+            en: "English"
     navigation:
         da:
             code: "Kode"
@@ -87,10 +94,14 @@ translations:
     post:
         da:
             by: "Af"
+            read: "Læs på dansk"
+            translation: "Oversættelse af"
             update_text: "Dette indlæg er blevet opdateret, siden det blev udgivet. Se alle ændringer"
             update_link: "hér"
         en:
             by: "By"
+            read: "Read in English"
+            translation: "Translation by"
             update_text: "This post has been updated, since it was first published. View all changes"
             update_link: "here"
 
@@ -111,6 +122,12 @@ prose:
               field:
                   label: Author
                   help: Use your GitHub username
+                  element: text
+                  value: ""
+            - name: translator
+              field:
+                  label: Translater
+                  help: Person responsible for translating the original article
                   element: text
                   value: ""
             - name: Guest
@@ -152,6 +169,12 @@ prose:
                   element: select
                   options: *languages
                   selected: en
+            - name: trans
+              field:
+                  label: Translation
+                  help: URL for translated version of article
+                  element: text
+                  value: ""
             - name: categories
               field:
                   label: Categories
