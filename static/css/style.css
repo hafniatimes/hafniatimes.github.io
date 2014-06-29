@@ -223,6 +223,12 @@ mark {
     clear: both;
     visibility: hidden; }
 
+#site-navigation li a, #name h1 a, .post .post-content a, #footer a {
+  text-decoration: none;
+  color: #555555; }
+  #site-navigation li a:visited, #name h1 a:visited, .post .post-content a:visited, #footer a:visited, #site-navigation li a:hover, #name h1 a:hover, .post .post-content a:hover, #footer a:hover, #site-navigation li a:active, #name h1 a:active, .post .post-content a:active, #footer a:active {
+    color: #555555; }
+
 #site-navigation {
   font-size: 1em;
   text-align: right;
@@ -238,20 +244,13 @@ mark {
     display: inline-block; }
     #site-navigation li a {
       display: inline-block;
-      padding: 0 1em;
-      text-decoration: none;
-      color: #555555; }
-      #site-navigation li a:visited {
-        color: #555555; }
+      padding: 0 1em; }
 
 #name h1 {
   font-size: 3em;
   margin-top: 0;
   line-height: 0.5em;
   text-align: center; }
-  #name h1 a, #name h1:active, #name h1:visited {
-    color: #555555;
-    text-decoration: none; }
 
 h1,
 h2 {
@@ -312,9 +311,7 @@ h2 {
 .post .post-content a {
   padding: 0 3px; }
   .post .post-content a, .post .post-content a:active, .post .post-content a:visited {
-    color: #555555;
-    background-color: rgba(215, 215, 215, 0.7);
-    text-decoration: none; }
+    background-color: rgba(215, 215, 215, 0.7); }
   .post .post-content a:hover {
     background-color: orange; }
 
@@ -324,9 +321,6 @@ h2 {
   text-align: center;
   margin-left: auto;
   margin-right: auto; }
-  #footer a {
-    font-weight: bold;
-    color: #7f8ebc; }
 
 @media only screen and (max-device-width: 600px) {
   body {

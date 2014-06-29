@@ -1,4 +1,17 @@
-@import "_reset", "_config", "_constants", "_mixins", "_base";
+@import "_reset";
+@import "_config";
+@import "_constants";
+@import "_mixins";
+@import "_base";
+
+%a {
+    text-decoration: none;
+    color: $black;
+
+    &:visited,
+    &:hover,
+    &:active { color: $black; }
+}
 
 #site-navigation {
     @include getFontSize($navigationSize);
@@ -12,12 +25,9 @@
         display: inline-block;
 
         a {
+            @extend %a;
             display: inline-block;
             padding: 0 1em;
-            text-decoration: none;
-            color: $black;
-
-            &:visited { color: $black; }
         }
     }
 }
@@ -26,12 +36,7 @@
     @include getVerticalRhythm($nameH1Size);
     text-align: center;
 
-    a,
-    &:active,
-    &:visited {
-        color: $black;
-        text-decoration: none;
-    }
+    a { @extend %a; }
 }
 
 h1,
@@ -81,7 +86,6 @@ h2 {
     h2 {
         @include getVerticalRhythm($postTitleSize);
         font-family: "Palatino Linotype", $font;
-
     }
 
     .updated.box {
@@ -107,14 +111,13 @@ h2 {
     }
 
     .post-content a {
+        @extend %a;
         padding: 0 3px;
 
         &,
         &:active,
         &:visited {
-            color: $black;
             background-color: rgba(215, 215, 215, .7);
-            text-decoration: none;
         }
 
         &:hover {
@@ -127,10 +130,7 @@ h2 {
     @include getFontSize($footerSize);
     @include center;
 
-    a {
-        font-weight: bold;
-        color: $blue;
-    }
+    a { @extend %a; }
 }
 
 @import "_responsive";
