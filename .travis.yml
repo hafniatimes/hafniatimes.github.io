@@ -10,6 +10,7 @@ env:
     - CSS_FILES="static/css/style.css"
     - CSS_EXCLUDES=""
     - JS_FOLDER="static/js/"
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # Speeds up htmlproof
 
 install:
   - bundle install --quiet
@@ -23,6 +24,7 @@ script:
   - bundle exec jekyll build
 
 after_script:
+  - htmlproof ./$HTML_FOLDER/
   - htmlhint $HTML_FOLDER
   - bundle exec sass --check $STYLE_FOLDER/*.scss
   - bundle exec scss-lint $STYLE_FOLDER/*.scss
