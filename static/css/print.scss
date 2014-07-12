@@ -1,29 +1,38 @@
-body {
-    background-image: none !important;
-    color: #000 !important;
-}
-
-#site-navigation {
-    -webkit-box-shadow: none !important;
-       -moz-box-shadow: none !important;
-            box-shadow: none !important;
-}
+body { color: #000 !important; }
 
 #site-navigation,
-#page-navigation,
-#aside,
+.translations,
 #footer {
     display: none;
 }
 
-#content {
-    width: 100%;
+#site-navigation {
+    -webkit-box-shadow: none;
+       -moz-box-shadow: none;
+            box-shadow: none;
+}
 
-    a {
-        color: #000;
-        font-weight: normal;
-        text-decoration: underline;
+.post {
+    img.avatar { border: none !important; }
+
+    .updated,
+    .post-content {
+        a,
+        &:visited,
+        &:active {
+            color: #000 !important;
+            font-weight: normal;
+            text-decoration: underline;
+            background-color: #FFF !important;
+        }
     }
+
+    .updated {
+        border: 1px solid #000 !important;
+        background-color: #FFF !important;
+    }
+
+    .post-content a.reversefootnote { display: none; }
 }
 
 img,
