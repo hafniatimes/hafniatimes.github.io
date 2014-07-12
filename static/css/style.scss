@@ -100,7 +100,7 @@ h2 {
             border: 1px solid $black;
             @include border-radius(5px);
 
-            &:hover { background-color: rgba(215, 215, 215, .7); }
+            &:hover { background-color: $grey; }
         }
 
         a { @extend %a; }
@@ -140,7 +140,7 @@ h2 {
         &,
         &:active,
         &:visited {
-            background-color: rgba(215, 215, 215, .7);
+            background-color: $grey;
         }
 
         &:hover {
