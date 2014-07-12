@@ -8,47 +8,45 @@ layout: default
 {% else %}
     {% assign author_name = site.data.people[page.author].name %}
 {% endif %}
-<div class="row">
-    <div class="post box">
-            <h2>{{ page.title }}</h2>
-            <div class="date">
-                <time datetime="{{ page.date }}" is="time-ago" title="{{ page.date }}">{{ page.date | date: "<strong>%A</strong>, %B %-d %Y" }}</time>
-            </div>
-            {% if site.show_bylines == true %}
-                {% if site.github_hosted == true %}
-                    <img
-                        class="avatar"
-                        src="{% if page.guest == true %}/identicon.png{% else %}https://github.com/{{ page.author }}.png{% endif %}"
-                        alt="{{ author_name }}"
-                        title="{{ author_name }}"
-                    />
-                {% endif %}
-                <div class="byline">
-                    {{ u.by }} {{ author_name }}
-                </div>
-                {% if page.translator and page.translator != page.author %}
-                    <div class="translators">
-                        {{ u.translation }} {{ page.translator }}
-                    </div>
-                {% endif %}
-            {% endif %}
-            {% if page.trans %} {% comment %}Add support for multiple translations{% endcomment %}
-                <ul class="translations">
-                {% if page.lang == "en" %}
-                    <li><a class="da lang-icon" href="{{ page.trans }}">{{ site.translations.post.da.read }}</a></li>
-                {% else %}
-                    <li><a class="en lang-icon" href="{{ page.trans }}">{{ site.translations.post.en.read }}</a></li>
-                {% endif %}
-                </ul>
-            {% endif %}
-            {% if page.updated == true %}
-                <div class="updated box">
-                    {{ u.update_text }} <a href="{{ site.repo }}/commits/master/{{ page.path }}">{{ u.update_link }}</a>.
-                </div>
-            {% endif %}
-
-        <div class="post-content">
-            {{ content }}
+<div class="post box">
+    <h2>{{ page.title }}</h2>
+    <div class="date">
+        <time datetime="{{ page.date }}" is="time-ago" title="{{ page.date }}">{{ page.date | date: "<strong>%A</strong>, %B %-d %Y" }}</time>
+    </div>
+    {% if site.show_bylines == true %}
+        {% if site.github_hosted == true %}
+            <img
+                class="avatar"
+                src="{% if page.guest == true %}/identicon.png{% else %}https://github.com/{{ page.author }}.png{% endif %}"
+                alt="{{ author_name }}"
+                title="{{ author_name }}"
+            />
+        {% endif %}
+        <div class="byline">
+            {{ u.by }} {{ author_name }}
         </div>
+        {% if page.translator and page.translator != page.author %}
+            <div class="translators">
+                {{ u.translation }} {{ page.translator }}
+            </div>
+        {% endif %}
+    {% endif %}
+    {% if page.trans %} {% comment %}Add support for multiple translations{% endcomment %}
+        <ul class="translations">
+        {% if page.lang == "en" %}
+            <li><a class="da lang-icon" href="{{ page.trans }}">{{ site.translations.post.da.read }}</a></li>
+        {% else %}
+            <li><a class="en lang-icon" href="{{ page.trans }}">{{ site.translations.post.en.read }}</a></li>
+        {% endif %}
+        </ul>
+    {% endif %}
+    {% if page.updated == true %}
+        <div class="updated box">
+            {{ u.update_text }} <a href="{{ site.repo }}/commits/master/{{ page.path }}">{{ u.update_link }}</a>.
+        </div>
+    {% endif %}
+
+    <div class="post-content">
+        {{ content }}
     </div>
 </div>

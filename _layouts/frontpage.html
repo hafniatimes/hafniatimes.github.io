@@ -5,24 +5,20 @@ section: frontpage
 {% comment %}Do something better than page.section==frontpage for default.html{% endcomment %}
 {% assign u = site.translations.frontpage[page.lang] %} {% comment %}Refactor `.frontpage` to [page.layout]{% endcomment %}
 
-<div class="row">
-    <div class="box" id="info" role="section">
-        <h2>{{ u.who }}</h2>
+<div class="box" id="info" role="section">
+    <h2>{{ u.who }}</h2>
 
-        <p>{{ u.description }}</p>
-    </div>
+    <p>{{ u.description }}</p>
 </div>
 
 {% if site.show_posts == true %}
-    <div class="row">
-        <div id="articles" class="box" role="section">
-            <h2>{{ u.articles }}</h2>
+    <div id="articles" class="box" role="section">
+        <h2>{{ u.articles }}</h2>
 
-            <ul>
-            {% for post in site.posts %}{% unless post.lang != page.lang %}
-                <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-            {% endunless %}{% endfor %}
-            </ul>
-        </div>
+        <ul>
+        {% for post in site.posts %}{% unless post.lang != page.lang %}
+            <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endunless %}{% endfor %}
+        </ul>
     </div>
 {% endif %}
