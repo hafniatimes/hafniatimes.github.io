@@ -231,15 +231,14 @@ mark {
 
 #site-navigation {
   font-size: 1em;
-  text-align: right;
-  margin-top: 0 !important;
   /** Margin and padding reset in WebKit */
   -webkit-margin-before: 0;
   -webkit-margin-after: 0;
   -webkit-padding-start: 0;
   padding: 0; }
   #site-navigation.box {
-    padding: .5em 2em; }
+    padding: .5em 2em;
+    text-align: right; }
   #site-navigation li {
     display: inline-block; }
     #site-navigation li a {
@@ -351,8 +350,35 @@ h2 {
     font-size: 1em;
     font-weight: bold;
     background-color: #F8F8F8;
-    margin-top: 0 !important;
-    margin-bottom: 0 !important;
+    text-align: center; }
+    #site-navigation.box li a {
+      padding: 0 .75em; }
+
+  #name h1 {
+    font-size: 3em;
+    margin-top: 0;
+    line-height: 0.5em; }
+
+  #info.box {
+    float: left;
+    clear: both; }
+
+  .post img.avatar {
+    width: 75px;
+    height: 75px; } }
+@media only screen and (-webkit-device-pixel-ratio: 3) {
+  body {
+    font-size: 10px;
+    line-height: 15px; }
+
+  #container {
+    width: 100%;
+    max-width: 450px; }
+
+  #site-navigation.box {
+    font-size: 1em;
+    font-weight: bold;
+    background-color: #F8F8F8;
     text-align: center; }
     #site-navigation.box li a {
       padding: 0 .75em; }

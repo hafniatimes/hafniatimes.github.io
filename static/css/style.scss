@@ -15,11 +15,12 @@
 
 #site-navigation {
     @include getFontSize($navigationSize);
-    text-align: right;
-    margin-top: 0 !important; //!
     @include padding-fix;
 
-    &.box { padding: .5em 2em; }
+    &.box {
+        padding: .5em 2em;
+        text-align: right;
+    }
 
     li {
         display: inline-block;

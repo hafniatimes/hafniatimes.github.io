@@ -1,50 +1,48 @@
-@mixin iphone-mq() {};
-
-@media only screen {
-    @media (max-device-width: $mobileWidth) {
-        body {
-            // if device-width <= 600px:
-            //     $fontSize = 10px;
-            font-size: $mobileFontSize; line-height: $mobileLineHeight; //!
-        }
-
-        #container {
-            width: 100%;
-            max-width: 450px;
-        }
-
-        #site-navigation.box {
-            @include getFontSize($mobileNavigationSize);
-            font-weight: bold;
-            background-color: #F8F8F8;
-            margin-top: 0 !important; //!
-            margin-bottom: 0 !important;  //!
-            text-align: center;
-
-            li a { padding: 0 .75em; }
-        }
-
-        #name h1 { @include getVerticalRhythm($mobilenameH1Size); }
-
-        #info.box {
-            float: left;
-            clear: both;
-        }
-
-        .post {
-            img.avatar {
-                width: $avatarSizeMobile;
-                height: $avatarSizeMobile;
-            }
-        }
+@mixin mobile-mq() {
+    body {
+        font-size: $mobileFontSize;
+        line-height: $mobileLineHeight; //!
     }
 
+    #container {
+        width: 100%;
+        max-width: $maxMobileWidth;
+    }
+
+    #site-navigation.box {
+        @include getFontSize($mobileNavigationSize);
+        font-weight: bold;
+        background-color: #F8F8F8;
+        text-align: center;
+
+        li a { padding: 0 .75em; }
+    }
+
+    #name h1 { @include getVerticalRhythm($mobilenameH1Size); }
+
+    #info.box {
+        float: left;
+        clear: both;
+    }
+
+    .post {
+        img.avatar {
+            width:  $avatarSizeMobile;
+            height: $avatarSizeMobile;
+        }
+    }
+}
+
+@media only screen {
+    @media (max-device-width: $mobileWidth) { @include mobile-mq; }
+    @media (-webkit-device-pixel-ratio: 3)  { @include mobile-mq; }
+
     // iPhone 5+
-    @media #{$mediaQueryiPhoneLarge} { @include iphone-mq; }
+    // @media #{$mediaQueryiPhoneLarge} { @include iphone-mq; }
 
     // iPhone <5
-    @media #{$mediaQueryiPhoneSmall} { @include iphone-mq; }
+    // @media #{$mediaQueryiPhoneSmall} { @include iphone-mq; }
 
     // iPad
-    @media #{$mediaQueryiPad} { }
+    // @media #{$mediaQueryiPad} { }
 }
