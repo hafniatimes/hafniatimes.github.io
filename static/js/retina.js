@@ -9,9 +9,9 @@
   function Retina() {}
 
   Retina.init = function(context) {
-    if (context == null) context = root;
+    if (context === null) context = root;
 
-    var existing_onload = context.onload || new Function;
+    var existing_onload = context.onload || new Function();
 
     context.onload = function() {
       var images = document.getElementsByTagName("img"), retinaImages = [], i, image;
@@ -20,10 +20,11 @@
         retinaImages.push(new RetinaImage(image));
       }
       existing_onload();
-    }
+    };
   };
 
   Retina.isRetina = function(){
+    /* jshint multistr: true */
     var mediaQuery = "(-webkit-min-device-pixel-ratio: 1.5),\
                       (min--moz-device-pixel-ratio: 1.5),\
                       (-o-min-device-pixel-ratio: 3/2),\
@@ -50,10 +51,10 @@
 
   RetinaImagePath.prototype.at_2x_path_loads = function(callback) {
     var variant = new Image();
-    variant.onload  = function() { return callback(true);  }
-    variant.onerror = function() { return callback(false); }
+    variant.onload  = function() { return callback(true);  };
+    variant.onerror = function() { return callback(false); };
     variant.src = this.at_2x_path;
-  }
+  };
 
   RetinaImagePath.prototype.check_2x_variant = function(callback) {
     var that = this;
@@ -65,7 +66,7 @@
         return callback(wasLoaded);
       });
     }
-  }
+  };
 
 
 
@@ -94,7 +95,7 @@
       }
     }
     load();
-  }
+  };
 
 
 
