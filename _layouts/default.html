@@ -38,15 +38,31 @@
         />
     {% endfor %}
 
-    {% if page.section == "frontpage" or page.translations == true %}
+    {% if page.section == "frontpage" %}
         {% for l in site.languages %}
             <link
                 rel="alternate"
                 hreflang="{{ l.value }}"
-                href="{% if l.value != "en" %}/{{ l.value}}{% endif %}{{ page.url }}"
+                href="/{% if l.value != "en" %}{{ l.value }}/{% endif %}"
             />
         {% endfor %}
     {% endif %}
+{% comment %}
+    {% if page.trans %}
+        <link
+            rel="alternate"
+            hreflang="{{ page.lang }}"
+            href="{{ page.url }}"
+        />
+        {% for t in page.trans %}
+            <link
+                rel="alternate"
+                hreflang="..."
+                href="..."
+            />
+        {% endfor %}
+    {% endif %}
+{% endcomment %}
 
     {% if page.author %}
         {% if site.data.people[page.author].twitter %}
