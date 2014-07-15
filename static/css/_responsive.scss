@@ -16,6 +16,8 @@
         text-align: center;
 
         li a { padding: 0 .75em; }
+
+        #dyslexia-mode { display: none; }
     }
 
     #name h1 { @include getVerticalRhythm($mobilenameH1Size); }
