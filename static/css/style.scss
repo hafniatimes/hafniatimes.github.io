@@ -156,6 +156,10 @@ h2 {
         }
 
         li blockquote { margin: $padding; }
+
+        .footnotes {
+            border-top: $footnoteBorder solid $grey;
+        }
     }
 }
 
