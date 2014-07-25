@@ -133,19 +133,29 @@ h2 {
         }
     }
 
-    .post-content a {
-        @extend %a;
-        padding: 0 3px;
+    .post-content {
+        a {
+            @extend %a;
+            padding: 0 3px;
 
-        &,
-        &:active,
-        &:visited {
-            background-color: $grey;
+            &,
+            &:active,
+            &:visited {
+                background-color: $grey;
+            }
+
+            &:hover {
+                background-color: orange;
+            }
         }
 
-        &:hover {
-            background-color: orange;
+        blockquote {
+            margin: $padding 0;
+            padding: 0 $padding 0 $padding + $blockquoteBorder;
+            border-left: 3px solid $grey;
         }
+
+        li blockquote { margin: $padding; }
     }
 }
 

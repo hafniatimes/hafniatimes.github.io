@@ -329,6 +329,12 @@ h2 {
     background-color: rgba(215, 215, 215, 0.7); }
   .post .post-content a:hover {
     background-color: orange; }
+.post .post-content blockquote {
+  margin: 20px 0;
+  padding: 0 20px 0 23px;
+  border-left: 3px solid rgba(215, 215, 215, 0.7); }
+.post .post-content li blockquote {
+  margin: 20px; }
 
 #footer {
   font-size: 0.75em;
