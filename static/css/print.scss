@@ -13,7 +13,7 @@ body { color: #000 !important; }
 }
 
 .post {
-    img.avatar { border: none !important; }
+    img.avatar { display: none !important; }
 
     .updated,
     .post-content {

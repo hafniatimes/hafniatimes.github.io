@@ -12,7 +12,7 @@ body {
   box-shadow: none; }
 
 .post img.avatar {
-  border: none !important; }
+  display: none !important; }
 .post .updated a, .post .updated:visited, .post .updated:active,
 .post .post-content a,
 .post .post-content:visited,
