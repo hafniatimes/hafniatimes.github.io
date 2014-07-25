@@ -9,7 +9,7 @@ layout: default
     {% assign author_name = site.data.people[page.author].name %}
 {% endif %}
 <div class="post box">
-    <h2>{{ page.title }}</h2>
+    <h2>{{ page.title | markdownify | strip_html }}</h2>
     <div class="date">
         <time datetime="{{ page.date }}" is="time-ago" title="{{ page.date }}">{{ page.date | date: "<strong>%A</strong>, %B %-d %Y" }}</time>
     </div>
