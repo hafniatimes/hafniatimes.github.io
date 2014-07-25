@@ -1,5 +1,9 @@
 body {
-  color: #000 !important; }
+  color: #000 !important;
+  font: 12px/18px Georgia, serif; }
+
+#container {
+  max-width: 500px; }
 
 #site-navigation,
 .translations,

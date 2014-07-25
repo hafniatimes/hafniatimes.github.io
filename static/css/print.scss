@@ -1,4 +1,11 @@
-body { color: #000 !important; }
+@import "_config";
+
+body {
+    color: #000 !important;
+    font: 12px/18px $font;
+}
+
+#container { max-width: 500px; }
 
 #site-navigation,
 .translations,
