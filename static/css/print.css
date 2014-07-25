@@ -20,7 +20,8 @@ body {
   color: #000 !important;
   font-weight: normal;
   text-decoration: underline;
-  background-color: #FFF !important; }
+  background-color: #FFF !important;
+  padding: 0; }
 .post .updated {
   border: 1px solid #000 !important;
   background-color: #FFF !important; }
