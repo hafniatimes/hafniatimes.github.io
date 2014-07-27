@@ -18,8 +18,8 @@
     @include padding-fix;
 
     &.box {
-        padding: .5em 2em;
-        text-align: right;
+        padding: .5em 0;
+        text-align: center;
     }
 
     li {

@@ -189,7 +189,7 @@ mark {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  width: 690px; }
+  width: 540px; }
 
 #padder {
   -webkit-box-sizing: border-box;
@@ -237,8 +237,8 @@ mark {
   -webkit-padding-start: 0;
   padding: 0; }
   #site-navigation.box {
-    padding: .5em 2em;
-    text-align: right; }
+    padding: .5em 0;
+    text-align: center; }
   #site-navigation li {
     display: inline-block; }
     #site-navigation li a {
