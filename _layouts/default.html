@@ -26,6 +26,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>{{ page_title }}</title>
         <link rel="canonical" href="{{ page.url }}" />
+    {% if page.section == "frontpage" %}
+        <link rel="shorturl" href="http://hafnia.co" />
+    {% endif %}
         <link href="/static/css/style.css" rel="stylesheet" type="text/css" />
         <link href="/static/css/print.css" rel="stylesheet" type="text/css" media="print" />
         <link rel="shortcut icon" href="/favicon.ico" />
