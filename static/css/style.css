@@ -282,7 +282,8 @@ h2 {
   display: block;
   border: 1px solid beige;
   padding: 5px; }
-.post .byline, .post .translators {
+.post .byline,
+.post .translators {
   font-size: 1em;
   margin-top: 0;
   line-height: 1.5em;

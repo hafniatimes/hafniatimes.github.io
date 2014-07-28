@@ -58,7 +58,8 @@ h2 {
     .date { font-variant: small-caps; }
 
     img.avatar,
-    .byline {
+    .byline,
+    .translators {
         text-align: center;
     }
 
@@ -77,14 +78,11 @@ h2 {
         padding: 5px;
     }
 
-    .byline {
+    .byline,
+    .translators {
         @include getVerticalRhythm($postBylineSize);
         font-variant: small-caps;
         font-weight: normal;
-    }
-
-    .translators {
-        @extend .byline;
     }
 
     .translations {
