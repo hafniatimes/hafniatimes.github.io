@@ -5,6 +5,10 @@ excerpt: A brief introduction to Hafnia Times.
 slug: intro
 trans: /da/articles/2014/06/06/intro.html
 updated: true
+author: ndarville
+layout: post
+lang: en
+categories: articles
 ---
 This is part of a small experiment of mine in how to create a digital-only, collaborative "publication" using only the technical tools of [GitHub](https://github.com), [Jekyll](http://jekyllrb.com), [Prose.io](http://prose.io).
 
