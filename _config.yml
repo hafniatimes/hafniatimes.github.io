@@ -23,6 +23,26 @@ redcarpet:
     extensions: ["smart", "footnotes", "tables"]
  # # # # # # # # # # # # # # # # # # # # # # # # #
 
+defaults:
+    -
+        scope:
+            path: ""
+            type: "post"
+        values:
+            layout: "post"
+            author: "ndarville"
+            lang: "en"
+            categories: "articles"
+    -
+        scope:
+            path: "_posts/da"
+            type: "post"
+        values:
+            lang: "da"
+            categories:
+                - "da"
+                - "articles"
+
 include: [".htaccess"]
 exclude:
     - ".travis.yml"
