@@ -46,7 +46,7 @@ Five hours after the original post, Joe & the Juice responded in a hastily-scrib
 
 The exact consequences of the incident have yet to be specified.
 
-[^full]: The rest of her Nygaard's Facebook post translated:
+[^full]: The rest of Nygaard's Facebook post translated:
 
     >It's one thing that you ruined our meal completely with your completely ridiculous discussion of the wonderful sex, which you instead should hallow and respect, and that my girls, who still believe they're worth as much as the boys in the kindergarten, had to listen to you rate and disrespect women in that vicious way. Another is that I assume that you all have moms, who've given birth to you, nursed you, and been the most important woman for the majority of your life, and if you're lucky, you'll have some beautiful daughters one da (when you grow up) . but try to consider what world you'll release them into? A world full of boys like you.
     >
