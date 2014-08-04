@@ -27,7 +27,7 @@
         <title>{{ page_title }}</title>
         <link rel="canonical" href="{{ page.url }}" />
     {% if page.section == "frontpage" %}
-        <link rel="shorturl" href="http://hafnia.co" />
+        <link rel="shorturl" href="http://hafnia.co{% if page.lang != "en" %}/{{ page.lang }}{% endif %}" />
     {% endif %}
         <link href="/static/css/style.css" rel="stylesheet" type="text/css" />
         <link href="/static/css/print.css" rel="stylesheet" type="text/css" media="print" />
