@@ -166,6 +166,7 @@ h4,
 h5,
 h6 {
   margin-top: 0;
+  margin-bottom: 0;
   -webkit-margin-before: 0;
   -webkit-margin-after: 0;
   -webkit-padding-start: 0; }
@@ -173,10 +174,8 @@ h6 {
 ol,
 ul {
   -webkit-padding-start: 0;
-  margin-left: 0;
-  margin-right: 0;
-  padding-left: 0;
-  padding-right: 0; }
+  margin: 0;
+  padding: 0; }
 
 body {
   font: 16px/24px Georgia, serif;
