@@ -75,14 +75,30 @@ And in closing, Kjærsgaard is unwaivering in doubling down on blaming the victi
 Read [the full interview][interview-t].
 
 ## Further Reading
-* Kjærsgaard decries public intolerance and harassment by Muslims in [her weekly party newsletter from November 24 2003][noerrebro].
+{% comment %}
+    * Kjærsgaard decries public intolerance and harassment by Muslims in [her weekly party newsletter from November 24 2003][noerrebro].
 
-    >In the interim, we back home will work to get back [the capital district] Nørrebro.
-    >
-    >So that once again, tolerance and free-mindedness can come to the north of Dronning Louise's Bridge.
-* [2014 report][fra-report] by the European Agency for Fundamental Rights on violence againt women.
+        >In the interim, we back home will work to get back [the capital district] Nørrebro.
+        >
+        >So that once again, tolerance and free-mindedness can come to the north of Dronning Louise's Bridge.
+    * [2014 report][fra-report] by the European Agency for Fundamental Rights on violence againt women.
+{% endcomment %}
+<ul>
+<li markdown="1">
+Kjærsgaard decries public intolerance and harassment by Muslims in [her weekly party newsletter from November 24 2003][noerrebro].
+
+>In the interim, we back home will work to get back [the capital district] Nørrebro.
+>
+>So that once again, tolerance and free-mindedness can come to the north of Dronning Louise's Bridge.
+</li>
+
+<li markdown="1">
+[2014 report][fra-report] by the European Agency for Fundamental Rights on violence againt women.
+</li>
+</ul>
 
 ## Article Links
+
 1. [Aya Baram's letter to <i>Politiken</i>][letter] ([full translation][letter-t])
 2. [<i>Politiken's</i> follow-up article][follow-up]
 3. [Pia Kjærsgaard's blog entry][pia-k] ([full translation][pia-k-t])
