@@ -108,10 +108,12 @@ translations:
         da:
             articles: "Artikler"
             description: "En dansk udgivelse på engelsk, som advokerer for åben data og gennemsigtighed i teknologi og politik."
+            linked_articles: "Nyheder I Andre Medier"
             who: "Hvem Vi Er"
         en:
             articles: "Articles"
             description: "A Danish publication in English promoting open data and transparency in tech and politics."
+            linked_articles: "News in Other Media"
             who: "Who We Are"
     post:
         da:
