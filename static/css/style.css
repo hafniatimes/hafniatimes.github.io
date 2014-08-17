@@ -298,7 +298,8 @@ h2 {
   font-variant: small-caps;
   text-align: center;
   margin-left: auto;
-  margin-right: auto; }
+  margin-right: auto;
+  margin: 20px 0; }
   .post .translations li {
     display: inline-block;
     text-align: center;
@@ -357,7 +358,6 @@ h2 {
     line-height: 15px; }
 
   #container {
-    width: 100%;
     max-width: 450px; }
 
   #site-navigation.box {
@@ -387,7 +387,6 @@ h2 {
     line-height: 15px; }
 
   #container {
-    width: 100%;
     max-width: 450px; }
 
   #site-navigation.box {
