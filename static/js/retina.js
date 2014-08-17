@@ -1,8 +1,5 @@
 (function() {
-
   var root = (typeof exports == 'undefined' ? window : exports);
-
-
 
   root.Retina = Retina;
 
@@ -39,7 +36,6 @@
     return false;
   };
 
-
   root.RetinaImagePath = RetinaImagePath;
 
   function RetinaImagePath(path) {
@@ -68,8 +64,6 @@
     }
   };
 
-
-
   function RetinaImage(el) {
     this.el = el;
     this.path = new RetinaImagePath(this.el.getAttribute('src'));
@@ -97,12 +91,8 @@
     load();
   };
 
-
-
-
   if (Retina.isRetina()) {
     Retina.init(root);
   }
 
 })();
-

@@ -122,5 +122,8 @@
             ga('send', 'pageview');
         </script>
     {% endif %}
+    {% if page.js and page.js == "retina" %}
+        <script src="/static/js/retina.js"></script>
+    {% endif %}
     </body>
 </html>
