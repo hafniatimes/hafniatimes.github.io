@@ -3,11 +3,12 @@ description: A Danish publication in English promoting open data and transparenc
 url: http://hafniatimes.com
 shorturl: http://hafnia.co
 repo:  https://github.com/hafniatimes/hafniatimes.github.io
+dyslexia_support: true
 
 # Settings # # # # # # # # # # #
 ga:            "UA-7184031-12"
 github_hosted: true
-show_footer:   false
+show_footer:   true
  # # # # # # # # # # # # # # # #
 
 # Posts # # # # # #
@@ -104,6 +105,13 @@ translations:
             code: "Code"
             feed: "Feed"
             home: "Home"
+    footer:
+        da:
+            shorturl: "Korturl"
+            dyslexia_credit: "Ordblindefont fra"
+        en:
+            shorturl: "Shorturl"
+            dyslexia_credit: "Dyslexia font from"
     frontpage:
         da:
             articles: "Artikler"
