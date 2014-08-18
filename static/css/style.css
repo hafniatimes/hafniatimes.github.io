@@ -358,7 +358,7 @@ h2 {
     line-height: 15px; }
 
   #container {
-    max-width: 450px; }
+    width: 100%; }
 
   #site-navigation.box {
     font-size: 1em;
@@ -387,7 +387,7 @@ h2 {
     line-height: 15px; }
 
   #container {
-    max-width: 450px; }
+    width: 100%; }
 
   #site-navigation.box {
     font-size: 1em;

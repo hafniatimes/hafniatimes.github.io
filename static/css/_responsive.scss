@@ -4,9 +4,7 @@
         line-height: $mobileLineHeight; //!
     }
 
-    #container {
-        max-width: $maxMobileWidth;
-    }
+    #container { width: 100%; }
 
     #site-navigation.box {
         @include getFontSize($mobileNavigationSize);
