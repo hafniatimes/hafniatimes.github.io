@@ -17,7 +17,7 @@ layout: default
         {% if site.github_hosted == true %}
             <img
                 class="avatar"
-                src="{% if page.guest == true %}/identicon.png{% else %}{{ site.data.people[page.author].avatar }}{% endif %}"
+                src="{% if page.guest == true %}/identicon.png{% else %}/static/avatars/{{ page.author }}@1x.{{ site.data.people[page.author].avatar }}{% endif %}"
                 alt="{{ author_name }}"
                 title="{{ author_name }}"
             />
