@@ -93,7 +93,7 @@
         <meta property="og:image" content="{{ site.url }}/identicon.png">
     {% endif %}
     </head>
-    <body>
+    {% if page.section == "frontpage" %}<body id="frontpage">{% else %}<body>{% endif %}
         <div id="container">
         <div id="padder">
             {% include site-navigation.html %}

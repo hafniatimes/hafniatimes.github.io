@@ -256,17 +256,19 @@ h1,
 h2 {
   font-family: "Palatino Linotype", Georgia, serif; }
 
-#articles h2,
-#linked-articles h2 {
+#frontpage h2 {
+  margin-bottom: 16px; }
+#frontpage #articles h2,
+#frontpage #linked-articles h2 {
   text-align: center; }
-#articles a,
-#linked-articles a {
+#frontpage #articles a,
+#frontpage #linked-articles a {
   color: #7f8ebc !important; }
-#articles ul,
-#linked-articles ul {
+#frontpage #articles ul,
+#frontpage #linked-articles ul {
   text-align: center; }
-  #articles ul li,
-  #linked-articles ul li {
+  #frontpage #articles ul li,
+  #frontpage #linked-articles ul li {
     list-style: none; }
 
 .post .date {
