@@ -161,6 +161,8 @@ h2 {
 
         li blockquote { margin: $padding; }
 
+        .embed { margin: $padding auto; }
+
         .footnotes { border-top: $footnoteBorder solid $grey; }
     }
 }

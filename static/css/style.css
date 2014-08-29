@@ -344,6 +344,8 @@ h2 {
   border-left: 3px solid rgba(215, 215, 215, 0.7); }
 .post .post-content li blockquote {
   margin: 20px; }
+.post .post-content .embed {
+  margin: 20px auto; }
 .post .post-content .footnotes {
   border-top: 3px solid rgba(215, 215, 215, 0.7); }
 
