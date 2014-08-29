@@ -39,8 +39,7 @@ Copenhagen Police's massive effort had the intent of uncovering whether there wa
 
     >**Interviewer**: Are you shocked that so little from your side of the train could set off so much?
     >
-    >**Ceran**: Not really. I think a lot of people assume the worst about people like me. That people who look like me and have a beard like me are probably terrorists. There are probably many who don't know a single person who looks like me. I can understand that the woman was a little scared,
-    »Egentlig ikke. Jeg tror, at mange tror det værste om folk som mig. At folk, der ligner mig og har skæg som mig, er terrorister. Der er sikkert mange, som overhovedet ikke kender nogen, som ligner mig. Jeg kan godt forstå, at kvinden blev lidt bange[.]
+    >**Ceran**: Not really. I think a lot of people assume the worst about people like me. That people who look like me and have a beard like me are probably terrorists. There are probably many who don't know a single person who looks like me. I can understand that the woman was a little scared[.]
 
 * <i>[Politiken](http://politiken.dk/indland/ECE2380165/offer-for-politi--og-mediejagt-jeg-vil-bare-gerne-vaere-gymnasielaerer/)</i>
 
@@ -68,10 +67,7 @@ Copenhagen Police's massive effort had the intent of uncovering whether there wa
                 worst about people like me. That people who look like me and have a beard
                 like me are probably terrorists. There are probably many who don't know
                 a single person who looks like me. I can understand that the woman was
-                a little scared, »Egentlig ikke. Jeg tror, at mange tror det værste om
-                folk som mig. At folk, der ligner mig og har skæg som mig, er terrorister.
-                Der er sikkert mange, som overhovedet ikke kender nogen, som ligner mig.
-                Jeg kan godt forstå, at kvinden blev lidt bange[.]</p>
+                a little scared[.]</p>
         </blockquote>
     </li>
     <li>
