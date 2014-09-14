@@ -26,6 +26,8 @@ There are several reasons why the American development towards a scientifically-
 
 We all deserve to participate in the political discussion, and by making polling data public, we can contribute to a salience sorely missed in the Danish coverage of politics.
 
+So start using the polls [here](https://github.com/ndarville/danish-polls).
+
 ### American Examples ###
 - <i>[The Monkey Cage](http://themonkeycage.org/2007/11/20/why_this_blog/)</i>
 - [Nate Silver & FiveThirtyEight](https://en.wikipedia.org/wiki/FiveThirtyEight)

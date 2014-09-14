@@ -31,6 +31,8 @@ Der er flere grunde til, at udviklingen i USA i retningen af en videnskabeligt f
 
 Vi fortjener alle adgang til den politiske debat, og ved at gøre meningsmålingdata tilgængelige kan vi bidrage til en saglighed, der savnes i den den danske dækning af politik.
 
+Så værsgo at bruge målingerne [hér](https://github.com/ndarville/danish-polls).
+
 ### Amerikanske Foregangsbilleder ###
 - <i>[The Monkey Cage](http://themonkeycage.org/2007/11/20/why_this_blog/)</i>
 - [Nate Silver & FiveThirtyEight](https://en.wikipedia.org/wiki/FiveThirtyEight)
