@@ -17,7 +17,7 @@ Den politiske debat i Danmark har dårlige vilkår; "kommentatorer" og "analytik
 
 Problemet med denne model er, at mange af de personer ikke bygger deres kommentarer og analyser på noget solidt fundament forankret i en prøvet, videnskabelig model. De er ikke blandt dem, der i USA kaldes "wonks"---samfundsvidenskabelige nørder.
 
-Et andet fundamentalt problem er, at medierne og kommentatorerne ikke ved, hvordan en meningsmåling fungerer i praksis. En meningsmåling er et øjebliksbilleder, der desuden er behæftet med en statistisk usikkerhed. Langt de fleste "bevægelser" og "chokmålinger" er resultater af kortlivede stemninger og en statistisk usikkerhed, der kan få partier til at gå frem og tilbage.
+Et andet fundamentalt problem er, at medierne og kommentatorerne ikke ved, hvordan en meningsmåling fungerer i praksis. En meningsmåling er et øjebliksbillede, der desuden er behæftet med en statistisk usikkerhed. Langt de fleste "bevægelser" og "chokmålinger" er resultater af kortlivede stemninger og en statistisk usikkerhed, der kan få partier til at gå frem og tilbage.
 
 <i>The New York Times</i>' afdeling for politiske nørder, <i>The Upshot</i>, forklarede den statistiske usikkerheds konsekvens på glimrende vis i [denne artikel](http://www.nytimes.com/2014/05/02/upshot/how-not-to-be-misled-by-the-jobs-report.html). Det samme gjorde Ph.D.-studerende i samfundsvidenskab [Erik Gahner Larsen](http://erikgahner.dk/2013/05/02/kvalitetsvaegtede-gennemsnit-af-meningsmalinger-og-statistisk-usikkerhed/).
 
