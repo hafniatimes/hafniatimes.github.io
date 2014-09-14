@@ -28,7 +28,7 @@ I skrivende stund er der total panik i den danske medieverden og i engelsk polit
 
 Der er flere grunde til, at udviklingen i USA i retningen af en videnskabeligt funderet politisk debat ikke kom fra de store nyhedsinstitutioner selv, men fra individer fra en akademisk baggrund. Én grundene er, at medierne som udgangspunkt arbejder sammen med et enkelt meningsmålingsinstitut; eksempelvist DR med Epinion og TV 2 med Megafon. Det binder dem til at føre deres dækning med udgangspunkt i deres eget institut, alt imens vi andre kan inddrag alle kendte meningsmålinger og drage en tendens ud fra dem, hvilket giver et langt mere retvisende billede:
 
-![Tendenslinje](/da/assets/danish-polls/image.png)
+[![Tendenslinje](/assets/danish-polls/image.png)](/assets/danish-polls/image.png)
 
 Vi fortjener alle adgang til den politiske debat, og ved at gøre meningsmålingdata tilgængelige kan vi bidrage til en saglighed, der savnes i den den danske dækning af politik.
 

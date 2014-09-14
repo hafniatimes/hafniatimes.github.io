@@ -23,7 +23,7 @@ As of this writing, a panic has seized the Danish media world and British politi
 
 There are several reasons why the American development towards a scientifically-informed political discourse didn't come from the major new organisations, but from individuals with an academic background. One reason is that the media in Denmark tend to collaborate with a single polling institute; e.g. DR with Epinion and TV 2 with Megafon. It constrains them to basing their coverage on their own polling institute; meanwhile, the rest of us are free to include all public polls and draw a trend from them, which yields a more accurate picture:
 
-![Trend line](/assets/danish-polls/image.png)
+[![Trend line](/assets/danish-polls/image.png)](/assets/danish-polls/image.png)
 
 We all deserve to participate in the political discussion, and by making polling data public, we can contribute to a salience sorely missed in the Danish coverage of politics.
 
