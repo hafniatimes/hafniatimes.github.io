@@ -365,7 +365,8 @@ h2 {
     line-height: 15px; }
 
   #container {
-    width: 100%; }
+    width: 100%;
+    max-width: 320px; }
 
   #site-navigation.box {
     font-size: 1em;
@@ -394,7 +395,8 @@ h2 {
     line-height: 15px; }
 
   #container {
-    width: 100%; }
+    width: 100%;
+    max-width: 320px; }
 
   #site-navigation.box {
     font-size: 1em;
