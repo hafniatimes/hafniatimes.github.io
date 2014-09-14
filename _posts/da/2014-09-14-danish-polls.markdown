@@ -5,6 +5,7 @@ excerpt: "Tiden er kommet til, at danskerne har en åben og frit tilgængelig sa
 slug: danish-polls
 trans: /articles/2014/09/14/danish-polls.html
 image: true
+updated: true
 type: posts
 lang: da
 categories:
@@ -19,13 +20,13 @@ Problemet med denne model er, at mange af de personer ikke bygger deres kommenta
 
 Et andet fundamentalt problem er, at medierne og kommentatorerne ikke ved, hvordan en meningsmåling fungerer i praksis. En meningsmåling er et øjebliksbillede, der desuden er behæftet med en statistisk usikkerhed. Langt de fleste "bevægelser" og "chokmålinger" er resultater af kortlivede stemninger og en statistisk usikkerhed, der kan få partier til at gå frem og tilbage.
 
-<i>The New York Times</i>' afdeling for politiske nørder, <i>The Upshot</i>, forklarede den statistiske usikkerheds konsekvens på glimrende vis i [denne artikel](http://www.nytimes.com/2014/05/02/upshot/how-not-to-be-misled-by-the-jobs-report.html). Det samme gjorde Ph.D.-studerende i samfundsvidenskab [Erik Gahner Larsen](http://erikgahner.dk/2013/05/02/kvalitetsvaegtede-gennemsnit-af-meningsmalinger-og-statistisk-usikkerhed/).
+<i>The New York Times</i>' afdeling for politiske nørder, <i>The Upshot</i>, forklarede den statistiske usikkerheds konsekvens på glimrende vis i [denne artikel](http://www.nytimes.com/2014/05/02/upshot/how-not-to-be-misled-by-the-jobs-report.html). Det samme gjorde Ph.D.-studerende i samfundsvidenskab Erik Gahner Larsen i [et blogindlæg](http://erikgahner.dk/2013/05/02/kvalitetsvaegtede-gennemsnit-af-meningsmalinger-og-statistisk-usikkerhed/).
 
-Det er med andre ord et problem, at medierne ikke forstår, at man er nødt til at analysere dansk politiks udvikling ud fra en tendens og ikke fra måling til måling. Du vil altid se meningsmålinger illustreret i medierne som et søjlediagram---ikke en tendenslinje over tid. Vel at mærke et søjlediagram, som desuden ikke viser den statistiske usikkerhed.
+Det er med andre ord et problem, at medierne ikke forstår, at man er nødt til at analysere dansk politiks udvikling ud fra en tendens og ikke fra måling til måling. Du vil altid se meningsmålinger illustreret i medierne som et søjlediagram---ikke en tendenslinje over tid. Vel at mærke et søjlediagram, der desuden ikke viser den statistiske usikkerhed.
 
 I skrivende stund er der total panik i den danske medieverden og i engelsk politik, fordi YouGov præsenterede en måling, der viste flere Ja-stemmer end Nej-stemmer til skotsk uafhængighed. I mellemtiden siger [Sam Wang](http://election.princeton.edu/2014/09/12/a-note-on-scottish-independence/) på baggrund af en krydsanalyse af adskillige målinger, at der 95 procents sandsynlighed for et skotsk Nej.
 
-Der er flere grunde til, at udviklingen i USA i retningen af en videnskabeligt funderet politisk debat ikke kom fra de store nyhedsinstitutioner selv, men fra individer fra en akademisk baggrund. Én grundene er, at medierne som udgangspunkt arbejder sammen med et enkelt meningsmålingsinstitut; eksempelvist DR med Epinion og TV 2 med Megafon. Det binder dem til at føre deres dækning med udgangspunkt i deres eget institut, alt imens vi andre kan inddrag alle kendte meningsmålinger og drage en tendens ud fra dem, der giver et langt mere retvisende billede:
+Der er flere grunde til, at udviklingen i USA i retningen af en videnskabeligt funderet politisk debat ikke kom fra de store nyhedsinstitutioner selv, men fra individer fra en akademisk baggrund. Én grundene er, at medierne som udgangspunkt arbejder sammen med et enkelt meningsmålingsinstitut; eksempelvist DR med Epinion og TV 2 med Megafon. Det binder dem til at føre deres dækning med udgangspunkt i deres eget institut, alt imens vi andre kan inddrag alle kendte meningsmålinger og drage en tendens ud fra dem, hvilket giver et langt mere retvisende billede:
 
 ![Tendenslinje](/da/assets/danish-polls/image.png)
 
