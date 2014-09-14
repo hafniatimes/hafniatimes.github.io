@@ -20,3 +20,10 @@ Media
  DR    | Danish Radio, Denmark's Radio
  Berlingske Tidende | Berlingske
  Weekendavisen | WeekendAvisen
+
+Links
+------
+- [GLAAD Media Reference Guide on Transgender Issues][transgender]
+
+
+[transgender]: http://www.glaad.org/reference/transgender
