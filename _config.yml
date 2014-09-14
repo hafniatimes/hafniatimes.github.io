@@ -29,7 +29,7 @@ defaults:
     -
         scope:
             path: ""
-            type: "post"
+            type: "posts"
         values:
             layout: "post"
             author: "ndarville"
@@ -38,7 +38,7 @@ defaults:
     -
         scope:
             path: "_posts/da"
-            type: "post"
+            type: "posts"
         values:
             lang: "da"
             categories:
