@@ -35,15 +35,15 @@ defaults:
             author: "ndarville"
             lang: "en"
             categories: "articles"
-    -
-        scope:
-            path: "_posts/da"
-            type: "posts"
-        values:
-            lang: "da"
-            categories:
-                - "da"
-                - "articles"
+    # -
+    #     scope:
+    #         path: "_posts/da"
+    #         type: "posts"
+    #     values:
+    #         lang: "da"
+    #         categories:
+    #             - "da"
+    #             - "articles"
 
 include: [".htaccess"]
 exclude:
