@@ -130,6 +130,11 @@ h2 {
         font-family: "Palatino Linotype", $font;
     }
 
+    h3 { //!
+        margin-top: 1em;
+        margin-bottom: .33em;
+    }
+
     .updated.box {
         @include getVerticalRhythm($postUpdateSize);
         background-color: beige;

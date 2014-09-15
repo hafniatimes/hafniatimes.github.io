@@ -331,6 +331,9 @@ h2 {
   margin-top: 0;
   line-height: 1em;
   font-family: "Palatino Linotype", Georgia, serif; }
+.post h3 {
+  margin-top: 1em;
+  margin-bottom: .33em; }
 .post .updated.box {
   font-size: 0.875em;
   margin-top: 0;
