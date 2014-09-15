@@ -29,7 +29,7 @@ section: frontpage
 
         <ul>
         {% for link in site.data.links[page.lang] %}
-            <li><span>{{ link.date }}</span> &raquo; <a href="{{ link.url }}">{{ link.title | markdownify | strip_html }}</a></li>
+            <li><span>{{ link.date  | date_to_string }}</span> &raquo; <a href="{{ link.url }}">{{ link.title | markdownify | strip_html }}</a></li>
         {% endfor %}
         </ul>
     </div>
