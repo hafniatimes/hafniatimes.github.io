@@ -354,6 +354,8 @@ h2 {
     background-color: rgba(215, 215, 215, 0.7); }
   .post .post-content a:hover {
     background-color: orange; }
+  .post .post-content a[href$="png"], .post .post-content a[href$="jpg"], .post .post-content a[href$="jpeg"], .post .post-content a[href$="gif"], .post .post-content a[href$="webm"] {
+    padding: 0; }
 .post .post-content blockquote {
   margin: 20px 0;
   padding: 0 20px 0 23px;
@@ -362,7 +364,8 @@ h2 {
   margin: 20px; }
 .post .post-content img {
   max-width: 100%;
-  height: auto; }
+  height: auto;
+  display: block; }
 .post .post-content .embed {
   margin: 20px auto; }
 .post .post-content .footnotes {

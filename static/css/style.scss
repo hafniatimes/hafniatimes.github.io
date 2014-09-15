@@ -171,6 +171,14 @@ h2 {
             &:hover {
                 background-color: orange;
             }
+
+            &[href$="png"],
+            &[href$="jpg"],
+            &[href$="jpeg"],
+            &[href$="gif"],
+            &[href$="webm"] {
+                padding: 0;  // Removes border around linked images
+            }
         }
 
         blockquote {
@@ -184,6 +192,7 @@ h2 {
         img {
             max-width: 100%;
             height: auto;
+            display: block;
         }
 
         .embed { margin: $padding auto; }
