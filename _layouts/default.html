@@ -59,7 +59,7 @@
         {% for t in page.trans %}
             <link
                 rel="alternate"
-                hreflang="{% if page_language == da %}en{% else %}en{% endif %}"
+                hreflang="{% if page_language == "da" %}en{% else %}en{% endif %}"
                 href="{{ page.trans }}"
             />
         {% endfor %}
