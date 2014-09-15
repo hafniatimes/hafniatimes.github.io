@@ -405,10 +405,7 @@ h2 {
 
   .post img.avatar {
     width: 75px;
-    height: 75px; }
-
-  .dyslexia-info {
-    display: none; } }
+    height: 75px; } }
 @media only screen and (-webkit-device-pixel-ratio: 3) {
   body {
     font-size: 10px;
@@ -436,9 +433,6 @@ h2 {
 
   .post img.avatar {
     width: 75px;
-    height: 75px; }
-
-  .dyslexia-info {
-    display: none; } }
+    height: 75px; } }
 
 /*# sourceMappingURL=style.css.map */
