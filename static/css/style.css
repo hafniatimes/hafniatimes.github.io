@@ -374,8 +374,6 @@ h2 {
     background-color: #F8F8F8; }
     #site-navigation.box li a {
       padding: 0 .75em; }
-    #site-navigation.box #dyslexia-mode {
-      display: none; }
 
   #name h1 {
     font-size: 3em;
@@ -388,7 +386,10 @@ h2 {
 
   .post img.avatar {
     width: 75px;
-    height: 75px; } }
+    height: 75px; }
+
+  .dyslexia-info {
+    display: none; } }
 @media only screen and (-webkit-device-pixel-ratio: 3) {
   body {
     font-size: 10px;
@@ -404,8 +405,6 @@ h2 {
     background-color: #F8F8F8; }
     #site-navigation.box li a {
       padding: 0 .75em; }
-    #site-navigation.box #dyslexia-mode {
-      display: none; }
 
   #name h1 {
     font-size: 3em;
@@ -418,6 +417,9 @@ h2 {
 
   .post img.avatar {
     width: 75px;
-    height: 75px; } }
+    height: 75px; }
+
+  .dyslexia-info {
+    display: none; } }
 
 /*# sourceMappingURL=style.css.map */

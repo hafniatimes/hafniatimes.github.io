@@ -100,10 +100,12 @@ translations:
     navigation:
         da:
             code: "Kode"
+            dyslexia: "Ordblindhed"
             feed: "RSS"
             home: "Forside"
         en:
             code: "Code"
+            dyslexia: "Dyslexia"
             feed: "Feed"
             home: "Home"
     footer:

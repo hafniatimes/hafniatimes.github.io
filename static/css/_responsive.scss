@@ -15,8 +15,6 @@
         background-color: #F8F8F8;
 
         li a { padding: 0 .75em; }
-
-        #dyslexia-mode { display: none; }
     }
 
     #name h1 { @include getVerticalRhythm($mobilenameH1Size); }
@@ -32,6 +30,8 @@
             height: $avatarSizeMobile;
         }
     }
+
+    .dyslexia-info { display: none; }
 }
 
 @media only screen {

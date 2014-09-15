@@ -2,12 +2,12 @@
     <li><a href="{{ base_relative }}">{{ t.navigation[page_language].home }}</a></li>
     <li><a href="{{ site.repo }}">{{ t.navigation[page_language].code }}</a></li>
     <li><a href="//twitter.com/hafniatimes">Twitter</a></li>
-    <li id="dyslexia-mode">
+    <li id="dyslexia-mode" class="dyslexia-info">
         <a
             href="javascript:if(typeof WZXYxe58==typeof alert)WZXYxe58();(function(){var s=document.createElement('link');s.setAttribute('href','/static/css/dyslexia.css');s.setAttribute('rel','stylesheet');s.setAttribute('type','text/css');document.getElementsByTagName('head')[0].appendChild(s);})();"
             title="Enable dyslexia mode"
         >
-            Dyslexia
+            {{ t.navigation[page_language].dyslexia }}
         </a>
     </li>
     <li><a href="{{ base_relative }}feed.atom">{{ t.navigation[page_language].feed }}</a></li>
