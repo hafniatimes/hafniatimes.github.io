@@ -13,6 +13,13 @@
     &:active { color: $black; }
 }
 
+//!
+#articles,
+#linked-articles,
+#footer {
+    padding-top: 0;
+}
+
 #site-navigation {
     @include getFontSize($navigationSize);
     @include padding-fix;

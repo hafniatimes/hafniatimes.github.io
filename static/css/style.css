@@ -230,6 +230,11 @@ mark {
   #site-navigation li a:visited, #name h1 a:visited, .post .translations a:visited, .post .post-content a:visited, #footer a:visited, #site-navigation li a:hover, #name h1 a:hover, .post .translations a:hover, .post .post-content a:hover, #footer a:hover, #site-navigation li a:active, #name h1 a:active, .post .translations a:active, .post .post-content a:active, #footer a:active {
     color: #555; }
 
+#articles,
+#linked-articles,
+#footer {
+  padding-top: 0; }
+
 #site-navigation {
   font-size: 1em;
   /** Margin and padding reset in WebKit */
