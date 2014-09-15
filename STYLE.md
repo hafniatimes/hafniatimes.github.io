@@ -1,7 +1,7 @@
 Style Manual
 ============
 
-General
+Characters
 -------
 
  Right   | Wrong
@@ -10,6 +10,13 @@ General
  ø       | oe, o
  å       | aa
  “Quote” | ”Quote”, ‘Quote’, «Quote»
+
+General
+-------
+
+ Right      | Wrong
+:-----------|:---------
+ Front page | Frontpage
 
 Media
 -----
