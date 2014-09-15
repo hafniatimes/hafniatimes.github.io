@@ -51,10 +51,18 @@ h2 {
     #articles,
     #linked-articles {
         h2 { text-align: center; }
-        a  { color: $blue !important; }
-        ul {
-            text-align: center;
-            li { list-style: none; }
+        li { list-style: none; clear: both; }
+        span.article-date {
+            float: left;
+            width: 20%;
+            text-align: right;
+        }
+        span.article-link {
+            float: left;
+            width: 75%;
+            margin-left: 1em; //!
+
+            a { color: $blue !important; }
         }
     }
 }

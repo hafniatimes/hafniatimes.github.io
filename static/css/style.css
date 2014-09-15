@@ -261,15 +261,23 @@ h2 {
 #frontpage #articles h2,
 #frontpage #linked-articles h2 {
   text-align: center; }
-#frontpage #articles a,
-#frontpage #linked-articles a {
-  color: #517CB4 !important; }
-#frontpage #articles ul,
-#frontpage #linked-articles ul {
-  text-align: center; }
-  #frontpage #articles ul li,
-  #frontpage #linked-articles ul li {
-    list-style: none; }
+#frontpage #articles li,
+#frontpage #linked-articles li {
+  list-style: none;
+  clear: both; }
+#frontpage #articles span.article-date,
+#frontpage #linked-articles span.article-date {
+  float: left;
+  width: 20%;
+  text-align: right; }
+#frontpage #articles span.article-link,
+#frontpage #linked-articles span.article-link {
+  float: left;
+  width: 75%;
+  margin-left: 1em; }
+  #frontpage #articles span.article-link a,
+  #frontpage #linked-articles span.article-link a {
+    color: #517CB4 !important; }
 
 .post .date {
   font-variant: small-caps; }
