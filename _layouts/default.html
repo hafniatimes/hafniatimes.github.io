@@ -50,7 +50,6 @@
             />
         {% endfor %}
     {% endif %}
-{% comment %}
     {% if page.trans %}
         <link
             rel="alternate"
@@ -60,12 +59,11 @@
         {% for t in page.trans %}
             <link
                 rel="alternate"
-                hreflang="..."
-                href="..."
+                hreflang="{% if page_language == da %}en{% else %}en{% endif %}"
+                href="{{ page.trans }}"
             />
         {% endfor %}
     {% endif %}
-{% endcomment %}
 
     {% if page.author %}
         {% if site.data.people[page.author].twitter %}
