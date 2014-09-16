@@ -1,5 +1,6 @@
 Style Manual
 ============
+The site generally follows the Oxford style.
 
 Characters
 -------
