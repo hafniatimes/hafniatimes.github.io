@@ -38,7 +38,7 @@ defaults:
             categories: "articles"
     -
         scope:
-            path: "da"
+            path: "_posts/da"
         values:
             lang: "da" # busted
             categories:
@@ -52,6 +52,7 @@ exclude:
     - "Gemfile.lock"
     - "LICENSE.md"
     - "README.md"
+    - "STYLE.md"
     - "WRITERS.md"
     - "npm-debug.log"
     - "package.json"
