@@ -12,12 +12,21 @@ Characters
  å       | aa
  “Quote” | ”Quote”, ‘Quote’, «Quote»
 
+Markdown
+--------
+ Right             | Wrong
+:------------------|:--------------
+`## Header 1 ##`   | `## Header 1`
+`### Header 2 ###` | `### Header 2`
+
+
 General
 -------
 
- Right      | Wrong
-:-----------|:---------
- Front page | Frontpage
+ Right            | Wrong
+:-----------------|:----------------
+ Hafnia Times     | The Hafnia Times
+ Front page       | Frontpage
 
 Media
 -----
@@ -28,6 +37,12 @@ Media
  DR    | Danish Radio, Denmark's Radio
  Berlingske Tidende | Berlingske
  Weekendavisen | WeekendAvisen
+
+Parties
+-------
+ Right                 | Shorthand | Wrong
+:----------------------|-----------|--------------------------
+ Danish People’s Party | DPP       | The Danish People’s Party
 
 Links
 ------
