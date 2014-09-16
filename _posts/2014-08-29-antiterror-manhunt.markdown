@@ -32,7 +32,6 @@ Copenhagen Police's massive effort had the intent of uncovering whether there wa
 
 ### Interviews---Once Everything Had Calmed Down
 
-<!--
 * <i>[Danish Radio (DR)](http://www.dr.dk/Nyheder/Indland/2014/08/28/152102.htm)</i>
 * <i>[TV 2](http://nyhederne.tv2.dk/krimi/2014-08-28-bombemand-var-uskyldig-studerende)</i>
 * <i>[Berlingske Tidende](http://www.b.dk/nationalt/maalet-for-menneskejagten-mange-tror-det-vaerste-om-folk-som-mig)</i>
@@ -50,44 +49,6 @@ Copenhagen Police's massive effort had the intent of uncovering whether there wa
     >**Interviewer**: Does it make you think that you shouldn't be sitting and reading a book on terror the next time on the train?
     >
     >**Ceran**: I will try to be more careful with my demeanour and talk to people around me, so they don't fear that something is amiss. And give them a smile.
--->
-
-<ul>
-    <li><i><a href="http://www.dr.dk/Nyheder/Indland/2014/08/28/152102.htm">Danish Radio (DR)</a></i>
-    </li>
-    <li><i><a href="http://nyhederne.tv2.dk/krimi/2014-08-28-bombemand-var-uskyldig-studerende">TV 2</a></i>
-    </li>
-    <li>
-        <p><i><a href="http://www.b.dk/nationalt/maalet-for-menneskejagten-mange-tror-det-vaerste-om-folk-som-mig">Berlingske Tidende</a></i>
-        </p>
-        <blockquote>
-            <p><strong>Interviewer</strong>: Are you shocked that so little from your
-                side of the train could set off so much?</p>
-            <p><strong>Ceran</strong>: Not really. I think a lot of people assume the
-                worst about people like me. That people who look like me and have a beard
-                like me are probably terrorists. There are probably many who don't know
-                a single person who looks like me. I can understand that the woman was
-                a little scared[.]</p>
-        </blockquote>
-    </li>
-    <li>
-        <p><i><a href="http://politiken.dk/indland/ECE2380165/offer-for-politi--og-mediejagt-jeg-vil-bare-gerne-vaere-gymnasielaerer/">Politiken</a></i>
-        </p>
-        <blockquote>
-            <p><strong>Interviewer</strong>: You weren't thinking about how your behaviour
-                might appear suspicious in the train?</p>
-            <p><strong>Ceran</strong>: Not at all. But I have a beard and a dark appearance.
-                In the media, it's always people like me who are the extremists. I will
-                say, though, that if I actually were a terrorist, why would I be sitting
-                and reading a book about it, but not carrying out the attack instead?</p>
-            <p><strong>Interviewer</strong>: Does it make you think that you shouldn't
-                be sitting and reading a book on terror the next time on the train?</p>
-            <p><strong>Ceran</strong>: I will try to be more careful with my demeanour
-                and talk to people around me, so they don't fear that something is amiss.
-                And give them a smile.</p>
-        </blockquote>
-    </li>
-</ul>
 
 And what of the police? Ceran had to lock himself into a accessible toilet as a precaution against people who might attempt a citizen's arrest on him---or worse. From here, he called the police himself to set the record straight. Below is an excerpt of <i>Politiken</i>'s [interview](http://politiken.dk/indland/ECE2379596/politidirektoer-efter-menneskejagt-vi-har-ikke-noget-at-undskylde/) with police commissioner Thorkild Fogde.
 
