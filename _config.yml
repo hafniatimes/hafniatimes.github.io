@@ -15,6 +15,7 @@ show_footer:   true
 show_posts: true
 show_bylines: true
 limit_posts: 0
+permalink: pretty
 # # # # # # # # # #
 
 # Markdown # # # # # # # # # # # # # # # # # # # #

@@ -6,6 +6,7 @@ slug: danish-polls
 trans: /da/articles/2014/09/14/danish-polls.html
 image: true
 updated: true
+permalink: /articles/2014/09/14/danish-polls.html
 ---
 Today, I think my collection of Danish opinion polls are mature enough to share with the public. They can be found on [this](https://github.com/ndarville/danish-polls) site.
 
