@@ -27,6 +27,7 @@ General
 :-----------------|:----------------
  Hafnia Times     | The Hafnia Times
  Front page       | Frontpage
+ Data (plural)    | Data (singular)
 
 Media
 -----
