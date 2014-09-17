@@ -40,9 +40,16 @@ Media
 
 Parties
 -------
- Right                 | Shorthand | Wrong
-:----------------------|-----------|--------------------------
- Danish People’s Party | DPP       | The Danish People’s Party
+ Right                                | Shorthand            | Wrong
+:-------------------------------------|:---------------------|:---------------------------------
+ [The Danish Social Democrats][a]     | The Social Democrats | (Without definite article)
+ [The Danish Social-Liberal Party][b] | The Social Liberals  | (Without definite article)
+  Socialist People’s Party            | -                    | (With definite article)
+  The Conservative People's Party     | The Conservatives    | (Without definite article)
+  Liberal Alliance                    | -                    | (With definite article)
+ [Danish People’s Party][o]           | DPP                  | (With definite article)
+ [Venstre][v]                         | -                    | Venstre, Liberal Party of Denmark
+ [The Red-Green Alliance][ø]          | The Red-Greens       | (Without definite article)
 
 Links
 ------
@@ -50,3 +57,9 @@ Links
 
 
 [transgender]: http://www.glaad.org/reference/transgender
+
+[a]: http://socialdemokraterne.dk/default.aspx?site=english
+[b]: http://www.radikale.dk/english
+[o]: http://www.danskfolkeparti.dk/The_Party_Program_of_the_Danish_Peoples_Party
+[v]: http://www.venstre.dk/servicemenu/english/facts-about-venstre/
+[ø]: http://enhedslisten.dk/content/red-green-alliance
