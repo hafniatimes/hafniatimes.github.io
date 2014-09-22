@@ -67,7 +67,7 @@
 
     {% if page.author %}
         {% if site.data.people[page.author].twitter %}
-            <meta name="twitter:creator" content="@site.data.people[page.author].twitter">
+            <meta name="twitter:creator" content="@{{ site.data.people[page.author].twitter }}">
         {% else %}
             <meta name="twitter:creator" content="@HafniaTimes">
         {% endif %}
