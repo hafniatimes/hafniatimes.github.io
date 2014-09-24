@@ -78,7 +78,7 @@
     {% if page.excerpt %}
         <meta property="og:description" content="{{ page.excerpt | markdownify | strip_html }}">
     {% else %}
-        <meta property="og:description" content="{{ site.description }}">
+        <meta property="og:description" content="{{ t.frontpage[page_language].description }}">
     {% endif %}
     {% if page.url %}
         <meta property="og:url" content="{{ site.url }}{{ page.url }}">
