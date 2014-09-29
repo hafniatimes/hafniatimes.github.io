@@ -1,9 +1,9 @@
 ndarville:  # GitHub username
   name: Niclas Darville
   bio: ""
+  avatar: jpeg
   twitter: pessimism
   website: ndarville.com
-  # From github.com/ndarville.png
-  avatar: jpeg
   mail: ""
-  public_key: ""
+  public_key: 8ACC 17A5 EA8B BC19
+  keybase: ndarville
