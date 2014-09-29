@@ -25,8 +25,8 @@
     @include padding-fix;
 
     &.box {
-        padding: .5em 0;
         text-align: center;
+        padding: .5em 0;
     }
 
     li {
@@ -59,15 +59,17 @@ h2 {
     #linked-articles {
         h2 { text-align: center; }
         li { list-style: none; clear: both; }
+
         span.article-date {
-            float: left;
-            width: 20%;
             text-align: right;
-        }
-        span.article-link {
+            width: 20%;
             float: left;
+        }
+
+        span.article-link {
             width: 75%;
             margin-left: 1em; //!
+            float: left;
 
             a { color: $blue !important; }
         }
@@ -84,6 +86,7 @@ h2 {
     }
 
     img.avatar {
+        border: 1px solid beige;
         width: $avatarSize;
         height: $avatarSize;
         @if $avatarShape == "circle" {
@@ -93,8 +96,6 @@ h2 {
         } // @else == square
         @include center;
         display: block;
-        // Add circle around avatar
-        border: 1px solid beige;
         padding: 5px;
     }
 
@@ -111,13 +112,12 @@ h2 {
         margin: $padding 0;
 
         li {
-            display: inline-block;
-            text-align: center;
-            list-style: none;
-
-            padding: 5px 10px;
             border: 1px solid $black;
+            list-style: none;
+            text-align: center;
             @include border-radius(5px);
+            display: inline-block;
+            padding: 5px 10px;
 
             &:hover { background-color: $grey; }
         }
@@ -139,16 +139,12 @@ h2 {
         @include getVerticalRhythm($postUpdateSize);
         background-color: beige;
         border: 1px solid steelblue;
-
-        padding: .75em;
-
-        float: none;
-        margin: $padding auto;
-
-        display: block;
-
-        width: 85%;
         text-align: center;
+        width: 85%;
+        float: none;
+        padding: .75em;
+        margin: $padding auto;
+        display: block;
 
         a,
         &:active,
@@ -183,8 +179,8 @@ h2 {
 
         blockquote {
             margin: $padding 0;
-            padding: 0 $padding 0 $padding + $blockquoteBorder;
             border-left: 3px solid $grey;
+            padding: 0 $padding 0 $padding + $blockquoteBorder;
         }
 
         li blockquote { margin: $padding; }

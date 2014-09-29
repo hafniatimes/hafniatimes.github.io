@@ -243,8 +243,8 @@ mark {
   -webkit-padding-start: 0;
   padding: 0; }
   #site-navigation.box {
-    padding: .5em 0;
-    text-align: center; }
+    text-align: center;
+    padding: .5em 0; }
   #site-navigation li {
     display: inline-block; }
     #site-navigation li a {
@@ -272,14 +272,14 @@ h2 {
   clear: both; }
 #frontpage #articles span.article-date,
 #frontpage #linked-articles span.article-date {
-  float: left;
+  text-align: right;
   width: 20%;
-  text-align: right; }
+  float: left; }
 #frontpage #articles span.article-link,
 #frontpage #linked-articles span.article-link {
-  float: left;
   width: 75%;
-  margin-left: 1em; }
+  margin-left: 1em;
+  float: left; }
   #frontpage #articles span.article-link a,
   #frontpage #linked-articles span.article-link a {
     color: #517CB4 !important; }
@@ -291,6 +291,7 @@ h2 {
 .post .translators {
   text-align: center; }
 .post img.avatar {
+  border: 1px solid beige;
   width: 125px;
   height: 125px;
   -webkit-border-radius: 50%;
@@ -300,7 +301,6 @@ h2 {
   margin-left: auto;
   margin-right: auto;
   display: block;
-  border: 1px solid beige;
   padding: 5px; }
 .post .byline,
 .post .translators {
@@ -316,14 +316,14 @@ h2 {
   margin-right: auto;
   margin: 20px 0; }
   .post .translations li {
-    display: inline-block;
-    text-align: center;
-    list-style: none;
-    padding: 5px 10px;
     border: 1px solid #555;
+    list-style: none;
+    text-align: center;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
-    border-radius: 5px; }
+    border-radius: 5px;
+    display: inline-block;
+    padding: 5px 10px; }
     .post .translations li:hover {
       background-color: rgba(215, 215, 215, 0.7); }
 .post h2 {
@@ -340,12 +340,12 @@ h2 {
   line-height: 1.71429em;
   background-color: beige;
   border: 1px solid steelblue;
-  padding: .75em;
-  float: none;
-  margin: 20px auto;
-  display: block;
+  text-align: center;
   width: 85%;
-  text-align: center; }
+  float: none;
+  padding: .75em;
+  margin: 20px auto;
+  display: block; }
   .post .updated.box a, .post .updated.box:active, .post .updated.box:visited {
     color: #555; }
 .post .post-content a {
@@ -358,8 +358,8 @@ h2 {
     padding: 0; }
 .post .post-content blockquote {
   margin: 20px 0;
-  padding: 0 20px 0 23px;
-  border-left: 3px solid rgba(215, 215, 215, 0.7); }
+  border-left: 3px solid rgba(215, 215, 215, 0.7);
+  padding: 0 20px 0 23px; }
 .post .post-content li blockquote {
   margin: 20px; }
 .post .post-content img {
