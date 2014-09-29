@@ -51,7 +51,7 @@ linters:
   PropertySpelling:
     enabled: false
   SelectorDepth:
-    enabled: true
+    enabled: false  # Subjective
   Shorthand:
     enabled: true
   SingleLinePerProperty:
