@@ -36,7 +36,7 @@ Media
  Right         | Wrong
 :--------------|:-----------------------------
  TV 2          | TV2
- DR            | Danish Radio, Denmark's Radio
+ DR            | Danish Radio, Denmark’s Radio
  Berlingske Tidende | Berlingske
  Weekendavisen | WeekendAvisen
  BuzzFeed      | Buzzfeed
