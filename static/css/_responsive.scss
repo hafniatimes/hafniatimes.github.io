@@ -24,11 +24,9 @@
         clear: both;
     }
 
-    .post {
-        img.avatar {
-            width: $avatarSizeMobile;
-            height: $avatarSizeMobile;
-        }
+    .post img.avatar {
+        width: $avatarSizeMobile;
+        height: $avatarSizeMobile;
     }
 }
 
