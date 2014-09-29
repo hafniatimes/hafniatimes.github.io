@@ -31,7 +31,7 @@ Copenhagen Police's massive effort had the intent of uncovering whether there wa
 >
 >\- We have received great help from the population, who've reacted appropriately during the situation. Based on our use of Twitter, we received great tips in our Service Centre. Huge kudos [/applause] to the public and the wanted's family for their way of handling the situation. The wanted person, too, has handled all the ruckus with an understanding of the police's reaction, and we want to emphasize that he in no way was known by the police already, says Claus Hjelm Olsen.
 
-### Interviews---Once Everything Had Calmed Down
+### Interviews---Once Everything Had Calmed Down ###
 
 * <i>[Danish Radio (DR)](http://www.dr.dk/Nyheder/Indland/2014/08/28/152102.htm)</i>
 * <i>[TV 2](http://nyhederne.tv2.dk/krimi/2014-08-28-bombemand-var-uskyldig-studerende)</i>

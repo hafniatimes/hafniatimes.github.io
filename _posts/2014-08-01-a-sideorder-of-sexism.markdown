@@ -17,14 +17,14 @@ permalink: /articles/2014/08/02/a-sideorder-of-sexism.html
 >
 >(...)[^full]
 
-## Joe & the Juice
+### Joe & the Juice ###
 Kaspar Basse founded the company in Denmark in 2002. It has become the biggest juice-bar chain in Denmark with affiliates in the U.K., Germany, Norway, Sweden, and Iceland. It was acquired in 2013 by Swedish private-equity group [Valedo Partners][vp].
 
 In the bars, customers lounge with their juices and sandwiches. All bars are heavily branded with an environment of loud music and noises, and a staff of fresh-faced men exuding a upbeat, chatty, and fratty demeanour. The branded culture is evident a menu featuring juices like **"Joe's Green Kiss"**, **"Sex Me Up"**, and **"Young Blood"**[^menu].
 
 The Abercrombie & Sandwich concept has been adopted by competing juice bars such as [Big Apple][ba].
 
-## The Reaction
+### The Reaction ###
 Nygaard's Facebook post sparked a fiery discussion and quickly prompted coverage all over Danish media.[^coverage]
 
 Five hours after the original post, Joe & the Juice responded in a hastily-scribbled Facebook comment. It was penned by **Simon Nielsen**, the company's Academy Leader and Brand Police[^simon-nielsen]. The statement reads[^language]:
