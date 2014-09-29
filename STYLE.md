@@ -23,21 +23,23 @@ Markdown
 General
 -------
 
- Right            | Wrong
-:-----------------|:----------------
- Hafnia Times     | The Hafnia Times
- Front page       | Frontpage
- Data (plural)    | Data (singular)
+ Right               | Wrong
+:--------------------|:----------------
+ Hafnia Times        | The Hafnia Times
+ Front page          | Frontpage
+ Data (plural)       | Data (singular)
+ 10,000 DKK ($1,702) | 10,000 kr., 10,000 crowns, 10,000 Danish kroner
 
 Media
 -----
 
- Right | Wrong
-:------|:-----------------------------
- TV 2  | TV2
- DR    | Danish Radio, Denmark's Radio
+ Right         | Wrong
+:--------------|:-----------------------------
+ TV 2          | TV2
+ DR            | Danish Radio, Denmark's Radio
  Berlingske Tidende | Berlingske
  Weekendavisen | WeekendAvisen
+ BuzzFeed      | Buzzfeed
 
 Parties
 -------
