@@ -40,6 +40,7 @@ Media
  Berlingske Tidende | Berlingske
  Weekendavisen | WeekendAvisen
  BuzzFeed      | Buzzfeed
+ Radio24syv    | Radio24Syv, radio24syv
 
 Parties
 -------
