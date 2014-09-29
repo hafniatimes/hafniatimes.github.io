@@ -334,6 +334,8 @@ h2 {
 .post h3 {
   margin-top: 1em;
   margin-bottom: .33em; }
+.post h4 {
+  font-style: italic; }
 .post .updated.box {
   font-size: 0.875em;
   margin-top: 0;

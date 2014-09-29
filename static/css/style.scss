@@ -135,6 +135,8 @@ h2 {
         margin-bottom: .33em;
     }
 
+    h4 { font-style: italic; } //!
+
     .updated.box {
         @include getVerticalRhythm($postUpdateSize);
         background-color: beige;
