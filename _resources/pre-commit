@@ -3,8 +3,13 @@
 # Go to root
 cd $(git rev-parse --git-dir) && cd ..
 
-# Validate SCSS
+# Validate URLs
+bundle exec htmlproof _site
+# HTMLlint
+htmlhint _site
+# SCSSlint
 bundle exec scss-lint static/css/*.scss
-
-# Build Jekyll site
-bundle exec jekyll build
+## JSlint
+# jshint static/js/
+##CSSlint
+# csslint static/css/style.css --exclude-list=""
