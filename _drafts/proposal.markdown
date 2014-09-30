@@ -1,12 +1,16 @@
 ---
-layout: post
 title: "A Modest Proposal"
 slug: proposal
-author: ndarville
 date: 2014-06-05 17:00:00
 tags: ideas
-categories: articles
 updated: true
+
+lang: en
+categories:
+    - articles
+type: posts
+layout: post
+author: ndarville
 ---
 Lorem ipsum dolor sit amet, **consectetuer** adipiscing elit. *Aenean commodo ligula eget dolor.* Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
