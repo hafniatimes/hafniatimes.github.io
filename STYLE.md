@@ -3,8 +3,7 @@ Style Manual
 The site generally follows the Oxford style.
 
 Characters
--------
-
+----------
  Right   | Wrong
 :--------|:--------------------------
  æ       | ae
@@ -22,7 +21,6 @@ Markdown
 
 General
 -------
-
  Right               | Wrong
 :--------------------|:----------------
  Hafnia Times        | The Hafnia Times
@@ -32,7 +30,6 @@ General
 
 Media
 -----
-
  Right         | Wrong
 :--------------|:-----------------------------
  TV 2          | TV2
@@ -54,6 +51,18 @@ Parties
  [Danish People’s Party][o]           | DPP                  | (With definite article)
  [Venstre][v]                         | -                    | Venstre, Liberal Party of Denmark
  [The Red-Green Alliance][ø]          | The Red-Greens       | (Without definite article)
+
+Politicians
+-----------
+ Right                   | Shorthand        | Wrong
+:------------------------|:-----------------|:-----------------------
+ Helle Thorning-Schmidt  | Thorning-Schmidt | Helle Thorning Schmidt
+ Kristian Thulesen Dahl  | Dahl             | Kristian Thulesen-Dahl
+ Margrethe Vestager      | Vestager         | Magrethe Vestager
+ Pia Olsen Dyhr          | Dyhr             | Pia Olsen-Dyhr
+ Johanne Schmidt-Nielsen | Schmidt-Nielsen  | Johanne Schmidt Nielsen
+ Pia Kjærsgaard          | Kjærsgaard       | Pia Kærsgaard
+ Lars Løkke Rasmussen    | Rasmussen        | Lars Løkke-Rasmussen
 
 Links
 ------
