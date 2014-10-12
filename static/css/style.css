@@ -356,7 +356,7 @@ h2 {
     background-color: rgba(215, 215, 215, 0.7); }
   .post .post-content a:hover {
     background-color: orange; }
-  .post .post-content a[href$="png"], .post .post-content a[href$="jpg"], .post .post-content a[href$="jpeg"], .post .post-content a[href$="gif"], .post .post-content a[href$="webm"] {
+  .post .post-content a[href$="png"], .post .post-content a[href$="jpg"], .post .post-content a[href$="jpeg"], .post .post-content a[href$="gif"], .post .post-content a[href$="webp"] {
     padding: 0; }
 .post .post-content blockquote {
   margin: 20px 0;
