@@ -3,8 +3,6 @@ exclude: "_site/"
 linters:
   BorderZero:
     enabled: false
-  CapitalizationInSelector:
-    enabled: true
   ColorKeyword:
     enabled: false
   Comment:
@@ -52,6 +50,9 @@ linters:
     enabled: false
   SelectorDepth:
     enabled: false  # Subjective
+  SelectorFormat:
+    enabled: true
+    convention: hyphenated_lowercase
   Shorthand:
     enabled: true
   SingleLinePerProperty:
@@ -73,6 +74,8 @@ linters:
     enabled: true
     style: double_quotes  # Subjective
   TrailingSemicolon:
+    enabled: true
+  TrailingZero:
     enabled: true
   UnnecessaryMantissa:
     enabled: true
