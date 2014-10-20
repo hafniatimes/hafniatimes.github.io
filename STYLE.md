@@ -64,15 +64,27 @@ Politicians
  Pia Kjærsgaard          | Kjærsgaard       | Pia Kærsgaard
  Lars Løkke Rasmussen    | Rasmussen        | Lars Løkke-Rasmussen
 
+Acronyms/Abbreviations
+----------------------
+Use Markdown’s [abbreviation syntax][abbr] in the following cases:
+
+ Shorthand  | Full Word
+:-----------|:------------------------------------
+ MEP        | Member(s) of the European Parliament
+ MP         | Member(s) of parliament
+
+
 Links
 ------
 - [GLAAD Media Reference Guide on Transgender Issues][transgender]
 
 
-[transgender]: http://www.glaad.org/reference/transgender
+[abbr]: https://michelf.ca/projects/php-markdown/extra/#abbr
 
 [a]: http://socialdemokraterne.dk/default.aspx?site=english
 [b]: http://www.radikale.dk/english
 [o]: http://www.danskfolkeparti.dk/The_Party_Program_of_the_Danish_Peoples_Party
 [v]: http://www.venstre.dk/servicemenu/english/facts-about-venstre/
 [ø]: http://enhedslisten.dk/content/red-green-alliance
+
+[transgender]: http://www.glaad.org/reference/transgender
