@@ -3,6 +3,7 @@ url: http://hafniatimes.com
 shorturl: http://hafnia.co
 repo:  https://github.com/hafniatimes/hafniatimes.github.io
 dyslexia_support: true
+data_source: data
 
 # Settings # # # # # # # # # # #
 ga:            "UA-7184031-12"
