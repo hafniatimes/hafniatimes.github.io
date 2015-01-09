@@ -1,6 +1,8 @@
 exclude: "_site/"
 
 linters:
+  BangFormat:
+    enabled: true
   BorderZero:
     enabled: false
   ColorKeyword:
@@ -12,7 +14,7 @@ linters:
   DebugStatement:
     enabled: true
   DeclarationOrder:
-    enabled: true
+    enabled: false  # Subjective
   DuplicateProperty:
     enabled: true
   ElsePlacement:
@@ -32,7 +34,9 @@ linters:
     style: uppercase  # Subjective
   HexValidation:
     enabled: true
-  IdWithExtraneousSelector:
+  IdSelector:
+    enabled: false
+  ImportPath:
     enabled: false
   Indentation:
     enabled: false  # Disabled for extra indentaiton
@@ -42,11 +46,15 @@ linters:
     enabled: true
   NameFormat:
     enabled: false  # Subjective
+  NestingDepth:
+    enabled: false
   PlaceholderInExtend:
     enabled: true
   PropertySortOrder:
-    enabled: false
+    enabled: false  # Subjective
   PropertySpelling:
+    enabled: false
+  QualifyingElement:
     enabled: false
   SelectorDepth:
     enabled: false  # Subjective
@@ -85,5 +93,7 @@ linters:
     enabled: true
   UrlQuotes:
     enabled: true
+  VendorPrefixes:
+    enabled: false
   ZeroUnit:
     enabled: true
