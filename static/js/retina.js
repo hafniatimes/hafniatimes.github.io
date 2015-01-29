@@ -1,5 +1,5 @@
 (function() {
-  var root = (typeof exports == 'undefined' ? window : exports);
+  var root = (typeof exports == "undefined" ? window : exports);
 
   root.Retina = Retina;
 
@@ -11,7 +11,12 @@
     var existing_onload = context.onload || new Function();
 
     context.onload = function() {
-      var images = document.getElementsByTagName("img"), retinaImages = [], i, image;
+      var images = document.getElementsByTagName("img"),
+          retinaImages =
+            [],
+            i,
+            image;
+
       for (i = 0; i < images.length; i++) {
         image = images[i];
         retinaImages.push(new RetinaImage(image));
@@ -20,8 +25,8 @@
     };
   };
 
-  Retina.isRetina = function(){
-    /* jshint multistr: true */
+  Retina.isRetina = function() {
+    /* `jshint` multistr: true */
     var mediaQuery = "(-webkit-min-device-pixel-ratio: 1.5),\
                       (min--moz-device-pixel-ratio: 1.5),\
                       (-o-min-device-pixel-ratio: 3/2),\
@@ -66,7 +71,7 @@
 
   function RetinaImage(el) {
     this.el = el;
-    this.path = new RetinaImagePath(this.el.getAttribute('src'));
+    this.path = new RetinaImagePath(this.el.getAttribute("src"));
     var that = this;
     this.path.check_2x_variant(function(hasVariant) {
       if (hasVariant) that.swap();
@@ -76,16 +81,16 @@
   root.RetinaImage = RetinaImage;
 
   RetinaImage.prototype.swap = function(path) {
-    if (typeof path == 'undefined') path = this.path.at_2x_path;
+    if (typeof path == "undefined") path = this.path.at_2x_path;
 
     var that = this;
     function load() {
-      if (! that.el.complete) {
+      if (!that.el.complete) {
         setTimeout(load, 5);
       } else {
-        that.el.setAttribute('width', that.el.offsetWidth);
-        that.el.setAttribute('height', that.el.offsetHeight);
-        that.el.setAttribute('src', path);
+        that.el.setAttribute("width", that.el.offsetWidth);
+        that.el.setAttribute("height", that.el.offsetHeight);
+        that.el.setAttribute("src", path);
       }
     }
     load();

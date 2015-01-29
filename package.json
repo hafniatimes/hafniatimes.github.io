@@ -1,21 +1,22 @@
 {
-  "name": "jekyll-bootstrap",
-  "version": "0.5.0",
-  "author": "ndarville",
-  "description": "A (well, my) boilerplate for starting a webdesign project with the static-blog CMS Jekyll",
+  "name": "style",
+  "version": "0.0.2",
+  "description": "Linting packages for webdev workflow.",
+  "keywords": [
+    "linting"
+  ],
+  "author": {
+    "name": "Niclas Darville",
+    "url": "https://ndarville.com"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/FranklyWeb/jekyll-bootstrap.git"
+    "url": "http://github.com/ndarville/style.git"
   },
-  "scripts": {
-    "test": "htmlhint _site && csslint static/css/ && jshint static/js/"
-  },
-  "dependencies": {
+  "devDependencies": {
     "csslint":  "^0.10.0",
     "htmlhint": "^0.9.4",
-    "jshint":   "^2.5.0"
-  },
-  "engines": {
-    "node": "==0.10.26"
+    "jshint":   "^2.5.0",
+    "jscs":     "^1.10.0"
   }
 }

@@ -15,7 +15,7 @@ env:
 
 install:
   - bundle install --quiet
-  - npm install htmlhint csslint jshint
+  - npm install
 
 before_script:
   - cat Gemfile.lock
@@ -29,6 +29,7 @@ after_script:
   - htmlhint $HTML_FOLDER
   - bundle exec scss-lint $STYLE_FOLDER/*.scss
   - csslint $CSS_FILES --exclude-list=$CSS_EXCLUDES
+  - jscs $JS_FOLDER
   - jshint $JS_FOLDER
 
 notifications:
