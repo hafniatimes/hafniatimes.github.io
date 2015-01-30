@@ -5,7 +5,6 @@
         "else",
         "else if"
     ],
-    "disallowSpaceAfterObjectKeys": true,
     "disallowSpaceAfterPrefixUnaryOperators": true,
     "disallowSpaceBeforePostfixUnaryOperators": true,
     "disallowSpacesInAnonymousFunctionExpression": {
@@ -20,7 +19,6 @@
     "requireCapitalizedComments": true,
     "requireCommaBeforeLineBreak": true,
     "requireLineBreakAfterVariableAssignment": true,
-    "requireMultipleVarDecl": true,
     "requireQuotedKeysInObjects": true,
     "requireSpaceAfterBinaryOperators": [
         "=",
@@ -67,6 +65,6 @@
     "requireSpacesInConditionalExpression": true,
     "requireSpacesInForStatement": true,
     // "validateIndentation": 4,
-    "validateLineBreaks": "CRLF",
+    // "validateLineBreaks": "CRLF",
     "validateQuoteMarks": "\""
 }
