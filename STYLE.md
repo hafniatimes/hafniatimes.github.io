@@ -2,6 +2,8 @@ Style Manual
 ============
 The site generally follows the Oxford style.
 
+As with unit testing for code, a good habit is to add an entry for each problem you run into.
+
 Characters
 ----------
  Right   | Wrong
@@ -29,14 +31,15 @@ General
 
 Media
 -----
- Right         | Wrong
-:--------------|:-----------------------------
- TV 2          | TV2
- DR            | Danish Radio, Denmark’s Radio
+ Right           | Wrong
+:----------------|:-------------------------------
+ TV 2            | TV2
+ DR              | Danish Radio, Denmark’s Radio
  Berlingske Tidende | Berlingske
- Weekendavisen | WeekendAvisen
- BuzzFeed      | Buzzfeed
- Radio24syv    | Radio24Syv, radio24syv
+ Weekendavisen   | WeekendAvisen
+ BuzzFeed        | Buzzfeed
+ Radio24syv      | Radio24Syv, radio24syv
+ Jyllands-Posten | Jyllands Posten, JyllandsPosten
 
 Parties
 -------
@@ -62,6 +65,26 @@ Politicians
  Johanne Schmidt-Nielsen | Schmidt-Nielsen  | Johanne Schmidt Nielsen
  Pia Kjærsgaard          | Kjærsgaard       | Pia Kærsgaard
  Lars Løkke Rasmussen    | Rasmussen        | Lars Løkke-Rasmussen
+
+Politicians
+-----------
+ Right                      | Wrong
+:---------------------------|:------------
+ Ride-booking, ride-hailing | Ride-sharing
+
+Politics
+--------
+ Right                           | Wrong
+:--------------------------------|:----------------------
+ Democrat, Conservative (adj/sb) | democrat, conservative
+ Muslim, Jew, Christian (adj/sb) | muslim, jew, christian
+ Secretary general | Secretary General, Secretary-General
+
+Companies
+---------
+ Right | Wrong
+:------|:-----
+ LEGO  | Lego
 
 Acronyms/Abbreviations
 ----------------------
