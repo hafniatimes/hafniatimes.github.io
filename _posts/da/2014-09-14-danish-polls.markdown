@@ -42,4 +42,4 @@ Så værsgo at bruge målingerne [hér](https://github.com/ndarville/danish-poll
 - <i>[trefyranio](http://trefyranio.com)</i> (349)
 
 ### Gode Bøger ###
-- <i>[The Gamble](http://press.princeton.edu/titles/10073.html)</i> (gratis kapitler til download [hér](http://themonkeycage.org/2013/01/24/new-e-chapter-of-the-gamble-available-its-free/))
+- <i>The Gamble</i> (gratis kapitler til download [hér](http://themonkeycage.org/2013/01/24/new-e-chapter-of-the-gamble-available-its-free/))

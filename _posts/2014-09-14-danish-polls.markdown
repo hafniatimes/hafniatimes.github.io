@@ -42,4 +42,4 @@ So start using the polls [here](https://github.com/ndarville/danish-polls).
 - <i>[trefyranio](http://trefyranio.com/english)</i> (349)
 
 ### Great Books ###
-- <i>[The Gamble](http://press.princeton.edu/titles/10073.html)</i> (free, downloadable chapters [here](http://themonkeycage.org/2013/01/24/new-e-chapter-of-the-gamble-available-its-free/))
+- <i>The Gamble</i> (free, downloadable chapters [here](http://themonkeycage.org/2013/01/24/new-e-chapter-of-the-gamble-available-its-free/))
