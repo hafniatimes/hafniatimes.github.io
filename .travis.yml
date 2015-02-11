@@ -31,6 +31,7 @@ after_script:
   - csslint $CSS_FILES --exclude-list=$CSS_EXCLUDES
   - jscs $JS_FOLDER
   - jshint $JS_FOLDER
+  - gem install mdl & mdl _posts/*.markdown -c .mdlrc
 
 notifications:
   email:

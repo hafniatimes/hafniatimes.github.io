@@ -5,11 +5,15 @@ cd $(git rev-parse --git-dir) && cd ..
 
 # Validate URLs
 bundle exec htmlproof _site
-# HTMLlint
+# htmlhint
 htmlhint _site
-# SCSSlint
+# scss-lint
 bundle exec scss-lint static/css/*.scss
-## JSlint
+# jscs
+jscs static/js/
+## jshint
 # jshint static/js/
-##CSSlint
+## csslint
 # csslint static/css/style.css --exclude-list=""
+# mdl
+mdl _posts/*.markdown -c .mdlrc
