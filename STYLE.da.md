@@ -1,5 +1,5 @@
 Danskere og Udlændinge
-----------------------
+======================
 Vær specifik i ordbugen og hold dig til definerede, citérbare ord frem for:
 
 - Fremmede
