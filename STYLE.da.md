@@ -3,9 +3,7 @@ Dansk Stilmanual
 
 Vestlige og Ikke-vestlige Lande
 -------------------------------
-(Fra samme kilde og side.)
-
-De vestlige lande udgøres af:
+Ifølge Danmarks Statistik [“Indvandrere I Danmark” (2014)][dst] side 12 udgørs de vestlige lande udgøres af:
 
 * EU28
 * Andorra
@@ -35,7 +33,7 @@ Vær specifik i ordbugen og hold dig til definerede, citérbare ord frem for:
 - Person med (anden)etnisk herkomst
 - 1.-, 2.- el. 3.-generations-indvandrer
 
-Nedenstående definitioner er fra Danmarks Statistiks [“Indvandrere I Danmark” (2014)][dst] side 12.
+Nedenstående definitioner er også fra Danmarks Statistiks [“Indvandrere I Danmark” (2014)][dst] side 12.
 
 De skelner på baggrund af *herkomst*—ikke etnicitet.
 
