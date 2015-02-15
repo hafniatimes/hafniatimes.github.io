@@ -26,8 +26,8 @@ General
 :--------------------|:----------------
  Hafnia Times        | The Hafnia Times
  Front page          | Frontpage
- Data (plural)       | Data (singular)
- 10,000 DKK ($1,702) | 10,000 kr., 10,000 crowns, 10,000 Danish kroner
+ 1,000,000           | 1000000
+ 10,000 Danish kroner ($1,702) | 10,000 kr., 10,000 crowns, 10,000,-
 
 Media
 -----
@@ -48,7 +48,7 @@ Parties
  [The Danish Social Democrats][a]     | The Social Democrats | (Without definite article)
  [The Danish Social-Liberal Party][b] | The Social Liberals  | (Without definite article)
   Socialist People’s Party            | -                    | (With definite article)
-  The Conservative People's Party     | The Conservatives    | (Without definite article)
+  The Conservative People’s Party     | The Conservatives    | (Without definite article)
   Liberal Alliance                    | -                    | (With definite article)
  [Danish People’s Party][o]           | DPP                  | (With definite article)
  [Venstre][v]                         | -                    | Venstre, Liberal Party of Denmark
@@ -70,21 +70,46 @@ Politicians
 -----------
  Right                      | Wrong
 :---------------------------|:------------
- Ride-booking, ride-hailing | Ride-sharing
+ ride-booking, ride-hailing | ride-sharing
 
 Politics
 --------
- Right                           | Wrong
-:--------------------------------|:----------------------
- Democrat, Conservative (adj/sb) | democrat, conservative
- Muslim, Jew, Christian (adj/sb) | muslim, jew, christian
- Secretary general | Secretary General, Secretary-General
+ Right                       | Wrong
+:----------------------------|:---------------------------
+ Democrat(ic), Conservative  | democrat(ic), conservative
+ Muslim, Jew(ish), Christian | muslim, jew(ish), christian
+ secretary general | Secretary General, Secretary-General
 
 Companies
 ---------
  Right | Wrong
 :------|:-----
  LEGO  | Lego
+
+Finance
+-------
+ Right          | Wrong
+:---------------|:-----
+ Nationalbanken, Denmark’s Nationalbank | The Danish (...), The Central Bank of Denmark
+ Riksbanken, Sweden’s Riksbank          | The Swedish (...), The Central Bank of Sweden
+ ECB | The European Central Bank, Europe’s Central Bank
+
+Currency
+--------
+All currencies are uncapitalized.
+
+ Right                     | Wrong
+:--------------------------|:-----
+ (Danish) krone(r), DKK    | (Danish) kroners
+ (Norwegian) krone(r), NOK | (Danish) kroners
+ (Swedish) krona/-or, SEK  | (Swedish) kroner, (Swedish), kronors
+ (Swiss) franc(s), CHF     |
+ euro           | euros
+ (U.S.) dollars | (U.S.) Dollars
+
+Using the currency symbols is preferable; “$1,500”, “1,500 kr.” vs. “1,500 U.S. dollars”, “1,500 Danisk kroner”.
+
+Use the unabbreviated currency the first time, and the abbreviation for repeat uses.
 
 Acronyms/Abbreviations
 ----------------------
@@ -94,7 +119,6 @@ Use Markdown’s [abbreviation syntax][abbr] in the following cases:
 :-----------|:------------------------------------
  MEP        | Member(s) of the European Parliament
  MP         | Member(s) of parliament
-
 
 Links
 ------
