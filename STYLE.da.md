@@ -56,7 +56,9 @@ Misvisende Udtryk
 ### Udlændinge- og Indvandrer(politik) ###
 Udtrykkene bruges i flæng, men er sjældent præcise, for ikke at sige direkte forkerte.
 
-Brug kun udtrykkende, når der er tale om henholdsvis udlændinge og indvandrere. Forvanskningen og forvirringen bidrager i sig selv til debatten.
+Brug kun udtrykkene, når der er tale om henholdsvist udlændinge og indvandrere; hvis der er tale om asyl, så skriv asylpolitik. Hvis der er tale om grænsekontrol, så skriv grænsekontrol.
+
+Forvanskningen og forvirringen bidrager i sig selv til debatten, eksempeltvist når danske statsborgere gøres til ikke-danskere eller semi-danskere.
 
 
 [dst]: http://www.dst.dk/da/Statistik/Publikationer/VisPub.aspx?cid=19004
