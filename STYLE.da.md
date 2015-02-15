@@ -23,7 +23,7 @@ De ikke-vestlige udgøres af de resterende lande.
 
 Danskere og Udlændinge
 ----------------------
-Vær specifik i ordbugen og hold dig til definerede, citérbare ord frem for:
+Vær specifik i ordbrugen og hold dig til definerede, citérbare ord frem for:
 
 - Fremmede
 - Nydansker
