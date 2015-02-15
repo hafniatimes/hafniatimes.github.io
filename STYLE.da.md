@@ -1,5 +1,30 @@
+Dansk Stilmanual
+================
+
+Vestlige og Ikke-vestlige Lande
+-------------------------------
+(Fra samme kilde og side.)
+
+De vestlige lande udgøres af:
+
+* EU28
+* Andorra
+* Island
+* Liechtenstein
+* Monaco
+* Norge
+* San Marino
+* Schweiz
+* Vatikanstaten
+* Canada
+* USA
+* Australien
+* New Zealand
+
+De ikke-vestlige udgøres af de resterende lande.
+
 Danskere og Udlændinge
-======================
+----------------------
 Vær specifik i ordbugen og hold dig til definerede, citérbare ord frem for:
 
 - Fremmede
@@ -29,31 +54,11 @@ De skelner på baggrund af *herkomst*—ikke etnicitet.
 >Personer med dansk oprindelse er personer—uanset fødested—der har mindst
 én forælder, der både er dansk statsborger og født i Danmark.
 
-Vestlige og Ikke-vestlige Lande
--------------------------------
-(Fra samme kilde og side.)
-
-De vestlige lande udgøres af:
-
-* EU28
-* Andorra
-* Island
-* Liechtenstein
-* Monaco
-* Norge
-* San Marino
-* Schweiz
-* Vatikanstaten
-* Canada
-* USA
-* Australien
-* New Zealand
-
-De ikke-vestlige udgøres af de resterende lande.
-
 Misvisende Udtryk
 -----------------
+
 ### Udlændinge- og Indvandrer(politik) ###
+
 Udtrykkene bruges i flæng, men er sjældent præcise for ikke at sige direkte forkerte.
 
 Brug kun udtrykkene når der er tale om henholdsvist udlændinge og indvandrere. Forvanskningen og forvirringen bidrager i sig selv til debatten, eksempeltvist når danske statsborgere gøres til ikke-danskere eller semi-danskere.
