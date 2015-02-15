@@ -24,7 +24,7 @@ De skelner på baggrund af *herkomst*—ikke etnicitet.
 >
 >Når en eller begge forældre, der er født i Danmark, opnår dansk statsborgerskab, vil deres børn ikke blive klassificeret som efterkommere, men som personer med dansk oprindelse. Fastholder danskfødte forældre imidlertid begge et udenlandsk statsborgerskab, vil deres børn blive klassificeret som efterkommere.
 
-### Dank Oprindelse ###
+### Dansk Oprindelse ###
 
 >Personer med dansk oprindelse er personer—uanset fødested—der har mindst
 én forælder, der både er dansk statsborger og født i Danmark.
