@@ -235,10 +235,14 @@ prose:
         - .csslintrc
         - .gitignore
         - .htaccess
+        - .jscsrc
+        - .jshintrc
+        - .mdlrc
         - .scss-lint.yml
         - .travis.yml
         - _favicon.ico
         - CNAME
+        - DICTIONARY.md
         - favicon.ico
         - feed.atom
         - Gemfile
@@ -247,6 +251,8 @@ prose:
         - LICENSE.md
         - package.json
         - README.md
+        - STYLE.md
+        - STYLE.da.md
         - WRITERS.md
         - /_layouts
         - /_includes
