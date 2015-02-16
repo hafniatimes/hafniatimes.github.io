@@ -14,7 +14,7 @@
     "url": "http://github.com/ndarville/style.git"
   },
   "devDependencies": {
-    "csslint":    ">=0.11.3",
+    "csslint":    ">=0.10.0",
     "htmlhint":   ">=0.9.4",
     "jshint":     ">=2.6.0",
     "jscs":       ">=1.10.0",
