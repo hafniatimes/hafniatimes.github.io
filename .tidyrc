@@ -1,0 +1,16 @@
+accessibility-check: 3
+break-before-br: no
+force-output: no
+indent: auto
+indent-attributes: no
+indent-spaces: 4
+markup: yes
+newline: CRLF
+show-warnings: yes
+sort-attributes: alpha
+tab-size: 8
+tidy-mark: no
+quiet: yes
+quote-ampersand: yes
+vertical-space: yes
+wrap-attributes: yes
