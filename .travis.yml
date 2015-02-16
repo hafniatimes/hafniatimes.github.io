@@ -16,7 +16,7 @@ env:
 install:
   - bundle install --quiet
   - npm install
-  - brew update && brew tap homebrew/dupes && brew install homebrew/dupes/tidy --HEAD
+# - brew update && brew tap homebrew/dupes && brew install homebrew/dupes/tidy --HEAD
 
 before_script:
   - cat Gemfile.lock
