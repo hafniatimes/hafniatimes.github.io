@@ -17,7 +17,6 @@ install:
   - bundle install --quiet
   - npm install
   - brew update && brew tap homebrew/dupes && brew install homebrew/dupes/tidy --HEAD
-  - tidy -config .tidy-config
 
 before_script:
   - cat Gemfile.lock
@@ -29,7 +28,7 @@ script:
 after_script:
   - htmlproof --validate_html --file_ignore=$HTML_EXCLUDES $HTML_FOLDER
   - htmlhint $HTML_FOLDER
-# - tidy -e -q $HTML_FOLDER/index.html
+# - tidy -config .tidy-config && tidy -e -q $HTML_FOLDER/index.html
   - bundle exec scss-lint $STYLE_FOLDER/*.scss
   - csslint $CSS_FILES --exclude-list=$CSS_EXCLUDES
   - jscs $JS_FOLDER
