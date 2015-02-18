@@ -1,17 +1,41 @@
 Style Manual
 ============
-The site generally follows the Oxford style.
+The site generally follows the Oxford style, with exceptions.
 
 As with unit testing for code, a good habit is to add an entry for each problem you run into.
+
+Oxford Style Examples
+---------------------
+An excerpt from some of the [examples][oed]:
+
+ Right                | Wrong
+:---------------------|:---------------------------------------------
+ J R R Tolkien        | J.R.R. Tolkien, J. R. R. Tolkien
+ Ampersands in names  | Ampersands anywhere else
+ etc, ie, eg          | etc., i.e., e.g.
+ ibid                 | ibid.
+ 90s, CDs, dos, donts | Plural apostrophes, except for disambiguation
 
 Characters
 ----------
  Right   | Wrong
-:--------|:--------------------------
+:--------|:-------------------------
  æ       | ae
  ø       | oe, o
  å       | aa
  “Quote” | ”Quote”, ‘Quote’, «Quote»
+
+### Dashes ###
+
+Em dashes, —, are denoted by three dashes in markup, `---`, and are used without empty space around them.
+
+En dashes, –, are for number and date ranges and denoted by two dashes, `--`.
+
+Right               | Wrong
+:-------------------|:--------------------
+ Good job---I think | Good job --- I think, Good job-- (...)
+
+No eccentric diareses belong in this style guide, but do use hyphens for prefixes that cause ambiguity and poor readability (“pro-zoo”) or precede numbers and proper names (“pre-2000”, “pre-Orwell”).
 
 Markdown
 --------
@@ -26,8 +50,38 @@ General
 :--------------------|:----------------
  Hafnia Times        | The Hafnia Times
  Front page          | Frontpage
- 1,000,000           | 1000000
+
+Quotations
+----------
+Use an ellipsis wrapped in parentheses, `(...)`, when sections of an excerpt are removed.
+
+Any modification to the original quote (short of quote marks and dashes) must be denoted with square brackes, `[]`.
+
+Numbers
+-------
+ Right                         | Wrong
+:------------------------------|:------------------
+ 1,000,000                     | 1000000
  10,000 Danish kroner ($1,702) | 10,000 kr., 10,000 crowns, 10,000,-
+ $1,702                        | 1.702 U.S. dollars
+ 100M                          | 100m, 100mn, 100 M
+ 100B                          | 100b, 100bn, 100 B
+ two                           | 2
+ nine, ten, 11, 12             | nine, ten, eleven, twelve
+ second                        | 2nd
+ ninth, tenth, 11th, 12th      | 9th, 10th, 11th, 12th
+ 100 cm, 1 m                   | 100cm, 1m
+ 10%                           | 10 %, 10 per cent, 10 percent
+
+When listing prices and valuations, use the shortform, i.e. $1,500 and 1,500 Danish kroner. Shorten large numbers with M and B, but not k.
+
+Time and Date
+-------------
+ Right    | Wrong
+:---------|:----------------
+ April 10 | 10 April, 10th of April
+ 15:00    | 3:00 PM
+ 2010–15  | 2010–2015, 2010–5
 
 Media
 -----
@@ -66,19 +120,25 @@ Politicians
  Pia Kjærsgaard          | Kjærsgaard       | Pia Kærsgaard
  Lars Løkke Rasmussen    | Rasmussen        | Lars Løkke-Rasmussen
 
-Politicians
------------
+Technology
+----------
  Right                      | Wrong
 :---------------------------|:------------
  ride-booking, ride-hailing | ride-sharing
 
-Politics
---------
- Right                       | Wrong
-:----------------------------|:---------------------------
- Democrat(ic), Conservative  | democrat(ic), conservative
- Muslim, Jew(ish), Christian | muslim, jew(ish), christian
- secretary general | Secretary General, Secretary-General
+Capitalization
+--------------
+ Right                        | Wrong
+:-----------------------------|:---------------------
+ Prime Minister such-and-such | (Lowercase)
+ The prime minister           | (Uppercase)
+ President such-and-such      | (Lowercase)
+ The president                | (Uppercase)
+ Pope such-and-such           | (Lowercase)
+ The pope                     | (Uppercase)
+ Democrat(ic), Republican, Conservative | (Lowercase)
+ Muslim, Jew(ish), Christian  | (Lowercase)
+ secretary general | (Uppercase)
 
 Companies
 ---------
@@ -125,6 +185,7 @@ Links
 - [GLAAD Media Reference Guide on Transgender Issues][transgender]
 
 
+[oed]:  http://www.ox.ac.uk/public-affairs/style-guide
 [abbr]: https://michelf.ca/projects/php-markdown/extra/#abbr
 
 [a]: http://socialdemokraterne.dk/default.aspx?site=english
