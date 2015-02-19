@@ -1,6 +1,13 @@
 Dansk Stilmanual
 ================
 
+Ordbog
+------
+ Brug         | Ikke
+:-------------|:--------------
+ antimuslimsk | islamofob(isk)
+ antisemitisk | jødehadsk
+
 Vestlige og Ikke-vestlige Lande
 -------------------------------
 Ifølge Danmarks Statistik [“Indvandrere I Danmark” (2014)][dst] side 12 udgørs de vestlige lande udgøres af:
