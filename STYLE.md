@@ -140,6 +140,8 @@ Capitalization
  Muslim, Jew(ish), Christian  | (Lowercase)
  secretary general | (Uppercase)
 
+Monolithic concepts like “Internet” and “Technology” are capitalized, partly as a deterrent to using them as big, fluffy concepts.
+
 Companies
 ---------
  Right | Wrong
