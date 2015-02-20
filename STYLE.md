@@ -12,9 +12,16 @@ An excerpt from some of the [examples][oed]:
 :---------------------|:---------------------------------------------
  J R R Tolkien        | J.R.R. Tolkien, J. R. R. Tolkien
  Ampersands in names  | Ampersands anywhere else
- etc, ie, eg          | etc., i.e., e.g.
+ etc, ie, eg, vs      | etc., i.e., e.g., vs.
+ UK, US               | U.K., U.S.
+ Mr, Ms, Dr           | Mr., Ms., Mrs., Dr.
  ibid                 | ibid.
  90s, CDs, dos, donts | Plural apostrophes, except for disambiguation
+
+### Important Distinctions ###
+
+* “among” vs “between”
+* “compare with” vs “compare to”
 
 Characters
 ----------
@@ -46,10 +53,41 @@ Markdown
 
 General
 -------
- Right               | Wrong
-:--------------------|:----------------
- Hafnia Times        | The Hafnia Times
- Front page          | Frontpage
+ Right                | Wrong
+:---------------------|:----------------
+ Hafnia Times         | The Hafnia Times
+ front page           | frontpage
+ -ize, -yze, -ization | -ise, -yse, -isation
+ no one               | no-one
+ e-mail               | email
+ comprise             | comprised of
+
+British vs American
+-------------------
+The differences not supported by this style manual have been omitted.
+
+### Endings ###
+
+ UK   | US  | Examples
+:-----|:----|:--------------------
+ -our | -or | colour, behaviour
+ -re  | -er | centre, theatre
+ -ll  | -l  | traveller, cancelled
+
+### Words ###
+
+ UK noun      | UK verb      | US noun      | US verb
+:-------------|:-------------|:-------------|:------------
+ defen**c**e  | -d           | defen**s**e  | -d
+ licen**c**e  | licen**s**e  | licen**s**e  | licen**s**e
+ offen**c**e  | -d           | offen**s**e  | -d
+ practi**c**e | practi**s**e | practi**s**e | practi**s**e
+ preten**c**e | -d           | preten**s**e | -d
+
+### Others Words ###
+
+* judgement vs judgment (except for legal cases)
+* aeroplane vs airplane
 
 Quotations
 ----------
@@ -63,7 +101,7 @@ Numbers
 :------------------------------|:------------------
  1,000,000                     | 1000000
  10,000 Danish kroner ($1,702) | 10,000 kr., 10,000 crowns, 10,000,-
- $1,702                        | 1.702 U.S. dollars
+ $1,702                        | 1.702 US dollars
  100M                          | 100m, 100mn, 100 M
  100B                          | 100b, 100bn, 100 B
  two                           | 2
@@ -167,9 +205,9 @@ All currencies are uncapitalized.
  (Swedish) krona/-or, SEK  | (Swedish) kroner, (Swedish), kronors
  (Swiss) franc(s), CHF     |
  euro           | euros
- (U.S.) dollars | (U.S.) Dollars
+ (US) dollars | (US) Dollars
 
-Using the currency symbols is preferable; “$1,500”, “1,500 kr.” vs. “1,500 U.S. dollars”, “1,500 Danisk kroner”.
+Using the currency symbols is preferable; “$1,500”, “1,500 kr.” vs. “1,500 US dollars”, “1,500 Danisk kroner”.
 
 Use the unabbreviated currency the first time, and the abbreviation for repeat uses.
 
@@ -184,7 +222,12 @@ Use Markdown’s [abbreviation syntax][abbr] in the following cases:
 
 Links
 ------
-- [GLAAD Media Reference Guide on Transgender Issues][transgender]
+* [GLAAD Media Reference Guide on Transgender Issues][transgender]
+
+TODO
+----
+- [ ] Settle **Foreign spellings** section of OED.
+- [ ] Settle **Plurals** section of OED.
 
 
 [oed]:  http://www.ox.ac.uk/public-affairs/style-guide
