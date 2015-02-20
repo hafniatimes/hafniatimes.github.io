@@ -40,7 +40,7 @@ En dashes, –, are for number and date ranges and denoted by two dashes, `--`.
 
 Right               | Wrong
 :-------------------|:--------------------
- Good job---I think | Good job --- I think, Good job-- (...)
+ Good job---I think | Good job --- I think, Good job--(...)
 
 No eccentric diareses belong in this style guide, but do use hyphens for prefixes that cause ambiguity and poor readability (“pro-zoo”) or precede numbers and proper names (“pre-2000”, “pre-Orwell”).
 
@@ -149,14 +149,14 @@ Parties
 Politicians
 -----------
  Right                   | Shorthand        | Wrong
-:------------------------|:-----------------|:-----------------------
- Helle Thorning-Schmidt  | Thorning-Schmidt | Helle Thorning Schmidt
- Kristian Thulesen Dahl  | Dahl             | Kristian Thulesen-Dahl
- Margrethe Vestager      | Vestager         | Magrethe Vestager
- Pia Olsen Dyhr          | Dyhr             | Pia Olsen-Dyhr
- Johanne Schmidt-Nielsen | Schmidt-Nielsen  | Johanne Schmidt Nielsen
- Pia Kjærsgaard          | Kjærsgaard       | Pia Kærsgaard
- Lars Løkke Rasmussen    | Rasmussen        | Lars Løkke-Rasmussen
+:------------------------|:-----------------|:------------------
+ Helle Thorning-Schmidt  | Thorning-Schmidt | (Unhyphenated)
+ Kristian Thulesen Dahl  | Dahl             | (Hyphenated)
+ Margrethe Vestager      | Vestager         |  Magrethe Vestager
+ Pia Olsen Dyhr          | Dyhr             | (Hyphenated)
+ Johanne Schmidt-Nielsen | Schmidt-Nielsen  | (Unhyphenated)
+ Pia Kjærsgaard          | Kjærsgaard       |  Pia Kærsgaard
+ Lars Løkke Rasmussen    | Rasmussen        | (Hyphenated)
 
 Technology
 ----------
