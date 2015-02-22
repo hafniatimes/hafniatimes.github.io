@@ -38,7 +38,7 @@ Em dashes, —, are denoted by three dashes in markup, `---`, and are used witho
 
 En dashes, –, are for number and date ranges and denoted by two dashes, `--`.
 
-Right               | Wrong
+ Right              | Wrong
 :-------------------|:--------------------
  Good job---I think | Good job --- I think, Good job--(...)
 
@@ -46,10 +46,10 @@ No eccentric diareses belong in this style guide, but do use hyphens for prefixe
 
 Markdown
 --------
- Right               | Wrong
-:--------------------|:---------------
-`### Header 1 ###`   | `### Header 1`, `## Header 1 ##`, `# Header 1 #`
-`#### Header 2 ####` | `#### Header 2`
+ Right                | Wrong
+:---------------------|:---------------
+ `### Header 1 ###`   | `### Header 1`, `## Header 1 ##`, `# Header 1 #`
+ `#### Header 2 ####` | `#### Header 2`
 
 General
 -------
@@ -77,7 +77,7 @@ The differences not supported by this style manual have been omitted.
 ### Words ###
 
  UK noun      | UK verb      | US noun      | US verb
-:-------------|:-------------|:-------------|:------------
+:-------------|:-------------|:-------------|:-------------
  defen**c**e  | -d           | defen**s**e  | -d
  licen**c**e  | licen**s**e  | licen**s**e  | licen**s**e
  offen**c**e  | -d           | offen**s**e  | -d
@@ -98,7 +98,7 @@ Any modification to the original quote (short of quote marks and dashes) must be
 Numbers
 -------
  Right                         | Wrong
-:------------------------------|:------------------
+:------------------------------|:----------------
  1,000,000                     | 1000000
  10,000 Danish kroner ($1,702) | 10,000 kr., 10,000 crowns, 10,000,-
  $1,702                        | 1.702 US dollars
@@ -116,35 +116,35 @@ When listing prices and valuations, use the shortform, i.e. $1,500 and 1,500 Dan
 Time and Date
 -------------
  Right    | Wrong
-:---------|:----------------
+:---------|:-----------------------
  April 10 | 10 April, 10th of April
  15:00    | 3:00 PM
  2010–15  | 2010–2015, 2010–5
 
 Media
 -----
- Right           | Wrong
-:----------------|:-------------------------------
- TV 2            | TV2
- DR              | Danish Radio, Denmark’s Radio
+ Right              | Wrong
+:-------------------|:-------------------------------
+ TV 2               | TV2
+ DR                 | Danish Radio, Denmark’s Radio
  Berlingske Tidende | Berlingske
- Weekendavisen   | WeekendAvisen
- BuzzFeed        | Buzzfeed
- Radio24syv      | Radio24Syv, radio24syv
- Jyllands-Posten | Jyllands Posten, JyllandsPosten
+ Weekendavisen      | WeekendAvisen
+ BuzzFeed           | Buzzfeed
+ Radio24syv         | Radio24Syv, radio24syv
+ Jyllands-Posten    | Jyllands Posten, JyllandsPosten
 
 Parties
 -------
  Right                                | Shorthand            | Wrong
-:-------------------------------------|:---------------------|:---------------------------------
- [The Danish Social Democrats][a]     | The Social Democrats | (Without definite article)
- [The Danish Social-Liberal Party][b] | The Social Liberals  | (Without definite article)
-  Socialist People’s Party            | -                    | (With definite article)
-  The Conservative People’s Party     | The Conservatives    | (Without definite article)
-  Liberal Alliance                    | -                    | (With definite article)
- [Danish People’s Party][o]           | DPP                  | (With definite article)
+:-------------------------------------|:---------------------|:-----
+ [The Danish Social Democrats][a]     | The Social Democrats | -The
+ [The Danish Social-Liberal Party][b] | The Social Liberals  | -The
+  Socialist People’s Party            | -                    | +The
+  The Conservative People’s Party     | The Conservatives    | -The
+  Liberal Alliance                    | -                    | +The
+ [Danish People’s Party][o]           | DPP                  | +The
  [Venstre][v]                         | -                    | Venstre, Liberal Party of Denmark
- [The Red-Green Alliance][ø]          | The Red-Greens       | (Without definite article)
+ [The Red-Green Alliance][ø]          | The Red-Greens       | -The
 
 Politicians
 -----------
@@ -167,7 +167,7 @@ Technology
 Capitalization
 --------------
  Right                        | Wrong
-:-----------------------------|:---------------------
+:-----------------------------|:-----------
  Prime Minister such-and-such | (Lowercase)
  The prime minister           | (Uppercase)
  President such-and-such      | (Lowercase)
@@ -176,7 +176,7 @@ Capitalization
  The pope                     | (Uppercase)
  Democrat(ic), Republican, Conservative | (Lowercase)
  Muslim, Jew(ish), Christian  | (Lowercase)
- secretary general | (Uppercase)
+ secretary general            | (Uppercase)
 
 Monolithic concepts like “Internet” and “Technology” are capitalized, partly as a deterrent to using them as big, fluffy concepts.
 
