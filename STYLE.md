@@ -86,8 +86,9 @@ The differences not supported by this style manual have been omitted.
 
 ### Others Words ###
 
-* judgement vs judgment (except for legal cases)
 * aeroplane vs airplane
+* judgement vs judgment (except for legal cases)
+* whom vs who
 
 Quotations
 ----------
@@ -204,12 +205,31 @@ All currencies are uncapitalized.
  (Norwegian) krone(r), NOK | (Danish) kroners
  (Swedish) krona/-or, SEK  | (Swedish) kroner, (Swedish), kronors
  (Swiss) franc(s), CHF     |
- euro           | euros
- (US) dollars | (US) Dollars
+  euro                     |  euros
+ (US) dollar(s)            | (US) Dollar(s)
 
-Using the currency symbols is preferable; “$1,500”, “1,500 kr.” vs. “1,500 US dollars”, “1,500 Danisk kroner”.
+Using the currency symbols is preferable; “$1,500”, “1,500 kr.” vs “1,500 US dollars”, “1,500 Danisk kroner”.
 
 Use the unabbreviated currency the first time, and the abbreviation for repeat uses.
+
+Tricky Spellings
+----------------
+* commission
+* committee
+* embarrass
+* harass
+* millennium
+* publicly
+* referral, -ed, -er
+
+Typo-prone Words
+----------------
+* appar**e**ntly
+* defin**ite**ly
+* occasion
+* sep**a**rate
+* tomorrow
+* weird
 
 Acronyms/Abbreviations
 ----------------------
