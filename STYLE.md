@@ -55,12 +55,13 @@ General
 -------
  Right                | Wrong
 :---------------------|:----------------
- Hafnia Times         | The Hafnia Times
- front page           | frontpage
  -ize, -yze, -ization | -ise, -yse, -isation
- no one               | no-one
- e-mail               | email
  comprise             | comprised of
+ e-mail               | email
+ front page           | frontpage
+ Hafnia Times         | The Hafnia Times
+ no one               | no-one
+ use                  | usage
 
 British vs American
 -------------------
