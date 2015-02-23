@@ -62,6 +62,7 @@ General
  Hafnia Times         | The Hafnia Times
  no one               | no-one
  use                  | usage
+ revise               | revize
 
 British vs American
 -------------------
@@ -217,11 +218,13 @@ Tricky Spellings
 ----------------
 * commission
 * committee
+* competitive
 * embarrass
 * harass
 * millennium
 * publicly
 * referral, -ed, -er
+* resuscitate
 
 Typo-prone Words
 ----------------
