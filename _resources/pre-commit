@@ -18,4 +18,5 @@ jscs static/js/
 ## csslint
 # csslint static/css/style.css --exclude-list=""
 # mdl
-mdl _posts/*.markdown -c .mdlrc
+mdl -c .mdlrc _posts/*.markdown _posts/*/*.markdown *.md
+
