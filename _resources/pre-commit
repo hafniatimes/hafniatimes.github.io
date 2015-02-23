@@ -6,7 +6,7 @@ cd $(git rev-parse --git-dir) && cd ..
 bundle exec jekyll build --trace
 
 # Validate URLs with htmlproof
-bundle exec htmlproof _site
+bundle exec htmlproof _site/ # --check-html
 # htmlhint
 htmlhint _site
 # scss-lint
