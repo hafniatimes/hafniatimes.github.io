@@ -22,11 +22,13 @@ The full translation of her letter can be read [here][letter-t].
 After Baram's letter, <i>Politiken</i> went on to do a [follow-up article][follow-up].
 
 ### The Danish People's Party Responds ###
+
 Not one to pass on an Islam-related discussion, **Pia Kjærsgaard** from the---aforementioned---**Danish People's Party** (DPP) chimed in with an entry on her blog[^tv2-blog].
 
 But before we get to her comments, some background on Kjærsgaard and her party in the context of Danish politics today.
 
 #### Today's Danish People's Party ####
+
 The nationalistic DPP is no niche party nor a group of people riding a political wave; the party is currently [trailing the two largest coalition parties][polling], polling in the low 20s, compared to the 12.3% it managed at the last election.
 
 It has never polled higher, since it was founded in 1995 by Pia Kjærsgaard and entered parliament in 1998. Kjærsgaard was the party leader, until 2012, when she passed the torch to **Kristian Thulesen Dahl**. She then relegated herself to the position of the party's *spokesperson on values*.
@@ -40,6 +42,7 @@ Said bump, a scandal surrounding **Lars Løkke Rasmussen**, the leader of the op
 The Danish People's Party are no longer in a position of tipping the balance of power in Denmark; they now are contenders for claiming it for themselves.
 
 #### Pia Kjærsgaard's Blog Entry ####
+
 Returning to Kjærsgaard's [entry][pia-k] in which she does not mince words on her position on the plight of Danish Muslim women.
 
 She begins
@@ -55,6 +58,7 @@ And no ground is ceded in the discussion over headscarves, as Kjærsgaard ends h
 Read the entire entry translated [here][pia-k-t].
 
 ### Kjærsgaard Interviewed ###
+
 <i>Politiken</i> got a hold of Kjærsgaard for an [interview][interview]. In it, they pressed her for a response to the actual subject of violence raised by Aya Baram, which Kjærsgaard had glossed over in her diatribe against the Muslim headscarf.
 
 When interviewed, Kjærsgaard continues to express empathy for the people reacting to the women in public.
@@ -72,6 +76,7 @@ And in closing, Kjærsgaard is unwaivering in doubling down on blaming the victi
 Read [the full interview][interview-t].
 
 ### Further Reading ###
+
 * Kjærsgaard decries public intolerance and harassment by Muslims in [her weekly party newsletter from November 24 2003][noerrebro].
 
     >In the interim, we back home will work to get back [the capital district] Nørrebro.
@@ -80,10 +85,12 @@ Read [the full interview][interview-t].
 * [2014 report][fra-report] by the European Agency for Fundamental Rights on violence againt women.
 
 ### Article Links ###
+
 1. [Aya Baram's letter to <i>Politiken</i>][letter] ([full translation][letter-t])
 2. [<i>Politiken's</i> follow-up article][follow-up]
 3. [Pia Kjærsgaard's blog entry][pia-k] ([full translation][pia-k-t])
 4. [Interview with Pia Kjærsgaard][interview] ([full translation][interview-t])
+
 
 [^tv2-blog]: Pia Kjærsgaard's blog is hosted by Danish TV network TV 2 on tv2.dk---not privately nor by her party.
 

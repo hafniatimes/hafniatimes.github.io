@@ -32,6 +32,7 @@ The tweet reads "Today we're getting a lesson in double standards".
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Further Reading and Watching ###
+
 * ["Pia K: Unseemly to Compare Kippah and Scarf"][interview] (Danish interview)
 * [Danish TV interview with Kjærsgaard][deadline] ([direct link][deadline-direct])
 * [Kjærsgaard debates law student Natasha Al-Hariri][eb-debate] (Danish)

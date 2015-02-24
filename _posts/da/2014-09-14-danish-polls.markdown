@@ -31,15 +31,18 @@ Vi fortjener alle adgang til den politiske debat, og ved at gøre meningsmåling
 Så værsgo at bruge målingerne [hér](https://github.com/ndarville/danish-polls).
 
 ### Amerikanske Foregangsbilleder ###
-- <i>[The Monkey Cage](http://themonkeycage.org/2007/11/20/why_this_blog/)</i>
-- [Nate Silver & FiveThirtyEight](https://en.wikipedia.org/wiki/FiveThirtyEight)
-- [Sam Wang](http://election.princeton.edu/)
-- <i>[The Upshot](http://nytimes.com/upshot/)</i>
+
+* <i>[The Monkey Cage](http://themonkeycage.org/2007/11/20/why_this_blog/)</i>
+* [Nate Silver & FiveThirtyEight](https://en.wikipedia.org/wiki/FiveThirtyEight)
+* [Sam Wang](http://election.princeton.edu/)
+* <i>[The Upshot](http://nytimes.com/upshot/)</i>
 
 ### Svenske Foregangsbilleder ###
-- [Swedish Polls](https://github.com/MansMeg/SwedishPolls)
-- [Botten Ada](http://bottenada.se)
-- <i>[trefyranio](http://trefyranio.com)</i> (349)
+
+* [Swedish Polls](https://github.com/MansMeg/SwedishPolls)
+* [Botten Ada](http://bottenada.se)
+* <i>[trefyranio](http://trefyranio.com)</i> (349)
 
 ### Gode Bøger ###
-- <i>The Gamble</i> (gratis kapitler til download [hér](http://themonkeycage.org/2013/01/24/new-e-chapter-of-the-gamble-available-its-free/))
+
+* <i>The Gamble</i> (gratis kapitler til download [hér](http://themonkeycage.org/2013/01/24/new-e-chapter-of-the-gamble-available-its-free/))

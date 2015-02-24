@@ -31,15 +31,17 @@ We all deserve to participate in the political discussion, and by making polling
 So start using the polls [here](https://github.com/ndarville/danish-polls).
 
 ### American Examples ###
-- <i>[The Monkey Cage](http://themonkeycage.org/2007/11/20/why_this_blog/)</i>
-- [Nate Silver & FiveThirtyEight](https://en.wikipedia.org/wiki/FiveThirtyEight)
-- [Sam Wang](http://election.princeton.edu/)
-- <i>[The Upshot](http://nytimes.com/upshot/)</i>
+
+* <i>[The Monkey Cage](http://themonkeycage.org/2007/11/20/why_this_blog/)</i>
+* [Nate Silver & FiveThirtyEight](https://en.wikipedia.org/wiki/FiveThirtyEight)
+* [Sam Wang](http://election.princeton.edu/)
+* <i>[The Upshot](http://nytimes.com/upshot/)</i>
 
 ### Swedish Examples ###
-- [Swedish Polls](https://github.com/MansMeg/SwedishPolls)
-- [Botten Ada](http://bottenada.se) (Swedish)
-- <i>[trefyranio](http://trefyranio.com/english)</i> (349)
+
+* [Swedish Polls](https://github.com/MansMeg/SwedishPolls)
+* [Botten Ada](http://bottenada.se) (Swedish)
+* <i>[trefyranio](http://trefyranio.com/english)</i> (349)
 
 ### Great Books ###
-- <i>The Gamble</i> (free, downloadable chapters [here](http://themonkeycage.org/2013/01/24/new-e-chapter-of-the-gamble-available-its-free/))
+* <i>The Gamble</i> (free, downloadable chapters [here](http://themonkeycage.org/2013/01/24/new-e-chapter-of-the-gamble-available-its-free/))
