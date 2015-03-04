@@ -9,11 +9,11 @@ In [a letter][letter] published in the Danish newspaper <i>Politiken</i> on July
 
 An excerpt of her experiences reads:
 
->I have been punched on the street, after which I've been told to "take my f... scarf of". The police wouldn't even press charges, because my husband was my only witness. I have witnessed an entire bus yelling that they would vote for the Danish People's Party and get the Muslims out of the country, because a girl with a scarf happened to hold the seat in front of her, when the bus turned, whereby she touched another girl's hair.
+> I have been punched on the street, after which I've been told to "take my f... scarf of". The police wouldn't even press charges, because my husband was my only witness. I have witnessed an entire bus yelling that they would vote for the Danish People's Party and get the Muslims out of the country, because a girl with a scarf happened to hold the seat in front of her, when the bus turned, whereby she touched another girl's hair.
 >
->I have had a guy suddenly let loose on my then-three-months-old nephew's stroller with punches and kicks, after which another guy abused my sister with words like "terrorists" and other choice words, spat her in the face at a packed Nørreport [Train] Station, while everyone watched without helping.
+> I have had a guy suddenly let loose on my then-three-months-old nephew's stroller with punches and kicks, after which another guy abused my sister with words like "terrorists" and other choice words, spat her in the face at a packed Nørreport [Train] Station, while everyone watched without helping.
 >
->The only remark we got was from a couple who told my crying sister "but they didn’t mean it personally".
+> The only remark we got was from a couple who told my crying sister "but they didn’t mean it personally".
 
 The crux of her article beyond sharing her stories from living sixteen years as a Muslim in Denmark is to encourage Muslim women to speak up for themselves, and not let others speak on their behalf.
 
@@ -47,13 +47,13 @@ Returning to Kjærsgaard's [entry][pia-k] in which she does not mince words on h
 
 She begins
 
->This Friday, [Danish newspaper] Politiken reported how Muslim women who wear headscarves felt overwhelmingly subjected to persecution, rudeness, and jeers on the street. I personally have never experienced such a thing, nor have I ever heard anyone talk about it, so perhaps the extent has been slightly exaggerated. I generally know the Danes as a well-mannered people, who, even though they do not feel great sympathy for the Muslim headscarf, naturally will not resort to foul language against the wearers of the headscarf.
+> This Friday, [Danish newspaper] Politiken reported how Muslim women who wear headscarves felt overwhelmingly subjected to persecution, rudeness, and jeers on the street. I personally have never experienced such a thing, nor have I ever heard anyone talk about it, so perhaps the extent has been slightly exaggerated. I generally know the Danes as a well-mannered people, who, even though they do not feel great sympathy for the Muslim headscarf, naturally will not resort to foul language against the wearers of the headscarf.
 >
->Those Muslim women feel provoked by the reaction their headscarves elicit. I feel provoked, too. By them and their choice of the scarf over the Danish society!
+> Those Muslim women feel provoked by the reaction their headscarves elicit. I feel provoked, too. By them and their choice of the scarf over the Danish society!
 
 And no ground is ceded in the discussion over headscarves, as Kjærsgaard ends her entry:
 
->Fact is that the scarf in all its variants is a symbol of Islamic fundamentalism and a declaration of war against women's right to equal right and equal value. Thus, there is every reason to criticize the headscarf. Muslim women who choose the scarf must therefore not expect to smoke peace pipe with me. On the contrary. When you choose to distance yourself from the Danish society, you must also come to expect that the Danish society distances itself from your choice. This is how it is.
+> Fact is that the scarf in all its variants is a symbol of Islamic fundamentalism and a declaration of war against women's right to equal right and equal value. Thus, there is every reason to criticize the headscarf. Muslim women who choose the scarf must therefore not expect to smoke peace pipe with me. On the contrary. When you choose to distance yourself from the Danish society, you must also come to expect that the Danish society distances itself from your choice. This is how it is.
 
 Read the entire entry translated [here][pia-k-t].
 
@@ -63,15 +63,15 @@ Read the entire entry translated [here][pia-k-t].
 
 When interviewed, Kjærsgaard continues to express empathy for the people reacting to the women in public.
 
->**Interviewer:** In a debate concerning violence against women with [head]scarves, shouldn't you address the violence, which *is* the central topic?
+> **Interviewer:** In a debate concerning violence against women with [head]scarves, shouldn't you address the violence, which *is* the central topic?
 >
->**Kjærsgaard:** Just because I haven't written in bold type that I abhor violence, it doesn't mean that I support it. I am writing that I feel provoked by women with scarves. That others feel provoked by these women I can understand. That they have been subjected to comments, I can understand just fine.
+> **Kjærsgaard:** Just because I haven't written in bold type that I abhor violence, it doesn't mean that I support it. I am writing that I feel provoked by women with scarves. That others feel provoked by these women I can understand. That they have been subjected to comments, I can understand just fine.
 
 And in closing, Kjærsgaard is unwaivering in doubling down on blaming the victims.
 
->**Interviewer:** You must be a victim, when you as an innocent person are subjected to violence?
+> **Interviewer:** You must be a victim, when you as an innocent person are subjected to violence?
 >
->**Kjærsgaard:** Yes, but women with scarves could also just think through the situation; if they keep getting those reactions on the street, they could just take off the scarf. Then they would also signal that they want to be a part of the Danish society.
+> **Kjærsgaard:** Yes, but women with scarves could also just think through the situation; if they keep getting those reactions on the street, they could just take off the scarf. Then they would also signal that they want to be a part of the Danish society.
 
 Read [the full interview][interview-t].
 
@@ -79,9 +79,9 @@ Read [the full interview][interview-t].
 
 * Kjærsgaard decries public intolerance and harassment by Muslims in [her weekly party newsletter from November 24 2003][noerrebro].
 
-    >In the interim, we back home will work to get back [the capital district] Nørrebro.
+    > In the interim, we back home will work to get back [the capital district] Nørrebro.
     >
-    >So that once again, tolerance and free-mindedness can come to the north of Dronning Louise's Bridge.
+    > So that once again, tolerance and free-mindedness can come to the north of Dronning Louise's Bridge.
 * [2014 report][fra-report] by the European Agency for Fundamental Rights on violence againt women.
 
 ### Article Links ###
