@@ -258,8 +258,8 @@ Use Markdown’s [abbreviation syntax][abbr] in the following cases:
 
  Shorthand  | Full Word
 :-----------|:------------------------------------
- MEP        | Member(s) of the European Parliament
- MP         | Member(s) of parliament
+ MEP        | member(s) of the European Parliament
+ MP         | member(s) of parliament
 
 Links
 ------
