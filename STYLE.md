@@ -54,15 +54,21 @@ Markdown
 General
 -------
  Right                | Wrong
-:---------------------|:----------------
+:---------------------|:--------------------
  -ize, -yze, -ization | -ise, -yse, -isation
+ -eable               | -able
+ 10:00, 10 AM/PM      | 10 am/pm, 10AM/PM
+ ceasefire            | cease-fire
  comprise             | comprised of
  e-mail               | email
  front page           | frontpage
  Hafnia Times         | The Hafnia Times
+ invitation           | invite
  no one               | no-one
- use                  | usage
  revise               | revize
+ use                  | usage
+
+Use a 24-hour format by default, and only use the 12-hour when required by verbatim transcriptions and the like.
 
 British vs American
 -------------------
@@ -167,6 +173,8 @@ Technology
 :---------------------------|:------------
  ride-booking, ride-hailing | ride-sharing
 
+* **Broadband** is a minimum speed of 25 Mb/s download and 3 Mb/s upload as [defined by the FCC][broadband].
+
 Capitalization
 --------------
  Right                        | Wrong
@@ -231,6 +239,7 @@ Typo-prone Words
 * appar**e**ntly
 * defin**ite**ly
 * occasion
+* privilege
 * sep**a**rate
 * tomorrow
 * weird
@@ -252,9 +261,11 @@ TODO
 ----
 - [ ] Settle **Foreign spellings** section of OED.
 - [ ] Settle **Plurals** section of OED.
+- [ ] Link to media guide for disabilities and neurodiversity.
 
 
 [oed]:  http://www.ox.ac.uk/public-affairs/style-guide
+[broadband]: http://www.fcc.gov/reports/2015-broadband-progress-report
 [abbr]: https://michelf.ca/projects/php-markdown/extra/#abbr
 
 [a]: http://socialdemokraterne.dk/default.aspx?site=english
