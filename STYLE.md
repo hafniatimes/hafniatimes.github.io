@@ -157,6 +157,8 @@ Parties
 
 Politicians
 -----------
+### Danish ###
+
  Right                   | Shorthand        | Wrong
 :------------------------|:-----------------|:------------------
  Helle Thorning-Schmidt  | Thorning-Schmidt | (Unhyphenated)
@@ -166,6 +168,12 @@ Politicians
  Johanne Schmidt-Nielsen | Schmidt-Nielsen  | (Unhyphenated)
  Pia Kjærsgaard          | Kjærsgaard       |  Pia Kærsgaard
  Lars Løkke Rasmussen    | Rasmussen        | (Hyphenated)
+
+### International ###
+
+ Right            | Shorthand | Wrong
+:-----------------|:----------|:--------------
+ Hillary Clinton  | Clinton   | Hilary Clinton
 
 Technology
 ----------
