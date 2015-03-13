@@ -3,7 +3,6 @@ Dansk Stilmanual
 
 Ordbog
 ------
-
 ### Politiske Udtryk ###
 
  Brug              | Brug ikke
@@ -21,6 +20,35 @@ Ordbog
 
 Generelt
 --------
+### Partier ###
+
+ Parti | Forkortelse | Bogstav
+:----------------------------|:--:|:-:
+-Alternativet                | ?  | Å
+ Dansk Folkeparti            | DF | O
+ Enhedslisten                | EL | Ø
+ Det Konservative Folkeparti | K  | C
+ Kristendemokraterne         | KD | K
+ Liberal ALliance            | LA | I
+ Det Radikale Venstre        | R  | B
+ Socialdemokraterne          | S  | A
+ Socialistisk Folkeparti     | SF | F
+ Venstre                     | V  | V
+
+### Omtale af Politikere ###
+
+Ved omtale af politikere bruges personens fulde navn, inklusiv initialt eller fuldt mellemnavn, efterfulgt af partinavnsforkortelse i parentes. Ex.:
+
+> Joachim B. Olsen (LA)
+
+Ved gentagne nævnelser kan man nøjes med efternavnet. Husk dog at flere politikeres efternavn er sammensatte proprier, og at hele efternavnet skal med—`STYLE.md` har en fortegnelser over stavelser. Ex.:
+
+> Thorning-Schmidt [ikke Thorning]
+
+Nævn som udgangspunkt en politikers ordførerskab, når det er relevant for emnet, for at understrege, at personen taler på vegne af partiet i den givne situation. Ex.:
+
+> Martin Henriksen, udlændinge- og integrationsordfører for DF, (...)
+
 ### Endelser På Latinske og Græske Fremmedord ###
 
  Brug        | Brug ikke
