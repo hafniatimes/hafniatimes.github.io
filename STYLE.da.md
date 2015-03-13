@@ -3,10 +3,37 @@ Dansk Stilmanual
 
 Ordbog
 ------
- Brug         | Ikke
-:-------------|:--------------
- antimuslimsk | islamofob(isk)
- antisemitisk | jødehadsk
+
+### Politiske Udtryk ###
+
+ Brug              | Brug ikke
+:------------------|:--------------------
+ antimuslimsk      | islamofob(isk)
+ antisemitisk      | jødehadsk
+ forbudt hunderace | muskelhund, kamphund
+
+### Diverse ###
+
+ Brug              | Brug ikke
+:------------------|:---------
+ jage              | jagte
+ sponsorere        | sponsere
+
+Generelt
+--------
+### Endelser På Latinske og Græske Fremmedord ###
+
+ Brug        | Brug ikke
+:------------|:-----------------
+ adverbium   | -e
+ faktum      | fact, fakta (sg.)
+ gymnasium   | -e
+ scenario/-e | -um
+ verbum      | -e
+
+
+Men brug “scenarie” i stedet for -o og -um.
+
 
 Vestlige og Ikke-vestlige Lande
 -------------------------------
