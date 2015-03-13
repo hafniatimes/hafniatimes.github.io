@@ -64,6 +64,7 @@ General
  front page           | frontpage
  Hafnia Times         | The Hafnia Times
  invitation           | invite
+ learn/-ed/-t         | /-ed/-ed, /-t/-t
  no one               | no-one
  revise               | revize
  use                  | usage
