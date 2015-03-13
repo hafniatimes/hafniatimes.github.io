@@ -61,7 +61,6 @@ De skelner på baggrund af *herkomst*—ikke etnicitet.
 
 Misvisende Udtryk
 -----------------
-
 ### Udlændinge- og Indvandrer(politik) ###
 
 Udtrykkene bruges i flæng, men er sjældent præcise for ikke at sige direkte forkerte.
