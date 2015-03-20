@@ -62,7 +62,6 @@ Nævn som udgangspunkt en politikers ordførerskab, når det er relevant for emn
 
 Men brug “scenarie” i stedet for -o og -um.
 
-
 Vestlige og Ikke-vestlige Lande
 -------------------------------
 Ifølge Danmarks Statistik [“Indvandrere I Danmark” (2014)][dst] side 12 udgørs de vestlige lande udgøres af:
