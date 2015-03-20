@@ -172,3 +172,4 @@ Der er desuden intet krav om at komformere til en bestemt indramning af debatten
 
 
 [dst]: http://www.dst.dk/da/Statistik/Publikationer/VisPub.aspx?cid=19004
+[kommuner]: https://web.archive.org/web/20071113203858/http://im.dk/publikationer/landdistriktsred_2004/samlet.htm
