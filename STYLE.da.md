@@ -113,6 +113,51 @@ De skelner på baggrund af *herkomst*—ikke etnicitet.
 >Personer med dansk oprindelse er personer—uanset fødested—der har mindst
 én forælder, der både er dansk statsborger og født i Danmark.
 
+Udkantsdanmark og Kommuner
+--------------------------
+Der går meget hurtigt københavneri i diskussionen af mennesker og byer uden for Storkøbenhavn. Der er dog intet i vejen for at bruge udkantsbetegnelser, såfremt de bygger på en konkret definition.
+
+“Udkantsdanmark” er en helt subjektiv betegnelse; anvend den derfor ikke.
+
+**“Udkantskommuner”** er derimod fast definerede på baggrund af placering, arbejdspladser og pendlerstrøm. Udkantskommunerne defineres jf. [Regeringens Landdistriktsredegørelse til Folketinget (2004)][kommuner]:
+
+> Definitionen af bymæssighed fortæller intet om den geografiske fordeling af befolkningen. En anden mulighed er derfor at anvende en geografisk afgrænsning, som sondrer mellem **udkantskommuner**, **landkommuner** og **bykommuner**. Sondringen mellem forskellige kommunetyper bygger på et samlet billede af kommunens indbyggertal uafhængigt af byområder og landdistrikter.
+>
+> **Landkommuner** omfatter de kommuner, hvis største by pr. 1. januar 1994 havde mindre end 3.000 indbyggere. De øvrige kommuner defineres som **bykommuner**. Denne afgrænsning er ligeledes anvendt i tidligere landdistriktsredegørelser og i Betænkning nr. 1333 om landdistrikternes udviklingsmuligheder.
+>
+> Landkommuner inkluderer **udkantskommuner**, der defineres som de kommuner, hvis største by havde mindre end 3.000 indbyggere i 1994, som er beliggende mere end 40 km fra nærmeste stærke geografiske center [se fodnote 2], og som er beliggende mere end 30 km fra nærmeste geografiske center i øvrigt [se fodnote 3]. Desuden er landkommuner, der er mindre **ø-kommuner**, med undtagelse af Fanø Kommune, afgrænset som udkantskommune.
+>
+> **Bykommuner** er opdelt i henholdsvis bykommuner i Hovedstadsregionen og øvrige bykommuner [se fodnote 4].
+>
+> Efter denne definition er der 30 udkantskommuner, 76 landkommuner og 121 bykommuner uden for Hovedstadsregionen. Det bemærkes, at hele Bornholm - efter kommunesammenlægningen - nu defineres som en bykommune [se fodnote 5].
+
+Om **geografiske centre** står der i fodnoterne:
+
+> **(Fodnote 2)** De stærke geografiske centre afgrænses som kommuner, der havde en pendlerintensitet (antallet af indpendlere til kommunen i forhold til antallet af udpendlere fra kommunen), som var større end 2,0 i 1984, og som havde mere end 40.000 arbejdspladser i kommunen i 1984.
+>
+> De stærke geografiske centre er Århus Kommune, Odense Kommune, Aalborg Kommune og Esbjerg Kommune. Desuden er Hovedstadsregionen et stærkt geografisk center.
+>
+> **(Fodnote 3)** De geografiske centre i øvrigt afgrænses som øvrige kommuner, der havde mere end 20.000 arbejdspladser i kommunen i 1984 eller mere end 10.000 arbejdspladser i kommunen i 1984 og en pendlerintensitet, som var større end 2,0 i 1984.
+>
+> De geografiske centre i øvrigt er Nykøbing Falster Kommune, Næstved Kommune, Aabenraa Kommune, Fredericia Kommune, Horsens Kommune, Kolding Kommune, Vejle Kommune, Herning Kommune, Holstebro Kommune, Randers Kommune, Silkeborg Kommune, Skive Kommune, Viborg Kommune og Frederikshavn Kommune.
+
+Oversat gælder der for en udkantskommune:
+
+* <3.000 indbyggere i største by i 1994
+* >40 km fra nærmeste **stærke** geografisk center
+* >30 km fra nærmeste geografiske center **i øvrigt**
+
+Et **stærkt geografisk center** er defineret som en kommune med:
+
+* >40.000 arbejdspladser i 1984
+* >2,0 gange flere indpendlere end udpendlere (“pendlerintensitet”)
+* >30 km fra det nærmeste geografiske center
+
+Et **geografisk center i øvrigt** er defineret som en kommune med:
+
+* >20.000 arbejdspladser i 1984
+* *eller* >10.000 arbejdspladser i 1984 *og* >2,0 i pendlerintensitet
+
 Misvisende Udtryk
 -----------------
 ### Udlændinge- og Indvandrer(politik) ###
