@@ -170,6 +170,18 @@ Hvis der er tale om asyl så skriv asyl(politik). Hvis der er tale om grænsekon
 
 Der er desuden intet krav om at komformere til en bestemt indramning af debatten ved at gøre det til et ...-politisk spørgsmål. Der er ikke noget i vejen for at skrive `x`’s holdning til eller udtalelser om `y` frem for `x`’s `y`-politik; sidstnævnte antyder desuden et aftalt og sammenhængende partiprogram, hvilket der ikke nødvendigvis er belæg for at konkludere.
 
+Drilleord
+---------
+* privilegium
+* trafik
+
+Andre Links
+-----------
+* [dsn.dk][] til retstavning
+* [sproget.dk][] til generelle spørgsmål
+
 
 [dst]: http://www.dst.dk/da/Statistik/Publikationer/VisPub.aspx?cid=19004
 [kommuner]: https://web.archive.org/web/20071113203858/http://im.dk/publikationer/landdistriktsred_2004/samlet.htm
+[sproget.dk]: http://sproget.dk/
+[dsn.dk]: http://dsn.dk/
