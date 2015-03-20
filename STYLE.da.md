@@ -60,7 +60,6 @@ Nævn som udgangspunkt en politikers ordførerskab, når det er relevant for emn
  scenario/-e | -um
  verbum      | -e
 
-
 Men brug “scenarie” i stedet for -o og -um.
 
 Vestlige og Ikke-vestlige Lande
