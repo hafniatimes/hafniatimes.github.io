@@ -10,6 +10,7 @@ Ordbog
  antimuslimsk      | islamofob(isk)
  antisemitisk      | jødehadsk
  forbudt hunderace | muskelhund, kamphund
+ hjemmeboende SU   | cafépenge
 
 ### Diverse ###
 
