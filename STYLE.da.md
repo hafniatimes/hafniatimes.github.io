@@ -133,11 +133,11 @@ Der går meget hurtigt københavneri i diskussionen af mennesker og byer uden fo
 
 Om **geografiske centre** står der i fodnoterne:
 
-> **(Fodnote 2)** De stærke geografiske centre afgrænses som kommuner, der havde en pendlerintensitet (antallet af indpendlere til kommunen i forhold til antallet af udpendlere fra kommunen), som var større end 2,0 i 1984, og som havde mere end 40.000 arbejdspladser i kommunen i 1984.
+> *(Fodnote 2)* **De stærke geografiske centre** afgrænses som kommuner, der havde en pendlerintensitet (antallet af indpendlere til kommunen i forhold til antallet af udpendlere fra kommunen), som var større end 2,0 i 1984, og som havde mere end 40.000 arbejdspladser i kommunen i 1984.
 >
 > De stærke geografiske centre er Århus Kommune, Odense Kommune, Aalborg Kommune og Esbjerg Kommune. Desuden er Hovedstadsregionen et stærkt geografisk center.
 >
-> **(Fodnote 3)** De geografiske centre i øvrigt afgrænses som øvrige kommuner, der havde mere end 20.000 arbejdspladser i kommunen i 1984 eller mere end 10.000 arbejdspladser i kommunen i 1984 og en pendlerintensitet, som var større end 2,0 i 1984.
+> *(Fodnote 3)* **De geografiske centre i øvrigt** afgrænses som øvrige kommuner, der havde mere end 20.000 arbejdspladser i kommunen i 1984 eller mere end 10.000 arbejdspladser i kommunen i 1984 og en pendlerintensitet, som var større end 2,0 i 1984.
 >
 > De geografiske centre i øvrigt er Nykøbing Falster Kommune, Næstved Kommune, Aabenraa Kommune, Fredericia Kommune, Horsens Kommune, Kolding Kommune, Vejle Kommune, Herning Kommune, Holstebro Kommune, Randers Kommune, Silkeborg Kommune, Skive Kommune, Viborg Kommune og Frederikshavn Kommune.
 
