@@ -160,7 +160,7 @@ Et **geografisk center i øvrigt** er defineret som en kommune med:
 
 Misvisende Udtryk
 -----------------
-### Udlændinge- og Indvandrer(politik) ###
+### Udlændinge, Indvandrer- og Integrations(politik) ###
 
 Udtrykkene bruges i flæng, men er sjældent præcise for ikke at sige direkte forkerte.
 
