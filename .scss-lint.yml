@@ -4,9 +4,12 @@ linters:
   BangFormat:
     enabled: true
   BorderZero:
-    enabled: false
+    enabled: true
+    convention: none
   ColorKeyword:
     enabled: false
+  ColorVariable:
+    enabled: true  # Subjective
   Comment:
     enabled: false
   Compass::*:
@@ -36,6 +39,8 @@ linters:
     enabled: true
   IdSelector:
     enabled: false
+  ImportantRule:
+    enabled: false  # Subjective
   ImportPath:
     enabled: false
   Indentation:
@@ -50,9 +55,62 @@ linters:
     enabled: false
   PlaceholderInExtend:
     enabled: true
+  PropertyCount:
+    enabled: false
   PropertySortOrder:
-    enabled: false  # Subjective
+    enabled: false  # Change?
+    order:
+      # Text
+      - font
+      - font-family
+      - font-size
+      - line-height
+      - font-weight
+      - font-style
+      - font-variant
+      - text-transform
+      - text-decoration
+      - color
+      - background
+      - background-color
+      - # Display types and positioning
+      - content
+      - display
+      - float
+      - clear
+      - text-align
+      - vertical-align
+      - position
+      - top
+      - right
+      - bottom
+      - left
+      - # Spacing
+      - margin
+      - padding
+      - text-indent
+      - # Dimensions
+      - height
+      - width
+      - # Box decoration
+      - border
+      - border-collapse
+      - border-spacing
+      - box-shadow
+      - border-radius
+      - # Print
+      - orphans
+      - widows
+      - page-break-inside
+      - page-break-after
+      - # Fixes
+      - box-sizing
+      - cursor
+      - overflow
+    separate_groups: true
   PropertySpelling:
+    enabled: false
+  PropertyUnits:
     enabled: false
   QualifyingElement:
     enabled: false
@@ -93,7 +151,9 @@ linters:
     enabled: true
   UrlQuotes:
     enabled: true
-  VendorPrefixes:
+  VariableForProperty:
+    enabled: false  # Subjective
+  VendorPrefix:
     enabled: false
   ZeroUnit:
     enabled: true
