@@ -61,15 +61,15 @@ h2 {
         li { list-style: none; clear: both; }
 
         span.article-date {
+            float: left;
             text-align: right;
             width: 20%;
-            float: left;
         }
 
         span.article-link {
-            width: 75%;
-            margin-left: 1em; //!
             float: left;
+            margin-left: 1em; //!
+            width: 75%;
 
             a { color: $blue !important; }
         }
@@ -86,38 +86,45 @@ h2 {
     }
 
     img.avatar {
-        border: 1px solid beige;
-        width: $avatarSize;
+        display: block;
+
+        padding: 5px;
+
         height: $avatarSize;
+        width: $avatarSize;
+
+        border: 1px solid beige;
+
         @if $avatarShape == "circle" {
             @include border-radius(50%);
         } @elseif $avatarShape == "rounded" {
             @include border-radius(5px);
         } // @else == square
+
         @include center;
-        display: block;
-        padding: 5px;
     }
 
     .byline,
     .translators {
         @include getVerticalRhythm($postBylineSize);
-        font-variant: small-caps;
         font-weight: normal;
+        font-variant: small-caps;
     }
 
     .translations {
         font-variant: small-caps;
-        @include center();
         margin: $padding 0;
+        @include center;
 
         li {
-            border: 1px solid $black;
             list-style: none;
-            text-align: center;
-            @include border-radius(5px);
             display: inline-block;
+            text-align: center;
+
             padding: 5px 10px;
+
+            border: 1px solid $black;
+            @include border-radius(5px);
 
             &:hover { background-color: $grey; }
         }
@@ -140,13 +147,17 @@ h2 {
     .updated.box {
         @include getVerticalRhythm($postUpdateSize);
         background-color: beige;
-        border: 1px solid steelblue;
-        text-align: center;
-        width: 85%;
-        float: none;
-        padding: .75em;
-        margin: $padding auto;
+
         display: block;
+        float: none;
+        text-align: center;
+
+        margin: $padding auto;
+        padding: .75em;
+
+        width: 85%;
+
+        border: 1px solid steelblue;
 
         a,
         &:active,
@@ -181,16 +192,16 @@ h2 {
 
         blockquote {
             margin: $padding 0;
-            border-left: 3px solid $grey;
             padding: 0 $padding 0 $padding + $blockquoteBorder;
+            border-left: 3px solid $grey;
         }
 
         li blockquote { margin: $padding; }
 
         img {
-            max-width: 100%;
-            height: auto;
             display: block;
+            height: auto;
+            max-width: 100%;
         }
 
         .embed { margin: $padding auto; }

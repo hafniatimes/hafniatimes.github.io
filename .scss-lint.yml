@@ -58,11 +58,12 @@ linters:
   PropertyCount:
     enabled: false
   PropertySortOrder:
-    enabled: false  # Change?
+    enabled: true  # Change?
     order:
       # Text
       - font
       - font-family
+      - src
       - font-size
       - line-height
       - font-weight
@@ -75,6 +76,7 @@ linters:
       - background-color
       - # Display types and positioning
       - content
+      - list-style
       - display
       - float
       - clear
@@ -87,11 +89,21 @@ linters:
       - left
       - # Spacing
       - margin
+      - margin-top
+      - margin-right
+      - margin-bottom
+      - margin-left
       - padding
+      - padding-top
+      - padding-right
+      - padding-bottom
+      - padding-left
       - text-indent
       - # Dimensions
       - height
       - width
+      - max-width
+      - min-width
       - # Box decoration
       - border
       - border-collapse
@@ -107,6 +119,7 @@ linters:
       - box-sizing
       - cursor
       - overflow
+      - visibility
     separate_groups: true
   PropertySpelling:
     enabled: false

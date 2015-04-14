@@ -4,8 +4,8 @@ body {
 }
 
 mark {
-    padding: 0 3px;
     background-color: #FFA;
+    padding: 0 3px;
 }
 
 #container {
@@ -24,17 +24,20 @@ mark {
 }
 
 .row {
-    width: 100%;
     float: left;
     clear: both;
+
+    width: 100%;
     @include clearfix;
 }
 
 .box {
-    width: 100%;
     display: inline-block;
     float: left;
+
     padding: $boxPaddingVer $boxPaddingHor;
+
+    width: 100%;
     @include clearfix;
     @include box-sizing;
 }
