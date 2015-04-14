@@ -53,7 +53,7 @@ sub {
 /* Embedded content
    ========================================================================== */
 img {
-  border: 0; }
+  border: none; }
 
 svg:not(:root) {
   overflow: hidden; }
@@ -105,7 +105,7 @@ html input[disabled] {
 
 button::-moz-focus-inner,
 input::-moz-focus-inner {
-  border: 0;
+  border: none;
   padding: 0; }
 
 input {
@@ -138,7 +138,7 @@ fieldset {
   padding: .35em .625em .75em; }
 
 legend {
-  border: 0;
+  border: none;
   padding: 0; }
 
 textarea {

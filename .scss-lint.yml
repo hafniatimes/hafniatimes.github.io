@@ -9,7 +9,7 @@ linters:
   ColorKeyword:
     enabled: false
   ColorVariable:
-    enabled: true  # Subjective
+    enabled: false  # Subjective
   Comment:
     enabled: false
   Compass::*:
