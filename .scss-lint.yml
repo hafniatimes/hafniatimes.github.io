@@ -58,7 +58,8 @@ linters:
   PropertyCount:
     enabled: false
   PropertySortOrder:
-    enabled: true  # Change?
+    enabled: true
+    ignore_unspecified: true
     order:
       # Text
       - font
