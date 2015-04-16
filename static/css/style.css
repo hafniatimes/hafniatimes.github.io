@@ -224,10 +224,14 @@ mark {
     height: 0;
     visibility: hidden; }
 
-#site-navigation a, #name h1 a, .post .translations a, .post .post-content a, #footer a {
+#site-navigation a, #name h1 a, .post .byline a,
+.post .translators a, .post .translations a, .post .post-content a, #footer a {
   text-decoration: none;
   color: #555; }
-  #site-navigation a:visited, #name h1 a:visited, .post .translations a:visited, .post .post-content a:visited, #footer a:visited, #site-navigation a:hover, #name h1 a:hover, .post .translations a:hover, .post .post-content a:hover, #footer a:hover, #site-navigation a:active, #name h1 a:active, .post .translations a:active, .post .post-content a:active, #footer a:active {
+  #site-navigation a:visited, #name h1 a:visited, .post .byline a:visited,
+  .post .translators a:visited, .post .translations a:visited, .post .post-content a:visited, #footer a:visited, #site-navigation a:hover, #name h1 a:hover, .post .byline a:hover,
+  .post .translators a:hover, .post .translations a:hover, .post .post-content a:hover, #footer a:hover, #site-navigation a:active, #name h1 a:active, .post .byline a:active,
+  .post .translators a:active, .post .translations a:active, .post .post-content a:active, #footer a:active {
     color: #555; }
 
 #articles,

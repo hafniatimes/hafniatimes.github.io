@@ -105,6 +105,8 @@ h2 {
         @include getVerticalRhythm($postBylineSize);
         font-weight: normal;
         font-variant: small-caps;
+
+        a { @extend %a; }
     }
 
     .translations {

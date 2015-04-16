@@ -24,7 +24,7 @@ layout: default
             />
         {% endif %}
         <div class="byline">
-            {{ u.by }} {{ author_name }}
+            {{ u.by }} <a href="{{ site.data.people[page.author].website }}" rel="author">{{ author_name }}</a>
         </div>
         {% if page.translator and page.translator != page.author %}
             <div class="translators">
