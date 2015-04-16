@@ -224,10 +224,10 @@ mark {
     height: 0;
     visibility: hidden; }
 
-#site-navigation li a, #name h1 a, .post .translations a, .post .post-content a, #footer a {
+#site-navigation a, #name h1 a, .post .translations a, .post .post-content a, #footer a {
   text-decoration: none;
   color: #555; }
-  #site-navigation li a:visited, #name h1 a:visited, .post .translations a:visited, .post .post-content a:visited, #footer a:visited, #site-navigation li a:hover, #name h1 a:hover, .post .translations a:hover, .post .post-content a:hover, #footer a:hover, #site-navigation li a:active, #name h1 a:active, .post .translations a:active, .post .post-content a:active, #footer a:active {
+  #site-navigation a:visited, #name h1 a:visited, .post .translations a:visited, .post .post-content a:visited, #footer a:visited, #site-navigation a:hover, #name h1 a:hover, .post .translations a:hover, .post .post-content a:hover, #footer a:hover, #site-navigation a:active, #name h1 a:active, .post .translations a:active, .post .post-content a:active, #footer a:active {
     color: #555; }
 
 #articles,
@@ -245,11 +245,9 @@ mark {
   #site-navigation.box {
     text-align: center;
     padding: .5em 0; }
-  #site-navigation li {
-    display: inline-block; }
-    #site-navigation li a {
-      display: inline-block;
-      padding: 0 1em; }
+  #site-navigation a {
+    display: inline-block;
+    padding: 0 1em; }
 
 #name h1 {
   font-size: 3em;
@@ -393,7 +391,7 @@ h2 {
     font-size: 1em;
     font-weight: bold;
     background-color: #F8F8F8; }
-    #site-navigation.box li a {
+    #site-navigation.box a {
       padding: 0 .75em; }
 
   #name h1 {
@@ -421,7 +419,7 @@ h2 {
     font-size: 1em;
     font-weight: bold;
     background-color: #F8F8F8; }
-    #site-navigation.box li a {
+    #site-navigation.box a {
       padding: 0 .75em; }
 
   #name h1 {

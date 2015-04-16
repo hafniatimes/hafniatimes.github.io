@@ -29,14 +29,10 @@
         padding: .5em 0;
     }
 
-    li {
+    a {
+        @extend %a;
         display: inline-block;
-
-        a {
-            @extend %a;
-            display: inline-block;
-            padding: 0 1em;
-        }
+        padding: 0 1em;
     }
 }
 

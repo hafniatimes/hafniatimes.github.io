@@ -102,16 +102,16 @@
         <div id="padder">
             {% include site-navigation.html %}
 
-            <div class="box" id="name" role="banner">
+            <header class="box" id="name" role="banner">
                 <h1><a href="{{ base_relative }}">{{ site.name }}</a></h1>
-            </div>
+            </header>
 
             {{ content }}
 
         {% if site.show_footer == true or site.dyslexia_support == true %}
-            <div class="box" id="footer" role="contentinfo">
+            <footer class="box" id="footer" role="contentinfo">
                 {% include footer.html %}
-            </div>
+            </footer>
         {% endif %}
         </div>
         </div>

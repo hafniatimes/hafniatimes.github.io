@@ -14,7 +14,7 @@
         font-weight: bold;
         background-color: #F8F8F8;
 
-        li a { padding: 0 .75em; }
+        a { padding: 0 .75em; }
     }
 
     #name h1 { @include getVerticalRhythm($mobilenameH1Size); }

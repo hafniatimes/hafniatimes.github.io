@@ -1,19 +1,18 @@
-<ul id="site-navigation" class="box" role="navigation">
-    <li><a href="{{ base_relative }}">{{ t.navigation[page_language].home }}</a></li>
-    <li><a href="{{ site.repo }}">{{ t.navigation[page_language].code }}</a></li>
-    <li><a href="//twitter.com/hafniatimes">Twitter</a></li>
-    <li id="dyslexia-mode" class="dyslexia-info">
-        <a
-            href="javascript:if(typeof WZXYxe58==typeof alert)WZXYxe58();(function(){var s=document.createElement('link');s.setAttribute('href','/static/css/dyslexia.css');s.setAttribute('rel','stylesheet');s.setAttribute('type','text/css');document.getElementsByTagName('head')[0].appendChild(s);})();"
-            title="Enable dyslexia mode"
-        >
-            {{ t.navigation[page_language].dyslexia }}
-        </a>
-    </li>
-    <li><a href="{{ base_relative }}feed.atom">{{ t.navigation[page_language].feed }}</a></li>
+<nav id="site-navigation" class="box" role="navigation">
+    <a href="{{ base_relative }}">{{ t.navigation[page_language].home }}</a>
+    <a href="{{ site.repo }}">{{ t.navigation[page_language].code }}</a>
+    <a href="//twitter.com/hafniatimes">Twitter</a>
+    <a
+        id="dyslexia-mode" class="dyslexia-info"
+        href="javascript:if(typeof WZXYxe58==typeof alert)WZXYxe58();(function(){var s=document.createElement('link');s.setAttribute('href','/static/css/dyslexia.css');s.setAttribute('rel','stylesheet');s.setAttribute('type','text/css');document.getElementsByTagName('head')[0].appendChild(s);})();"
+        title="Enable dyslexia mode"
+    >
+        {{ t.navigation[page_language].dyslexia }}
+    </a>
+    <a href="{{ base_relative }}feed.atom">{{ t.navigation[page_language].feed }}</a>
 {% if page_language == "en" %}
-    <li><a href="/da/" title="Siden på dansk">da</a></li>
+    <a href="/da/" title="Siden på dansk">da</a>
 {% else %}
-    <li><a href="/" title="Site in English">en</a></li>
+    <a href="/" title="Site in English">en</a>
 {% endif %}
-</ul>
+</nav>
