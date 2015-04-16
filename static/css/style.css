@@ -272,8 +272,8 @@ h2 {
 #frontpage #linked-articles li {
   list-style: none;
   clear: both; }
-#frontpage #articles span.article-date,
-#frontpage #linked-articles span.article-date {
+#frontpage #articles time.article-date,
+#frontpage #linked-articles time.article-date {
   float: left;
   text-align: right;
   width: 20%; }
