@@ -5,14 +5,14 @@ section: frontpage
 {% comment %}Do something better than page.section==frontpage for default.html{% endcomment %}
 {% assign u = site.translations.frontpage[page.lang] %} {% comment %}Refactor `.frontpage` to [page.layout]{% endcomment %}
 
-<div class="box" id="info" role="section">
+<section class="box" id="info" role="section">
     <h2>{{ u.who }}</h2>
 
     <p>{{ u.description }}</p>
-</div>
+</section>
 
 {% if site.show_posts == true %}
-    <div id="articles" class="box" role="section">
+    <section id="articles" class="box" role="section">
         <h2>{{ u.articles }}</h2>
 
         <ul>
@@ -20,17 +20,17 @@ section: frontpage
             <li><span class="article-date">{{ post.date | date_to_string }}</span> <span class="article-link"><a href="{{ post.url }}">{{ post.title | markdownify | strip_html }}</a></span></li>
         {% endunless %}{% endfor %}
         </ul>
-    </div>
+    </section>
 {% endif %}
 
 {% if site.data.links[page.lang] %}
-    <div id="linked-articles" class="box" role="section">
+    <section id="linked-articles" class="box" role="section">
         <h2>{{ u.linked_articles }}</h2>
 
         <ul>
         {% for link in site.data.links[page.lang] %}
-            <li><span class="article-date">{{ link.date  | date_to_string }}</span> <span class="article-link"><a href="{{ link.url }}">{{ link.title | markdownify | strip_html }}</a></span></li>
+            <li><span class="article-date">{{ link.date | date_to_string }}</span> <span class="article-link"><a href="{{ link.url }}">{{ link.title | markdownify | strip_html }}</a></span></li>
         {% endfor %}
         </ul>
-    </div>
+    </section>
 {% endif %}
