@@ -11,8 +11,8 @@ bundle exec jekyll build --trace
 htmlhint _site
 # scss-lint
 bundle exec scss-lint static/css/*.scss
-# jscs
-jscs static/js/
+## jscs
+# jscs static/js/
 ## jshint
 # jshint static/js/
 ## csslint
