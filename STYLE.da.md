@@ -46,9 +46,9 @@ Ved gentagne nævnelser kan man nøjes med efternavnet. Husk dog at flere politi
 
 > Thorning-Schmidt [ikke Thorning]
 
-Nævn som udgangspunkt en politikers ordførerskab, når det er relevant for emnet, for at understrege, at personen taler på vegne af partiet i den givne situation. Ex.:
+Nævn som udgangspunkt en politikers ministerembede(r) eller ordførerskab(er), når de er relevante for emnet, for at understrege, at personen taler på vegne af partiet i den givne situation. Ex.:
 
-> Martin Henriksen, udlændinge- og integrationsordfører for DF, (...)
+> Martin Henriksen (DF), udlændinge- og integrationsordfører, (...)
 
 ### Endelser På Latinske og Græske Fremmedord ###
 
