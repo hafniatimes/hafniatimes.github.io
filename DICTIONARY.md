@@ -3,6 +3,7 @@ Dictionary
 
 Danish
 ------
+### General ###
 
  Danish              | English
 :--------------------|:-------------------
@@ -11,10 +12,16 @@ Danish
  indvandrer          |  immigrant
  indvandringspolitik |  immigration policy
  meningsmåling       | (opinion) poll
- kommune             |  municipality
- opstillingskredse   |  ponstituency
- sogn                |  parish
+
+### Geographies ###
+
+ Danish              | English
+:--------------------|:-------------------
+ opstillingskredse   |  constituency
+ region              |  Region
  amt                 |  county, shire
+ kommune             |  municipality
+ sogn                |  parish
 
 ### Parliament ###
 
@@ -34,26 +41,25 @@ Danish
 
  Danish                     | English
 :---------------------------|:-------------------
- Beskæftigelsesminister     | Employment minister
- Erhvervs- og vækstminister | Business and growth minister
- Finansminister             | Finance minister
- Forsvarsminister           | Defence minister
- Justitsminister            | Justice minister
- Kirkeminister              | Ecclesiastical minister
- Klima-, energi- og miljøminister | Climate, energy, and building minister
- Kulturminister             | Culture minister
- Miljøminister              | Environment minister
- By-, bolig- og landdistriktsminister | Housing, urban, and rural minister
- Børn-, ligestillings-, integrations- og socialminister | Children's, gender-equality, integration, and social minister
- Fødevare-, landsbrugs- og fiskeriminister | Food, agriculture, and fishery minister
- Sundheds- og forebyggelsesminister | Health minister
- Skatteminister             | Taxation minister
- Transportminister          | Transport minister
- Uddannelses- og forskningsminister | Higher-education and science minister
- Udenrigsminister           | Foreign minister
- Undervisningsminister      | Education minister
- Økonomi- og indenrigsminister | Economic minister
-
+ Beskæftigelsesminister     | employment minister
+ Erhvervs- og vækstminister | business and growth minister
+ Finansminister             | finance minister
+ Forsvarsminister           | defence minister
+ Justitsminister            | justice minister
+ Kirkeminister              | ecclesiastical minister
+ Klima-, energi- og miljøminister | climate, energy, and building minister
+ Kulturminister             | culture minister
+ Miljøminister              | environment minister
+ By-, bolig- og landdistriktsminister | housing, urban, and rural minister
+ Børn-, ligestillings-, integrations- og socialminister | children's, gender-equality, integration, and social minister
+ Fødevare-, landsbrugs- og fiskeriminister | food, agriculture, and fishery minister
+ Sundheds- og forebyggelsesminister | health minister
+ Skatteminister             | taxation minister
+ Transportminister          | transport minister
+ Uddannelses- og forskningsminister | higher-education and science minister
+ Udenrigsminister           | foreign minister
+ Undervisningsminister      | education minister
+ Økonomi- og indenrigsminister | economic minister
 
 ### Police ###
 
