@@ -77,11 +77,12 @@ The differences not supported by this style manual have been omitted.
 
 ### Endings ###
 
- UK   | US  | Examples
-:-----|:----|:--------------------
- -our | -or | colour, behaviour
- -re  | -er | centre, theatre
- -ll  | -l  | traveller, cancelled
+ UK    | US  | Examples
+:------|:----|:--------------------
+ -our  | -or | colour, behaviour
+ -re   | -er | centre, theatre
+ -ll   | -l  | traveller, cancelled
+ -ogue | -og | dialogue, analogue
 
 ### Words ###
 
@@ -233,6 +234,7 @@ Use the unabbreviated currency the first time, and the abbreviation for repeat u
 
 Tricky Spellings
 ----------------
+* accommodation
 * commission
 * committee
 * competitive
@@ -246,6 +248,7 @@ Tricky Spellings
 Typo-prone Words
 ----------------
 * appar**e**ntly
+* cumulative
 * defin**ite**ly
 * occasion
 * privilege
@@ -253,18 +256,66 @@ Typo-prone Words
 * tomorrow
 * weird
 
+Common Misconceptions
+---------------------
+ Right             | Wrong
+:------------------|:--------------
+ same-sex marriage | gay marriage\*
+
+### Learn the Difference ###
+
+* -ly vs -ally
+* amoral, disinterested vs immoral, uninterested
+* assure vs ensure vs insure
+* awhile vs a while
+* accuracy vs prediction
+* born, aid, breath vs borne, aide, breathe
+* classic vs classical
+* complementary vs complimentary
+* counsellor vs councillor
+* disk vs disc
+* effect vs affect
+* everyone vs every one
+* fiancé vs fiancée
+* historic vs historical
+* phase vs faze
+* seize vs cease
+* you and I vs you and me
+
+A lot of people
+
+\* Except when referring to homosexual couples specifically
+
 Acronyms/Abbreviations
 ----------------------
 Use Markdown’s [abbreviation syntax][abbr] in the following cases:
 
  Shorthand  | Full Word
-:-----------|:------------------------------------
- MEP        | member(s) of the European Parliament
- MP         | member(s) of parliament
+:-----------|:----------------------------------
+ MEPs       | members of the European Parliament
+ MPs        | members of parliament
 
-Links
-------
-* [GLAAD Media Reference Guide on Transgender Issues][transgender]
+Immigrant vs Expatriot
+----------------------
+Use **immigrants** in general and avoid **expatriots**.
+
+You can use **expatriots** to draw an explicit distinction between immigrants who intend permanent residence to a expatriots whose future residency plans are significantly more ambiguous.
+
+Essentialism
+------------
+Avoid nouns defining people by traits, and generally nounified adjectives:
+
+ Preferred                           | Not Preferred
+:------------------------------------|:-----------------
+ black and Asian people              | blacks and Asians
+ gay and lesbian people              | gays and lesbians
+ homo-, bi-, and heterosexual people | homo-, bi-, and heterosexuals
+ illegal( immigrant)s                | people living [somewhere] illegally
+ men, women                          | males, females
+
+Be particularly careful with referring to people “victims”.
+
+By using an adjective rather than a noun for your description, you describe a trait instead of defining an identity.
 
 TODO
 ----
