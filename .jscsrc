@@ -1,5 +1,9 @@
 {
+    // jscs rules
+    // ==========
+    "disallowIdentifierNames": ["foo, "bar", "baz", "qux"],
     "disallowMixedSpacesAndTabs": true,
+    "disallowMultipleSpaces": false,
     "disallowNewlineBeforeBlockStatements": true,
     "disallowPaddingNewlinesBeforeKeywords": [
         "else",
@@ -19,6 +23,7 @@
     "requireCapitalizedComments": true,
     "requireCommaBeforeLineBreak": true,
     "requireLineBreakAfterVariableAssignment": true,
+    "requireSemiColons": true,
     "requireQuotedKeysInObjects": true,
     "requireSpaceAfterBinaryOperators": [
         "=",
@@ -64,7 +69,13 @@
     "requireSpaceBetweenArguments": true,
     "requireSpacesInConditionalExpression": true,
     "requireSpacesInForStatement": true,
+    "validateAlignedFunctionParameters": false,
     // "validateIndentation": 4,
     // "validateLineBreaks": "CRLF",
-    "validateQuoteMarks": "\""
+    "validateQuoteMarks": "\"",
+
+    // React.js support
+    // ================
+    "esprima": "esprima-fb",
+    "fileExtensions": [".js", ".jsx"]
 }
