@@ -188,7 +188,7 @@ prose:
                   element: checkbox
             - name: translator
               field:
-                  label: Translater
+                  label: Translator
                   help: (Other) person who translated the original article
                   element: text
                   value: ""
