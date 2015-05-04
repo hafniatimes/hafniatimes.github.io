@@ -186,12 +186,6 @@ prose:
                   help: Is the author a guest contributor with no GitHub account?
                   value: false
                   element: checkbox
-            - name: translator
-              field:
-                  label: Translator
-                  help: (Other) person who translated the original article
-                  element: text
-                  value: ""
             - name: date
               # CURRENT_DATETIME should be used as `value`, but doesn't work
               # <https://github.com/prose/prose/issues/277>
@@ -201,6 +195,12 @@ prose:
                   placeholder: YYYY-MM-DD HH:MM:SS
                   element: text
                   value: ""
+            - name: updated
+              field:
+                  label: Updated
+                  help: Has the article been edited since its publication?
+                  value: false
+                  element: checkbox
             - name: lang
               field:
                   label: Language
@@ -209,6 +209,12 @@ prose:
                   element: select
                   options: *languages
                   selected: en
+            - name: translator
+              field:
+                  label: Translator
+                  help: (Other) person who translated the original article
+                  element: text
+                  value: ""
             - name: trans
               field:
                   label: Translation
@@ -220,12 +226,6 @@ prose:
                   label: Categories
                   element: hidden
                   value: article
-            - name: updated
-              field:
-                  label: Updated
-                  help: Has the article been edited since its publication?
-                  value: false
-                  element: checkbox
     ignore:
         - _config.yml
         - .csslintrc
