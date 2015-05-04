@@ -146,35 +146,50 @@ languages: &languages
       value: "en"
     - name:  "Dansk"
       value: "da"
+
 prose:
     siteurl: "http://hafniatimes.com"
+  # rooturl: "/"
+  # media: "assets/"
     metadata:
         _posts:
             - name: layout
               field:
                   element: hidden
                   value: post
+            - name: title # Field available in place of filename input
+              field:
+                  label: Title
+                  element: text
+                  value: ""
+            - name: excerpt
+              field:
+                  label: Excerpt/Description/Summary
+                  help: Used for the Twitter Card summary
+                  placeholder: Use 200 characters at most
+                  element: textarea
+                  value: ""
+            - name: slug
+              field:
+                  label: URL Slug
+                  element: text
+                  value: ""
             - name: author
               field:
                   label: Author
                   help: Use your GitHub username
                   element: text
                   value: ""
-            - name: translator
-              field:
-                  label: Translater
-                  help: Person responsible for translating the original article
-                  element: text
-                  value: ""
-            - name: Guest
+            - name: guest
               field:
                   label: Guest
                   help: Is the author a guest contributor with no GitHub account?
                   value: false
                   element: checkbox
-            - name: title
+            - name: translator
               field:
-                  label: Title
+                  label: Translater
+                  help: (Other) person who translated the original article
                   element: text
                   value: ""
             - name: date
@@ -184,19 +199,6 @@ prose:
                   placeholder: YYYY-MM-DD HH:MM:SS
                   element: text
                   value: ""
-            - name: excerpt
-              field:
-                  label: Excerpt/Description/Summary
-                  help: Used for the Twitter Card summary
-                  placeholder: Use 200 characters at most
-                  element: text
-                  value: ""
-            - name: slug
-              field:
-                  label: URL Slug
-                  element: text
-                  value: ""
-                  alterable: true
             - name: lang
               field:
                   label: Language
@@ -222,14 +224,6 @@ prose:
                   help: Has the article been edited since its publication?
                   value: false
                   element: checkbox
-        # _posts/da:
-        #     - name: categories
-        #       field:
-        #           label: Categories
-        #           element: hidden
-        #           value:
-        #               - da
-        #               - article
     ignore:
         - _config.yml
         - .csslintrc
@@ -238,7 +232,9 @@ prose:
         - .jscsrc
         - .jshintrc
         - .mdlrc
+        - .ruby-version
         - .scss-lint.yml
+        - .tidyrc
         - .travis.yml
         - _favicon.ico
         - CNAME
@@ -251,6 +247,7 @@ prose:
         - LICENSE.md
         - package.json
         - README.md
+        - sitemap.xml
         - STYLE.md
         - STYLE.da.md
         - WRITERS.md
@@ -259,4 +256,5 @@ prose:
         - /_resources
         - /404
         - /da
+        - /en
         - /static
