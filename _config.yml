@@ -193,9 +193,11 @@ prose:
                   element: text
                   value: ""
             - name: date
+              # CURRENT_DATETIME should be used as `value`, but doesn't work
+              # <https://github.com/prose/prose/issues/277>
               field:
                   label: Date
-                  help: Use 24-hour notation
+                  help: Use 24h notation
                   placeholder: YYYY-MM-DD HH:MM:SS
                   element: text
                   value: ""
