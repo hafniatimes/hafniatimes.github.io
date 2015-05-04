@@ -187,7 +187,7 @@ prose:
                   value: false
                   element: checkbox
             - name: date
-              # CURRENT_DATETIME should be used as `value`, but doesn't work
+              # CURRENT_DATETIME should be the `value`, but doesn't work
               # <https://github.com/prose/prose/issues/277>
               field:
                   label: Date
@@ -198,7 +198,7 @@ prose:
             - name: updated
               field:
                   label: Updated
-                  help: Has the article been edited since its publication?
+                  help: Have significant edits been made to the article since publication?
                   value: false
                   element: checkbox
             - name: lang
