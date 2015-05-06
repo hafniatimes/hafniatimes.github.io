@@ -18,8 +18,9 @@ Ordbog
 
  Brug              | Brug ikke
 :------------------|:---------
- jage              | jagte
  sponsorere        | sponsere
+
+* Verberne **jage** og **jagte** bruges hhv. intransitivt og transitivt.
 
 Generelt
 --------
@@ -63,6 +64,12 @@ Nævn som udgangspunkt en politikers ministerembede(r) eller ordførerskab(er), 
  verbum      | -e
 
 Men brug “scenarie” i stedet for -o og -um.
+
+### Drilleord ###
+
+* boykot
+* privilegium
+* trafik
 
 Vestlige og Ikke-vestlige Lande
 -------------------------------
