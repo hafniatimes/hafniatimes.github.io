@@ -16,12 +16,12 @@ Danish
 ### Geographies ###
 
  Danish              | English
-:--------------------|:-------------------
- opstillingskredse   |  constituency
- region              |  Region
- amt                 |  county, shire
- kommune             |  municipality
- sogn                |  parish
+:--------------------|:--------------
+ opstillingskredse   | constituency
+ region              | Region
+ amt                 | county, shire
+ kommune             | municipality
+ sogn                | parish
 
 ### Parliament ###
 
