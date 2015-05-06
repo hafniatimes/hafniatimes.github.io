@@ -60,7 +60,7 @@ linters:
   PropertySortOrder:
     enabled: true
     ignore_unspecified: true
-    min_properties: 3
+    min_properties: 4
     order:
       # Text
       - font
