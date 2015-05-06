@@ -40,7 +40,7 @@ defaults:
         scope: # busted
             path: "_posts/da"
         values: &da_defaults
-            lang: "da "
+            lang: "da"
             categories:
                 - "da"
                 - "articles"
