@@ -1,6 +1,8 @@
 Dictionary
 ==========
 
+`*` = tentative translation.
+
 Danish
 ------
 ### General ###
@@ -63,8 +65,28 @@ Danish
 
 ### Police ###
 
- Danish              | English
-:--------------------|:-------------------
- politidirektør      | police commissioner
- politikreds         | police district
- Rigspolitiet        | Danish National Police
+ Danish         | English
+:---------------|:----------------------
+ politidirektør | police commissioner
+ politikreds    | police district
+ Rigspolitiet   | Danish National Police
+
+### Courts ###
+
+  Danish        | English
+ :--------------|:-------------
+  Byretten      | Lower court*
+  Landretten    | High court*
+  Højesteretten | Supreme Court
+
+### Judicial ###
+
+ Danish        | English
+:--------------|:------------------
+ betinget dom  | suspended sentence
+
+### Miscellaneous ###
+
+ Danish          | English
+:----------------|:--------
+ Skifergasboring | Fracking
