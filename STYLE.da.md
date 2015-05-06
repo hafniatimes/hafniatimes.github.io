@@ -6,11 +6,13 @@ Ordbog
 ### Politiske Udtryk ###
 
  Brug              | Brug ikke
-:------------------|:--------------------
+:------------------|:----------------------
  antimuslimsk      | islamofob(isk)
  antisemitisk      | jødehadsk
  forbudt hunderace | muskelhund, kamphund
  hjemmeboende SU   | cafépenge
+ indvandrer        | immigrant
+ migrantarbejder   | gæste-/fremmedarbejder
 
 ### Diverse ###
 
@@ -160,6 +162,7 @@ Et **geografisk center i øvrigt** er defineret som en kommune med:
 
 Misvisende Udtryk
 -----------------
+
 ### Udlændinge, Indvandrer- og Integrations(politik) ###
 
 Udtrykkene bruges i flæng, men er sjældent præcise for ikke at sige direkte forkerte.
@@ -170,10 +173,11 @@ Hvis der er tale om asyl så skriv asyl(politik). Hvis der er tale om grænsekon
 
 Der er desuden intet krav om at komformere til en bestemt indramning af debatten ved at gøre det til et ...-politisk spørgsmål. Der er ikke noget i vejen for at skrive `x`’s holdning til eller udtalelser om `y` frem for `x`’s `y`-politik; sidstnævnte antyder desuden et aftalt og sammenhængende partiprogram, hvilket der ikke nødvendigvis er belæg for at konkludere.
 
-Drilleord
----------
-* privilegium
-* trafik
+#### Immigranter, Migranter og Indvandrere ####
+
+**Indvandrer** er, som udgangspunkt, synonymt med **immigrant** og bruges generelt i stedet i daglig tale. Udtrykket skal dog bruges konsekvent, hvorfor man må afholde sig fra at bruge **immigrant** til at referere til en “anden” gruppe af mennesker.
+
+En **migrant** er en person, som opholder sig midlertidigt i et andet land. Udtrykket bruges generelt ikke, medmindre der er tale om en forvanskning **politiske flygtninges** situation. Brug derfor kun udtrykket til at  henvisning til **migrantarbejdere**; dvs. folk, der tager midlertidigt til Danmark for at påtage sig arbejde. Undlad udtryk som **gæste-** og **fremmedarbejdere**.
 
 Andre Links
 -----------
