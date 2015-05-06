@@ -31,19 +31,27 @@ defaults:
         scope:
             path: ""
             type: "posts"
-        values:
+        values: &en_defaults
             layout: "post"
             author: "ndarville"
             lang: "en"
             categories: "articles"
     -
-        scope:
+        scope: # busted
             path: "_posts/da"
-        values:
-            lang: "da" # busted
+        values: &da_defaults
+            lang: "da "
             categories:
                 - "da"
                 - "articles"
+#   - # Redundant when top scope path is ""
+#       scope: # busted
+#           path: "_drafts"
+#       values: *en_defaults
+    -
+        scope: # busted
+            path: "_drafts/da"
+        values: *da_defaults
 
 include: [".htaccess"]
 exclude:
