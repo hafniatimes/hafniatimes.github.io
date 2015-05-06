@@ -109,7 +109,7 @@ Any modification to the original quote (short of quote marks and dashes) must be
 Numbers
 -------
  Right                         | Wrong
-:------------------------------|:----------------
+:------------------------------|:-----------------------------------
  1,000,000                     | 1000000
  10,000 Danish kroner ($1,702) | 10,000 kr., 10,000 crowns, 10,000,-
  $1,702                        | 1.702 US dollars
@@ -121,6 +121,7 @@ Numbers
  ninth, tenth, 11th, 12th      | 9th, 10th, 11th, 12th
  100 cm, 1 m                   | 100cm, 1m
  10%                           | 10 %, 10 per cent, 10 percent
+ 10-year-old                   | 10yo
 
 When listing prices and valuations, use the shortform, i.e. $1,500 and 1,500 Danish kroner. Shorten large numbers with M and B, but not k.
 
@@ -235,6 +236,7 @@ Use the unabbreviated currency the first time, and the abbreviation for repeat u
 Tricky Spellings
 ----------------
 * accommodation
+* boycott
 * commission
 * committee
 * competitive
