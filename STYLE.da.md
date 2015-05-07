@@ -186,8 +186,8 @@ Der er desuden intet krav om at komformere til en bestemt indramning af debatten
 
 En **migrant** er en person, som opholder sig midlertidigt i et andet land. Udtrykket bruges generelt ikke, medmindre der er tale om en forvanskning **politiske flygtninges** situation. Brug derfor kun udtrykket til at  henvisning til **migrantarbejdere**; dvs. folk, der tager midlertidigt til Danmark for at påtage sig arbejde. Undlad udtryk som **gæste-** og **fremmedarbejdere**.
 
-LGBT-Ordbog
------------
+LGBT
+----
 LGBT-retningslinjerne er givet ud fra LGBT Danmarks [ordbog og deres “Lille Grønne”][lgbt]. Læs mere om dækning af transpersoner i GLAADs [mediehåndbog][glaad].
 
 ### Køn ###
