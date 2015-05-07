@@ -186,6 +186,43 @@ Der er desuden intet krav om at komformere til en bestemt indramning af debatten
 
 En **migrant** er en person, som opholder sig midlertidigt i et andet land. Udtrykket bruges generelt ikke, medmindre der er tale om en forvanskning **politiske flygtninges** situation. Brug derfor kun udtrykket til at  henvisning til **migrantarbejdere**; dvs. folk, der tager midlertidigt til Danmark for at påtage sig arbejde. Undlad udtryk som **gæste-** og **fremmedarbejdere**.
 
+LGBT-Ordbog
+-----------
+LGBT-retningslinjerne er givet ud fra LGBT Danmarks [ordbog og deres “Lille Grønne”][lgbt].
+
+### Køn ###
+
+* Oplevet
+* Udtrykt
+* Biologisk *(sex, eng.)*
+
+Derudover findes to andre udtryk af køn:
+
+* Socialt *(gender, eng.)*
+    - Den kollektive forståelse af køn (fx maskulint og feminint). Berører også **kønsroller**.
+
+        Både det **oplevede** og **udtrykte** køn er sociale køn.
+* Juridisk
+    - CPR-nummerets sidste ciffer; lige tal er kvinde, ulige er mand.
+
+Bemærk ved omtale af juridisk kønsskifte, at der ikke er tale om et *kønsskifte*, men en *juridisk anerkendelse* af éns *oplevede* køn. Man *bliver* ikke trans, da køn er en identitet, ikke et valg.
+
+### Seksuel Orientering ###
+
+Kønnet på den man **tiltrækkes** af, bl.a. homo-, hetero- og biseksuel.
+
+Skal ikke forveksles med **seksualitet**, der omhandler generel seksualdrift.
+
+### Trans ###
+
+* transperson, transkønnet
+* transseksuel
+* transvestit (frarådes af Hafnia Times)
+
+### Ord ###
+
+* samkønnet forhold/ægteskab/partnerskab
+
 Andre Links
 -----------
 * [dsn.dk][] til retstavning
@@ -194,5 +231,6 @@ Andre Links
 
 [dst]: http://www.dst.dk/da/Statistik/Publikationer/VisPub.aspx?cid=19004
 [kommuner]: https://web.archive.org/web/20071113203858/http://im.dk/publikationer/landdistriktsred_2004/samlet.htm
+[lgbt]: http://lgbt.dk/om-os/lgbt-ordbog/
 [sproget.dk]: http://sproget.dk/
 [dsn.dk]: http://dsn.dk/
