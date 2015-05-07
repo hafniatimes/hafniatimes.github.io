@@ -188,7 +188,7 @@ En **migrant** er en person, som opholder sig midlertidigt i et andet land. Udtr
 
 LGBT-Ordbog
 -----------
-LGBT-retningslinjerne er givet ud fra LGBT Danmarks [ordbog og deres “Lille Grønne”][lgbt].
+LGBT-retningslinjerne er givet ud fra LGBT Danmarks [ordbog og deres “Lille Grønne”][lgbt]. Læs mere om dækning af transpersoner i GLAADs [mediehåndbog][glaad].
 
 ### Køn ###
 
@@ -219,7 +219,11 @@ Skal ikke forveksles med **seksualitet**, der omhandler generel seksualdrift.
 * transseksuel
 * transvestit (frarådes af Hafnia Times)
 
-### Ord ###
+#### GLAADs Medieguide Til Dækning Af Transpersoner ####
+
+[GLAADs medieguide][glaad] er den amerikanske standard for dækning af transpersoner. Ikke alle begreber er nemme at oversætte til dansk; i de tilfælde kan nærværende guide bruges som supplement.
+
+### LGBT-Ordbog ###
 
 * samkønnet forhold/ægteskab/partnerskab
 
@@ -232,5 +236,6 @@ Andre Links
 [dst]: http://www.dst.dk/da/Statistik/Publikationer/VisPub.aspx?cid=19004
 [kommuner]: https://web.archive.org/web/20071113203858/http://im.dk/publikationer/landdistriktsred_2004/samlet.htm
 [lgbt]: http://lgbt.dk/om-os/lgbt-ordbog/
+[glaad]: http://www.glaad.org/reference/transgender
 [sproget.dk]: http://sproget.dk/
 [dsn.dk]: http://dsn.dk/
