@@ -215,8 +215,8 @@ Skal ikke forveksles med **seksualitet**, der omhandler generel seksualdrift.
 
 ### Trans ###
 
-* transperson, transkønnet
-* transseksuel
+* trans (adj.), transperson, transkønnet
+* transseksuel (adj.)
 * transvestit (frarådes af Hafnia Times)
 
 #### GLAADs Medieguide Til Dækning Af Transpersoner ####
