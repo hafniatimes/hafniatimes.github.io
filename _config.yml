@@ -195,14 +195,12 @@ prose:
                   value: false
                   element: checkbox
             - name: date
-              # CURRENT_DATETIME should be the `value`, but doesn't work
-              # <https://github.com/prose/prose/issues/277>
               field:
                   label: Date
                   help: Use 24h notation
                   placeholder: YYYY-MM-DD HH:MM:SS
                   element: text
-                  value: ""
+                  value: CURRENT_DATETIME
             - name: updated
               field:
                   label: Updated
