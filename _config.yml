@@ -194,12 +194,12 @@ prose:
                   help: Is the author a guest contributor with no GitHub account?
                   value: false
                   element: checkbox
-            - name: date
+            - name: "date"
               field:
-                  label: Date
-                  help: Use 24h notation
-                  placeholder: YYYY-MM-DD HH:MM:SS
-                  element: text
+                  label: "Date"
+                  help: "Use 24h notation"
+                  placeholder: "YYYY-MM-DD HH:MM:SS"
+                  element: "text"
                   value: "CURRENT_DATETIME"
             - name: updated
               field:
