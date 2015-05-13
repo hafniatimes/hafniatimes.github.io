@@ -200,7 +200,7 @@ prose:
                   help: Use 24h notation
                   placeholder: YYYY-MM-DD HH:MM:SS
                   element: text
-                  value: CURRENT_DATETIME
+                  value: "CURRENT_DATETIME"
             - name: updated
               field:
                   label: Updated
