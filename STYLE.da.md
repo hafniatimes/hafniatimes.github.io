@@ -1,5 +1,6 @@
 Dansk Stilmanual
 ================
+Denne guide ligger som udgangspunkt i forlængelse af `Style.md`, den engelske udgave. Indholdet af denne guide er specifikt for dansksproget dækning.
 
 Ordbog
 ------
@@ -19,6 +20,7 @@ Ordbog
  Brug              | Brug ikke
 :------------------|:---------
  sponsorere        | sponsere
+ Omar El-Hussein   | Omar
 
 * Verberne **jage** og **jagte** bruges hhv. intransitivt og transitivt.
 
