@@ -10,7 +10,7 @@ An excerpt from some of the [examples][oed]:
 
  Right                | Wrong
 :---------------------|:---------------------------------------------
- J R R Tolkien        | J.R.R. Tolkien, J. R. R. Tolkien
+ J R R Tolkien        | J.R.R., J. R. R., JRR
  Ampersands in names  | Ampersands anywhere else
  etc, ie, eg, vs      | etc., i.e., e.g., vs.
  UK, US               | U.K., U.S.
