@@ -59,7 +59,7 @@ General
  -eable               | -able
  10:00, 10 AM/PM      | 10 am/pm, 10AM/PM
  ceasefire            | cease-fire
- comprise             | comprised of
+ comprise             | comprised of
  e-mail               | email
  front page           | frontpage
  Hafnia Times         | The Hafnia Times
@@ -68,8 +68,6 @@ General
  no one               | no-one
  revise               | revize
  use                  | usage
-
-Use a 24-hour format by default, and only use the 12-hour when required by verbatim transcriptions and the like.
 
 British vs American
 -------------------
@@ -112,13 +110,13 @@ Numbers
 :------------------------------|:-----------------------------------
  1,000,000                     | 1000000
  10,000 Danish kroner ($1,702) | 10,000 kr., 10,000 crowns, 10,000,-
- $1,702                        | 1.702 US dollars
+ $1,702                        | 1,702 US dollars
  100M                          | 100m, 100mn, 100 M
  100B                          | 100b, 100bn, 100 B
  two                           | 2
- nine, ten, 11, 12             | nine, ten, eleven, twelve
+ nine, ten, 11, 12             | 9, 10, eleven, twelve
  second                        | 2nd
- ninth, tenth, 11th, 12th      | 9th, 10th, 11th, 12th
+ ninth, tenth, 11th, 12th      | 9th, 10th, eleventh, twelfth
  100 cm, 1 m                   | 100cm, 1m
  10%                           | 10 %, 10 per cent, 10 percent
  10-year-old                   | 10yo
@@ -127,6 +125,8 @@ When listing prices and valuations, use the shortform, i.e. $1,500 and 1,500 Dan
 
 Time and Date
 -------------
+Use a 24-hour format by default, and only use the 12-hour format when required by verbatim transcriptions and the like.
+
  Right    | Wrong
 :---------|:-----------------------
  April 10 | 10 April, 10th of April
@@ -137,13 +137,14 @@ Media
 -----
  Right              | Wrong
 :-------------------|:-------------------------------
- TV 2               | TV2
- DR                 | Danish Radio, Denmark’s Radio
+ BBC                | British Broadcasting
  Berlingske Tidende | Berlingske
- Weekendavisen      | WeekendAvisen
  BuzzFeed           | Buzzfeed
- Radio24syv         | Radio24Syv, radio24syv
+ DR                 | Danish Radio, Denmark’s Radio
  Jyllands-Posten    | Jyllands Posten, JyllandsPosten
+ Radio24syv         | Radio24Syv, radio24syv
+ TV 2               | TV2
+ Weekendavisen      | WeekendAvisen
 
 Parties
 -------
@@ -175,8 +176,8 @@ Politicians
 ### International ###
 
  Right            | Shorthand | Wrong
-:-----------------|:----------|:--------------
- Hillary Clinton  | Clinton   | Hilary Clinton
+:-----------------|:----------|:-----------------------
+ Hillary Clinton  | Clinton   | Hilary Clinton, Hillary
 
 Technology
 ----------
@@ -214,14 +215,14 @@ Finance
 :---------------|:-----
  Nationalbanken, Denmark’s Nationalbank | The Danish (...), The Central Bank of Denmark
  Riksbanken, Sweden’s Riksbank          | The Swedish (...), The Central Bank of Sweden
- ECB | The European Central Bank, Europe’s Central Bank
+ (the) ECB | The European Central Bank, Europe’s Central Bank
 
 Currency
 --------
 All currencies are uncapitalized.
 
  Right                     | Wrong
-:--------------------------|:-----
+:--------------------------|:------------------------------------
  (Danish) krone(r), DKK    | (Danish) kroners
  (Norwegian) krone(r), NOK | (Danish) kroners
  (Swedish) krona/-or, SEK  | (Swedish) kroner, (Swedish), kronors
