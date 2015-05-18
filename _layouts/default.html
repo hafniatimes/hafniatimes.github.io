@@ -125,7 +125,7 @@
         {% endif %}
         </div>
         </div>
-    {% if site.ga != "UA-XXXXXXXX-Y" %}
+    {% if site.ga != "UA-XXXXXXXX-Y" %}{% unless page.disable_ga and page.disable_ga == true %}
         <script>
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -135,7 +135,7 @@
             ga('create', '{{ site.ga }}', 'hafniatimes.com');
             ga('send', 'pageview');
         </script>
-    {% endif %}
+    {% endunless %}{% endif %}
     {% if page.section != "frontpage" %}
         <script src="/static/js/retina.js"></script>
     {% endif %}
