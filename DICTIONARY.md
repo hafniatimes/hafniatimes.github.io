@@ -38,6 +38,7 @@ Danish
  partiformand  | party chair(wo)man
  x-ordfører    | spokesperson on X
  værdiordfører | spokesperson on values
+ udvalg        | committee
 
 #### Ministers ####
 
