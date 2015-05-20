@@ -118,10 +118,16 @@ More on the committees [here][committees].
 ### Courts ###
 
   Danish        | English
- :--------------|:-------------
-  Byretten      | Lower court*
-  Landretten    | High court*
+ :--------------|:--------------
+  Byretten      | District Court, lower courts, district courts
+  Landretten    | High Court of Western/Eastern Denmark, high courts
   Højesteretten | Supreme Court
+
+  Danish               | English
+ :---------------------|:-----------------------------
+  Sø- og Handelsretten | Maritime and Commercial Court
+
+Read more on the Danish court system [here][courts].
 
 ### Judicial ###
 
@@ -137,3 +143,4 @@ More on the committees [here][committees].
 
 
 [committees]: http://www.thedanishparliament.dk/Committees_and_delegations/Committees.aspx
+[courts]: http://www.domstol.dk/om/otherlanguages/english/Pages/default.aspx
