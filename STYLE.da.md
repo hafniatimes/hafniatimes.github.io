@@ -15,17 +15,30 @@ Ordbog
  indvandrer        | immigrant
  migrantarbejder   | gæste-/fremmedarbejder
 
-### Diverse ###
+Undlad generelt at gengive spinbegreber såsom
 
- Brug              | Brug ikke
-:------------------|:---------
- sponsorere        | sponsere
- Omar El-Hussein   | Omar
+* smagsdommer
+* skattestop
+* Generelt begreber med
+    - bekvemmelighed
+    - effektivisering
 
-* Verberne **jage** og **jagte** bruges hhv. intransitivt og transitivt.
+Vær agtpågivende med politikerbegreber, som ikke giver mening for udenforstående:
 
-Generelt
---------
+* 2020-plan (fortløbende)
+* arbejdsudbud
+* dimensionering
+* fremdriftsreform
+* skattestop (også)
+
+### Ladede Udtryk ###
+
+Undlad ladede udtryk, hvis anvendelse ikke begrundes i artiklen.
+
+* Unødige referencer til velstand: Rigmand, pengemand, osv.
+
+Partier og Politikere
+---------------------
 ### Partier ###
 
  Parti | Forkortelse | Bogstav
@@ -47,31 +60,13 @@ Ved omtale af politikere bruges personens fulde navn, inklusiv initialt eller fu
 
 > Joachim B. Olsen (LA)
 
-Ved gentagne nævnelser kan man nøjes med efternavnet. Husk dog at flere politikeres efternavn er sammensatte proprier, og at hele efternavnet skal med—`STYLE.md` har en fortegnelser over stavelser. Ex.:
+Ved gentagne nævnelser kan man nøjes med efternavnet. Husk dog at flere politikeres efternavne er sammensatte proprier, og at hele efternavnet skal med—`STYLE.md` har en fortegnelser over stavelser. Ex.:
 
 > Thorning-Schmidt [ikke Thorning]
 
 Nævn som udgangspunkt en politikers ministerembede(r) eller ordførerskab(er), når de er relevante for emnet, for at understrege, at personen taler på vegne af partiet i den givne situation. Ex.:
 
 > Martin Henriksen (DF), udlændinge- og integrationsordfører, (...)
-
-### Endelser På Latinske og Græske Fremmedord ###
-
- Brug        | Brug ikke
-:------------|:-----------------
- adverbium   | -e
- faktum      | fact, fakta (sg.)
- gymnasium   | -e
- scenario/-e | -um
- verbum      | -e
-
-Men brug “scenarie” i stedet for -o og -um.
-
-### Drilleord ###
-
-* boykot
-* privilegium
-* trafik
 
 Vestlige og Ikke-vestlige Lande
 -------------------------------
@@ -229,6 +224,62 @@ Skal ikke forveksles med **seksualitet**, der omhandler generel seksualdrift.
 
 * samkønnet forhold/ægteskab/partnerskab
 
+Retsstavning
+------------
+
+### Drilleord ###
+
+* boykot
+* privilegium
+* trafik
+
+### Endelser På Latinske og Græske Fremmedord ###
+
+ Brug        | Brug ikke
+:------------|:-----------------
+ adverbium   | -e
+ faktum      | fact, fakta (sg.)
+ gymnasium   | -e
+ verbum      | -e
+
+Og så videre.
+
+### Grammatik og Sprog ###
+
+Du forventes at have en fundamental sproglig kompetence, så nedenfor følger nogle af de mindre typiske, men lige irriterende, sprogforvanskninger:
+
+#### Gennem vs Igennem ####
+
+Som præpositioner kan ord som **mod** og **gennem** kan anvendes med eller uden **i** efter forgodtbefindende. Ex.:
+
+> De går (i)gennem avisartiklene
+
+Bruges de derimod adverbielt, *skal* de skrives med **i**. Ex.:
+
+> De gik avisartiklerne igennem
+
+Læs mere på [sproget.dk][igennem].
+
+#### At vs Og ####
+
+DSB anvender sloganet “Ud og se med DSB”, ikke “Ud og se”. Det er forkert, fordi “ud at” er kort for “ud **for at** se”.
+
+I samme omgang skal man passe på med “at” efter komma—det er som regel overflødigt, især efter “fordi”.
+
+#### Udenfor vs Uden for ####
+
+Brug **uden for** hvis det styrer et sætningsled. Ex.:
+
+> De taler uden for murene
+
+Brug **udenfor** når det står alene. Ex.:
+
+> De taler udenfor
+
+#### Nogen vs Nogle ####
+
+På dansk svarer **nogle** og **nogen** henholdsvist til de engelske **some** og **any**.
+
 Andre Links
 -----------
 * [dsn.dk][] til retstavning
@@ -239,5 +290,6 @@ Andre Links
 [kommuner]: https://web.archive.org/web/20071113203858/http://im.dk/publikationer/landdistriktsred_2004/samlet.htm
 [lgbt]: http://lgbt.dk/om-os/lgbt-ordbog/
 [glaad]: http://www.glaad.org/reference/transgender
+[igennem]: http://sproget.dk/raad-og-regler/artikler-mv/svarbase/SV00000061/
 [sproget.dk]: http://sproget.dk/
 [dsn.dk]: http://dsn.dk/
