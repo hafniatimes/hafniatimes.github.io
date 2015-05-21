@@ -156,7 +156,7 @@ Parties
   The Conservative People’s Party     | The Conservatives    | -The
   Liberal Alliance                    | -                    | +The
  [Danish People’s Party][o]           | DPP                  | +The
- [Venstre][v]                         | -                    | Venstre, Liberal Party of Denmark
+ [Venstre][v], the Liberal Party      | -                    | “Venstre, Liberal Party of Denmark”
  [The Red-Green Alliance][ø]          | The Red-Greens       | -The
 
 Politicians
