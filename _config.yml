@@ -6,9 +6,10 @@ dyslexia_support: true
 data_source: data
 
 # Settings # # # # # # # # # # #
-ga:            "UA-7184031-12"
-github_hosted: true
-show_footer:   true
+ga:               "UA-7184031-12"
+github_hosted:    true
+show_footer:      true
+status_bar_color: false
  # # # # # # # # # # # # # # # #
 
 # Posts # # # # # #

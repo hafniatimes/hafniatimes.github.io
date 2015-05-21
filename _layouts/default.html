@@ -44,6 +44,9 @@
         <link href="/static/css/print.css" rel="stylesheet" type="text/css" media="print" />
         <link rel="shortcut icon" href="/favicon.ico" />
         <link rel="icon" sizes="192x192" href="/favicon.large.png" />
+    {% if site.status_bar_color != false %}
+        <meta name="theme-color" content="{{ site.status_bar-color }}">
+    {% endif %}
     {% for l in site.languages %}
         <link
             href="{% if l.value != "en" %}/{{ l.value }}{% endif %}/feed.atom"
