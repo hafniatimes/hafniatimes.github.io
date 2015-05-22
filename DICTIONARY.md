@@ -9,11 +9,14 @@ Danish
 
  Danish              | English
 :--------------------|:-------------------
+ aflytning           |  wiretapping
  udlænding           |  foreigner
  udlændingepolitik   |  foreigner policy
  indvandrer          |  immigrant
  indvandringspolitik |  immigration policy
  meningsmåling       | (opinion) poll
+ privatdata, privatliv, privacy | privacy
+ overvågning         |  surveillance
 
 ### Geographies ###
 

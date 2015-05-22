@@ -283,6 +283,7 @@ Common Misconceptions
 * historic vs historical
 * phase vs faze
 * seize vs cease
+* surveillance vs wiretapping (vs dragnet)
 * you and I vs you and me
 
 A lot of people

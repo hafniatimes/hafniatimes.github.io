@@ -119,6 +119,16 @@ De skelner på baggrund af *herkomst*—ikke etnicitet.
 >Personer med dansk oprindelse er personer—uanset fødested—der har mindst
 én forælder, der både er dansk statsborger og født i Danmark.
 
+Overvågning og Aflytning
+------------------------
+Det danske **overvågning** svarer til det engelske **surveillance**.
+
+Det danske **aflytning** svarer til det engelske **wiretapping**.
+
+Forvanskning af de to begreber resulterer i, at alt bliver “overvågning”, selvom det ene begreb kan være helt lovligt uden krav på retskendelser, mens **aflytninger** invaderer privatlivets fred og kræver en retskendelse.
+
+Vær og gør opmærksom på hvornår der er statslig hjemmel til at snage i, hvad mennesker foretager sig til dagligt.
+
 Udkantsdanmark og Kommuner
 --------------------------
 Der går meget hurtigt københavneri i diskussionen af mennesker og byer uden for Storkøbenhavn. Der er dog intet i vejen for at bruge udkantsbetegnelser, såfremt de bygger på en konkret definition.
