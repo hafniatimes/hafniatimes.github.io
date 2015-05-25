@@ -17,6 +17,7 @@ Ordbog
 
 Undlad generelt at gengive spinbegreber såsom
 
+* fredsbevarende
 * smagsdommer
 * skattestop
 * Generelt begreber med
@@ -31,10 +32,13 @@ Vær agtpågivende med politikerbegreber, som ikke giver mening for udenforståe
 * fremdriftsreform
 * skattestop (også)
 
+Fuldstændigt tomme udtryk frarådes ligeså.
+
 ### Ladede Udtryk ###
 
 Undlad ladede udtryk, hvis anvendelse ikke begrundes i artiklen.
 
+* (ressource)svage/-stærke
 * Unødige referencer til velstand: Rigmand, pengemand, osv.
 
 Partier og Politikere
@@ -236,6 +240,12 @@ Skal ikke forveksles med **seksualitet**, der omhandler generel seksualdrift.
 
 Retsstavning
 ------------
+
+### Præferencer ###
+
+ Brug       | Brug ikke
+:-----------|:---------
+ ressourcer | resurser
 
 ### Drilleord ###
 

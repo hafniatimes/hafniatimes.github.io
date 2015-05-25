@@ -69,6 +69,13 @@ General
  revise               | revize
  use                  | usage
 
+#### Donts ####
+
+Don’t use these words in general:
+
+* problematic
+* tragedy
+
 British vs American
 -------------------
 The differences not supported by this style manual have been omitted.
@@ -118,6 +125,7 @@ Numbers
  second                        | 2nd
  ninth, tenth, 11th, 12th      | 9th, 10th, eleventh, twelfth
  100 cm, 1 m                   | 100cm, 1m
+ 100 h, 10 m, 1 s              | 100h, 10m, 1s
  10%                           | 10 %, 10 per cent, 10 percent
  10-year-old                   | 10yo
 
@@ -304,6 +312,23 @@ Immigrant vs Expatriot
 Use **immigrants** in general and avoid **expatriots**.
 
 You can use **expatriots** to draw an explicit distinction between immigrants who intend permanent residence to a expatriots whose future residency plans are significantly more ambiguous.
+
+Reporting on Politics
+---------------------
+Be sure to distinguish between:
+
+* Majorities of votes (ie a majority of the popular vote)
+* Majorities of seats in parliament (ie an electoral majority)
+
+Refrain from using “supermajority” and “absolute majority”, when you are in fact just describing a basic majority of seats.
+
+In Britain, parties can gain a majority of seats without a majority of votes. Do not call this majority of seats an absolute majority; absolute majorities and supermajorities are for circumstances that require more than 50% of seats in parliament.
+
+### US Politics ###
+
+Be wary of sentences akin to “Congress does `X`”. In many cases, it is actually only one of the two chambers, the Senate and the House that block or pass measures in the news, meaning that the bill has in fact neither been passed or blocked.
+
+Furthermore, only write that “the Senate/House does `X`”, when both parties vote across partisan lines with a similar ratio of Aye/Nay votes. Otherwise, write that “Republicans/Democrats do `X` in the Senate/House”.
 
 Essentialism
 ------------
