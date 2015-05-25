@@ -43,6 +43,14 @@ Undlad ladede udtryk, hvis anvendelse ikke begrundes i artiklen.
 
 Partier og Politikere
 ---------------------
+### Partigrupperinger ###
+
+En **regering** består af de partier, der sidder i ministerkontorerne. Fogh-regeringen bestod af Venstre og De Konservative, men *ikke* Dansk Folkeparti; DF var regeringens **støtteparti**.
+
+DFs konstellation med V og K kan fx betegnes som en VKO-**koalition**.
+
+I samme omgang anbefales det at skrive en konstellation af partibogstaver i sorteret rækkefølge efter deres antal af mandater i Folketinget. Det er op til skribenten selv at vurdere, om der skal bruges partiforkortelse eller listebogstav (se nedenunder).
+
 ### Partier ###
 
  Parti | Forkortelse | Bogstav
@@ -58,19 +66,27 @@ Partier og Politikere
  Socialistisk Folkeparti     | SF | F
  Venstre                     | V  | V
 
+Første gang et parti nævnes, anvendes partinavnet som angivet foroven. Efterfølgende kan man anvende partiforkortelser.
+
 ### Omtale af Politikere ###
 
 Ved omtale af politikere bruges personens fulde navn, inklusiv initialt eller fuldt mellemnavn, efterfulgt af partinavnsforkortelse i parentes. Ex.:
 
 > Joachim B. Olsen (LA)
 
-Ved gentagne nævnelser kan man nøjes med efternavnet. Husk dog at flere politikeres efternavne er sammensatte proprier, og at hele efternavnet skal med—`STYLE.md` har en fortegnelser over stavelser. Ex.:
+Ved gentagne nævnelser kan man nøjes med efternavnet. Husk dog at flere politikeres efternavne er sammensatte proprier, og at hele efternavnet skal med—`STYLE.md` har en fortegnelser over stavelser af partiledernavne. Ex.:
 
 > Thorning-Schmidt [ikke Thorning]
 
-Nævn som udgangspunkt en politikers ministerembede(r) eller ordførerskab(er), når de er relevante for emnet, for at understrege, at personen taler på vegne af partiet i den givne situation. Ex.:
+Nævn som udgangspunkt en politikers ministerembede(r) eller ordførerskab(er), når de er relevante for emnet, for at understrege at personen taler på vegne af partiet i den givne situation. Ex.:
 
 > Martin Henriksen (DF), udlændinge- og integrationsordfører, (...)
+
+### Forlig og Lovforslag ###
+
+Ved omtale af partiforlig (samt afstemninger) bør man nævne de partier, der indgik forliget, hvis informationen er tilgængelig.
+
+I samme omgang skal man inkludere lovnummeret i parentes efter første nævnelse af det pågældende forlig eller den pågældende afstemning. Danske lovnumre er af typen `L.123`.
 
 Vestlige og Ikke-vestlige Lande
 -------------------------------
