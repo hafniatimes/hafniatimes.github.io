@@ -4,8 +4,6 @@ Denne guide ligger som udgangspunkt i forlængelse af `Style.md`, den engelske u
 
 Ordbog
 ------
-### Politiske Udtryk ###
-
  Brug              | Brug ikke
 :------------------|:----------------------
  antimuslimsk      | islamofob(isk)
@@ -15,7 +13,7 @@ Ordbog
  indvandrer        | immigrant
  migrantarbejder   | gæste-/fremmedarbejder
 
-Undlad generelt at gengive spinbegreber såsom
+Undlad generelt at gengive **spinbegreber** såsom
 
 * fredsbevarende
 * smagsdommer
@@ -24,7 +22,7 @@ Undlad generelt at gengive spinbegreber såsom
     - bekvemmelighed
     - effektivisering
 
-Vær agtpågivende med politikerbegreber, som ikke giver mening for udenforstående:
+Vær agtpågivende med **politikerbegreber**, som ikke giver mening for udenforstående:
 
 * 2020-plan (fortløbende)
 * arbejdsudbud
@@ -34,9 +32,7 @@ Vær agtpågivende med politikerbegreber, som ikke giver mening for udenforståe
 
 Fuldstændigt tomme udtryk frarådes ligeså.
 
-### Ladede Udtryk ###
-
-Undlad ladede udtryk, hvis anvendelse ikke begrundes i artiklen.
+Undlad **ladede udtryk**, hvis anvendelse ikke begrundes i artiklen.
 
 * (ressource)svage/-stærke
 * Unødige referencer til velstand: Rigmand, pengemand, osv.
