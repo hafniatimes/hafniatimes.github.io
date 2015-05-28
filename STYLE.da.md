@@ -1,6 +1,6 @@
 Dansk Stilmanual
 ================
-Denne guide ligger som udgangspunkt i forlængelse af `Style.md`, den engelske udgave. Indholdet af denne guide er specifikt for dansksproget dækning.
+Denne guide skal læses i forlængelse af den engelske udgave, `STYLE.md`. Indholdet af denne guide er en udvidelse specifik for dansk dækning
 
 Ordbog
 ------
@@ -16,6 +16,7 @@ Ordbog
 Undlad generelt at gengive **spinbegreber** såsom
 
 * fredsbevarende
+* nærområde
 * smagsdommer
 * skattestop
 * Generelt begreber med
@@ -30,12 +31,22 @@ Vær agtpågivende med **politikerbegreber**, som ikke giver mening for udenfors
 * fremdriftsreform
 * skattestop (også)
 
-Fuldstændigt tomme udtryk frarådes ligeså.
+Ditto med **tomme floskler**:
+
+* bæredygtig
+* fremadrettet
+* grøn omstilling
+* proaktiv
+* velfærd
 
 Undlad **ladede udtryk**, hvis anvendelse ikke begrundes i artiklen.
 
 * (ressource)svage/-stærke
 * Unødige referencer til velstand: Rigmand, pengemand, osv.
+
+### Typiske Forvekslinger ###
+
+* endog versus enddog
 
 Partier og Politikere
 ---------------------
