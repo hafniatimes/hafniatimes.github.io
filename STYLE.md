@@ -69,7 +69,7 @@ General
  revise               | revize
  use                  | usage
 
-#### Donts ####
+### Donts ###
 
 Don’t use these words in general:
 

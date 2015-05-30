@@ -41,6 +41,7 @@ Ditto med **tomme floskler**:
 
 Undlad **ladede udtryk**, hvis anvendelse ikke begrundes i artiklen.
 
+* raceoptøjer
 * (ressource)svage/-stærke
 * Unødige referencer til velstand: Rigmand, pengemand, osv.
 
