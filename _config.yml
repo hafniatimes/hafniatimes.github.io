@@ -1,5 +1,5 @@
 name: Hafnia Times
-url: http://hafniatimes.com
+url: https://hafniatimes.com
 shorturl: http://hafnia.co
 repo:  https://github.com/hafniatimes/hafniatimes.github.io
 dyslexia_support: true
@@ -157,7 +157,7 @@ languages: &languages
       value: "da"
 
 prose:
-    siteurl: "http://hafniatimes.com"
+    siteurl: "https://hafniatimes.com"
   # rooturl: "/"
   # media: "assets/"
     metadata:
