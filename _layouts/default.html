@@ -47,6 +47,7 @@
     {% if site.status_bar_color != false %}
         <meta name="theme-color" content="{{ site.status_bar-color }}">
     {% endif %}
+
     {% for l in site.languages %}
         <link
             href="{% if l.value != "en" %}/{{ l.value }}{% endif %}/feed.atom"
@@ -56,29 +57,38 @@
         />
     {% endfor %}
 
+{% comment %} hreflang and og:locale:alternate {% endcomment %}
+{% comment %} Frontpage {% endcomment %}
     {% if page.section == "frontpage" %}
-        {% for l in site.languages %}
+        {% for l in site.languages %}{% unless l.value == page_language %}
             <link
                 rel="alternate"
                 hreflang="{{ l.value }}"
                 href="/{% if l.value != "en" %}{{ l.value }}/{% endif %}"
             />
-        {% endfor %}
+            <meta property="og:locale:alternate" content="{{ l.value }}" />
+        {% endunless %}{% endfor %}
     {% endif %}
+
+{% comment %} Pages {% endcomment %}
     {% if page.trans %}
         <link
             rel="alternate"
-            hreflang="{{ page.lang }}"
-            href="{{ page.url }}"
+            hreflang="{% if page_language == "en" %}da{% else %}en{% endif %}"
+            href="{{ page.trans }}"
         />
+        <meta property="og:locale:alternate" content="{% if page_language == "en" %}da{% else %}en{% endif %}" />
+    {% endif %}
+    {% comment %}Assumes array format, commented out for now
         {% for t in page.trans %}
             <link
                 rel="alternate"
                 hreflang="{% if page_language == "da" %}en{% else %}en{% endif %}"
                 href="{{ page.trans }}"
             />
+            <meta property="og:locale:alternate" content="{{ page.lang }}" />
         {% endfor %}
-    {% endif %}
+    {% endcomment %}
 
     {% if page.author %}
         {% if site.data.people[page.author].twitter %}
@@ -108,6 +118,7 @@
         <meta name="twitter:card" content="summary">
         <meta property="og:image" content="{{ site.url }}/identicon.png">
     {% endif %}
+        <meta property="og:locale" content="{{ page_language }}" />
     </head>
     {% if page.section == "frontpage" %}<body id="frontpage">{% else %}<body>{% endif %}
         <div id="container">
