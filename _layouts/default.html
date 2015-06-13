@@ -31,7 +31,7 @@
     {% else %}
         <meta name="description" content="{{ t.frontpage[page_language].description }}">
     {% endif %}
-        <link rel="canonical" href="{{ page.url }}" />
+        <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
     {% if page.section == "frontpage" %}
         <link rel="shorturl" href="{{ site.shorturl }}{{ base_relative }}" />
     {% endif %}
