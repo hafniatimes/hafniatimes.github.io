@@ -66,7 +66,7 @@
                 hreflang="{{ l.value }}"
                 href="/{% if l.value != "en" %}{{ l.value }}/{% endif %}"
             />
-            <meta property="og:locale:alternate" content="{{ l.value }}" />
+            <meta property="og:locale:alternate" content="{{ site.locale[l.value] }}" />
         {% endunless %}{% endfor %}
     {% endif %}
 
@@ -77,7 +77,7 @@
             hreflang="{% if page_language == "en" %}da{% else %}en{% endif %}"
             href="{{ page.trans }}"
         />
-        <meta property="og:locale:alternate" content="{% if page_language == "en" %}da{% else %}en{% endif %}" />
+        <meta property="og:locale:alternate" content="{% if page_language == "en" %}{{ site.locale.da }}{% else %}{{ site.locale.en }}{% endif %}" />
     {% endif %}
     {% comment %}Assumes array format, commented out for now
         {% for t in page.trans %}
@@ -86,7 +86,7 @@
                 hreflang="{% if page_language == "da" %}en{% else %}en{% endif %}"
                 href="{{ page.trans }}"
             />
-            <meta property="og:locale:alternate" content="{{ page.lang }}" />
+            <meta property="og:locale:alternate" content="{{ site.locale[page.lang] }}" />
         {% endfor %}
     {% endcomment %}
 
@@ -118,7 +118,7 @@
         <meta name="twitter:card" content="summary">
         <meta property="og:image" content="{{ site.url }}/identicon.png">
     {% endif %}
-        <meta property="og:locale" content="{{ page_language }}" />
+        <meta property="og:locale" content="{{ site.locale[page_language] }}" />
     </head>
     {% if page.section == "frontpage" %}<body id="frontpage">{% else %}<body>{% endif %}
         <div id="container">
