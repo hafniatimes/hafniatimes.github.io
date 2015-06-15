@@ -3,6 +3,8 @@ exclude: "_site/"
 linters:
   BangFormat:
     enabled: true
+  BemDepth:
+    enabled: false
   BorderZero:
     enabled: true
     convention: none
