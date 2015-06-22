@@ -153,6 +153,28 @@ De skelner på baggrund af *herkomst*—ikke etnicitet.
 >Personer med dansk oprindelse er personer—uanset fødested—der har mindst
 én forælder, der både er dansk statsborger og født i Danmark.
 
+Asyl og Flygtninge
+-------------------
+Der er forskel på asyl**ansøgninger** og asyl**optagelser**.
+
+Hele asylprocessen er beskrevet af [refugees.dk][asyl].
+
+### Terminologi ###
+
+Jævnfør [refugees.dk][asyl-definitioner]
+
+**Asylansøger**:
+
+>[E]r en person, der anmoder om beskyttelse som flygtning, men endnu ikke har fået sin sag vurderet.
+
+**Flygtning**:
+
+>Man er flygtning, når en stat eller et internationalt organ har anerkendt, at man er flygtning---det kaldes også at få tildelt asyl.
+
+**Afvist asylansøger**:
+
+>En afvist asylansøger har været i gennem proceduren, men har fået afslag.
+
 Overvågning og Aflytning
 ------------------------
 Det danske **overvågning** svarer til det engelske **surveillance**.
@@ -337,6 +359,8 @@ Andre Links
 
 
 [dst]: http://www.dst.dk/da/Statistik/Publikationer/VisPub.aspx?cid=19004
+[asyl]: http://refugees.dk/fakta/asylproceduren-i-danmark/
+[asyl-definitioner]: http://refugees.dk/fakta/lovgivning-og-definitioner/
 [kommuner]: https://web.archive.org/web/20071113203858/http://im.dk/publikationer/landdistriktsred_2004/samlet.htm
 [lgbt]: http://lgbt.dk/om-os/lgbt-ordbog/
 [glaad]: http://www.glaad.org/reference/transgender
