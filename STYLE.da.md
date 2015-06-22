@@ -6,6 +6,7 @@ Ordbog
 ------
  Brug              | Brug ikke
 :------------------|:----------------------
+ -leder            | -formand
  antimuslimsk      | islamofob(isk)
  antisemitisk      | jødehadsk
  forbudt hunderace | muskelhund, kamphund
@@ -16,12 +17,16 @@ Ordbog
 Undlad generelt at gengive **spinbegreber** såsom
 
 * fredsbevarende
+* ghetto
 * nærområde
 * smagsdommer
 * skattestop
+* velfærdsturisme
 * Generelt begreber med
     - bekvemmelighed
     - effektivisering
+
+Skal der henvises til begreberne, bør der som udgangspunkt anvendes citationstegn om dem.
 
 Vær agtpågivende med **politikerbegreber**, som ikke giver mening for udenforstående:
 
@@ -30,6 +35,7 @@ Vær agtpågivende med **politikerbegreber**, som ikke giver mening for udenfors
 * dimensionering
 * fremdriftsreform
 * skattestop (også)
+* social dumping
 
 Ditto med **tomme floskler**:
 
