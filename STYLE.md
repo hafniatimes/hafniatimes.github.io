@@ -338,6 +338,12 @@ Be wary of sentences akin to “Congress does `X`”. In many cases, it is actua
 
 Furthermore, only write that “the Senate/House does `X`”, when both parties vote across partisan lines with a similar ratio of Aye/Nay votes. Otherwise, write that “Republicans/Democrats do `X` in the Senate/House”.
 
+Terrorism
+---------
+If a US attack meets the [18 U.S.C. § 2331 definition of terrorism][us-terrorism], describe the perpetrator(s) as a (domestic) terrorist. Do not use vague terms like ”shooter“ or ”gun(wo)man“.
+
+Different, legal, definitions of terorism may apply in other countries.
+
 Essentialism
 ------------
 Avoid nouns defining people by traits, and generally nounified adjectives:
@@ -362,8 +368,6 @@ TODO
 
 
 [oed]:  http://www.ox.ac.uk/public-affairs/style-guide
-[broadband]: http://www.fcc.gov/reports/2015-broadband-progress-report
-[abbr]: https://michelf.ca/projects/php-markdown/extra/#abbr
 
 [a]: http://socialdemokraterne.dk/default.aspx?site=english
 [b]: http://www.radikale.dk/english
@@ -371,4 +375,7 @@ TODO
 [v]: http://www.venstre.dk/servicemenu/english/facts-about-venstre/
 [ø]: http://enhedslisten.dk/content/red-green-alliance
 
+[broadband]: http://www.fcc.gov/reports/2015-broadband-progress-report
+[abbr]: https://michelf.ca/projects/php-markdown/extra/#abbr
+[us-terrorism]: https://www.fbi.gov/about-us/investigate/terrorism/terrorism-definition
 [transgender]: http://www.glaad.org/reference/transgender
