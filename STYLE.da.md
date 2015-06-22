@@ -230,6 +230,10 @@ Et **geografisk center i øvrigt** er defineret som en kommune med:
 * >20.000 arbejdspladser i 1984
 * *eller* >10.000 arbejdspladser i 1984 *og* >2,0 i pendlerintensitet
 
+Terrorisme
+----------
+Betegnelser af terrorisme og terrorist bør ske med udgangspunkt i Straffelovens [$ 114][terrorisme] og udvidelser § 114a–fremdeles.
+
 Misvisende Udtryk
 -----------------
 
@@ -362,6 +366,7 @@ Andre Links
 [asyl]: http://refugees.dk/fakta/asylproceduren-i-danmark/
 [asyl-definitioner]: http://refugees.dk/fakta/lovgivning-og-definitioner/
 [kommuner]: https://web.archive.org/web/20071113203858/http://im.dk/publikationer/landdistriktsred_2004/samlet.htm
+[terrorisme]: https://www.retsinformation.dk/Forms/r0710.aspx?id=164192#Kap13
 [lgbt]: http://lgbt.dk/om-os/lgbt-ordbog/
 [glaad]: http://www.glaad.org/reference/transgender
 [igennem]: http://sproget.dk/raad-og-regler/artikler-mv/svarbase/SV00000061/
