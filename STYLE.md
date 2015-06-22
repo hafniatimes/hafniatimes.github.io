@@ -76,6 +76,13 @@ Don’t use these words in general:
 * problematic
 * tragedy
 
+### Nerdy Terms ###
+
+Don’t use these terms without explaining them in context:
+
+* G3, G7, etc
+* P5+1
+
 British vs American
 -------------------
 The differences not supported by this style manual have been omitted.
@@ -166,6 +173,7 @@ Parties
  [Danish People’s Party][o]           | DPP                  | +The
  [Venstre][v], the Liberal Party      | -                    | “Venstre, Liberal Party of Denmark”
  [The Red-Green Alliance][ø]          | The Red-Greens       | -The
+  Alternativet                        | The Alternative      | +The
 
 Politicians
 -----------
