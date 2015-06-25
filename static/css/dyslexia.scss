@@ -1,39 +1,48 @@
 /** Credit to http://dyslexicfonts.com/plugin/easyread.css */
 
 $dyslexiaDir: "/static/typefaces/open-dyslexic";
-$extension:   "otf";
+
+@mixin font-face-src($font, $dir: $dyslexiaDir) {
+    src: url("#{$dir}/eot/#{$font}.eot"); // IE9 Compat Modes
+    src: url("#{$dir}/eot/#{$font}.eot?#iefix") format("embedded-opentype"), // IE6-IE8
+//     url("#{$dir}/woff/#{$font}.woff2") format("woff2"), // Super Modern Browsers
+       url("#{$dir}/woff/#{$font}.woff") format("woff"), // Pretty Modern Browsers
+       url("#{$dir}/otf/#{$font}.otf") format("opentype"), // Safari, Android, iOS
+       url("#{$dir}/otf/#{$font}.ttf") format("truetype"), // Safari, Android, iOS
+       url("#{$dir}/svg/#{$font}.svg#svgFontName") format("svg"); // Legacy
+}
 
 @font-face { // Regular
     font-family: "opendyslexic";
-    src: url("#{$dyslexiaDir}/#{$extension}/OpenDyslexic-Regular.#{$extension}");
+    @include font-face-src("OpenDyslexic-Regular");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face { // Bold
     font-family: "opendyslexic";
-    src: url("#{$dyslexiaDir}/#{$extension}/OpenDyslexic-Bold.#{$extension}");
+    @include font-face-src("OpenDyslexic-Bold");
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face { // Italic
     font-family: "opendyslexic";
-    src: url("#{$dyslexiaDir}/#{$extension}/OpenDyslexic-Italic.#{$extension}");
+    @include font-face-src("OpenDyslexic-Italic");
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face { // Bold italic
     font-family: "opendyslexic";
-    src: url("#{$dyslexiaDir}/#{$extension}/OpenDyslexic-BoldItalic.#{$extension}");
+    @include font-face-src("OpenDyslexic-BoldItalic");
     font-weight: bold;
     font-style: italic;
 }
 
 @font-face { // Monospace
     font-family: "opendyslexicmonoregular";
-    src: url("#{$dyslexiaDir}/#{$extension}/OpenDyslexicMono-Regular.#{$extension}");
+    @include font-face-src("OpenDyslexicMono-Regular");
     font-weight: normal;
     font-style: normal;
 }
