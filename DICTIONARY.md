@@ -138,7 +138,7 @@ More on the committees [here][committees].
  Den Særlige Klageret | The Special Court of Indictment and Revision
  Rigsretten           | Court of Impeachment (of the Realm)
 
-Read more on the Danish court system [here][courts] and [here][wiki-courts].w
+Read more on the Danish court system [here][courts] and [here][wiki-courts].
 
 ### Miscellaneous ###
 
