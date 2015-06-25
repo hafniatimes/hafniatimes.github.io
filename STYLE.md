@@ -360,6 +360,23 @@ Be particularly careful with referring to people “victims”.
 
 By using an adjective rather than a noun for your description, you describe a trait instead of defining an identity.
 
+### Disabilities ###
+
+When referring to medical conditions and disabilities, it is preferred to use the construction “people (diagnosed) with `condition`”:
+
+ Preferred                             | Not Preferred
+:--------------------------------------|:-------------
+ people (diagnosed) with schizophrenia | schizophrenic people, schizophrenics
+ people (diagnosed) with diabetes      | diabetics
+ people with disabilities              | disabled people, special-needs people
+
+#### Abusing Technical Terms ####
+
+Technical terms are not slurs, eg:
+
+* lame
+* schizophrenic/-a
+
 TODO
 ----
 - [ ] Settle **Foreign spellings** section of OED.
