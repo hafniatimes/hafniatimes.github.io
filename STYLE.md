@@ -377,6 +377,11 @@ Technical terms are not slurs, eg:
 * lame
 * schizophrenic/-a
 
+
+Other Resources
+---------------
+* [Common Errors in English Usage][ceeu]
+
 TODO
 ----
 - [ ] Settle **Foreign spellings** section of OED.
@@ -396,3 +401,4 @@ TODO
 [abbr]: https://michelf.ca/projects/php-markdown/extra/#abbr
 [us-terrorism]: https://www.fbi.gov/about-us/investigate/terrorism/terrorism-definition
 [transgender]: http://www.glaad.org/reference/transgender
+[ceeu]: http://public.wsu.edu/~brians/errors/
