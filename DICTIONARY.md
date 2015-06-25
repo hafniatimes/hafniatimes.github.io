@@ -118,25 +118,27 @@ More on the committees [here][committees].
  politikreds    | police district
  Rigspolitiet   | Danish National Police
 
-### Courts ###
-
-  Danish        | English
- :--------------|:--------------
-  Byretten      | District Court, lower courts, district courts
-  Landretten    | High Court of Western/Eastern Denmark, high courts
-  Højesteretten | Supreme Court
-
-  Danish               | English
- :---------------------|:-----------------------------
-  Sø- og Handelsretten | Maritime and Commercial Court
-
-Read more on the Danish court system [here][courts].
-
 ### Judicial ###
 
  Danish        | English
 :--------------|:------------------
  betinget dom  | suspended sentence
+
+#### Courts ####
+
+ Danish   | English
+:---------|:-------
+ Byretten | District Court, lower courts, district courts
+ Vestre/Østre Landsret, Landsretten | High Court of Western/Eastern Denmark, high courts
+ Højesteretten | Supreme Court
+
+ Danish               | English
+:---------------------|:-----------------------------
+ Sø- og Handelsretten | Maritime and Commercial Court
+ Den Særlige Klageret | The Special Court of Indictment and Revision
+ Rigsretten           | Court of Impeachment (of the Realm)
+
+Read more on the Danish court system [here][courts] and [here][wiki-courts].w
 
 ### Miscellaneous ###
 
@@ -147,3 +149,4 @@ Read more on the Danish court system [here][courts].
 
 [committees]: http://www.thedanishparliament.dk/Committees_and_delegations/Committees.aspx
 [courts]: http://www.domstol.dk/om/otherlanguages/english/Pages/default.aspx
+[wiki-courts]: https://en.wikipedia.org/wiki/Courts_of_Denmark
