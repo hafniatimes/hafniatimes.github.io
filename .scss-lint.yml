@@ -21,7 +21,7 @@ linters:
   DeclarationOrder:
     enabled: false  # Subjective
   DuplicateProperty:
-    enabled: true
+    enabled: false  # True depending on browser support
   ElsePlacement:
     enabled: false
   EmptyLineBetweenBlocks:
