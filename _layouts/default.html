@@ -21,15 +21,15 @@
 <!DOCTYPE html>
 <html lang="{{ page_language }}">
     <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <meta http-equiv="X-Frame-Options" content="deny">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <meta http-equiv="X-Frame-Options" content="deny" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>{{ page_title }}</title>
     {% if page.excerpt %}
-        <meta name="description" content="{{ page.excerpt | markdownify | strip_html }}">
+        <meta name="description" content="{{ page.excerpt | markdownify | strip_html }}" />
     {% else %}
-        <meta name="description" content="{{ t.frontpage[page_language].description }}">
+        <meta name="description" content="{{ t.frontpage[page_language].description }}" />
     {% endif %}
         <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
     {% if page.section == "frontpage" %}
@@ -45,7 +45,7 @@
         <link rel="shortcut icon" href="/favicon.ico" />
         <link rel="icon" sizes="192x192" href="/favicon.large.png" />
     {% if site.status_bar_color != false %}
-        <meta name="theme-color" content="{{ site.status_bar-color }}">
+        <meta name="theme-color" content="{{ site.status_bar-color }}" />
     {% endif %}
 
     {% for l in site.languages %}
@@ -92,31 +92,31 @@
 
     {% if page.author %}
         {% if site.data.people[page.author].twitter %}
-            <meta name="twitter:creator" content="@{{ site.data.people[page.author].twitter }}">
+            <meta name="twitter:creator" content="@{{ site.data.people[page.author].twitter }}" />
         {% else %}
-            <meta name="twitter:creator" content="@HafniaTimes">
+            <meta name="twitter:creator" content="@HafniaTimes" />
         {% endif %}
     {% else %}
-        <meta name="twitter:creator" content="@pessimism">
+        <meta name="twitter:creator" content="@pessimism" />
     {% endif %}
-        <meta property="og:title" content="{{ page_title }}">
+        <meta property="og:title" content="{{ page_title }}" />
     {% if page.excerpt %}
-        <meta property="og:description" content="{{ page.excerpt | markdownify | strip_html }}">
+        <meta property="og:description" content="{{ page.excerpt | markdownify | strip_html }}" />
     {% else %}
-        <meta property="og:description" content="{{ t.frontpage[page_language].description }}">
+        <meta property="og:description" content="{{ t.frontpage[page_language].description }}" />
     {% endif %}
     {% if page.url %}
-        <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+        <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     {% endif %}
     {% if page.section != "frontpage" %}
         <meta property="og:type" content="article" />
     {% endif %}
     {% if page.image %}
-        <meta name="twitter:card" content="summary_large_image">
-        <meta property="og:image" content="{{ site.url }}{{ base_relative }}assets/{{ page.slug }}/image.png">
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta property="og:image" content="{{ site.url }}{{ base_relative }}assets/{{ page.slug }}/image.png" />
     {% else %}
-        <meta name="twitter:card" content="summary">
-        <meta property="og:image" content="{{ site.url }}/identicon.png">
+        <meta name="twitter:card" content="summary" />
+        <meta property="og:image" content="{{ site.url }}/identicon.png" />
     {% endif %}
         <meta property="og:locale" content="{{ site.locale[page_language] }}" />
     </head>
