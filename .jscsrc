@@ -1,7 +1,7 @@
 {
     // jscs rules
     // ==========
-    "disallowIdentifierNames": ["foo, "bar", "baz", "qux"],
+    "disallowIdentifierNames": ["foo", "bar", "baz", "qux"],
     "disallowMixedSpacesAndTabs": true,
     "disallowMultipleSpaces": false,
     "disallowNewlineBeforeBlockStatements": true,
