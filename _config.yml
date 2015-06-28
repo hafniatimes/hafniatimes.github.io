@@ -156,10 +156,6 @@ languages: &languages
     - name:  "Dansk"
       value: "da"
 
-locale:
-    da: "da_DK"
-    en: "en_GB"
-
 prose:
     siteurl: "https://hafniatimes.com"
   # rooturl: "/"
