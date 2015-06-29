@@ -1,0 +1,225 @@
+---
+title: Opsummering af De Nye Ministerier
+date: 2015-06-29 17:00:00
+excerpt: Statsministeriets forestilling om et nyt ministerium.
+slug: v-regering
+permalink: /da/articles/2015/06/28/v-regering.html
+image: true
+---
+Her følger en læselig redegørelse for de nye ministerier og deres ressortområder fra [Statsministeriets hjemeside][pdf].
+
+At bestemme:
+
+### Udlændinge-, Integrations- og Boligministerium ###
+
+Oprettes.[^uib]
+
+Det får overført sagsområder:
+
+#### Fra Justitsministeriet ####
+
+Ressortansvaret for sager vedrørende *udlændingeområdet*, herunder sager vedrørende:
+
+* asyl
+* humanitær opholdstilladelse
+* familiesammenføring
+* EU
+* indfødsret
+
+inklusive de til området hørende institutioner m.v.
+
+#### Fra Beskæftigelsesministeriet ####
+
+Ressortansvaret for sager vedrørende *integration af flygtninge og indvandrere på arbejdsmarkedet og i uddannelsessystemet*, herunder:
+
+* introduktionsforløbet og integrationsprogrammet
+    - samt ydelser, der knyttes hertil
+* samt sager vedrørende ophold på baggrund af beskæftigelse:
+    - greencard-ordningen
+    - au pair-ordningen
+    - jobkort
+    - studietilladelser m.v.
+
+inklusive de til området hørende institutioner m.v.
+
+#### Fra Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold ####
+
+Ressortansvaret for sager vedrørende
+
+* integrationspolitik
+* forebyggelse af radikalisering
+* integrationsanalyser
+
+inklusive de til området hørende institutioner m.v.
+
+#### Fra Ministeriet for By, Bolig og Landdistrikter ####
+
+Ressortansvaret for sager vedrørende
+
+* almene boliger
+* studie og ungdomsboliger
+* friplejeboliger
+* privat udlejning
+* byfornyelse
+
+inklusive de til området hørende institutioner m.v.
+
+#### Fra Undervisningsministeriet ####
+
+Sager vedrørende *undervisning som andetsprog*.
+
+### Transportministerium ###
+
+Omdannes til et **Transport- og Bygningsministerium**.
+
+Det får overført sagsområder
+
+#### Klima-, Energi- og Bygningsministeriet ####
+
+Ressortansvaret for sager vedrørende *byggeri og bygninger*, herunder:
+
+* byggeloven
+* bygningsreglementet
+
+Ressortansvaret for *administration af statens kontorejendomme og universitetsbygninger*, herunder:
+
+* Bygningsstyrelsen
+
+### Klima-, Energi- og Bygningsministerium ###
+
+Omdannes---til et **Energi-, Forsynings- og Klimaministerium**.
+
+Det får overført sagsområder
+
+#### Fra Miljøministeriet ####
+
+Ressortansvaret for sager vedrørende *affalds- og vandforsyning*, herunder:
+
+* lov om vandsektorens organisering og økonomiske forhold
+* lov om kommuners afståelse af vand- og spildevandsforsyninger
+* lov om betalingsregler for spildevandsforsyningsselskaber m.v.
+* sager om takster for bidrag til vandforsyningsanlæg
+* krav til virksomheder, der indsamler affald,
+* krav til indretning af affaldsregistre for virksomheder
+* anlæg m.v., der behandler affald
+* godkendelse af anlæg til behandling af
+    - genanvendeligt erhvervsaffald
+    - kommunale affaldsgebyrer
+    - kommunale fællesskaber
+* anlæg for deponering af affald
+* anlæg for forbrænding af affald med henblik på varmeforsyning
+* regnskaber for og benchmarking af forbrændings- og deponeringsanlæg
+
+#### Fra Erhvervs- og Vækstministeriet ####
+
+Ressort for sager vedrørende *teleforsyninger*, herunder:
+
+* lov om elektroniske kommunikationsnet og -tjenester (teleloven)
+    - bortset fra lovens afsnit IV vedrørende sektorspecifik konkurrenceregulering
+* lov om radiofrekvenser
+* lov om radio- og teleterminaludstyr og elektromagnetiske forhold
+* lov om etablering og fælles udnyttelse af master til radiokommunikationsformål m.v. (masteloven)
+* lov om standarder for transmission af tv-signaler m.v.
+
+inklusive de til området hørende institutioner m.v.
+
+### Ministerium for Børn, Ligestilling, Integration og Sociale Forhold ###
+
+Omdannes---til et **Social- og Indenrigsministerium**.
+
+### Miljøministeriet og Ministeriet for Fødevarer, Landbrug og Fiskeri ###
+
+Sammenlægges---til et **Miljø- og Fødevareministerium**.[^environment]
+
+Følgende under det hidtidige Miljøministerium hørende forretninger overføres til Erhvervs- og vækstministeriet: Sager vedrørende *rammerne for et områdes fysiske udvikling*[^kyster], herunder:
+
+* lov om sommerhuske og campering m.v.
+* lov om kolonihaver
+* lov om planlægning (planloven)
+    - bortset fra sager om vurdering af virkningerne på miljøet (VVM-pligt)
+
+### Ministeriet for Sundhed og Forebyggelse ###
+
+Ændrer betegnelse---til **Sundsheds- og Ældreministeriet**.
+
+#### Fra Social- og Indenrigsministeriet ####
+
+Ressortansvaret for sager vedrørende *ældreområdet*, herunder:
+
+* tilbud om personlig pleje og praktisk hjælp
+* forebyggelse
+* rehabilitering
+* genoptræning m.v.
+
+inklusive sekretariatsbetjeningen af Ældreforum.
+
+### Undervisningsministeriet ###
+
+Ændrer betegnelse---til **Ministeriet for Børn, Undervisning- og Ligestilling**.
+
+### Økonomi- og Indenrigsministerium ###
+
+Nedlægges.
+
+De til dette ministerium hørende forretninger overføres til Finansministeriet, dog således at
+
+Ressortansvaret for sager vedrørende
+
+* indenrigsområdet
+*  inklusive de til området hørende institutioner m.v.
+* Danmarks Statistik
+
+overføres til Social- og Indenrigsministeriet.
+
+Ressortansvaret for sager vedrørende
+
+* lovmodellen
+* lov om kommunal indkomstskat
+* lov om kommunal ejendomsskat
+* lov om lån til betaling af ejendomsskatter
+
+overføres til Skatteministeriet.
+
+Ressortansvaret for
+
+* grænsemærker
+
+overføres til Energi-, Forsynings- og Klimaministeriet.
+
+### Ministerium for By, Bolig og Landdistrikter ###
+
+Nedlægges.
+
+De til dette ministerium hørende forretninger overføres til Erhvervs- og Vækstministeriet, dog således at
+
+Ressortansvaret for
+
+* lov om registrering af ledningsejere
+
+flyttes til Energi-, Forsynings- og Klimaministeriet
+
+Ressortansvaret for
+
+* lov om bygnings- og boligregistrering (BBR-loven)
+* Den Offentlige Informationsserver (OIS)
+
+flyttes til Skatteministeriet---dog med undtagelse af ressortansvaret for
+
+* Danmarks Adresseregister
+
+som flyttes til Energi-, Forsynings- og Klimaministeriet.
+
+* * * *
+
+>[R]essortansvaret for sager vedrørende trossamfund uden for Folkekirken overføres fra Social- og Indenrigsministeriet til Kirkeministeriet.[^religion]
+
+
+[^uib]: De tre ministerier (Støjberg-Ministeriet) bliver gigantiske ressort- og ansvarsområder, der viser omfanget af Vs forsøg på livtag med asyl, indvandring og udlændinge.
+[^environment]: Sammelægning af Miljø og Landbrug signallerer en interessekonflikt mellem landmænd og miljøhensyn, hvor førstnævnte må antages at være hovedprioriteten for landmandspartiet Venstre.
+[^kyster]: Igen ses en underprioritering af miljø---i dette tilfælde de [omdiskuterede][kyst] strand- og kystarealer.
+[^religion]: <i>All your religion are belong to us.</i>
+
+
+[pdf]: http://stm.dk/multimedia/Kgl._resolution_af_28._juni_2015.pdf
+[mirror]: /da/articles/2015/06/28/v-regering/Kgl._resolution_af_28._juni_2015.pdf
+[kyst]: http://mim.dk/ministeren/ministerens-debatindlaeg/debatindl%C3%A6g-i-%C3%A5rhus-stiftstidende-venstre-har-opgivet-at-beskytte-vores-kyster/
