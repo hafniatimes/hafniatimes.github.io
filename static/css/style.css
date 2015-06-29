@@ -390,7 +390,7 @@ h2 {
   .post .post-content a, .post .post-content a:active, .post .post-content a:visited {
     background-color: rgba(215, 215, 215, 0.7); }
   .post .post-content a:hover {
-    background-color: orange; }
+    background-color: #FFA; }
   .post .post-content a[href$="png"], .post .post-content a[href$="jpg"], .post .post-content a[href$="jpeg"], .post .post-content a[href$="gif"], .post .post-content a[href$="webp"] {
     padding: 0; }
 .post .post-content blockquote {
@@ -399,6 +399,8 @@ h2 {
   border-left: 3px solid rgba(215, 215, 215, 0.7); }
 .post .post-content li blockquote {
   margin: 20px; }
+.post .post-content li li {
+  margin-left: 20px; }
 .post .post-content img {
   display: block;
   height: auto;

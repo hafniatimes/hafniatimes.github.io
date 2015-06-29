@@ -176,7 +176,7 @@ h2 {
             }
 
             &:hover {
-                background-color: orange;
+                background-color: $yellow;
             }
 
             &[href$="png"],
@@ -195,6 +195,7 @@ h2 {
         }
 
         li blockquote { margin: $padding; }
+        li li { margin-left: $padding; }
 
         img {
             display: block;
