@@ -206,6 +206,11 @@ h2 {
         .embed { margin: $padding auto; }
 
         .footnotes { border-top: $footnoteBorder solid $grey; }
+        hr {
+            height: $footnoteBorder;
+            background: $grey;
+            border: none;
+        }
     }
 }
 

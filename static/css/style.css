@@ -409,6 +409,10 @@ h2 {
   margin: 20px auto; }
 .post .post-content .footnotes {
   border-top: 3px solid rgba(215, 215, 215, 0.7); }
+.post .post-content hr {
+  height: 3px;
+  background: rgba(215, 215, 215, 0.7);
+  border: none; }
 
 #footer {
   font-size: 0.75em;
