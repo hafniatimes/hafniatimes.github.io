@@ -55,6 +55,22 @@ Undlad **ladede udtryk**, hvis anvendelse ikke begrundes i artiklen.
 
 * endog versus enddog
 
+Sager og Kommissioner
+---------------------
+Når større sager, kommissioner m.v. udvikler sig til større fænomener, bliver betegnelsen et selvstændigt ord i stedet for en sammensætning af substantiver og proprier. For eksempel:
+
+* Irak- og Afghanistan-kommissionen bliver til Irak- og Afghanistankommissionen
+* Jæger-sagen bliver til Jægersagen
+* Hommel-sagen bliver til Hommelsagen
+
+I de tilfælde hvor første led ikke er et proprium (egennavn), får betegnelsen stort begyndelsesbogstav:
+
+* lækage(-)sagen bliver til Lækagesagen
+
+Det er en redaktionel vurdering, dels hvilket navn begrebet får, og dels hvorvidt begrebet overhovedet er blevet et “større fænomen”.
+
+Man må og skal også være varsom med at blæse sager op, uden de er etablerede og dokumenterede; etableringen af noget som en sag og et større fænomen indebærer en redaktional vurdering—med andre ord at der er “noget at komme efter”.
+
 Partier og Politikere
 ---------------------
 ### Partigrupperinger ###
