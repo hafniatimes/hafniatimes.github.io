@@ -5,6 +5,7 @@ excerpt: Statsministeriets forestilling om et nyt ministerium.
 slug: v-regering
 permalink: /da/articles/2015/06/28/v-regering.html
 image: true
+updated: true
 ---
 Her følger en læselig redegørelse for de nye ministerier og deres ressortområder fra [Statsministeriets hjemeside][pdf].
 
@@ -93,7 +94,7 @@ Det får overført sagsområder
 
 #### Fra Miljøministeriet ####
 
-Ressortansvaret for sager vedrørende *affalds- og vandforsyning*, herunder:
+Ressortansvaret for sager vedrørende *affalds- og vandforsyning*[^forurening], herunder:
 
 * lov om vandsektorens organisering og økonomiske forhold
 * lov om kommuners afståelse af vand- og spildevandsforsyninger
@@ -215,6 +216,7 @@ som flyttes til Energi-, Forsynings- og Klimaministeriet.
 
 
 [^uib]: De tre ministerier (Støjberg-Ministeriet) bliver gigantiske ressort- og ansvarsområder, der viser omfanget af Vs forsøg på livtag med asyl, indvandring og udlændinge.
+[^forurening]: Miljøministeriet stækkes ved fratagelsen af ressortansvar for spildevandsregulering. Yderligere ved sammenlægningen som beskrevet i nedenstående fodnote.
 [^environment]: Sammenlægning af Miljø og Landbrug signallerer en interessekonflikt mellem landmænd og miljøhensyn, hvor førstnævnte må antages at være hovedprioriteten for landmandspartiet Venstre.
 [^kyster]: Igen ses en underprioritering af miljø---i dette tilfælde de [omdiskuterede][kyst] strand- og kystarealer.
 [^religion]: <i>All your religion are belong to us.</i>
