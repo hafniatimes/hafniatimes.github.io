@@ -6,11 +6,13 @@ cd $(git rev-parse --git-dir) && cd ..
 bundle exec jekyll build --trace
 
 ## htmlproof URLs
-# bundle exec htmlproof _site/ # --check-html
+# bundle exec htmlproof --check-html _site/
 # htmlhint
 htmlhint _site
 # scss-lint
 bundle exec scss-lint static/css/*.scss
+# SASS check
+bundle exec sass -c static/css/style.scss
 ## jscs
 # jscs static/js/
 ## jshint
@@ -19,4 +21,3 @@ bundle exec scss-lint static/css/*.scss
 # csslint static/css/style.css --exclude-list=""
 # mdl
 mdl -c .mdlrc _posts/*.markdown _posts/*/*.markdown *.md
-

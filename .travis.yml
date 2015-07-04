@@ -30,6 +30,7 @@ after_script:
   - htmlhint $HTML_FOLDER
 # - tidy -config .tidy-config && tidy -e -q $HTML_FOLDER/index.html
   - bundle exec scss-lint $STYLE_FOLDER/*.scss
+  - bundle exec sass -c static/css/style.scss
   - csslint $CSS_FILES --exclude-list=$CSS_EXCLUDES
   - jscs $JS_FOLDER
   - jshint $JS_FOLDER
