@@ -10,12 +10,12 @@ Ordbog
  antimuslimsk      | islamofob(isk)
  antisemitisk      | jødehadsk
  forbudt hunderace | muskelhund, kamphund
- hjemmeboende SU   | cafépenge
  indvandrer        | immigrant
  migrantarbejder   | gæste-/fremmedarbejder
 
 Undlad generelt at gengive **spinbegreber** såsom
 
+* cafépenge
 * fredsbevarende
 * ghetto
 * nærområde
