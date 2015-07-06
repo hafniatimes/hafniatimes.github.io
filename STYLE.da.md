@@ -71,6 +71,8 @@ Det er en redaktionel vurdering, dels hvilket navn begrebet får, og dels hvorvi
 
 Man må og skal også være varsom med at blæse sager op, uden de er etablerede og dokumenterede; etableringen af noget som en sag og et større fænomen indebærer en redaktional vurdering—med andre ord at der er “noget at komme efter”.
 
+Vær agtpågivende over for sags- og kommissionsnavne, der kan forveksles med andre; “Lækagesagen” kan eksempelvis henvise til sager, der fandt sted under henholdsvis en [blå][ls-b] og [rød][ls-r] regering. Førstnævnte går også under det unikke “Jægersagen”, som næppe vil forveksles med en anden sag.
+
 Partier og Politikere
 ---------------------
 ### Partigrupperinger ###
@@ -378,6 +380,8 @@ Andre Links
 * [sproget.dk][] til generelle spørgsmål
 
 
+[ls-b]: https://da.wikipedia.org/wiki/Lækagesagen
+[ls-r]: http://www.politiko.dk/nyheder/minister-afviser-undersoegelse-af-skat-i-laekagesag
 [dst]: http://www.dst.dk/da/Statistik/Publikationer/VisPub.aspx?cid=19004
 [asyl]: http://refugees.dk/fakta/asylproceduren-i-danmark/
 [asyl-definitioner]: http://refugees.dk/fakta/lovgivning-og-definitioner/
