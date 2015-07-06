@@ -69,6 +69,14 @@ General
  revise               | revize
  use                  | usage
 
+### Male and Female ###
+
+* “female” is only to be used as an adjective
+    - same for “male”
+* “woman” is only to be used as a substantive
+
+When the gender is unknown, use the pronoun “they”—not “s/he”.
+
 ### Donts ###
 
 Don’t use these words in general:
