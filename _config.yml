@@ -56,17 +56,15 @@ defaults:
 
 include: [".htaccess"]
 exclude:
-    - ".travis.yml"
-    - "Gemfile"
-    - "Gemfile.lock"
+    - ".*" # Automatic, but just in case
+    - "*.log"
+    - "Gemfile*"
+    - "package.json"
     - "LICENSE.md"
     - "README.md"
     - "STYLE.md"
     - "WRITERS.md"
-    - "npm-debug.log"
-    - "package.json"
-    - ".sass-cache"
-    - "node_modules"
+    - "node_modules/"
 
 sass:
     sass_dir: static/css/
