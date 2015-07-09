@@ -1,0 +1,28 @@
+---
+layout: none
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    {% if page.lang != "en" %}
+        {% assign base = site.url | append: "/" | append: page.lang %}
+    {% else %}
+        {% assign base = site.url %}
+    {% endif %}
+    <title>{{ site.name }}</title>
+    <link href="{{ base }}/links.atom" rel="self"/>
+    <link href="{{ base }}/"/>
+    <updated>{{ site.time | date_to_xmlschema }}</updated>
+    <id>{{ base }}/</id>
+
+{% for link in site.data.links[page.lang] %}
+    <entry>
+        <title>{{ link.title | markdownify | strip_html | xml_escape }}</title>
+        <link href="{{ link.url }}"/>
+        <updated>{{ link.date | date_to_xmlschema }}</updated>
+    {% comment %}
+        <id>{{ base }}{{ post.id }}</id>
+        <content type="html">{{ post.content | xml_escape }}</content>
+    {% endcomment %}
+    </entry>
+{% endfor %}
+</feed>

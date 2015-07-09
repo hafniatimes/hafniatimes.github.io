@@ -52,7 +52,13 @@
         <link
             href="{% if l.value != "en" %}/{{ l.value }}{% endif %}/feed.atom"
             rel="alternate"
-            title="{{ site.translations._atom[l.value] }}"
+            title="{{ site.translations._feed[l.value] }}"
+            type="application/atom+xml"
+        />
+        <link
+            href="{% if l.value != "en" %}/{{ l.value }}{% endif %}/links.atom"
+            rel="alternate"
+            title="{{ site.translations._links[l.value] }}"
             type="application/atom+xml"
         />
     {% endfor %}
