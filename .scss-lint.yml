@@ -175,7 +175,7 @@ linters:
   UnnecessaryParentReference:
     enabled: tur
   UrlFormat:
-    enabled: true
+    enabled: false
   UrlQuotes:
     enabled: true
   VariableForProperty:
