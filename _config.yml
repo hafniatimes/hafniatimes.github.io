@@ -64,6 +64,7 @@ exclude:
     - "README.md"
     - "STYLE.md"
     - "WRITERS.md"
+    - "data/links/"
     - "node_modules/"
 
 sass:
