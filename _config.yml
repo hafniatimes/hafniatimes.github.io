@@ -73,9 +73,6 @@ sass:
     style: :nested
 
 translations:
-    _atom:
-        da: "Alle danske artikler"
-        en: "All English articles"
     _dates:
         da:
             months:
@@ -99,6 +96,9 @@ translations:
                 fri: "Fredag"
                 sat: "Lørdag"
                 sun: "Søndag"
+    _feed:
+        da: "Alle danske artikler"
+        en: "All English articles"
     _languages:
         da:
             da: "Dansk"
@@ -106,6 +106,9 @@ translations:
         en:
             da: "Danish"
             en: "English"
+    _links:
+        da: "Andre danske artikler om Danmark"
+        en: "Other English articles on Denmark"
     navigation:
         da:
             code: "Kode"
