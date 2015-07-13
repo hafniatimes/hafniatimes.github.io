@@ -28,6 +28,8 @@ linters:
     enabled: true
   EmptyRule:
     enabled: true
+  ExtendDirective:
+    enabled: false
   FinalNewline:
     enabled: true
     present: true
@@ -158,6 +160,8 @@ linters:
     enabled: true
   SpaceAfterPropertyName:
     enabled: true
+  SpaceAfterVariableName:
+    enabled: true
   SpaceBeforeBrace:
     enabled: true
     allow_single_line_padding: true
@@ -167,6 +171,8 @@ linters:
     enabled: true
     style: double_quotes  # Subjective
   TrailingSemicolon:
+    enabled: true
+  TrailingWhitespace:
     enabled: true
   TrailingZero:
     enabled: true
