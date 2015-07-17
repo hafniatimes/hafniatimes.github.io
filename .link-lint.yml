@@ -1,0 +1,10 @@
+type: seq
+sequence:
+    - type: map
+      mapping:
+        title: { type: str }
+          # length:
+            #   min: 1
+            #   max: 65
+        date: { pattern: "/(0[1-9]|[12][0-9]|3[01])\s(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)/" }
+        url:
