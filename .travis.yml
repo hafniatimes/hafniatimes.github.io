@@ -18,7 +18,7 @@ env:
 install:
   - bundle install --verbose
   - npm install
-# - brew update && brew tap homebrew/dupes && brew install homebrew/dupes/tidy --HEAD
+  - brew update && brew install shellcheck # && brew tap homebrew/dupes && brew install homebrew/dupes/tidy --HEAD
 
 before_script:
   - cat Gemfile.lock
@@ -37,6 +37,7 @@ after_script:
   - jscs $JS_FOLDER
   - jshint $JS_FOLDER
   - bundle exec kwalify -lf .link-lint.yml data/links/da.yml && bundle exec kwalify -lf .link-lint.yml data/links/en.yml
+  - shellcheck _resources/pre-commit
   - gem install --quiet mdl && mdl -c .mdlrc _posts/*.markdown _posts/*/*.markdown *.md
 
 notifications:
