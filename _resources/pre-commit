@@ -20,6 +20,6 @@ bundle exec sass -c static/css/style.scss
 ## csslint
 # csslint static/css/style.css --exclude-list=""
 # kwalify link .yml
-bundle exec kwalify -lf .link-lint.yml data/links/da.yml && kwalify -lf .link-lint.yml data/links/en.yml
+bundle exec kwalify -lf .link-lint.yml data/links/da.yml && bundle exec kwalify -lf .link-lint.yml data/links/en.yml
 # mdl
 mdl -c .mdlrc _posts/*.markdown _posts/*/*.markdown *.md

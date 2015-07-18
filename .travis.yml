@@ -36,7 +36,7 @@ after_script:
   - csslint $CSS_FILES --exclude-list=$CSS_EXCLUDES
   - jscs $JS_FOLDER
   - jshint $JS_FOLDER
-  - bundle exec kwalify -lf .link-lint.yml data/links/da.yml && kwalify -lf .link-lint.yml data/links/en.yml
+  - bundle exec kwalify -lf .link-lint.yml data/links/da.yml && bundle exec kwalify -lf .link-lint.yml data/links/en.yml
   - gem install --quiet mdl && mdl -c .mdlrc _posts/*.markdown _posts/*/*.markdown *.md
 
 notifications:
