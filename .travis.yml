@@ -15,10 +15,13 @@ env:
     - JS_FOLDER="static/js/"
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # Speeds up htmlproof
 
+before_install:
+  - brew update
+
 install:
   - bundle install --verbose
   - npm install
-  - brew update && brew install shellcheck # && brew tap homebrew/dupes && brew install homebrew/dupes/tidy --HEAD
+  - brew install shellcheck # && brew tap homebrew/dupes && brew install homebrew/dupes/tidy --HEAD
 
 before_script:
   - cat Gemfile.lock
