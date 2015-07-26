@@ -2,8 +2,9 @@
 title: Sexism at Danish Juice Bar Gets a Facebook Call-out
 date: 2014-08-02 12:00:00
 excerpt: "A mother of two visited a Danish juice bar and got a sideorder of sexism. She went on to describe the experience on Facebook where the story caught fire. Soon after, the franchise apologized."
+
 slug: a-sideorder-of-sexism
-permalink: /articles/2014/08/02/a-sideorder-of-sexism.html
+categories: articles
 ---
 **Lisa B. Nygaard** got more than she ordered, when she took her two daughters to a **Joe & the Juice** bar. She took to sharing her experience as an open letter [on Facebook][post]:
 

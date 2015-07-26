@@ -2,10 +2,12 @@
 title: Opsummering af De Nye Ministerier
 date: 2015-06-29 17:00:00
 excerpt: Statsministeriets forestilling om et nyt ministerium.
-slug: v-regering
-permalink: /da/articles/2015/06/28/v-regering.html
+
 image: true
 updated: true
+
+slug: v-regering
+categories: [da, articles]
 ---
 Her følger en læselig redegørelse for de nye ministerier og deres ressortområder fra [Statsministeriets hjemeside][pdf].
 

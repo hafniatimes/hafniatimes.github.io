@@ -2,11 +2,13 @@
 title: Introducing a New Open Collection of Danish Polls
 date: 2014-09-14 18:00:00
 excerpt: "The time has come for Danes to have access to an open source of Danish opinion polls. That collection is available now."
-slug: danish-polls
-trans: /da/articles/2014/09/14/danish-polls.html
+
 image: true
 updated: true
-permalink: /articles/2014/09/14/danish-polls.html
+
+slug: danish-polls
+categories: articles
+trans: /da/articles/2014/09/14/danish-polls
 ---
 Today, I think my collection of Danish opinion polls are mature enough to share with the public. They can be found on [this](https://github.com/ndarville/danish-polls) site.
 

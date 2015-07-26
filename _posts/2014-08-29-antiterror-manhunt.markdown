@@ -2,8 +2,9 @@
 title: Copenhagen Police and Media Sound Anti-Terror Alarm over Woman's Unease at Train Passenger
 date: 2014/08/29 22:00:00
 excerpt: Alisiv Ceran could not have prepared for the extracurricular events that transpired on his way to an American-history exam on the War on Terror.
+
 slug: antiterror-manhunt
-permalink: /articles/2014/08/29/antiterror-manhunt.html
+categories: articles
 ---
 On Thursday the 28th, people in Denmark was confounded to receive a bulletin from the Copenhagen police concerning a person exhibiting "suspicious behaviour".
 
