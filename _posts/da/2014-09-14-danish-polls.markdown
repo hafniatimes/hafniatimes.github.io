@@ -8,7 +8,8 @@ updated: true
 
 slug: danish-polls
 categories: [da, articles]
-trans: /articles/2014/09/14/danish-polls.html
+trans: /articles/2014/09/14/danish-polls
+redirect_from: /da/articles/2014/09/14/danish-polls.html
 ---
 I dag synes jeg, min samling af danske meningsmålinger er moden nok til at dele med omverden. De kan---og skal---findes på [denne](https://github.com/ndarville/danish-polls) side.
 

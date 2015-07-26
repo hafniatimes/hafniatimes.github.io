@@ -28,6 +28,9 @@ redcarpet:
     extensions: ["smart", "footnotes", "tables"]
  # # # # # # # # # # # # # # # # # # # # # # # # #
 
+gems:
+    - jekyll-redirect-from
+
 defaults:
     -
         scope:

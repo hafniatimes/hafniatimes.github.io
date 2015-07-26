@@ -8,6 +8,7 @@ updated: true
 slug: intro
 categories: articles
 trans: /da/articles/2014/06/06/intro
+redirect_from: /articles/2014/06/06/intro.html
 ---
 This is part of a small experiment of mine in how to create a digital-only, collaborative "publication" using only the technical tools of [GitHub](https://github.com), [Jekyll](http://jekyllrb.com), [Prose.io](http://prose.io).
 

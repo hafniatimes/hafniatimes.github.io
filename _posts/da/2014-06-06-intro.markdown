@@ -7,7 +7,8 @@ updated: true
 
 slug: intro
 categories: [da, articles]
-trans: /articles/2014/06/06/intro.html
+trans: /articles/2014/06/06/intro
+redirect_from: /da/articles/2014/06/06/intro.html
 ---
 Dette er en del af et lille eksperiment, der går ud på at skabe en kollaborativ "publikation", der kun er digital, udelukkende ved brug de tekniske værktøjer [GitHub](https://github.com), [Jekyll](http://jekyllrb.com), [Prose.io](http://prose.io).
 

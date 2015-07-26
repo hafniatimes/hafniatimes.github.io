@@ -5,6 +5,7 @@ excerpt: "A mother of two visited a Danish juice bar and got a sideorder of sexi
 
 slug: a-sideorder-of-sexism
 categories: articles
+redirect_from: /articles/2014/08/02/a-sideorder-of-sexism.html
 ---
 **Lisa B. Nygaard** got more than she ordered, when she took her two daughters to a **Joe & the Juice** bar. She took to sharing her experience as an open letter [on Facebook][post]:
 

@@ -5,6 +5,7 @@ excerpt: Alisiv Ceran could not have prepared for the extracurricular events tha
 
 slug: antiterror-manhunt
 categories: articles
+redirect_from: /articles/2014/08/29/antiterror-manhunt.html
 ---
 On Thursday the 28th, people in Denmark was confounded to receive a bulletin from the Copenhagen police concerning a person exhibiting "suspicious behaviour".
 
