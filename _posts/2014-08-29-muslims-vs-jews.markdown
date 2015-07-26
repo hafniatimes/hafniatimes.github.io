@@ -5,7 +5,7 @@ excerpt: The Danish People's Party are outraged over the harassment of Jews in D
 
 slug: muslims-vs-jews
 categories: articles
-redirect_from: /articles/2014/08/29/muslims-vs-jews.html
+redirect_from: [/articles/2014/08/29/muslims-vs-jews.html]
 ---
 It would be be less than a month, before the Danish People's Party's **Pia Kjærsgaard** would go from trivializing the harassment of Muslim women with headscarves while chastizing the women for provoking the reactions [in one blog post][article] to crying foul in response to reports of harassment of Jews wearing kippahs in Denmark [in another][post].[^translation]
 

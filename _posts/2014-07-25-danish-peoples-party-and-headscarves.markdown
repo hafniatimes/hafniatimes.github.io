@@ -5,7 +5,7 @@ excerpt: "Hearing of harassment of Danish Muslim women with headscarves, the Dan
 
 slug: danish-peoples-party-and-headscarves
 categories: articles
-redirect_from: /articles/2014/07/25/danish-peoples-party-and-headscarves.html
+redirect_from: [/articles/2014/07/25/danish-peoples-party-and-headscarves.html]
 ---
 In [a letter][letter] published in the Danish newspaper <i>Politiken</i> on July 11th, **Aya Baram** shares her experience of living in Denmark for sixteen years as a Muslim woman who wears a headscarf.
 
