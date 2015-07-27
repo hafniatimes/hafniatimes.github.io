@@ -58,7 +58,6 @@ defaults:
             path: "_drafts/da"
         values: *da_defaults
 
-include: [".htaccess"]
 exclude:
     - ".*" # Automatic, but just in case
     - "*.log"
