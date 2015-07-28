@@ -10,6 +10,7 @@
         "else if"
     ],
     "disallowSpaceAfterPrefixUnaryOperators": true,
+    "disallowSpaceBeforeComma": true,
     "disallowSpaceBeforePostfixUnaryOperators": true,
     "disallowSpacesInAnonymousFunctionExpression": {
         "beforeOpeningRoundBrace": true
@@ -76,6 +77,10 @@
 
     // React.js support
     // ================
+    "disallowParenthesesAroundArrowParam": true,
     "esprima": "esprima-fb",
-    "fileExtensions": [".js", ".jsx"]
+    "fileExtensions": [".jsx"],
+    "requireArrowFunctions": true,
+    "requireShorthandArrowFunctions": true,
+    "requireTemplateStrings": false
 }
