@@ -203,6 +203,45 @@ h2 {
             max-width: 100%;
         }
 
+        table {
+            // font: #{$font-size-smaller}/#{$line-height-smaller} Georgia;
+            // font: .8em/1.6em Georgia; //
+            color: $table-font;
+
+            margin-right: auto;
+            margin-left: auto;
+
+            border-collapse: collapse;
+            border-spacing: 0;
+
+            caption {
+                // font: #{$font-size-larger}/#{$line-height-larger} Georgia small-caps;
+                // font: 1.2em/1.4em Georgia small-caps; //
+                background-color: $table-faded-blue;
+
+                text-align: center;
+
+                margin-left: 0 auto;
+                padding: 3px 10px;
+                caption-side: top;
+            }
+
+            th,
+            td {
+                text-align: right;
+                padding: $cell-padding;
+            }
+
+            td,
+            th,
+            tr { vertical-align: middle; }
+
+            td:hover,
+            th:hover { background-color: $table-mm; }
+
+            tr:hover { background-color: $table-yellow; }
+    }
+
         .embed { margin: $padding auto; }
 
         .footnotes { border-top: $footnoteBorder solid $grey; }

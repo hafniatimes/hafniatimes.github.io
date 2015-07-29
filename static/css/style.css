@@ -405,6 +405,31 @@ h2 {
   display: block;
   height: auto;
   max-width: 100%; }
+.post .post-content table {
+  color: #111;
+  margin-right: auto;
+  margin-left: auto;
+  border-collapse: collapse;
+  border-spacing: 0; }
+  .post .post-content table caption {
+    background-color: #F5FAFA;
+    text-align: center;
+    margin-left: 0 auto;
+    padding: 3px 10px;
+    caption-side: top; }
+  .post .post-content table th,
+  .post .post-content table td {
+    text-align: right;
+    padding: 0 0.5em; }
+  .post .post-content table td,
+  .post .post-content table th,
+  .post .post-content table tr {
+    vertical-align: middle; }
+  .post .post-content table td:hover,
+  .post .post-content table th:hover {
+    background-color: #CFC; }
+  .post .post-content table tr:hover {
+    background-color: #FFA; }
 .post .post-content .embed {
   margin: 20px auto; }
 .post .post-content .footnotes {
