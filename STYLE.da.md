@@ -19,8 +19,10 @@ Undlad generelt at gengive **spinbegreber** såsom
 * fredsbevarende
 * ghetto
 * nærområde
+* omprioriteringsbidrag
 * smagsdommer
 * skattestop
+* Udlændingeservice
 * velfærdsturisme
 * Generelt begreber med
     - bekvemmelighed
@@ -34,7 +36,8 @@ Vær agtpågivende med **politikerbegreber**, som ikke giver mening for udenfors
 * arbejdsudbud
 * dimensionering
 * fremdriftsreform
-* skattestop (også)
+* nødløgn
+* skattestop
 * social dumping
 
 Ditto med **tomme floskler**:

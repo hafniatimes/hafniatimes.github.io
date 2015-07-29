@@ -67,6 +67,7 @@ General
  learn/-ed/-t         | /-ed/-ed, /-t/-t
  no one               | no-one
  revise               | revize
+ sex worker           | prostitute, hooker
  use                  | usage
 
 ### Male and Female ###
@@ -83,6 +84,20 @@ Don’t use these words in general:
 
 * problematic
 * tragedy
+
+#### Specious Geography ####
+
+There is no consensus around the meaning of these geographical terms, so try not to use them:
+
+* Eastern Europe and Eastern-Europeans
+* the international community
+
+You might also reconsider the specificity of such geographies as
+
+* Africa
+* Arabic countries
+* Asia
+* the Middle East
 
 ### Nerdy Terms ###
 
