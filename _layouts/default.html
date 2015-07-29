@@ -158,7 +158,7 @@
             ga('send', 'pageview');
         </script>
     {% endunless %}{% endif %}
-    {% if page.section != "frontpage" %}
+    {% if site.html5_images != true and page.section != "frontpage" %}
         <script src="/static/js/retina.js"></script>
     {% endif %}
     </body>

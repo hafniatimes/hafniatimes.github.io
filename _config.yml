@@ -14,6 +14,7 @@ status_bar_color: false
  # # # # # # # # # # # # # # # #
 
 # Posts # # # # # #
+html5_images: true
 show_posts: true
 show_bylines: true
 limit_posts: 0

@@ -14,15 +14,25 @@ layout: default
         <time datetime="{{ page.date }}" is="time-ago" title="{{ page.date }}">{{ page.date | date: "<strong>%A</strong>, %B %-d %Y" }}</time>
     </div>
     {% if site.show_bylines == true %}
-        {% if site.github_hosted == true %}
+        {% if site.github_hosted == true %}{% if site.html5_images == true %}
+            <picture>
+                <source
+                    srcset="{% if page.guest == true %}/static/avatars/guest.png{% else %}/static/avatars/{{ page.author }}.{{ site.data.people[page.author].avatar }}{% endif %} 1x, {% if page.guest == true %}/static/avatars/guest@2x.png{% else %}/static/avatars/{{ page.author }}@2x.{{ site.data.people[page.author].avatar }}{% endif %} 2x"
+                    type="image/{{ site.data.people[page.author].avatar }}" />
+                <img
+                    class="avatar"
+                    src="{% if page.guest == true %}/static/avatars/guest.png{% else %}/static/avatars/{{ page.author }}.{{ site.data.people[page.author].avatar }}{% endif %}"
+                    alt="Display image for {{ author_name }}"
+                    title="{{ author_name }}" />
+            </picture>
+        {% else %}
             <img
                 class="avatar"
                 src="{% if page.guest == true %}/static/avatars/guest.png{% else %}/static/avatars/{{ page.author }}.{{ site.data.people[page.author].avatar }}{% endif %}"
-                srcset="{% if page.guest == true %}/static/avatars/guest@2x.png{% else %}/static/avatars/{{ page.author }}@2x.{{ site.data.people[page.author].avatar }}{% endif %} 2x"
                 alt="Display image for {{ author_name }}"
                 title="{{ author_name }}"
             />
-        {% endif %}
+        {% endif %}{% endif %}
         <div class="byline">
             {{ u.by }} <a href="{{ site.data.people[page.author].website }}" rel="author">{{ author_name }}</a>
         </div>
