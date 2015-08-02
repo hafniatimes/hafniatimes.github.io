@@ -293,7 +293,10 @@ mark {
   text-align: center; }
 
 h1,
-h2 {
+h2,
+h3,
+h4,
+h5 {
   font-family: "Palatino Linotype", Georgia, serif; }
 
 #frontpage h2 {
@@ -371,6 +374,8 @@ h2 {
   margin-bottom: .33em; }
 .post h4 {
   font-style: italic; }
+.post h5 {
+  font: small-caps bold 16px/24px Georgia, serif; }
 .post .updated.box {
   font-size: 0.875em;
   margin-top: 0;
@@ -445,6 +450,13 @@ h2 {
   text-align: center;
   margin-left: auto;
   margin-right: auto; }
+
+div.footnotes,
+h4,
+hr,
+ol,
+table {
+  margin-top: 1em; }
 
 @media only screen and (max-device-width: 600px) {
   body {

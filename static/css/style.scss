@@ -44,7 +44,10 @@
 }
 
 h1,
-h2 {
+h2,
+h3,
+h4,
+h5 {
     font-family: "Palatino Linotype", $font;
 }
 
@@ -141,6 +144,7 @@ h2 {
     }
 
     h4 { font-style: italic; } //!
+    h5 { font: small-caps bold #{$fontSize}/#{$lineHeight} $font; } //!
 
     .updated.box {
         @include getVerticalRhythm($postUpdateSize);
@@ -197,11 +201,13 @@ h2 {
         li li { margin-left: $padding; }
 
         img {
+            display: block;
+
             margin-right: auto;
             margin-left: auto;
 
-            display: block;
             height: auto;
+
             max-width: 100%;
         }
 
@@ -260,6 +266,15 @@ h2 {
     @include center;
 
     a { @extend %a; }
+}
+
+// Hotfixes
+div.footnotes,
+h4,
+hr,
+ol,
+table {
+    margin-top: 1em;
 }
 
 @import "_responsive";
