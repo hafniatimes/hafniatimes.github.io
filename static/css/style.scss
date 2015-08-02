@@ -167,7 +167,6 @@ h2 {
     .post-content {
         a {
             @extend %a;
-            padding: 0 3px;
 
             &,
             &:active,
@@ -198,6 +197,9 @@ h2 {
         li li { margin-left: $padding; }
 
         img {
+            margin-right: auto;
+            margin-left: auto;
+
             display: block;
             height: auto;
             max-width: 100%;
