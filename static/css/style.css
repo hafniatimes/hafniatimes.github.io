@@ -405,9 +405,9 @@ h5 {
 .post .post-content li li {
   margin-left: 20px; }
 .post .post-content img {
+  display: block;
   margin-right: auto;
   margin-left: auto;
-  display: block;
   height: auto;
   max-width: 100%; }
 .post .post-content table {
