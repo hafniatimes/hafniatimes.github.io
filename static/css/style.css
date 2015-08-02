@@ -459,6 +459,12 @@ ul,
 table {
   margin-top: 1em; }
 
+ol ul,
+ul ul,
+ol ul,
+ul ol {
+  margin-top: 0; }
+
 @media only screen and (max-device-width: 600px) {
   body {
     font-size: 10px;

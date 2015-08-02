@@ -278,6 +278,12 @@ table {
     margin-top: 1em;
 }
 
+ol ul,
+ul ul,
+ol ul,
+ul ol {
+    margin-top: 0;
+}
 
 
 @import "_responsive";
