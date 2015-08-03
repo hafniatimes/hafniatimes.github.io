@@ -253,7 +253,7 @@ Et **geografisk center i øvrigt** er defineret som en kommune med:
 
 Terrorisme
 ----------
-Betegnelser af terrorisme og terrorist bør ske med udgangspunkt i Straffelovens [$ 114][terrorisme] og udvidelser § 114a–fremdeles.
+Betegnelser af terrorisme og terrorist bør ske med udgangspunkt i Straffelovens [§ 114][terrorisme] og udvidelser § 114a–fortløbende.
 
 Misvisende Udtryk
 -----------------
