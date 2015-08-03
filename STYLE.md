@@ -400,6 +400,23 @@ Technical terms are not slurs, eg:
 * lame
 * schizophrenic/-a
 
+### Nationality, Race, and Hyphenation ###
+
+Hyphenated nationalities like “Native-Americans” and “African-Americans” are likewise discouraged. In order of preference, use
+
+* “Native American people”, “Native Americans” (capitalized)
+* “black people/Americans”, “African-American people”
+
+It’s hardly always easy to figure out the appropriate, consistent terminology, but running into these situations is always cause for consulting available guides and manuals, as well as amending any existing ones, such as this.
+
+#### Other Dos and Donts ####
+
+ Preferred              | Not Preferred
+:-----------------------|:----------------------
+ biracial, multiracial  | mixed race, mulatto(!)
+
+Do not use the following words as descriptors:
+
 Media Guidelines
 ----------------
 If we believe journalism has power to affect hearts and minds, it has power to afflict them as well.
