@@ -54,7 +54,8 @@ h2,
 h3,
 h4,
 h5,
-blockquote {
+blockquote,
+table {
     page-break-inside: avoid;
 }
 
