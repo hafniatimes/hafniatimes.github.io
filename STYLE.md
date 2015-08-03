@@ -400,6 +400,20 @@ Technical terms are not slurs, eg:
 * lame
 * schizophrenic/-a
 
+Media Guidelines
+----------------
+If we believe journalism has power to affect hearts and minds, it has power to afflict them as well.
+
+Here is a selection of guidelines for ensuring that your writing has a positive effect:
+
+* [GLAAD Media Reference Guide on Transgender Issues][transgender]
+* [Prevent copycats by using guidelines for reporting on suicide][copycat]
+
+### Self-Harm ###
+
+* [“Samaritans’ Media Guidelines for Reporting Suicide”][suicide]
+* [reportingonsuicide.com](http://reportingonsuicide.org/)
+* [“Reporting on Suicide: Recommendations for the Media”][suicide-2] (.pdf)
 
 Other Resources
 ---------------
@@ -424,4 +438,7 @@ TODO
 [abbr]: https://michelf.ca/projects/php-markdown/extra/#abbr
 [us-terrorism]: https://www.fbi.gov/about-us/investigate/terrorism/terrorism-definition
 [transgender]: http://www.glaad.org/reference/transgender
+[copycat]: http://www.theatlantic.com/national/archive/2012/12/the-media-needs-to-stop-inspiring-copycat-murders-heres-how/266439/
+[suicide]: http://www.samaritans.org/media-centre/media-guidelines-reporting-suicide
+[suicide-2]: http://www.sprc.org/sites/sprc.org/files/library/sreporting.pdf
 [ceeu]: http://public.wsu.edu/~brians/errors/
