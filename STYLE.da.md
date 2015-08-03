@@ -43,6 +43,7 @@ Vær agtpågivende med **politikerbegreber**, som ikke giver mening for udenfors
 Ditto med **tomme floskler**:
 
 * bæredygtig
+* elite-/n
 * fremadrettet
 * grøn omstilling
 * proaktiv
