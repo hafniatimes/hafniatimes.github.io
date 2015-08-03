@@ -20,6 +20,7 @@ Undlad generelt at gengive **spinbegreber** såsom
 * ghetto
 * nærområde
 * omprioriteringsbidrag
+* servicetjek
 * smagsdommer
 * skattestop
 * Udlændingeservice
@@ -27,6 +28,7 @@ Undlad generelt at gengive **spinbegreber** såsom
 * Generelt begreber med
     - bekvemmelighed
     - effektivisering
+    - eftersyn
 
 Skal der henvises til begreberne, bør der som udgangspunkt anvendes citationstegn om dem.
 
