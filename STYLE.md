@@ -281,6 +281,7 @@ Tricky Spellings
 * committee
 * competitive
 * embarrass
+* graffiti
 * harass
 * millennium
 * publicly
@@ -337,6 +338,10 @@ Use Markdown’s [abbreviation syntax][abbr] in the following cases:
 :-----------|:----------------------------------
  MEPs       | members of the European Parliament
  MPs        | members of parliament
+
+Definitions
+-----------
+* [Genocide][]
 
 Immigrant vs Expatriot
 ----------------------
@@ -452,6 +457,7 @@ TODO
 [ø]: http://enhedslisten.dk/content/red-green-alliance
 
 [broadband]: http://www.fcc.gov/reports/2015-broadband-progress-report
+[genocide]: http://www.ohchr.org/EN/ProfessionalInterest/Pages/CrimeOfGenocide.aspx
 [abbr]: https://michelf.ca/projects/php-markdown/extra/#abbr
 [us-terrorism]: https://www.fbi.gov/about-us/investigate/terrorism/terrorism-definition
 [transgender]: http://www.glaad.org/reference/transgender
