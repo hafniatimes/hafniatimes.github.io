@@ -219,8 +219,8 @@ h5 {
             margin-right: auto;
             margin-left: auto;
 
-            border-collapse: collapse;
-            border-spacing: 0;
+            border-top: 2px solid #333;
+            border-bottom: 2px solid #333;
 
             caption {
                 // font: #{$font-size-larger}/#{$line-height-larger} Georgia small-caps;
@@ -234,15 +234,32 @@ h5 {
                 caption-side: top;
             }
 
-            th,
+            thead th {
+                font-weight: normal;
+                padding-top: $cell-spacing-ver;
+                border-bottom: 1px solid #333;
+            }
+
+            thead th,
             td {
                 text-align: right;
-                padding: $cell-padding;
+                padding-left: $cell-padding-hor;
+                padding-right: $cell-padding-hor;
             }
 
             td,
             th,
-            tr { vertical-align: middle; }
+            tr {
+                vertical-align: middle;
+            }
+
+            tbody tr:first-child td {
+                padding-top: $cell-spacing-ver;
+            }
+
+            tbody tr:last-child td {
+                padding-bottom: $cell-spacing-ver;
+            }
 
             td:hover,
             th:hover { background-color: $table-mm; }

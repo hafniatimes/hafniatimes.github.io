@@ -414,22 +414,31 @@ h5 {
   color: #111;
   margin-right: auto;
   margin-left: auto;
-  border-collapse: collapse;
-  border-spacing: 0; }
+  border-top: 2px solid #333;
+  border-bottom: 2px solid #333; }
   .post .post-content table caption {
     background-color: #F5FAFA;
     text-align: center;
     margin-left: 0 auto;
     padding: 3px 10px;
     caption-side: top; }
-  .post .post-content table th,
+  .post .post-content table thead th {
+    font-weight: normal;
+    padding-top: 5px;
+    border-bottom: 1px solid #333; }
+  .post .post-content table thead th,
   .post .post-content table td {
     text-align: right;
-    padding: 0 0.5em; }
+    padding-left: 0.5em;
+    padding-right: 0.5em; }
   .post .post-content table td,
   .post .post-content table th,
   .post .post-content table tr {
     vertical-align: middle; }
+  .post .post-content table tbody tr:first-child td {
+    padding-top: 5px; }
+  .post .post-content table tbody tr:last-child td {
+    padding-bottom: 5px; }
   .post .post-content table td:hover,
   .post .post-content table th:hover {
     background-color: #CFC; }
