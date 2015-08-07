@@ -26,11 +26,13 @@ install:
 before_script:
   - cat Gemfile.lock
 # - bundle outdated
+  - bundle-audit update
 
 script:
   - bundle exec jekyll build --trace
 
 after_script:
+  - bundle-audit check
   - htmlproof --check-html --file-ignore=$HTML_EXCLUDES $HTML_FOLDER
   - htmlhint $HTML_FOLDER
 # - tidy -config .tidy-config && tidy -e -q $HTML_FOLDER/index.html
