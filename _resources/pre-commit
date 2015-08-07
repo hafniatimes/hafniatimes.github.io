@@ -5,6 +5,9 @@ cd "$(git rev-parse --git-dir)" && cd ..
 
 bundle exec jekyll build --trace
 
+## bundle audit
+# bundle-audit update
+# bundle-audit check # --update flag doesn't work
 ## htmlproof URLs
 # bundle exec htmlproof --check-html _site/
 # htmlhint
