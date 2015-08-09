@@ -44,6 +44,10 @@ En dashes, –, are for number and date ranges and denoted by two dashes, `--`.
 
 No eccentric diareses belong in this style guide, but do use hyphens for prefixes that cause ambiguity and poor readability (“pro-zoo”) or precede numbers and proper names (“pre-2000”, “pre-Orwell”).
 
+#### Hyphenated Compound Modifiers ####
+
+Use hyphenate [compound modifiers][hcm] only for disambiguation, not too dissimilarly to the Oxford Comma. Adverbs are rarely, if ever, cause for ambiguity---especialy those ending in -ly---so “wildly popular app” should go unhyphenated.
+
 Markdown
 --------
  Right                | Wrong
@@ -91,6 +95,8 @@ There is no consensus around the meaning of these geographical terms, so try not
 
 * Eastern Europe and Eastern-Europeans
 * the international community
+* the East
+* the West(ern World)
 
 You might also reconsider the specificity of such geographies as
 
@@ -241,6 +247,14 @@ Capitalization
  secretary general            | (Uppercase)
 
 Monolithic concepts like “Internet” and “Technology” are capitalized, partly as a deterrent to using them as big, fluffy concepts.
+
+Tweets
+------
+Tweets for and about a Hafnia Times article should read:
+
+>"Article Title" link [optional Twitter-uploaded image]
+
+Do not use a colon to point towards the link.
 
 Companies
 ---------
@@ -448,7 +462,8 @@ TODO
 - [ ] Link to media guide for disabilities and neurodiversity.
 
 
-[oed]:  http://www.ox.ac.uk/public-affairs/style-guide
+[oed]: http://www.ox.ac.uk/public-affairs/style-guide
+[hcm]: https://en.wikipedia.org/wiki/English_compound#Hyphenated_compound_modifiers
 
 [a]: http://socialdemokraterne.dk/default.aspx?site=english
 [b]: http://www.radikale.dk/english
