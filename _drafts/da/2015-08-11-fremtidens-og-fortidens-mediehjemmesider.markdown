@@ -321,7 +321,7 @@ Det er også værd at spørge, om betalende abonnenter skal døje med samme rekl
 * [Hjemmesidestørrelser med og uden adblockers][adblock-difference]
 * <i>[Web Design: The First 100 Years][idle-words]</i>
 * [Malvertising][]
-* <i>New York Times</i>: ["Study of "][nyt-adblocking]
+* <i>New York Times</i>: ["Study of Ad-Blocking Software Suggests Wide Use"][nyt-adblocking]
 
 
 [us-test]: http://blog.lmorchard.com/2015/07/22/the-verge-web-sucks/
