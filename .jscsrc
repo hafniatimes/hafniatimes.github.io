@@ -1,6 +1,9 @@
 {
     // jscs rules
     // ==========
+    "disallowEmptyBlocks": {
+        "allExcept": "comments"
+    },
     "disallowIdentifierNames": ["foo", "bar", "baz", "qux"],
     "disallowMixedSpacesAndTabs": true,
     "disallowMultipleSpaces": false,
