@@ -302,13 +302,13 @@ Lad være med at bruge AdBlock.
 
 ### Ad-blockerne Kommer ###
 
-Afslutningsvist er det værd at påpege, at der om et i næste iOS 9-softwareopdatering til iPhones og iPads om et par uger vil være en mulighed for at installere en ad-blocker, som blokerer for tracking og reklamer---der jo som regel er tredjepartsindhold. Du kan se [et videoeksempel her][ios-adblock-video].
+Afslutningsvist er det værd at påpege, at man i næste iOS 9-softwareopdatering til iPhones og iPads om et par uger kan installere en ad-blocker, som blokerer for tracking og reklamer. Du kan se [et videoeksempel her][ios-adblock-video].
 
-Med udsigt til en mobil genvej til at indlæse artikler hurtigere og sikrere ved at gå uden om trackere og reklamer, må medierne spørge sig selv, om de skråsikre om en fremtid, hvor deres hjemmesider stadig er fyldt med billeder, reklamer og tracking, som skal tilgås fra en tarvelig 3G-forbindelse på mobilen i toget på vej til arbejde.[^battery]
+Med udsigt til en mobil genvej til at indlæse artikler hurtigere og sikrere ved at gå uden om trackere og reklamer må medierne spørge sig selv, om de er skråsikre om en fremtid, hvor deres hjemmesider stadig er fyldt med billeder, reklamer og tracking, som skal tilgås fra en tarvelig 3G-forbindelse på mobilen i toget på vej til arbejde.[^battery]
 
-[^battery]: Og så har vi ikke engang kigget på, hvordan de pågældende hjemmesider tapper batteriet.
+[^battery]: Og så har vi ikke engang kigget på, hvordan de pågældende hjemmesider dræner mobilbatteriet.
 
-Nogle vil undersøge muligheden for at gå appvejen, som Facebook med <i>Paper</i> og Apple med <i>News</i> prøver at presse medierne til. Men Internettet forsvinder ikke foreløbigt, og vi kommer ikke til at løbe fra, at mange får deres læsning via sociale netværk med links til artiklerne på nettet---i stedet for en digital morgenavis.
+Nogle vil undersøge muligheden for at gå appvejen, som Facebook med <i>Paper</i> og Apple med <i>News</i> prøver at presse medierne til. Men Internettet forsvinder ikke foreløbigt, og vi kommer ikke til at løbe fra, at mange finder deres læsning via sociale netværk med links til artiklerne på nettet---i stedet for en digital morgenavis.
 
 Det er også værd at spørge, om betalende abonnenter skal døje med samme reklamer, tredjepartsindhold og tracking online, som forbipasserende gratislæsere. Hvilken læseoplevelse har man krav på som læser? Og hvor meget kan medierne slippe afsted med, før tålmodigheden og tilliden er væk?
 
