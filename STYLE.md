@@ -290,6 +290,7 @@ Use the unabbreviated currency the first time, and the abbreviation for repeat u
 Tricky Spellings
 ----------------
 * accommodation
+* artis**a**nal
 * boycott
 * commission
 * committee
