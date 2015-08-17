@@ -158,6 +158,7 @@ linters:
     enabled: false
   SpaceAfterPropertyColon:
     enabled: true
+    style: one_space_or_newline
   SpaceAfterPropertyName:
     enabled: true
   SpaceAfterVariableName:
