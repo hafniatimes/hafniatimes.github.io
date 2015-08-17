@@ -357,6 +357,7 @@ Use Markdown’s [abbreviation syntax][abbr] in the following cases:
 Definitions
 -----------
 * [Genocide][]
+* [Torture][]
 
 Immigrant vs Expatriot
 ----------------------
@@ -474,6 +475,7 @@ TODO
 
 [broadband]: http://www.fcc.gov/reports/2015-broadband-progress-report
 [genocide]: http://www.ohchr.org/EN/ProfessionalInterest/Pages/CrimeOfGenocide.aspx
+[torture]: http://www.hrweb.org/legal/cat.html#Article%201.1
 [abbr]: https://michelf.ca/projects/php-markdown/extra/#abbr
 [us-terrorism]: https://www.fbi.gov/about-us/investigate/terrorism/terrorism-definition
 [transgender]: http://www.glaad.org/reference/transgender
