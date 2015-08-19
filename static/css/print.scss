@@ -76,3 +76,16 @@ h4,
 h5 {
     page-break-after: avoid;
 }
+
+.byline,
+h1,
+h2,
+h3,
+h4,
+h5 {
+    a,
+    &:visited,
+    &:active {
+        color: #000 !important;
+    }
+}

@@ -62,4 +62,22 @@ h4,
 h5 {
   page-break-after: avoid; }
 
+.byline a, .byline:visited, .byline:active,
+h1 a,
+h1:visited,
+h1:active,
+h2 a,
+h2:visited,
+h2:active,
+h3 a,
+h3:visited,
+h3:active,
+h4 a,
+h4:visited,
+h4:active,
+h5 a,
+h5:visited,
+h5:active {
+  color: #000 !important; }
+
 /*# sourceMappingURL=print.css.map */
