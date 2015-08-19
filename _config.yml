@@ -147,13 +147,13 @@ translations:
             by: "Af"
             read: "Læs på dansk"
             translation: "Oversættelse af"
-            update_text: "Dette indlæg er blevet opdateret, siden det blev udgivet. Se alle ændringer"
+            update_text: "Indlægget er blevet opdateret siden udgivelsen. Se alle ændringer"
             update_link: "hér"
         en:
             by: "By"
             read: "Read in English"
             translation: "Translation by"
-            update_text: "This post has been updated, since it was first published. View all changes"
+            update_text: "This post has been updated since its publication. View all changes"
             update_link: "here"
 
 languages: &languages
