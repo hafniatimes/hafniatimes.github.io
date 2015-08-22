@@ -15,7 +15,9 @@ Ordbog
 
 Undlad generelt at gengive **spinbegreber** såsom
 
+* -epidemier
 * cafépenge
+* flygtningestrøm
 * fredsbevarende
 * ghetto
 * nærområde
@@ -23,6 +25,7 @@ Undlad generelt at gengive **spinbegreber** såsom
 * servicetjek
 * smagsdommer
 * skattestop
+* statscenter
 * Udlændingeservice
 * velfærdsturisme
 * Generelt begreber med
