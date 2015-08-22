@@ -278,7 +278,7 @@ Der er desuden intet krav om at komformere til en bestemt indramning af debatten
 
 **Indvandrer** er, som udgangspunkt, synonymt med **immigrant** og bruges generelt i stedet i daglig tale. Udtrykket skal dog bruges konsekvent, hvorfor man må afholde sig fra at bruge **immigrant** til at referere til en “anden” gruppe af mennesker.
 
-En **migrant** er en person, som opholder sig midlertidigt i et andet land. Udtrykket bruges generelt ikke, medmindre der er tale om en forvanskning **politiske flygtninges** situation. Brug derfor kun udtrykket til at  henvisning til **migrantarbejdere**; dvs. folk, der tager midlertidigt til Danmark for at påtage sig arbejde. Undlad udtryk som **gæste-** og **fremmedarbejdere**.
+En **migrant** er en person, som opholder sig midlertidigt i et andet land. Udtrykket bruges generelt ikke, medmindre der er tale om en forvanskning af **politiske flygtninges** situation. Brug derfor kun udtrykket til at  henvisning til **migrantarbejdere**; dvs. folk, der tager midlertidigt til Danmark for at påtage sig arbejde. Undlad udtryk som **gæste-** og **fremmedarbejdere**.
 
 LGBT
 ----
