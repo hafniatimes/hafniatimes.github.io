@@ -9,7 +9,6 @@
     "nonew": true,
     "notypeof": true,
     "quotmark": "double",
-    "unused": true,
 // Exclude warnings
     "-W008": false, // Forbid leading decimal point
     "-W083": false, // Forbid functions in loops
