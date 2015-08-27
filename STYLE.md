@@ -48,6 +48,10 @@ No eccentric diareses belong in this style guide, but do use hyphens for prefixe
 
 Use hyphenate [compound modifiers][hcm] only for disambiguation, not too dissimilarly to the Oxford Comma. Adverbs are rarely, if ever, cause for ambiguity---especialy those ending in -ly---so “wildly popular app” should go unhyphenated.
 
+#### Abbreviations ####
+
+Refrain from abbreviations for common words and phrases (eg, ie, etc) as often as possible. Acronyms are of course acceptable for the most part, as long as the full name is commonly known (NATO, US, GOP).
+
 Markdown
 --------
  Right                | Wrong
