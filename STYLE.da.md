@@ -11,6 +11,7 @@ Ordbog
  antisemitisk      | jødehadsk
  forbudt hunderace | muskelhund, kamphund
  indvandrer        | immigrant
+ ligebehandling    | ligestilling
  migrantarbejder   | gæste-/fremmedarbejder
  redigér           | rediger
 
@@ -56,8 +57,9 @@ Ditto med **tomme floskler**:
 * proaktiv
 * velfærd
 
-Undlad **ladede udtryk**, hvis anvendelse ikke begrundes i artiklen.
+Undlad **ladede udtryk**, hvis anvendelse ikke begrundes i artiklen:
 
+* lighed/ulighed
 * raceoptøjer
 * (ressource)svage/-stærke
 * Unødige referencer til velstand: Rigmand, pengemand, osv.
@@ -335,6 +337,7 @@ Retsstavning
 ### Drilleord ###
 
 * boykot
+* omstændelig
 * privilegium
 * krigsførelse
 * trafik
