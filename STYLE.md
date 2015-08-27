@@ -57,22 +57,32 @@ Markdown
 
 General
 -------
- Right                | Wrong
-:---------------------|:--------------------
- -ize, -yze, -ization | -ise, -yse, -isation
- -eable               | -able
- 10:00, 10 AM/PM      | 10 am/pm, 10AM/PM
- ceasefire            | cease-fire
- comprise             | comprised of
- e-mail               | email
- front page           | frontpage
- Hafnia Times         | The Hafnia Times
- invitation           | invite
- learn/-ed/-t         | /-ed/-ed, /-t/-t
- no one               | no-one
- revise               | revize
- sex worker           | prostitute, hooker
- use                  | usage
+ Right                 | Wrong
+:----------------------|:--------------------
+ -ize, -yze, -ization  | -ise, -yse, -isation
+ -eable                | -able
+ 10:00, 10 AM/PM       | 10 am/pm, 10AM/PM
+ ceasefire             | cease-fire
+ comprise              | comprised of
+ e-mail                | email
+ front page            | frontpage
+ Hafnia Times          | The Hafnia Times
+ invitation            | invite
+ Islamic State, IS(IS) | ISIL, Daesh
+ Koran                 | Quran, Qu’ran
+ learn/-ed/-t          | /-ed/-ed, /-t/-t
+ NATO                  | Nato
+ no one                | no-one
+ revise                | revize
+ sex worker            | prostitute, hooker
+ use                   | usage
+
+Danish Stuff
+------------
+ Right       | Wrong
+:------------|:-----
+ LEGO        | Lego
+ LEGO bricks | LEGOs
 
 ### Male and Female ###
 
