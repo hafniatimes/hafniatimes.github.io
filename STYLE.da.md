@@ -19,13 +19,16 @@ Undlad generelt at gengive **spinbegreber** såsom
 
 * -epidemier
 * cafépenge
+* effektivisere/-ing
 * flygtningestrøm
 * fredsbevarende
 * ghetto
+* lempe/lse
 * nærområde
 * omprioriteringsbidrag
 * servicetjek
 * skattestop
+* skattetryk
 * smagsdommer
 * spareøevlse
 * statscenter
