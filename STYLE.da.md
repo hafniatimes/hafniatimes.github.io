@@ -24,6 +24,7 @@ Undlad generelt at gengive **spinbegreber** såsom
 * fredsbevarende
 * ghetto
 * lempe/lse
+* (-)løft
 * nærområde
 * omprioriteringsbidrag
 * servicetjek

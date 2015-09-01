@@ -101,6 +101,7 @@ When the gender is unknown, use the pronoun “they”—not “s/he”.
 Don’t use these words in general:
 
 * problematic
+* racial profiling
 * tragedy
 
 #### Specious Geography ####
@@ -306,15 +307,16 @@ Tricky Spellings
 * accommodation
 * artis**a**nal
 * boycott
+* cemet**e**ry
 * commission
 * committee
 * competitive
 * embarrass
 * graffiti
-* harass
+* ha**r**ass
 * millennium
 * publicly
-* referral, -ed, -er
+* refe**rr**al, -ed, -er
 * resuscitate
 
 Typo-prone Words
