@@ -310,7 +310,7 @@ Med udsigt til en mobil genvej til at indlæse artikler hurtigere og sikrere ved
 
 Nogle vil undersøge muligheden for at gå appvejen, som Facebook med <i>Paper</i> og Apple med <i>News</i> prøver at presse medierne til. Men Internettet forsvinder ikke foreløbigt, og vi kommer ikke til at løbe fra, at mange finder deres læsning via sociale netværk med links til artiklerne på nettet---i stedet for en digital morgenavis.
 
-Det er også værd at spørge, om betalende abonnenter skal døje med samme reklamer, tredjepartsindhold og tracking online, som forbipasserende gratislæsere. Hvilken læseoplevelse har man krav på som læser? Og hvor meget kan medierne slippe afsted med, før tålmodigheden og tilliden er væk?
+Det er også værd at spørge, om betalende abonnenter skal døje med samme reklamer, tredjepartsindhold og tracking online som forbipasserende gratislæsere. Hvilken læseoplevelse har man krav på som læser? Og hvor meget kan medierne slippe afsted med, før tålmodigheden og tilliden er væk?
 
 ### Relateret Læsning ###
 
