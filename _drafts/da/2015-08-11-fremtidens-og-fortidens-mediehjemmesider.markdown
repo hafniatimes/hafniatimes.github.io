@@ -263,8 +263,8 @@ Fremtiden er ikke hestevogne med forbrændingsmotor.
 
 Ved brug af [Lightbeam][] til Firefox kan man se hvor mange tredjepartssider, du indlæser ved at besøge en side. Hvis vi indlæser vores artikler igen:
 
- Medie                   | Trackere
-:------------------------|---------
+ Medie                   | TPS
+:------------------------|----
  [DR][dr-json][^json]    | 14
  [TV 2][tv2-json]        | 35
  [Politiken][pol-json]   | 30
@@ -275,14 +275,14 @@ Ved brug af [Lightbeam][] til Firefox kan man se hvor mange tredjepartssider, du
 
 [^json]: Du kan se den fulde liste med resultater ved at klikke på linksene i tabellen.
 
-Her er et eksempel på tredjepartssiderne i Politikens artikel:
+Her er et eksempel på tredjepartssiderne **(TPS)** i Politikens artikel:
 
 ![Visualisering af tredjepartsindlæsninger via Politikens artikel][tv2-viz]
 
 Sidst, men ikke mindst:
 
- Medie        | Trackere
-:-------------|---------
+ Medie        | TPS
+:-------------|----
  Hafnia Times | 2
 
 Hvis du ikke er glad for at blive sporet, kan jeg anbefale følgende browserprogrammer, i prioriteret rækkefølge:
