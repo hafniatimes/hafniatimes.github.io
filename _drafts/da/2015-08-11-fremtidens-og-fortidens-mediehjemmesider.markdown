@@ -65,7 +65,7 @@ Der er målt på tre parametre i testen:
 ### DR ###
 
  Sektion         | Requests | Data   | Load-tid
-:----------------|---------:|-------:|---------:
+:----------------|----------|--------|---------
  [Forside][dr-f] |       78 | 1,8 MB | 19,74 s
  [Artikel][dr-a] |      112 | 2,4 MB | 25,67 s
 
@@ -78,14 +78,14 @@ Dermed ikke sagt at medier er undskyldt for at anvende reklamer og tracking-scri
 ### TV 2 ###
 
  Sektion          | Requests | Data   | Load-tid
-:-----------------|---------:|-------:|---------:
+:-----------------|----------|--------|---------
  [Forside][tv2-f] |      312 | 4,6 MB | 52,83 s
  [Artikel][tv2-a] |      178 | 3,0 MB | 15,49 s
 
 ### Politiken ###
 
  Sektion          | Requests | Data   | Load-tid
-:-----------------|---------:|-------:|---------:
+:-----------------|----------|--------|---------
  [Forside][pol-f] |      554 | 6,3 MB | 50,30 s
  [Artikel][pol-a] |      421 | 4,9 MB | 32,06 s
 
@@ -94,7 +94,7 @@ Testen blev stoppet efter 7,5 minutter, da siderne fortsatte med at sende reques
 ### Berlingske ###
 
  Sektion        | Requests | Data   | Load-tid
-:---------------|---------:|-------:|---------:
+:---------------|----------|--------|---------
  [Forside][b-f] |      386 | 4,0 MB | 48,86 s
  [Artikel][b-a] |      181 | 2,0 MB | 23,40 s
 
@@ -105,14 +105,14 @@ Forsidetesten blev stoppet efter 7,5 minutter af samme grund som Politiken-teste
 ### Jyllands-Posten ###
 
  Sektion         | Requests | Data   | Load-tid
-:----------------|---------:|-------:|---------:
+:----------------|----------|--------|---------
  [Forside][jp-f] |      172 | 2,7 MB | 30,65 s
  [Artikel][jp-a] |      111 | 1,1 MB | 15,19 s
 
 ### Børsen ###
 
  Sektion          | Requests | Data   | Load-tid
-:-----------------|---------:|-------:|---------:
+:-----------------|----------|--------|---------
  [Forside][boe-f] |      313 | 2,5 MB | 30,01 s
  [Artikel][boe-a] |      152 | 2,5 MB | 24,80 s
 
@@ -121,7 +121,7 @@ Forsidetesten blev stoppet efter 7,5 minutter af samme grund som Politiken-teste
 ### Information ###
 
  Sektion          | Requests | Data   | Load-tid
-:-----------------|---------:|-------:|---------:
+:-----------------|----------|--------|---------
  [Forside][inf-f] |      207 | 5,2 MB | 43,74 s
  [Artikel][inf-a] |      154 | 2,9 MB | 24,03 s
 
@@ -130,7 +130,7 @@ Forsidetesten blev stoppet efter 7,5 minutter af samme grund som Politiken-teste
 Ret skal være ret; tid til selvransagelse.
 
  Sektion          | Requests | Data       | Load-tid
-:-----------------|---------:|-----------:|---------:
+:-----------------|----------|------------|---------
  [Forside][ht-f]  |       10 |  57 **k**B | 1,02 s
  [Artikel][ht-a]  |       16 | 264 **k**B | 2,71 s
 
@@ -145,7 +145,7 @@ Bemærk, at der er tale om **kB**; det vil sige, at forsiden og artiklen fylder 
 #### Forsider ####
 
  Medie        | Requests | Data   | Load-tid
-:-------------|---------:|-------:|---------:
+:-------------|----------|--------|---------
  DR           |       78 | 1,8 MB | 19,74 s
  TV 2         |      312 | 4,6 MB | 52,83 s
  Politiken    |      554 | 6,3 MB | 50,30 s
@@ -154,14 +154,14 @@ Bemærk, at der er tale om **kB**; det vil sige, at forsiden og artiklen fylder 
  Børsen       |      313 | 2,5 MB | 30,01 s
  Information  |      207 | 5,2 MB | 43,74 s
 
- Medie        | Requests | Data      | Load-tid
-:-------------|---------:|----------:|---------:
- Hafnia Times |       10 | 57 **k**B | 1,02 s
+ Medie        | Requests | Data       | Load-tid
+:-------------|----------|------------|---------
+ Hafnia Times |       10 | 57 **k**B  | 1,02 s
 
 #### Artikler ####
 
  Medie        | Requests | Data   | Load-tid
-:-------------|---------:|-------:|---------:
+:-------------|----------|--------|---------
  DR           |      112 | 2,4 MB | 25,67 s
  TV 2         |      178 | 3,0 MB | 15,49 s
  Politiken    |      421 | 4,9 MB | 32,06 s
@@ -171,13 +171,13 @@ Bemærk, at der er tale om **kB**; det vil sige, at forsiden og artiklen fylder 
  Information  |      154 | 2,9 MB | 24,03 s
 
  Medie        | Requests | Data       | Load-tid
-:-------------|---------:|-----------:|---------:
+:-------------|----------|------------|---------
  Hafnia Times |       16 | 264 **k**B | 2,71 s
 
 #### Forskel Mellem Forside og Artikel ####
 
  Medie        | Requests | Data | Load-tid
-:-------------|---------:|-----:|---------:
+:-------------|----------|------|---------
  DR           |      70% |  80% |      80%
  TV 2         |     180% | 150% |     340%
  Politiken    |     130% | 130% |     160%
@@ -187,7 +187,7 @@ Bemærk, at der er tale om **kB**; det vil sige, at forsiden og artiklen fylder 
  Information  |     130% | 180% |     180%
 
  Medie        | Requests | Data | Load-tid
-:-------------|---------:|-----:|---------:
+:-------------|----------|------|---------
  Hafnia Times |     160% |  20% |     380%
 
 Man kan eventuelt selv prøve at slå wifi fra på sin mobiltelefon og selv tilgå siderne med 3G-dækning for at se, hvordan oplevelsen er for mobile brugere. 4G/LTE er for hurtigt og EDGE for langsomt til at teste, men derfor kan man selvfølgelig alligevel prøve.
@@ -263,8 +263,8 @@ Fremtiden er ikke hestevogne med forbrændingsmotor.
 
 Ved brug af [Lightbeam][] til Firefox kan man se hvor mange tredjepartssider, du indlæser ved at besøge en side. Hvis vi indlæser vores artikler igen:
 
- Medie                   | TPS
-:------------------------|----:
+ Medie                   | Trackere
+:------------------------|---------
  [DR][dr-json][^json]    | 14
  [TV 2][tv2-json]        | 35
  [Politiken][pol-json]   | 30
@@ -275,14 +275,14 @@ Ved brug af [Lightbeam][] til Firefox kan man se hvor mange tredjepartssider, du
 
 [^json]: Du kan se den fulde liste med resultater ved at klikke på linksene i tabellen.
 
-Her er et eksempel på tredjepartssiderne **(TPS)** i Politikens artikel:
+Her er et eksempel på tredjepartssiderne i Politikens artikel:
 
 ![Visualisering af tredjepartsindlæsninger via Politikens artikel][tv2-viz]
 
 Sidst, men ikke mindst:
 
- Medie        | TPS
-:-------------|----:
+ Medie        | Trackere
+:-------------|---------
  Hafnia Times | 2
 
 Hvis du ikke er glad for at blive sporet, kan jeg anbefale følgende browserprogrammer, i prioriteret rækkefølge:
