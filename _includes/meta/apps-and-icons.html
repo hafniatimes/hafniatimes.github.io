@@ -5,17 +5,44 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
 {% endif %}
 
+{% if site.enable_web_app % == true %}
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="mobile-web-app-capable" content="yes" />
+    <!-- Load external links in web app -->
+    <script type="text/javascript" charset="utf-8">
+        // h/t https://gist.github.com/kylebarrow/1042026
+        (function(document, navigator, standalone) {
+            // Prevents links from apps from oppening in Mobile Safari.
+            // This JavaScript must be the first script in your <head>
+            if ((standalone in navigator) && navigator[standalone]) {
+                var curnode, location=document.location, stop=/^(a|html)$/i;
+                document.addEventListener('click', function(e) {
+                    curnode=e.target;
+                    while (!(stop).test(curnode.nodeName)) {
+                        curnode=curnode.parentNode;
+                    }
+                    // Condidions to do this only on links to your own app;
+                    // if you want all links, use if("href" in curnode) instead.
+                    if("href" in curnode && (curnode.href.indexOf("http") || ~curnode.href.indexOf(location.host))) {
+                        e.preventDefault();
+                        location.href = curnode.href;
+                    }
+                }, false);
+            }
+        })(document,window.navigator, "standalone");
+    </script>
 
-{% comment %} Uses <title> if unspecified
+{% comment %}<!-- Uses <title> if unspecified -->
     <meta name="apple-mobile-web-app-title" content="{( site.name }}">
 {% endcomment %}
+{% endif %}
 
     <!-- Icons -->
     <link rel="shortcut icon" sizes="16x16" href="/static/icons/favicon.ico" />
     <link rel="shortcut icon" sizes="192x192" href="/static/icons/196x196.png" />
-{% for size in site.apple_icon_sizes %}
-    <link rel="apple-touch-icon" sizes="{{ size }}"
-        href="/static/icons/{{ size }}.png" />
-{% endfor %}
+{% if site.enable_web_app % == true %}
+    {% for size in site.apple_icon_sizes %}
+        <link rel="apple-touch-icon" sizes="{{ size }}"
+            href="/static/icons/{{ size }}.png" />
+    {% endfor %}
+{% endif %}
