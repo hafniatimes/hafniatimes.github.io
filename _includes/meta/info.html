@@ -1,0 +1,30 @@
+    {% if page.author %}
+        {% if site.data.people[page.author].twitter %}
+            <meta name="twitter:creator" content="@{{ site.data.people[page.author].twitter }}" />
+        {% else %}
+            <meta name="twitter:creator" content="@HafniaTimes" />
+        {% endif %}
+    {% else %}
+        <meta name="twitter:creator" content="@pessimism" />
+    {% endif %}
+        <meta name="twitter:site" content="@HafniaTimes" />
+        <meta property="og:title" content="{{ page_title }}" />
+    {% if page.excerpt %}
+        <meta property="og:description" content="{{ page.excerpt | markdownify | strip_html }}" />
+    {% else %}
+        <meta property="og:description" content="{{ t.frontpage[page_language].description }}" />
+    {% endif %}
+    {% if page.url %}
+        <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    {% endif %}
+    {% if page.section != "frontpage" %}
+        <meta property="og:type" content="article" />
+    {% endif %}
+    {% if page.image %}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta property="og:image" content="{{ site.url }}{{ base_relative }}assets/{{ page.slug }}/image.png" />
+    {% else %}
+        <meta name="twitter:card" content="summary" />
+        <meta property="og:image" content="{{ site.url }}/identicon.png" />
+    {% endif %}
+        <meta property="og:locale" content="{{ page_language }}" />

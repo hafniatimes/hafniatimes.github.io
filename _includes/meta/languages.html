@@ -1,0 +1,47 @@
+    {% for l in site.languages %}
+        <link
+            href="{% if l.value != "en" %}/{{ l.value }}{% endif %}/feed.atom"
+            rel="alternate"
+            title="{{ site.translations._feed[l.value] }}"
+            type="application/atom+xml"
+        />
+        <link
+            href="{% if l.value != "en" %}/{{ l.value }}{% endif %}/links.atom"
+            rel="alternate"
+            title="{{ site.translations._links[l.value] }}"
+            type="application/atom+xml"
+        />
+    {% endfor %}
+
+{% comment %} hreflang and og:locale:alternate {% endcomment %}
+{% comment %} Frontpage {% endcomment %}
+    {% if page.section == "frontpage" %}
+        {% for l in site.languages %}{% unless l.value == page_language %}
+            <link
+                rel="alternate"
+                hreflang="{{ l.value }}"
+                href="/{% if l.value != "en" %}{{ l.value }}/{% endif %}"
+            />
+            <meta property="og:locale:alternate" content="{{ l.value }}" />
+        {% endunless %}{% endfor %}
+    {% endif %}
+
+{% comment %} Pages {% endcomment %}
+    {% if page.trans %}
+        <link
+            rel="alternate"
+            hreflang="{% if page_language == "en" %}da{% else %}en{% endif %}"
+            href="{{ page.trans }}"
+        />
+        <meta property="og:locale:alternate" content="{% if page_language == "en" %}da{% else %}en{% endif %}" />
+    {% endif %}
+    {% comment %}Assumes array format, commented out for now
+        {% for t in page.trans %}
+            <link
+                rel="alternate"
+                hreflang="{% if page_language == "da" %}en{% else %}en{% endif %}"
+                href="{{ page.trans }}"
+            />
+            <meta property="og:locale:alternate" content="{{ page.lang }}" />
+        {% endfor %}
+    {% endcomment %}

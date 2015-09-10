@@ -25,6 +25,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
         <meta http-equiv="X-Frame-Options" content="deny" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+
         <title>{{ page_title }}</title>
     {% if page.excerpt %}
         <meta name="description" content="{{ page.excerpt | markdownify | strip_html }}" />
@@ -42,90 +43,10 @@
         <script src="/static/js/html5shiv.min.js?v=3.7.3-pre"></script>
         <script src="/static/js/html5shiv-printshiv.min.js?v=3.7.3-pre"></script>
     <![endif]-->
-        <link rel="shortcut icon" href="/favicon.ico" />
-        <link rel="icon" sizes="192x192" href="/favicon.large.png" />
-    {% if site.status_bar_color != false %}
-        <meta name="theme-color" content="{{ site.status_bar-color }}" />
-    {% endif %}
 
-    {% for l in site.languages %}
-        <link
-            href="{% if l.value != "en" %}/{{ l.value }}{% endif %}/feed.atom"
-            rel="alternate"
-            title="{{ site.translations._feed[l.value] }}"
-            type="application/atom+xml"
-        />
-        <link
-            href="{% if l.value != "en" %}/{{ l.value }}{% endif %}/links.atom"
-            rel="alternate"
-            title="{{ site.translations._links[l.value] }}"
-            type="application/atom+xml"
-        />
-    {% endfor %}
-
-{% comment %} hreflang and og:locale:alternate {% endcomment %}
-{% comment %} Frontpage {% endcomment %}
-    {% if page.section == "frontpage" %}
-        {% for l in site.languages %}{% unless l.value == page_language %}
-            <link
-                rel="alternate"
-                hreflang="{{ l.value }}"
-                href="/{% if l.value != "en" %}{{ l.value }}/{% endif %}"
-            />
-            <meta property="og:locale:alternate" content="{{ l.value }}" />
-        {% endunless %}{% endfor %}
-    {% endif %}
-
-{% comment %} Pages {% endcomment %}
-    {% if page.trans %}
-        <link
-            rel="alternate"
-            hreflang="{% if page_language == "en" %}da{% else %}en{% endif %}"
-            href="{{ page.trans }}"
-        />
-        <meta property="og:locale:alternate" content="{% if page_language == "en" %}da{% else %}en{% endif %}" />
-    {% endif %}
-    {% comment %}Assumes array format, commented out for now
-        {% for t in page.trans %}
-            <link
-                rel="alternate"
-                hreflang="{% if page_language == "da" %}en{% else %}en{% endif %}"
-                href="{{ page.trans }}"
-            />
-            <meta property="og:locale:alternate" content="{{ page.lang }}" />
-        {% endfor %}
-    {% endcomment %}
-
-    {% if page.author %}
-        {% if site.data.people[page.author].twitter %}
-            <meta name="twitter:creator" content="@{{ site.data.people[page.author].twitter }}" />
-        {% else %}
-            <meta name="twitter:creator" content="@HafniaTimes" />
-        {% endif %}
-    {% else %}
-        <meta name="twitter:creator" content="@pessimism" />
-    {% endif %}
-        <meta name="twitter:site" content="@HafniaTimes" />
-        <meta property="og:title" content="{{ page_title }}" />
-    {% if page.excerpt %}
-        <meta property="og:description" content="{{ page.excerpt | markdownify | strip_html }}" />
-    {% else %}
-        <meta property="og:description" content="{{ t.frontpage[page_language].description }}" />
-    {% endif %}
-    {% if page.url %}
-        <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-    {% endif %}
-    {% if page.section != "frontpage" %}
-        <meta property="og:type" content="article" />
-    {% endif %}
-    {% if page.image %}
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta property="og:image" content="{{ site.url }}{{ base_relative }}assets/{{ page.slug }}/image.png" />
-    {% else %}
-        <meta name="twitter:card" content="summary" />
-        <meta property="og:image" content="{{ site.url }}/identicon.png" />
-    {% endif %}
-        <meta property="og:locale" content="{{ page_language }}" />
+    {% include meta/apps-and-icons.html %}
+    {% include meta/languages.html %}
+    {% include meta/info.html %}
     </head>
     {% if page.section == "frontpage" %}<body id="frontpage">{% else %}<body>{% endif %}
         <div id="container">
