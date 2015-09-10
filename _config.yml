@@ -9,9 +9,13 @@ timezone: Europe/Copenhagen
 # Settings # # # # # # # # # # #
 ga:               "UA-7184031-12"
 github_hosted:    true
+
+# Visual Config # # # # #
 show_footer:      true
 status_bar_color: false
- # # # # # # # # # # # # # # # #
+apple_icon_sizes:
+    - "152x152"
+# # # # # # # # # # # # #
 
 # Posts # # # # # #
 html5_images: true
