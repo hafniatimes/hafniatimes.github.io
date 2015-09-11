@@ -1,6 +1,6 @@
 {
   "name": "style",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Linting packages for webdev workflow.",
   "keywords": [
     "linting"
@@ -9,10 +9,7 @@
     "name": "Niclas Darville",
     "url": "https://ndarville.com"
   },
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/ndarville/style.git"
-  },
+  "repository": "ndarville/style",
   "devDependencies": {
     "csslint":    "~0.10.0",
     "htmlhint":   "~0.9.6",
