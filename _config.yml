@@ -12,7 +12,8 @@ github_hosted:    true
 
 # Visual Config # # # # #
 show_footer:      true
-enable_web_app:   false
+web_app_enabled:  false
+web_app_title:    ""
 status_bar_color: false
 apple_icon_sizes:
     - "76x76"

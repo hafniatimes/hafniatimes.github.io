@@ -12,7 +12,7 @@ To Do
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
 {% endif %}
 
-{% if site.enable_web_app % == true %}
+{% if site.web_app_enabled % == true %}
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="mobile-web-app-capable" content="yes" />
     <!-- Load external links in web app -->
@@ -39,9 +39,10 @@ To Do
         })(document,window.navigator, "standalone");
     </script>
 
-{% comment %}<!-- Uses <title> if unspecified -->
+{% if site.web_app_title != "" %}
+    <!-- Uses <title> if unspecified -->
     <meta name="apple-mobile-web-app-title" content="{( site.name }}" />
-{% endcomment %}
+{% endif %}
 {% endif %}
 
     <!-- Icons -->
