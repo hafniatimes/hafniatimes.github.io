@@ -15,7 +15,10 @@ show_footer:      true
 enable_web_app:   false
 status_bar_color: false
 apple_icon_sizes:
+    - "76x76"
+    - "120x120"
     - "152x152"
+    - "180x180"
 # # # # # # # # # # # # #
 
 # Posts # # # # # #

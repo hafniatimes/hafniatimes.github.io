@@ -1,3 +1,10 @@
+{% comment %}
+To Do
+=====
+* Få ikon til at virke på 5S
+* Find script, der ikke åbner sider eksternt
+{% endcomment %}
+
 {% if site.status_bar_color != false %}
     <meta name="theme-color" content="{{ site.status_bar-color }}" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -41,6 +48,7 @@
     <link rel="shortcut icon" sizes="16x16" href="/static/icons/favicon.ico" />
     <link rel="shortcut icon" sizes="192x192" href="/static/icons/196x196.png" />
 {% if site.enable_web_app % == true %}
+    <!-- Apple icon sizes: http://tinyurl.com/apple-icon-sizes -->
     {% for size in site.apple_icon_sizes %}
         <link rel="apple-touch-icon" sizes="{{ size }}"
             href="/static/icons/{{ size }}.png" />
