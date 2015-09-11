@@ -1,17 +1,18 @@
 name: Hafnia Times
 url: https://hafniatimes.com
 shorturl: http://hafnia.co
-repo:  https://github.com/hafniatimes/hafniatimes.github.io
-dyslexia_support: true
+repo: https://github.com/hafniatimes/hafniatimes.github.io
 data_source: data
 timezone: Europe/Copenhagen
 
 # Settings # # # # # # # # # # #
+dyslexia_support: true
 ga:               "UA-7184031-12"
 github_hosted:    true
+show_footer:      true
+ # # # # # # # # # # # # # # # #
 
 # Visual Config # # # # #
-show_footer:      true
 web_app_enabled:  false
 web_app_title:    ""
 status_bar_color: false
