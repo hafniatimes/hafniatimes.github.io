@@ -75,8 +75,10 @@
             m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
             })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-            ga('create', '{{ site.ga }}', 'hafniatimes.com');
-            ga('send', 'pageview');
+            ga("create", "{{ site.ga }}", "hafniatimes.com");
+            ga("set", "anonymizeIp", true);
+            ga("set", "forceSSL", true);
+            ga("send", "pageview");
         </script>
     {% endunless %}{% endif %}
     {% if site.html5_images != true and page.section != "frontpage" %}
