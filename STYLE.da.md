@@ -341,6 +341,7 @@ Retsstavning
 ### Drilleord ###
 
 * boykot
+* grundl**æ**ggende
 * omstændelig
 * privilegium
 * krigsførelse

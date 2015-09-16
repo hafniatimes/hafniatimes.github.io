@@ -96,6 +96,8 @@ Danish Stuff
 
 When the gender is unknown, use the pronoun “they”—not “s/he”.
 
+Do not use “Mrs” and “missus”.
+
 ### Donts ###
 
 Don’t use these words in general:
