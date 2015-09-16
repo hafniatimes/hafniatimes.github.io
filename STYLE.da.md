@@ -70,7 +70,8 @@ Undlad **ladede udtryk**, hvis anvendelse ikke begrundes i artiklen:
 
 ### Typiske Forvekslinger ###
 
-* endog versus enddog
+* endog vs enddog
+* nødret vs nødværge vs selvtægt
 
 Sager og Kommissioner
 ---------------------
