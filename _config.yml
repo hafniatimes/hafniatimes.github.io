@@ -41,6 +41,7 @@ redcarpet:
 
 gems:
 #   - jekyll-compose
+    - jekyll-sitemap
     - jekyll-redirect-from
 
 defaults:
