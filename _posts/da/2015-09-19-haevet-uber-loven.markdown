@@ -171,11 +171,7 @@ Der vil givetvis blive debatteret Uber og andre tjenester i Danmark før eller s
 >>
 >> Politikredsene har i det daglige arbejde opmærksomheden henledt på problemet. Der er ikke et talmæssigt belæg for at udtale sig om udviklingen på området, idet politiet ikke foretager en særskilt registrering af lovovertrædelser begået i forbindelse med anvendelse af "pirattaxaer".
 >>
->> Københavns Politi har specifikt oplyst, at man er opmærksom
-på problemet. I praksis kan det af bevismæssige grunde være
-vanskeligt at gennemføre sagerne til fældende dom, idet ingen
-af de personer, der befinder sig i "pirattaxien", normalt
-ønsker at medvirke til en opklaring af sagen.
+>> Københavns Politi har specifikt oplyst, at man er opmærksom på problemet. I praksis kan det af bevismæssige grunde være vanskeligt at gennemføre sagerne til fældende dom, idet ingen af de personer, der befinder sig i "pirattaxien", normalt ønsker at medvirke til en opklaring af sagen.
 >
 > Der kan i øvrigt henvises til Justitsministeriets besvarelse af 30. april 2007 af spørgsmål nr. S 3469 fra medlem af Folketinget Kim Christiansen (DF).
 
