@@ -3,6 +3,7 @@
 # Go to root
 cd "$(git rev-parse --git-dir)" && cd ..
 
+bundle
 bundle exec jekyll build --trace
 
 ## bundle audit
