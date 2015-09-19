@@ -66,6 +66,7 @@ Der vil givetvis blive debatteret Uber og andre tjenester i Danmark før eller s
 > Det er indledningsvis i § 1 i Lov om taxikørsel mv. af 24. juni 1999 nævnt, at den, der udfører erhvervsmæssig personbefordring i form af taxikørsel, skal have tilladelse til det.
 >
 > Der er med hjemmel i taxiloven i bekendtgørelse nr. 220 af 31. marts 2007 om taxikørsel mv. i § 1 fastsat en definition af erhvervsmæssig---og dermed tilladelsespligtig---personbefordring i form af taxikørsel.
+>
 > Hermed forstås kørsel i et dansk indregistreret motorkøretøj, der er indrettet til højst 9 personer, inkl. føreren.
 >
 > Der skal være tale om personbefordring med personer uden en nærmere tilknytning til den person, virksomhed eller sammenslutning, der udfører eller lader kørslen udføre. Kørslen skal udføres mod vederlag, som går ud over godtgørelse for de direkte omkostninger forbundet med kørslen, f.eks. udgifter til benzin. Endelig skal den udgøre den pågældende persons, virksomheds eller sammenslutnings primære formål.
