@@ -18,7 +18,9 @@ Onsdag den 16. september [demonstrerede foreningen Taxiførere i Danmark (TiD)p�
 <blockquote class="twitter-tweet" lang="en">
     <p lang="da" dir="ltr">Demo fra taxachaufførerne <a href="http://t.co/Da6xBsdnba">pic.twitter.com/Da6xBsdnba</a></p>&mdash; Yildiz Akdogan (@YildizAkdogan) <a href="https://twitter.com/YildizAkdogan/status/644090019947356160">September 16, 2015</a>
 </blockquote>
-<noscript>[![Video af ...s demonstration på Christiansborg Slotsplads][video-img]][img-url]</noscript>
+<noscript>
+    <a href="https://twitter.com/YildizAkdogan/status/644090019947356160" title="Link til tweet"><img src="/da/assets/haevet-uber-loven/demo.png" alt="Video af TiDs demonstration på Christiansborg Slotsplads" /></a>
+</noscript>
 
 Der vil givetvis blive debatteret Uber og andre tjenester i Danmark før eller siden. I dén forbindelse ser vi, hvad ministre gennem tiden har svaret desangående.
 
@@ -225,8 +227,6 @@ Spørgsmålet er nu, om myndighederne har tænkt sig at håndhæve loven---eller
 
 [taxiloven]: https://www.retsinformation.dk/forms/r0710.aspx?id=143491
 [article]: http://finans.dk/live/politik/ECE8023635/200-vrede-taxachauff%C3%B8rer-p%C3%A5-Christiansborg/
-[video-img]: /da/assets/haevet-uber-loven/demo.png
-[video-url]: https://twitter.com/YildizAkdogan/status/644090019947356160
 
 [q1]: http://www.ft.dk/samling/20042/spoergsmaal/S2203/index.htm
 [q2]: http://www.ft.dk/samling/20061/spoergsmaal/S3493/index.htm
