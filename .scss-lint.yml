@@ -20,6 +20,8 @@ linters:
     enabled: true
   DeclarationOrder:
     enabled: false  # Subjective
+  DisableLinterReason:
+    enabled: true
   DuplicateProperty:
     enabled: false  # True depending on browser support
   ElsePlacement:
@@ -163,6 +165,9 @@ linters:
     enabled: true
   SpaceAfterVariableName:
     enabled: true
+  SpaceAroundOperator:
+    enabled: true
+    style: one_space
   SpaceBeforeBrace:
     enabled: true
     allow_single_line_padding: true
@@ -177,6 +182,8 @@ linters:
     enabled: true
   TrailingZero:
     enabled: true
+  TransitionAll:
+    enabeld: false  # Tentative
   UnnecessaryMantissa:
     enabled: true
   UnnecessaryParentReference:
