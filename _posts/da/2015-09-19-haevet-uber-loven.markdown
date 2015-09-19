@@ -35,13 +35,13 @@ Der vil givetvis blive debatteret Uber og andre tjenester i Danmark før eller s
 >
 > ##### Begrundelse #####
 >
-> Vejle Amts Folkeblad bragte mandag den 13. juni 2005 to artikler omkring problemer med pirattaxi-kørsel i Vejle, og at indtil flere kunder også er blevet overfaldet af chaufførerne. Ligeledes er spørgeren blevet kontaktet af en lokal taxavognmand, som beskriver omfattende sort taxakørsel i forbindelse med Jelling Musikfestival. Dansk Folkeparti er stærkt bekymret for denne udvikling, hvor primært chaufførere med mellemøstlig og arabisk baggrund nu i stigende omfang begynder at koordinere sort taxakørsel uden tilladelser og dermed underbyder og undergraver den kommunale styring af taxabevillinger.
+> Vejle Amts Folkeblad bragte mandag den 13. juni 2005 to artikler omkring problemer med pirattaxi-kørsel i Vejle, og at indtil flere kunder også er blevet overfaldet af chaufførerne. Ligeledes er spørgeren blevet kontaktet af en lokal taxavognmand, som beskriver omfattende sort taxakørsel i forbindelse med Jelling Musikfestival. <mark>Dansk Folkeparti er stærkt bekymret for denne udvikling, hvor primært chaufførere med mellemøstlig og arabisk baggrund</mark> nu i stigende omfang begynder at koordinere sort taxakørsel uden tilladelser og dermed underbyder og undergraver den kommunale styring af taxabevillinger.
 >
 > #### Svar fra Kristian Jensen (V), skatteminister ####
 >
 > Den omtalte avisartikel drejer sig om taxikørsel i private biler. Kontrollen med overholdelse af reglerne om taxikørsel foretages af færdselsstyrelsen og politiet.
 >
-> Indtægter ved taxikørsel i private biler er uanset de bevillingsmæssige forhold skattepligtige. Kontrol af de skattemæssige forhold foretages dels som led i det almindelige kontrolarbejde, dels i forbindelsem ed regeringens fairplay-kampagner, hvor vi arbejder tæt sammen med politiet om bl.a. ulovlig taxikørsel.
+> <mark>Indtægter ved taxikørsel i private biler er uanset de bevillingsmæssige forhold skattepligtige.</mark> Kontrol af de skattemæssige forhold foretages dels som led i det almindelige kontrolarbejde, dels i forbindelsem ed regeringens fairplay-kampagner, hvor vi arbejder tæt sammen med politiet om bl.a. ulovlig taxikørsel.
 
 * * * *
 
@@ -59,9 +59,9 @@ Der vil givetvis blive debatteret Uber og andre tjenester i Danmark før eller s
 >
 > #### Svar fra Flemming Hansen (K), transport- og energiminister ####
 >
-> Der findes ikke i taxiloven nogen juridisk definition på begrebet pirattaxier.
+> <mark>Der findes ikke i taxiloven nogen juridisk definition på begrebet pirattaxier.</mark>
 >
-> Der er dog omvendt en række bestemmelser, der er med til at definere, hvornår der er tale om taxikørsel.
+> <mark>Der er dog omvendt en række bestemmelser, der er med til at definere, hvornår der er tale om taxikørsel.</mark>
 >
 > Det er indledningsvis i § 1 i Lov om taxikørsel mv. af 24. juni 1999 nævnt, at den, der udfører erhvervsmæssig personbefordring i form af taxikørsel, skal have tilladelse til det.
 >
@@ -119,7 +119,7 @@ Der vil givetvis blive debatteret Uber og andre tjenester i Danmark før eller s
 >>
 >> Til brug for besvarelsen har Rigspolitiet indhentet udtalelser fra Københavns Politi, Fyns Politi, Nordjyllands Politi og Østjyllands Politi. Det fremgår af disse udtalelser, at der ikke i politikredsene foretages særskilt registrering af straffelovsovertrædelser begået i forbindelse med anvendelse af "pirattaxa".
 >>
->> Københavns Politi har supplerende oplyst, at man for tiden efterforsker 3 sager om voldtægt og voldtægtsforsøg i relation til "pirattaxaer" begået inden for de sidste 12 måneder.
+>> <mark>Københavns Politi har supplerende oplyst, at man for tiden efterforsker 3 sager om voldtægt og voldtægtsforsøg i relation til "pirattaxaer" begået inden for de sidste 12 måneder.</mark>
 >>
 >> Fyns Politi har oplyst, at man i 2007 har afgjort en enkelt sag om kørsel med "pirattaxa", og at der herudover i 2006 og 2007 er registreret 4 henvendelser fra borgere om "pirattaxaer". Disse sager har imidlertid ikke kunnet efterforskes nærmere. I ingen af tilfældene var der tale om overtrædelser af straffeloven.
 >>
@@ -181,7 +181,7 @@ Der vil givetvis blive debatteret Uber og andre tjenester i Danmark før eller s
 >
 > #### Samrådsspørgsmål fra Transportudvalget ####
 >
-> I forbindelse med trængselskommissionens arbejde blev der foreslået en række tiltag for at reducere trængslen. Blandt tiltagene var øget samkørsel, f.eks. ved at etablere opsamlingsparkeringspladser, hvor folk kan mødes og køre videre sammen og på den måde udnytte hver enkelt bil bedre. Der er også etableret forskellige andre typer delebilsordninger, som også kan medvirke til at mindske ressourceforbruget og antallet af biler på vejene. Den netop lancerede app Uber bevæger sig i et vist gråzoneområde mellem pirattaxa og de ovennævnte samkørselsordninger. Ministeren bedes på den baggrund redegøre for og indgå i en drøftelse om, hvorvidt vi har den fornødne lovgivning til klart at skelne mellem lovlige taxaer og delebilsordninger på den ene side og pirattaxaer på den anden.
+> I forbindelse med trængselskommissionens arbejde blev der foreslået en række tiltag for at reducere trængslen. Blandt tiltagene var øget samkørsel, f.eks. ved at etablere opsamlingsparkeringspladser, hvor folk kan mødes og køre videre sammen og på den måde udnytte hver enkelt bil bedre. Der er også etableret forskellige andre typer delebilsordninger, som også kan medvirke til at mindske ressourceforbruget og antallet af biler på vejene. <mark>Den netop lancerede app Uber</mark> bevæger sig i et vist gråzoneområde mellem pirattaxa og de ovennævnte samkørselsordninger. Ministeren bedes på den baggrund redegøre for og indgå i en drøftelse om, hvorvidt vi har den fornødne lovgivning til klart at skelne mellem lovlige taxaer og delebilsordninger på den ene side og pirattaxaer på den anden.
 
 Der foreligger pt. intet svar på udvalgsspørgsmålet.
 
@@ -221,7 +221,7 @@ Spørgsmålet er nu, om myndighederne har tænkt sig at håndhæve loven---eller
 
     En anden kommentar, der springer i øjnene, er svaret til Finans.dk i [deres artiklen][article], hvor Uber skriver:
 
-    > Dansk lovgivning åbner for, at folk kan dække udgifterne ved at eje en bil ved at tilbyde køreture til andre. Størstedelen af chaufførerne profiterer ikke på det.
+    > Dansk lovgivning åbner for, at folk kan dække udgifterne ved at eje en bil ved at tilbyde køreture til andre. <mark>Størstedelen af chaufførerne profiterer ikke på det.</mark>
 
 
 [taxiloven]: https://www.retsinformation.dk/forms/r0710.aspx?id=143491
