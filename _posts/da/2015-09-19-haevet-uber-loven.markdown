@@ -153,7 +153,6 @@ Der vil givetvis blive debatteret Uber og andre tjenester i Danmark før eller s
 > #### Svar fra Lene Espersen (K), justitsminister ####
 >
 > Justitsministeriet har til brug for besvarelsen indhentet følgende udtalelser fra Transportministeriet og Rigspolitiet, hvortil der henvises.
-Transportministeriet har oplyst:
 >
 > Transportministeriet har oplyst:
 >
