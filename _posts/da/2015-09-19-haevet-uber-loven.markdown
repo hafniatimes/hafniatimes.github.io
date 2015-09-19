@@ -41,7 +41,7 @@ Der vil givetvis blive debatteret Uber og andre tjenester i Danmark før eller s
 >
 > Den omtalte avisartikel drejer sig om taxikørsel i private biler. Kontrollen med overholdelse af reglerne om taxikørsel foretages af færdselsstyrelsen og politiet.
 >
-> Indtægter ved taxikørsel i private biler er uanset de bevillingsmæssige forhold skattepligtige. Kontrol af de skattemæssige forhold foretages dels som led i det almindelige kontrlarbejde, dels i forbindelsem ed regeringens fairplay-kampagner, hvor vi arbejder tæt sammen med politiet om bl.a. ulovlig taxikørsel.
+> Indtægter ved taxikørsel i private biler er uanset de bevillingsmæssige forhold skattepligtige. Kontrol af de skattemæssige forhold foretages dels som led i det almindelige kontrolarbejde, dels i forbindelsem ed regeringens fairplay-kampagner, hvor vi arbejder tæt sammen med politiet om bl.a. ulovlig taxikørsel.
 
 * * * *
 
