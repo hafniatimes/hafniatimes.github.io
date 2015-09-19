@@ -84,5 +84,8 @@
     {% if site.html5_images != true and page.section != "frontpage" %}
         <script src="/static/js/retina.js"></script>
     {% endif %}
+    {% if page.tweets == true %}
+        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    {% endif %}
     </body>
 </html>
