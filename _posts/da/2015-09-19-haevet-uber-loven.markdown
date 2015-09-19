@@ -147,7 +147,7 @@ Der vil givetvis blive debatteret Uber og andre tjenester i Danmark før eller s
 
 > <cite>[TRU, Alm. del spørgsmål 409 (marts 2008).][q6]</cite>
 >
-> #### Samrådsspørgsmål fra Transportudvalget +++ ####
+> #### Spørgsmål fra Kim Christiansen (DF) ####
 >
 > Ministrene bedes kommentere vedlagte henvendelse fra en københavnsk Taxa chauffør samt ligeledes vedlagte artikel "Stop pirattaxier", der er blevet bragt i Taxa Bladet og i den forbindelse oplyse, hvilke initiativer ministeren vil tage for at komme problemet med pirattaxaer til livs.
 >
