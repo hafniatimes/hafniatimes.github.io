@@ -27,3 +27,5 @@ bundle exec sass -c static/css/style.scss
 bundle exec kwalify -lf .link-lint.yml data/links/da.yml && bundle exec kwalify -lf .link-lint.yml data/links/en.yml
 # mdl
 mdl -c .mdlrc _posts/*.markdown _posts/*/*.markdown ./*.md
+## Git
+git diff --check # Show whitespace errors
