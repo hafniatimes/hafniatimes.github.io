@@ -19,18 +19,7 @@ Onsdag den 16. september [demonstrerede foreningen Taxiførere i Danmark (TiD)p�
     <p lang="da" dir="ltr">Demo fra taxachaufførerne <a href="http://t.co/Da6xBsdnba">pic.twitter.com/Da6xBsdnba</a></p>&mdash; Yildiz Akdogan (@YildizAkdogan) <a href="https://twitter.com/YildizAkdogan/status/644090019947356160">September 16, 2015</a>
 </blockquote>
 <noscript>
-    <a
-        href="https://twitter.com/YildizAkdogan/status/644090019947356160"
-        title="Link til tweet">
-        <picture>
-            <source
-                srcset="/da/assets/haevet-uber-loven/demo.png 1x, /da/assets/haevet-uber-loven/demo@2x.png 2x"
-                type="image/png" />
-            <img
-                src="/da/assets/haevet-uber-loven/demo.png"
-                alt="Video af TiDs demonstration på Christiansborg Slotsplads" />
-        </picture>
-    </a>
+    <a href="https://twitter.com/YildizAkdogan/status/644090019947356160" title="Link til tweet"><img src="/da/assets/haevet-uber-loven/demo.png" alt="Video af TiDs demonstration på Christiansborg Slotsplads" /></a>
 </noscript>
 
 Der vil givetvis blive debatteret Uber og andre tjenester i Danmark før eller siden. I dén forbindelse ser vi, hvad ministre gennem tiden har svaret desangående.
