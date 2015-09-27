@@ -56,6 +56,16 @@ Specificity
 -----------
 Reduce vagueness and passive voice as much as possible. This [McSweeney’s article][mcs] goes into more detail with examples.
 
+Gendered Terminology
+--------------------
+Avoid compounds with “man” as much as possible. One example comes from [NASA's style guide][nasa]:
+
+> **Manned Space Program vs. Human Space Program:**
+>
+> All references referring to the space program should be non-gender specific (e.g. human, piloted, un-piloted, robotic). The exception to the rule is when referring to the Manned Spacecraft Center, the predecessor to the Johnson Space Center in Houston, or any other official program name or title that included "manned" (e.g. Associate Administrator for Manned Spaceflight).
+
+Generally, positions of leadership tend to be gendered with “-man”. In those cases, use “-person” or, at least, “-woman” depending on whether the former sounds off. For instance, use either “chairwoman” or just “chair” instead of “chairman”, when the position is held by a woman.
+
 Markdown
 --------
  Right                | Wrong
@@ -489,6 +499,7 @@ TODO
 [oed]: http://www.ox.ac.uk/public-affairs/style-guide
 [compound modifiers]: https://en.wikipedia.org/wiki/English_compound#Hyphenated_compound_modifiers
 [mcs]: http://www.mcsweeneys.net/articles/an-interactive-guide-to-ambiguous-grammar
+[nasa]: http://history.nasa.gov/printFriendly/styleguide.html
 
 [a]: http://socialdemokraterne.dk/default.aspx?site=english
 [b]: http://www.radikale.dk/english
