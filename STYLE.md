@@ -46,7 +46,7 @@ No eccentric diareses belong in this style guide, but do use hyphens for prefixe
 
 #### Hyphenated Compound Modifiers ####
 
-Use hyphenate [compound modifiers][hcm] only for disambiguation, not too dissimilarly to the Oxford Comma. Adverbs are rarely, if ever, cause for ambiguity---especialy those ending in -ly---so “wildly popular app” should go unhyphenated.
+Use hyphenate [compound modifiers][] only for disambiguation, not too dissimilarly to the Oxford Comma. Adverbs are rarely, if ever, cause for ambiguity—especialy those ending in -ly—so “wildly popular app” should go unhyphenated.
 
 #### Abbreviations ####
 
@@ -365,7 +365,7 @@ A lot of people
 
 Acronyms/Abbreviations
 ----------------------
-Use Markdown’s [abbreviation syntax][abbr] in the following cases:
+Use Markdown’s [abbreviation syntax][] in the following cases:
 
  Shorthand  | Full Word
 :-----------|:----------------------------------
@@ -483,7 +483,7 @@ TODO
 
 
 [oed]: http://www.ox.ac.uk/public-affairs/style-guide
-[hcm]: https://en.wikipedia.org/wiki/English_compound#Hyphenated_compound_modifiers
+[compound modifiers]: https://en.wikipedia.org/wiki/English_compound#Hyphenated_compound_modifiers
 
 [a]: http://socialdemokraterne.dk/default.aspx?site=english
 [b]: http://www.radikale.dk/english
@@ -494,7 +494,7 @@ TODO
 [broadband]: http://www.fcc.gov/reports/2015-broadband-progress-report
 [genocide]: http://www.ohchr.org/EN/ProfessionalInterest/Pages/CrimeOfGenocide.aspx
 [torture]: http://www.hrweb.org/legal/cat.html#Article%201.1
-[abbr]: https://michelf.ca/projects/php-markdown/extra/#abbr
+[abbreviation syntax]: https://michelf.ca/projects/php-markdown/extra/#abbr
 [us-terrorism]: https://www.fbi.gov/about-us/investigate/terrorism/terrorism-definition
 [transgender]: http://www.glaad.org/reference/transgender
 [copycat]: http://www.theatlantic.com/national/archive/2012/12/the-media-needs-to-stop-inspiring-copycat-murders-heres-how/266439/
