@@ -52,6 +52,10 @@ Use hyphenate [compound modifiers][] only for disambiguation, not too dissimilar
 
 Refrain from abbreviations for common words and phrases (eg, ie, etc) as often as possible. Acronyms are of course acceptable for the most part, as long as the full name is commonly known (NATO, US, GOP).
 
+Specificity
+-----------
+Reduce vagueness and passive voice as much as possible. This [McSweeney’s article][mcs] goes into more detail with examples.
+
 Markdown
 --------
  Right                | Wrong
@@ -484,6 +488,7 @@ TODO
 
 [oed]: http://www.ox.ac.uk/public-affairs/style-guide
 [compound modifiers]: https://en.wikipedia.org/wiki/English_compound#Hyphenated_compound_modifiers
+[mcs]: http://www.mcsweeneys.net/articles/an-interactive-guide-to-ambiguous-grammar
 
 [a]: http://socialdemokraterne.dk/default.aspx?site=english
 [b]: http://www.radikale.dk/english
