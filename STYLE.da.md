@@ -211,6 +211,10 @@ Jævnfør [refugees.dk][asyl-definitioner]
 
 >En afvist asylansøger har været i gennem proceduren, men har fået afslag.
 
+Konsekvenser af Termer
+----------------------
+[En undersøgelse af Novus][novus] viser, at de adspurgtes holdning variede, alt efter hvilke udtryk man brugte dét omfang, man havde forklaret deres specifikke betydning over for dem.
+
 Overvågning og Aflytning
 ------------------------
 Det danske **overvågning** svarer til det engelske **surveillance**.
@@ -406,6 +410,7 @@ Andre Links
 [dst]: http://www.dst.dk/da/Statistik/Publikationer/VisPub.aspx?cid=19004
 [asyl]: http://refugees.dk/fakta/asylproceduren-i-danmark/
 [asyl-definitioner]: http://refugees.dk/fakta/lovgivning-og-definitioner/
+[novus]: http://novus.se/nyhet/novus-ordet-asylsokande-och-flykting-inte-sa-kanslomassigt-laddat/
 [kommuner]: https://web.archive.org/web/20071113203858/http://im.dk/publikationer/landdistriktsred_2004/samlet.htm
 [terrorisme]: https://www.retsinformation.dk/Forms/r0710.aspx?id=164192#Kap13
 [lgbt]: http://lgbt.dk/om-os/lgbt-ordbog/
