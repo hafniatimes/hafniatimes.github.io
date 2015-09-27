@@ -13,7 +13,7 @@ author: ndarville
 ---
 > **[Taxilovens § 1][taxiloven]:** Den, der udfører erhvervsmæssig personbefordring (taxikørsel, limousinekørsel, sygetransport og offentlig servicetrafik) med et dansk indregistreret motorkøretøj indrettet til befordring af højst 9 personer, føreren medregnet, skal have tilladelse hertil.
 
-Onsdag den 16. september [demonstrerede foreningen Taxiførere i Danmark (TiD)på Christiansborgs Slotsplads][article] fra 12--13. Demonstrationen grundede i en utilfredshed med myndighedernes manglende reaktion på prajetjenester som Uber, der ifølge Taxiloven er ulovlige---men stadig kører.
+Onsdag den 16. september [demonstrerede foreningen Taxiførere i Danmark (TiD) på Christiansborgs Slotsplads][article] fra 12--13. Demonstrationen grundede i en utilfredshed med myndighedernes manglende reaktion på prajetjenester som Uber, der ifølge Taxiloven er ulovlige---men stadig kører.
 
 <blockquote class="twitter-tweet" lang="en">
     <p lang="da" dir="ltr">Demo fra taxachaufførerne <a href="http://t.co/Da6xBsdnba">pic.twitter.com/Da6xBsdnba</a></p>&mdash; Yildiz Akdogan (@YildizAkdogan) <a href="https://twitter.com/YildizAkdogan/status/644090019947356160">September 16, 2015</a>
