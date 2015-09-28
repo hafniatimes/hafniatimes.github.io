@@ -286,6 +286,7 @@ h5 {
     @include center;
 
     a { @extend %a; }
+    hr { display: none; }
 }
 
 // Hotfixes

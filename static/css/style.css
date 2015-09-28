@@ -461,6 +461,8 @@ h5 {
   text-align: center;
   margin-left: auto;
   margin-right: auto; }
+  #footer hr {
+    display: none; }
 
 div.footnotes,
 h4,
