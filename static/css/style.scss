@@ -281,12 +281,13 @@ h5 {
     }
 }
 
+hr.separator { display: none; }
+
 #footer {
     @include getFontSize($footerSize);
     @include center;
 
     a { @extend %a; }
-    hr { display: none; }
 }
 
 // Hotfixes

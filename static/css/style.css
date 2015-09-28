@@ -455,14 +455,15 @@ h5 {
   background: rgba(215, 215, 215, 0.7);
   border: none; }
 
+hr.separator {
+  display: none; }
+
 #footer {
   font-size: 0.75em;
   color: #000;
   text-align: center;
   margin-left: auto;
   margin-right: auto; }
-  #footer hr {
-    display: none; }
 
 div.footnotes,
 h4,
