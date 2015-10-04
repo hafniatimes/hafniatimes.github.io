@@ -17,16 +17,20 @@ Ordbog
 
 Undlad generelt at gengive **spinbegreber** såsom
 
-* -epidemier
+* budgetforbedringer
 * cafépenge
 * effektivisere/-ing
+* (-)eftersyn
+* (-)eftersyn
+* (-)epidemier
 * flygtningestrøm
 * fredsbevarende
 * ghetto
-* lempe/lse
+* (-)lempe/lse
 * (-)løft
 * nærområde
 * omprioriteringsbidrag
+* oprydning
 * servicetjek
 * skattestop
 * skattetryk
