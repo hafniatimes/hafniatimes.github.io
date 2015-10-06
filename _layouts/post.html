@@ -52,7 +52,7 @@ layout: default
         </ul>
     {% endif %}
     {% if page.updated == true %}
-        <div class="updated box">
+        <div class="updated box" role="alert">
             {{ u.update_text }} <a href="{{ site.repo }}/commits/master/{{ page.path }}">{{ u.update_link }}</a>.
         </div>
     {% endif %}
