@@ -39,6 +39,7 @@
         "===",
         "!=="
     ],
+    "requireSpaceAfterComma": true,
     "requireSpaceAfterKeywords": [
         "do",
         "for",
