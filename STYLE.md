@@ -46,7 +46,9 @@ No eccentric diareses belong in this style guide, but do use hyphens for prefixe
 
 #### Hyphenated Compound Modifiers ####
 
-Use hyphenate [compound modifiers][] only for disambiguation, not too dissimilarly to the Oxford Comma. Adverbs are rarely, if ever, cause for ambiguity—especialy those ending in -ly—so “wildly popular app” should go unhyphenated.
+Only hyphenate [compound modifiers][] for disambiguation, not too dissimilarly to the Oxford Comma. Adverbs are rarely, if ever, cause for ambiguity—especialy those ending in -ly—so “wildly popular app” should go unhyphenated.
+
+This generally applies to all hyphenation; “when in doubt, leave it out”.
 
 #### Abbreviations ####
 
