@@ -28,6 +28,7 @@ Undlad generelt at gengive **spinbegreber** såsom
 * ghetto
 * (-)lempe/lse
 * (-)løft
+* (-)normalisering
 * nærområde
 * omprioriteringsbidrag
 * oprydning
