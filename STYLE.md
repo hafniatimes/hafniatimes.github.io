@@ -91,6 +91,7 @@ General
  Islamic State, IS(IS) | ISIL, Daesh
  Koran                 | Quran, Qu’ran
  learn/-ed/-t          | /-ed/-ed, /-t/-t
+ median income         | middle income
  NATO                  | Nato
  no one                | no-one
  revise                | revize
