@@ -3,7 +3,7 @@ title: Piratkørsel og Prajetjenester Ifølge Folketinget
 date: 2015-09-19 18:00:00
 excerpt: "Det er ti måneder, siden Trafikstyrelsen politianmeldte Uber. Mens vi venter, kan vi se, hvad Folketinget har svaret."
 
-tweets: true
+embedded_tweets: true
 
 slug: haevet-uber-loven
 categories: [da, articles]
