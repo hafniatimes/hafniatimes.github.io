@@ -258,6 +258,7 @@ prose:
         - .htaccess
         - .jscsrc
         - .jshintrc
+        - .link-lint.yml
         - .mdlrc
         - .ruby-version
         - .scss-lint.yml
@@ -267,21 +268,25 @@ prose:
         - CNAME
         - DICTIONARY.md
         - favicon.ico
+        - favicon.png
         - feed.atom
         - Gemfile
         - identicon.png
         - index.html
         - LICENSE.md
+        - links.atom
         - package.json
         - README.md
         - sitemap.xml
         - STYLE.md
         - STYLE.da.md
         - WRITERS.md
+        - /_contact
         - /_layouts
         - /_includes
         - /_resources
         - /404
+        - /assets
         - /da
         - /en
         - /static
