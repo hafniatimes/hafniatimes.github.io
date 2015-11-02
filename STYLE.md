@@ -526,6 +526,23 @@ Show the specific changes (before and after), ie “diffs”, with either an arc
 
 Delete the erroneous tweet—or reply to it with your corrective. Consider including an annotated screenshot of the old tweet in the new tweet.
 
+### Markup ###
+
+The correction text is placed a the bottom, but readers shouldn’t see them only when they’ve finished reading an article, as it will retroactively call the article into question. Place a notice at the top of an article alerting the reader to the existence of a correction or update at the bottom. Provide an internal link to navigate to the text from the notice.
+
+#### Corrections as Paragraphs vs Lists ####
+
+For corrections involving several errors, format the corrections as a list instead of a paragraph of multiple corrections; to use [a real correction example][nyt-correction]:
+
+##### Bad #####
+
+> An article last Sunday about new lodging options in Africa misstated the Canadian region where the winemaker Norman Hardie is based. It is Prince Edward County, Ontario, not the Niagara region. And the price for the trip offered with Mr. Hardie was given in the incorrect currency. The price is 6,975 Canadian, not U.S., dollars.
+
+##### Good #####
+
+> * An article last Sunday about new lodging options in Africa misstated the Canadian region where the winemaker Norman Hardie is based. It is Prince Edward County, Ontario, not the Niagara region.
+> * The price for the trip offered with Mr. Hardie was given in the incorrect currency. The price is 6,975 Canadian, not U.S., dollars.
+
 Other Resources
 ---------------
 * [Common Errors in English Usage][ceeu]
@@ -558,4 +575,5 @@ TODO
 [suicide]: http://www.samaritans.org/media-centre/media-guidelines-reporting-suicide
 [suicide-2]: http://www.sprc.org/sites/sprc.org/files/library/sreporting.pdf
 [NewsDiffs]: http://newsdiffs.org
+[nyt-correction]: http://www.nytimes.com/2015/11/01/pageoneplus/corrections-november-1-2015.html
 [ceeu]: http://public.wsu.edu/~brians/errors/
