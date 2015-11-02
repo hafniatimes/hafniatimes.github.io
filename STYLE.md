@@ -96,6 +96,8 @@ General
  no one                | no-one
  revise                | revize
  sex worker            | prostitute, hooker
+ sharing economy       | on-demand industry
+ slaveholder           | slave owner
  use                   | usage
 
 Danish Stuff
