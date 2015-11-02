@@ -292,12 +292,6 @@ Tweets for and about a Hafnia Times article should read:
 
 Do not use a colon to point towards the link.
 
-Companies
----------
- Right | Wrong
-:------|:-----
- LEGO  | Lego
-
 Finance
 -------
  Right          | Wrong
