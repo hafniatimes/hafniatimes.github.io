@@ -504,11 +504,11 @@ Some good pointers from BuzzFeed:
 >
 > * Writers should draft corrections, but run them by their editor, team leader, or the after-hours list for approval/editing before putting them in.
 >
-> ##### [Example:] Newsy, simple correction #####
+> #### [Example:] Newsy, simple correction ####
 >
 > Twitter increased the value of its IPO shares to between $23 and $25. An earlier version of this post misstated the value range. [Include previous figure in correction, ed.]
 >
-> ##### Example:] Newsy, restating the error #####
+> #### Example:] Newsy, restating the error ####
 >
 > Twitter’s CEO could not be reached for comment. An earlier version of this post said Twitter’s CFO could not be reached for comment.
 >
