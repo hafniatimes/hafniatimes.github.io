@@ -490,6 +490,48 @@ Here is a selection of guidelines for ensuring that your writing has a positive 
 * [reportingonsuicide.com](http://reportingonsuicide.org/)
 * [“Reporting on Suicide: Recommendations for the Media”][suicide-2] (.pdf)
 
+Corrections
+-----------
+Some good pointers from BuzzFeed:
+
+> ### How BuzzFeed Does Corrections ###
+>
+> * A correction should include the accurate information. It should explain the error, and it may restate the error when it’s necessary to clarify what it was or to debunk a claim. See sample corrections at the end of this doc.
+> * Corrections should be made for errors of fact — not misspellings or typos or broken links. Do issue a correction, however, if someone’s name is misspelled throughout a story.
+> * Corrections should be in plain English, not in the somewhat formal corrections style traditional among news organizations.
+> * Be very thorough and careful. The absolute worst thing is to have to correct your correction. If the correction is about a person, it’s often a good move to read the correction on the phone to its subject before printing it.
+> * Try to mention the correction on all channels the story went out on—if you tweeted it, tweet the correction, etc.
+>
+> ### Corrections vs. Updates ###
+>
+> Updates should be used to reflect important new information or clarifications; corrections are for mistakes.
+>
+> ### Process ###
+>
+> * Writers should draft corrections, but run them by their editor, team leader, or the after-hours list for approval/editing before putting them in.
+>
+> ##### [Example:] Newsy, simple correction #####
+>
+> Twitter increased the value of its IPO shares to between $23 and $25. An earlier version of this post misstated the value range. [Include previous figure in correction, ed.]
+>
+> ##### Example:] Newsy, restating the error #####
+>
+> Twitter’s CEO could not be reached for comment. An earlier version of this post said Twitter’s CFO could not be reached for comment.
+>
+> (^ This is also an example of when what was maybe just a typo warrants a correction rather than just a quick fix.)
+
+### Diffs and Changelogs ###
+
+Show the specific changes (before and after), ie “diffs”, with either an archive of the old version or by employing the `<del>` and `<ins>` tags:
+
+> Evil Corp posted <del>$15B</del> <ins>$35B</ins> in profits.
+
+[NewsDiffs][] is instructive on the importance of transparent diffs.
+
+### Tweets ###
+
+Delete the erroneous tweet—or reply to it with your corrective. Consider including an annotated screenshot of the old tweet in the new tweet.
+
 Other Resources
 ---------------
 * [Common Errors in English Usage][ceeu]
@@ -521,4 +563,5 @@ TODO
 [copycat]: http://www.theatlantic.com/national/archive/2012/12/the-media-needs-to-stop-inspiring-copycat-murders-heres-how/266439/
 [suicide]: http://www.samaritans.org/media-centre/media-guidelines-reporting-suicide
 [suicide-2]: http://www.sprc.org/sites/sprc.org/files/library/sreporting.pdf
+[NewsDiffs]: http://newsdiffs.org
 [ceeu]: http://public.wsu.edu/~brians/errors/
