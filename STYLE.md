@@ -100,8 +100,8 @@ General
  slaveholder           | slave owner
  use                   | usage
 
-Danish Stuff
-------------
+### Danish Stuff ###
+
  Right       | Wrong
 :------------|:-----
  LEGO        | Lego
