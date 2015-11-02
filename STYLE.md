@@ -18,6 +18,42 @@ An excerpt from some of the [examples][oed]:
  ibid                 | ibid.
  90s, CDs, dos, donts | Plural apostrophes, except for disambiguation
 
+Formatting
+----------
+For purposes for retention and readability:
+
+* Use `**strong**` for names, which improves retention
+    - Consider using it for other larger concepts and entities
+* Prioritize vertical lists over a comma-separated recital in a sentence
+
+These guidelines may seem weird to people from a print background, but should be sensible to people from a web background; remember the value of explicit, semantic web formatting to people with visual disabilities—some of whom rely screenreaders to read online articles.
+
+Consider this [article on memorization][ndarville.github.io] and how the formatting contributes to the understanding of the subject matter.
+
+### Links ###
+
+Wrap links to accommodate web standards and people with screen readers. From [ndarville/style/html][]:
+
+> In accordance with [HTML Techniques for Web Content Accessibility Guidelines 1.0, Section 6.1][link-text].
+>
+> **Do not** use `click here` as link text.
+>
+> **Do not** use call-to-action verbs like `go to our page`.
+>
+> Use the page or content your are linking to as the text instead.
+>
+> #### [Bad] ####
+>
+>> [Click here] to visit GitHub.
+>
+> #### [Also bad] ####
+>
+>> Click here to [visit GitHub].
+>
+> #### [Good] ####
+>
+>> Click here to visit [GitHub].
+
 ### Important Distinctions ###
 
 * “among” vs “between”
@@ -557,6 +593,9 @@ TODO
 
 
 [oed]: http://www.ox.ac.uk/public-affairs/style-guide
+[ndarville.github.io]: https://ndarville.github.io/blog/2013/12/15/naming-the-thirteen-dwarves-in-the-hobbit.html
+[ndarville/style/html]: https://github.com/ndarville/style/blob/master/html/README.md
+[link-text]: http://www.w3.org/QA/Tips/noClickHere
 [compound modifiers]: https://en.wikipedia.org/wiki/English_compound#Hyphenated_compound_modifiers
 [mcs]: http://www.mcsweeneys.net/articles/an-interactive-guide-to-ambiguous-grammar
 [nasa]: http://history.nasa.gov/printFriendly/styleguide.html
