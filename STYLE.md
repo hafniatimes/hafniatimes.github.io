@@ -111,7 +111,7 @@ Markdown
  `### Header 1 ###`   | `### Header 1`, `## Header 1 ##`, `# Header 1 #`
  `#### Header 2 ####` | `#### Header 2`
  `* List item`        | `-`, `+`
- `    - Sublist item` | `*`, `+`
+ `- Sublist item`     | `*`, `+`
 
 General
 -------
