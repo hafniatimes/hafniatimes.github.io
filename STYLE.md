@@ -17,6 +17,7 @@ An excerpt from some of the [examples][oed]:
  Mr, Ms, Dr           | Mr., Ms., Mrs., Dr.
  ibid                 | ibid.
  90s, CDs, dos, donts | Plural apostrophes, except for disambiguation
+ Jr, Sr (w/o comma)   | Jr., Sr. (w/ comma)
 
 Formatting
 ----------
