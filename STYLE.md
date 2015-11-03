@@ -136,6 +136,7 @@ General
  -ize, -yze, -ization  | -ise, -yse, -isation
  -eable                | -able
  10:00, 10 AM/PM       | 10 am/pm, 10AM/PM
+ anti-                 | -phobic
  ceasefire             | cease-fire
  comprise              | comprised of
  e-mail                | email
