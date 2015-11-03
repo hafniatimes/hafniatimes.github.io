@@ -506,6 +506,28 @@ Technical terms are not slurs, eg:
 * lame
 * schizophrenic/-a
 
+##### NCDJ’s List of Terms to Avoid #####
+
+* abnormal
+* afflicted with
+* able-bodied
+* confined to a wheelchair
+* crazy, insane, nuts, psycho
+* deaf and dumb/deaf-mute
+* defect, birth defect, defective
+* demented, senile (rather “person with ...”, PW)
+* epileptic fit
+* loony, loony bin, lunatic
+* mentally retarded
+* midget
+* paraplegic (PW)
+* psychotic (rather “person having ...”)
+* quadriplegic (PW)
+* schizophrenic (PW)
+* spastic or a a spaz
+* stricken with, suffers from, victim of
+* vegetable (rather “person in ...”)
+
 ### Nationality, Race, and Hyphenation ###
 
 Hyphenated nationalities like “Native-Americans” and “African-Americans” are likewise discouraged. In order of preference, use
@@ -531,11 +553,12 @@ Here is a selection of guidelines for ensuring that your writing has a positive 
 
 * [GLAAD Media Reference Guide on Transgender Issues][transgender]
 * [Prevent copycats by using guidelines for reporting on suicide][copycat]
+* [National Center on Disability and Journalism style guide][disabilities]
 
 ### Self-Harm ###
 
 * [“Samaritans’ Media Guidelines for Reporting Suicide”][suicide]
-* [reportingonsuicide.com](http://reportingonsuicide.org/)
+* [reportingonsuicide.com][]
 * [“Reporting on Suicide: Recommendations for the Media”][suicide-2] (.pdf)
 
 Corrections
@@ -629,7 +652,9 @@ TODO
 [us-terrorism]: https://www.fbi.gov/about-us/investigate/terrorism/terrorism-definition
 [transgender]: http://www.glaad.org/reference/transgender
 [copycat]: http://www.theatlantic.com/national/archive/2012/12/the-media-needs-to-stop-inspiring-copycat-murders-heres-how/266439/
+[disabilities]: http://ncdj.org/style-guide/
 [suicide]: http://www.samaritans.org/media-centre/media-guidelines-reporting-suicide
+[reportingonsuicide.com]: http://reportingonsuicide.org
 [suicide-2]: http://www.sprc.org/sites/sprc.org/files/library/sreporting.pdf
 [NewsDiffs]: http://newsdiffs.org
 [nyt-correction]: http://www.nytimes.com/2015/11/01/pageoneplus/corrections-november-1-2015.html
