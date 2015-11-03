@@ -13,8 +13,6 @@ mark {
     @include box-sizing;
     @if $boxPaddingHor != 0 { width: $containerWidth; }
     @else { width: $containerWidth + 2*$padding; }
-
-    body#frontpage & {}
 }
 
 #padder {
