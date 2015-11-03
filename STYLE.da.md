@@ -181,17 +181,17 @@ De skelner på baggrund af *herkomst*—ikke etnicitet.
 
 ### Indvandrere ###
 
->Indvandrere er født i udlandet. Ingen af forældrene er både danske statsborgere og født i Danmark. Hvis der ikke findes oplysninger om nogen af forældrene, og personen er født i udlandet, opfattes personen også som indvandrer.
+> Indvandrere er født i udlandet. Ingen af forældrene er både danske statsborgere og født i Danmark. Hvis der ikke findes oplysninger om nogen af forældrene, og personen er født i udlandet, opfattes personen også som indvandrer.
 
 ### Efterkommere ###
 
->Efterkommere er født i Danmark. Ingen af forældrene er både danske statsborgere og født i Danmark. Hvis der ikke findes oplysninger om nogen af forældrene, og personen er udenlandsk statsborger, opfattes personen også som efterkommer.
+> Efterkommere er født i Danmark. Ingen af forældrene er både danske statsborgere og født i Danmark. Hvis der ikke findes oplysninger om nogen af forældrene, og personen er udenlandsk statsborger, opfattes personen også som efterkommer.
 >
->Når en eller begge forældre, der er født i Danmark, opnår dansk statsborgerskab, vil deres børn ikke blive klassificeret som efterkommere, men som personer med dansk oprindelse. Fastholder danskfødte forældre imidlertid begge et udenlandsk statsborgerskab, vil deres børn blive klassificeret som efterkommere.
+> Når en eller begge forældre, der er født i Danmark, opnår dansk statsborgerskab, vil deres børn ikke blive klassificeret som efterkommere, men som personer med dansk oprindelse. Fastholder danskfødte forældre imidlertid begge et udenlandsk statsborgerskab, vil deres børn blive klassificeret som efterkommere.
 
 ### Dansk Oprindelse ###
 
->Personer med dansk oprindelse er personer—uanset fødested—der har mindst
+> Personer med dansk oprindelse er personer—uanset fødested—der har mindst
 én forælder, der både er dansk statsborger og født i Danmark.
 
 Asyl og Flygtninge
@@ -206,7 +206,7 @@ Jævnfør [refugees.dk][asyl-definitioner]
 
 **Asylansøger**:
 
->[E]r en person, der anmoder om beskyttelse som flygtning, men endnu ikke har fået sin sag vurderet.
+> [E]r en person, der anmoder om beskyttelse som flygtning, men endnu ikke har fået sin sag vurderet.
 
 **Flygtning**:
 
@@ -214,7 +214,7 @@ Jævnfør [refugees.dk][asyl-definitioner]
 
 **Afvist asylansøger**:
 
->En afvist asylansøger har været i gennem proceduren, men har fået afslag.
+> En afvist asylansøger har været i gennem proceduren, men har fået afslag.
 
 Konsekvenser af Termer
 ----------------------
