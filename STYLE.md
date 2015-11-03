@@ -26,10 +26,19 @@ For purposes for retention and readability:
 * Use `**strong**` for names, which improves retention
     - Consider using it for other larger concepts and entities
 * Prioritize vertical lists over a comma-separated recital in a sentence
+    - Do not capitalize one- or two-word list items
+    - Do not end them in trailing commas
+    - Only add a trailing period for longer sentences
 
-These guidelines may seem weird to people from a print background, but should be sensible to people from a web background; remember the value of explicit, semantic web formatting to people with visual disabilities—some of whom rely screenreaders to read online articles.
+These guidelines may seem weird to people from a print background, but should be sensible to people from a web background; remember the value of explicit, semantic web formatting to people with visual disabilities—some of whom rely screenshotreaders to read online articles.
 
-Consider this [article on memorization][ndarville.github.io] and how the formatting contributes to the understanding of the subject matter.
+The guidelines urge that you *prioritize* vertical lists; in the cases where you deem that an in-line (horizontal) list is sufficient, consider auxiliary enumeration like
+
+> (1) apples, (2) oranges, (3) pineapples
+
+This is not for accessibility, but readability retention.
+
+Consider this [article on memorization][ndarville.github.io] and how the formatting contributes to the understanding and retention of the information.
 
 ### Links ###
 
@@ -54,6 +63,12 @@ Wrap links to accommodate web standards and people with screen readers. From [nd
 > #### [Good] ####
 >
 >> Click here to visit [GitHub].
+
+Feel free to phrase the link’s surrounding prose as you please.
+
+It may feel like you have to change your writing style to adapt to writing for a digital publication. This is true, but it is important to remember that your articles will be read both as-is, as well as on screenreaders for those of your readers with disabilities who rely on them.
+
+Adapting your prose to people with screenreaders differs little from making your visual media accessible to colour-blind readers, and your auditory media accessible to people hard of hearing.
 
 ### Important Distinctions ###
 
