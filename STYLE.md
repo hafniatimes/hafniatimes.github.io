@@ -149,7 +149,10 @@ General
  median income         | middle income
  NATO                  | Nato
  no one                | no-one
+ on-demand economy/labour | sharing/gig economy
+ pro-/anti-, for/against abortion | pro-choice/life
  revise                | revize
+ ride-booking, ride-hailing | ride-sharing
  sex worker            | prostitute, hooker
  sharing economy       | on-demand industry
  slaveholder           | slave owner
@@ -317,10 +320,6 @@ Politicians
 
 Technology
 ----------
- Right                      | Wrong
-:---------------------------|:------------
- ride-booking, ride-hailing | ride-sharing
-
 * **Broadband** is a minimum speed of 25 Mb/s download and 3 Mb/s upload as [defined by the FCC][broadband].
 
 Capitalization
