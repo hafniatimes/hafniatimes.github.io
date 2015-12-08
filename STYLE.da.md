@@ -21,7 +21,6 @@ Undlad generelt at gengive **spinbegreber** såsom
 * cafépenge
 * effektivisere/-ing
 * (-)eftersyn
-* (-)eftersyn
 * (-)epidemier
 * flygtningestrøm
 * fredsbevarende
@@ -72,6 +71,10 @@ Undlad **ladede udtryk**, hvis anvendelse ikke begrundes i artiklen:
 * raceoptøjer
 * (ressource)svage/-stærke
 * Unødige referencer til velstand: Rigmand, pengemand, osv.
+
+### Andre Frarådede Begreber ###
+
+* (-)krænke/-r/-t/-lse
 
 ### Typiske Forvekslinger ###
 
