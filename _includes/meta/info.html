@@ -11,8 +11,10 @@
         <meta property="og:title" content="{{ page_title }}" />
     {% if page.excerpt %}
         <meta property="og:description" content="{{ page.excerpt | markdownify | strip_html }}" />
+        <meta property="twitter:description" content="{{ page.excerpt | markdownify | strip_html }}" />
     {% else %}
         <meta property="og:description" content="{{ t.frontpage[page_language].description }}" />
+        <meta property="twitter:text:description" content="{{ t.frontpage[page_language].description }}" />
     {% endif %}
     {% if page.url %}
         <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
