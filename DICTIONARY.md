@@ -10,13 +10,21 @@ Danish
  Danish              | English
 :--------------------|:-------------------
  aflytning           |  wiretapping
+ demonstration       |  protest
+ indvandringspolitik |  immigration policy
+ indvandrer          |  immigrant
+ meningsmåling       | (opinion) poll
+ overvågning         |  surveillance
+ privatdata, privatliv, privacy | privacy
  udlænding           |  foreigner
  udlændingepolitik   |  foreigner policy
- indvandrer          |  immigrant
- indvandringspolitik |  immigration policy
- meningsmåling       | (opinion) poll
- privatdata, privatliv, privacy | privacy
- overvågning         |  surveillance
+ ungdomsparti        |  youth wing
+
+### Spin ###
+
+ Danish                   | English
+:-------------------------|:-------
+ bekvemmelighedsflygtning | comfort refugee, economic refugee
 
 ### Geographies ###
 
