@@ -74,12 +74,9 @@ defaults:
 exclude:
     - ".*" # Automatic, but just in case
     - "*.log"
+    - "*.md"
     - "Gemfile*"
     - "package.json"
-    - "LICENSE.md"
-    - "README.md"
-    - "STYLE.md"
-    - "WRITERS.md"
     - "data/links/"
     - "node_modules/"
 
