@@ -8,6 +8,8 @@ categories: articles
 
 author: ndarville
 layout: post
+
+redirect_from: [dpp15conference/index.html]
 ---
 This speech was given by Danish People's Party's leader, Kristian Thulesen Dahl (KTD), on September 20 at the annual party conference where the party celebrated its 20-year anniversary.
 
@@ -173,10 +175,10 @@ To keep Denmark Danish.<br />
 To preserve the welfare society generations before us have built.<br />
 To preserve a society where we can fundamentally walk in safety and trust each other.</span>
 
-For a number of years, there has been a counterproductive conflation of immigration policy and asylum policy. Refugees staying temporarily have been treated as immigrants---they've been given three-year immigration programs, courses in Danish, and a {legal claim} to housing[^housing].<br />
+For a number of years, there has been a counterproductive conflation of immigration policy and asylum policy. Refugees staying temporarily have been treated as immigrants---they've been given three-year immigration programs, courses in Danish, and a legal right to housing[^housing].<br />
 All of it's been {helped along} by parties and {employers' associations} who believe that refugees would be an amazing contribution to the labour market.
 
-[^housing]: The {"claim to housing"} is actually a *human right to adequate housing* pursuant to **Article 25 of the [Universal Declaration of Human Rights][udhr]**:
+[^housing]: The "legal right to housing" is actually a *human right to adequate housing* pursuant to **Article 25 of the [Universal Declaration of Human Rights][udhr]**:
 
     > (1) Everyone has the right to a standard of living adequate for the health and well-being of himself and of his family, including food, clothing, housing and medical care and necessary social services, and the right to security in the event of unemployment, sickness, disability, widowhood, old age or other lack of livelihood in circumstances beyond his control.
 
@@ -190,7 +192,7 @@ And all focus has been on integration, not for them to head home, when the oppor
 
 {That's no good!}
 
-<span class="highlight">Refugees who've come here should not be itnegrated, they should not be put in years-long integration courses---and their {legal claim} to housing --- which means that they skip the queue on housing---should be removed.</span>
+<span class="highlight">Refugees who've come here should not be itnegrated, they should not be put in years-long integration courses---and their legal right to housing --- which means that they skip the queue on housing---should be removed.</span>
 
 Refugees who come to Denmark should go home as soon as the conditions in their home countries and {nærområder} allow it. For some, this will happen fast, for others, it <span class="highlight">can</span> take years.
 
@@ -234,6 +236,17 @@ It was with this paradox in midn that I last week encouraged the rest of Parliam
 
 Denmark will become the world's biggest contributor to {nærområderne}!
 
+<span class="highlight">It's part of our Danish set of values to help people in need. We Danes have always done that. It has also always been the policy of Danish People's Party.</span>
+
+This is why we should increase the aid to {nærområderne}!<br />
+We would like for Denmark to become---relative to its size---one of the world's biggest contributors.[^biggest-contributor]
+
+[^biggest-contributor]: [Denmark is *already* one of the world's biggest contributors in foreign aid][oda-gni]. [FTS][] doesn't have data for Denmark's contributions to {nærområderne}, but the governing coalition have only cut foreign aid, since they won the election.
+
+    Furthermore, they have reallocated a lot of the foreign aid to pay for the refugee situation back at home. As a matter of fact, *[Denmark is now the biggest recipient of its own foreign aid][biggest-recipient]*.
+
+
+
 
 [source]: http://www.danskfolkeparti.dk/Årsmødetaler_tekst_video
 [video]: https://youtube.com/watch?v=JwezewoNt-A
@@ -248,3 +261,6 @@ Denmark will become the world's biggest contributor to {nærområderne}!
 [nesri]: https://www.nesri.org/programs/what-is-the-human-right-to-housing
 [aid]: https://www.theguardian.com/global-development-professionals-network/2015/dec/07/syria-refugees-urgent-appeal-humanitarian-funding/amp
 [dkaid]: http://www.information.dk/547036
+[oda-gni]: https://en.wikipedia.org/wiki/List_of_governments_by_development_aid#Official_development_assistance_by_country_as_a_percentage_of_Gross_National_Income_in_2013
+[FTS]: https://fts.unocha.org/pageloader.aspx?page=emerg-emergencyCountryDetails&cc=dnk
+[biggest-recipient]: https://afrika.dk/article/hvilket-land-er-største-modtager-af-dansk-udviklingsbistand
