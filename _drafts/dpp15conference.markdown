@@ -9,8 +9,6 @@ categories: articles
 author: ndarville
 layout: post
 ---
-<style type="text/css">.highlight { background-color: #CFC; }</style>
-
 This speech was given by Danish People's Party's leader, Kristian Thulesen Dahl (KTD), on September 20 at the annual party conference where the party celebrated its 20-year anniversary.
 
 Exclamation marks, capitalized words and partitions between sections are straight from [the official transcript][text]. Only footnotes, italicizations, and highlights have been added. You can view [the video of the speech][video], if you want, as well.
@@ -222,6 +220,20 @@ When the new reality dawns on the people-smugglers[^menneskesmugler] and the peo
 
     "Refugees are a burden---not that we've seen any actual refugees."
 
+And I assume it's allowed to ask for how long someone should be considered a refugee? If you travel through five to six secure countries to make it to Scandinavia. Perhaps having stayed in one of these countries for a number of years. Does that make you a refugee when you arrive in Denmark by the end? No---not {in my view}!
+
+And while we in this country are focusing on those arriving here, we're leaving millions of actual refugees behind who have have no money to pay people smugglers, but who are sitting with their families in refugee camps in Syria, Jordan, and Lebanon.<br />
+Camps where the UN inexplicably[^inexplicable] have cut drastically on the support for food coupons.
+
+[^inexplicable]: There is explicable about the UN cutting costs; there is [an enormous shortfall of foreign aid][aid], in part by countries who have yet to deliver on their pledges. After the 2015 election and this speech, [Danish People's Party ended up cutting Danish foreign aid][dkaid].
+
+The people in the camps are going to starve.<br />
+Those who arrive here with trains and taxis ask as one of the first things for power for their iPhones ...
+
+It was with this paradox in midn that I last week encouraged the rest of Parliament to a national compromise parties across the aisle came agreed on both a new, tighter asylum policy as well as significantly more money for {nærområderne}. In fact so much that:
+
+Denmark will become the world's biggest contributor to {nærområderne}!
+
 
 [source]: http://www.danskfolkeparti.dk/Årsmødetaler_tekst_video
 [video]: https://youtube.com/watch?v=JwezewoNt-A
@@ -234,3 +246,5 @@ When the new reality dawns on the people-smugglers[^menneskesmugler] and the peo
 [udhr]: http://www.un.org/en/universal-declaration-human-rights/
 [UN fact sheet on housing]: http://www.ohchr.org/EN/Issues/Housing/toolkit/Pages/RighttoAdequateHousingToolkit.aspx
 [nesri]: https://www.nesri.org/programs/what-is-the-human-right-to-housing
+[aid]: https://www.theguardian.com/global-development-professionals-network/2015/dec/07/syria-refugees-urgent-appeal-humanitarian-funding/amp
+[dkaid]: http://www.information.dk/547036
