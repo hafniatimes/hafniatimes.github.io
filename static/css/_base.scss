@@ -3,9 +3,9 @@ body {
     color: $black;
 }
 
-mark {
+mark,
+.highlight { // span.highlight
     background-color: #FFA;
-    padding: 0 3px;
 }
 
 #container {

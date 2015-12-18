@@ -214,9 +214,9 @@ body {
   font: 16px/24px Georgia, serif;
   color: #555; }
 
-mark {
-  background-color: #FFA;
-  padding: 0 3px; }
+mark,
+.highlight {
+  background-color: #FFA; }
 
 #container {
   margin: 0 auto;
