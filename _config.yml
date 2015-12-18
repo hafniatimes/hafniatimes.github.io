@@ -34,7 +34,12 @@ permalink: pretty
 # Markdown # # # # # # # # # # # # # # # # # # # #
 markdown: kramdown
 kramdown:
+    auto_id_prefix: h-
+    auto_id_stripping: false
+    auto_ids: true
     input: GFM
+    syntax_highlighter: pygments
+    toc_levels: 3..6
 redcarpet:
     extensions: ["smart", "footnotes", "tables"]
  # # # # # # # # # # # # # # # # # # # # # # # # #
