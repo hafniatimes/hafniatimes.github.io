@@ -110,7 +110,7 @@ The thing is that what has happened for years since Denmark's {Schengen membersh
 
 [^trains]: During the first days of the new wave of refugees and migrants, the authorities were reluctant to allow people to travel to Sweden by train, in part because it could be considered people-smuggling. They soon changed their mind to allow them to pass through.
 
-<span class="highlight">{At The Social Democrats'}, party leader Mette Frederiksen has largely been silent and flown under the radar as much as possible. It seems as if she's thinking: "Ha, [PM] Løkke's got a problem! He'll have to sort that out himself."<br />
+<span class="highlight">{At The Social Democrats'}, party leader Mette Frederiksen has largely been silent and flown under the radar as much as possible. It seems as if she's thinking: "Hah, [PM] Løkke's got a problem! He'll have to sort that out himself."<br />
 {Her call.} If this is modern responsbility to the Social Democrats in the Autumn of 2015, {that's her call}. But not a whole lot of proposals for solutions have been seen from that camp!</span>
 
 It's become so modern in politics to say that you *clearly* want something or other.<br />
@@ -245,7 +245,30 @@ We would like for Denmark to become---relative to its size---one of the world's 
 
     Furthermore, they have reallocated a lot of the foreign aid to pay for the refugee situation back at home. As a matter of fact, *[Denmark is now the biggest recipient of its own foreign aid][biggest-recipient]*.
 
+*That* will make it clear that we are serious. It will show that when we change the conditions for people who come here---stop integrating [them] and instead help temporarily---yes, then we'll increase the aid to {nærområderne} significantly in return. And that will Denmark clout in the UN and EU and with very wealthy oil states in not just suggesting, but *demanding* that they increase the aid!
 
+And then things will really start rolling!
+
+We help the most by helping them where most people already are.<br />
+In their home countries or in {nærområderne}.<br />
+<span class="highlight">Whether we help seven, 10 or 20 more on the [dollar] by helping them there and not here is frankly immaterial. That's a fight over numbers you argue about for a long time</span>.
+
+<span class="highlight">But that it's *a lot more* that we'll be helping for each [dollar] used is beyond any doubt.</span>
+
+<span class="highlight">And once for all, let's stop with making this a discussion about whether you're good or evil. Whether you're loving thy neighbour.</span>
+
+The Red-Greens, Socialist People's Party, and Social Liberals can fight amongst themselves about who's the purest in the eyes of the Lord, and who most swiftly and effectively can <span class="highlight">devastate</span> Denmark socially, politically, culrurally, and economically by opening their arms and inviting everyone up here---refugees and migrants among them.<br />
+{"C'mon-over!"}
+
+While they fight, I suggest that all other parties solve this in a way that both secures Denmark and the Danes for the future and effectively helps more of the people <span class="highlight">who are in need</span>.
+
+Help in {nærområderne}. Works. If anyone had any doubt, [weekly newspaper] Weekendavisen documented it in an article[^wa] last Friday. A report from two universities in Great Britain and the US documents that refugees both stay in {områderne}, when sufficient aid is there, and that the welfare of {områderne} improves---even after peace has been restored, the camps have been shut down, and the Red Cross have gone home.
+
+[^wa]: {}
+
+That has to be what you call a win-win-win situation :) [sic]
+
+* * * *
 
 
 [source]: http://www.danskfolkeparti.dk/Årsmødetaler_tekst_video
