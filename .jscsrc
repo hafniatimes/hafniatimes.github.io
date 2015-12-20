@@ -22,7 +22,9 @@
     "disallowYodaConditions": true,
     "requireAlignedObjectValues": "all",
     "requireAlignedMultilineParams": 2,
-    // "requireCamelCaseOrUpperCaseIdentifiers": true,
+    // "requireCamelCaseOrUpperCaseIdentifiers": {
+    //     "strict": true
+    // },
     "requireCapitalizedComments": true,
     "requireCommaBeforeLineBreak": true,
     "requireLineBreakAfterVariableAssignment": true,
