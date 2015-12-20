@@ -18,8 +18,8 @@ htmlhint _site
 bundle exec scss-lint static/css/*.scss
 # SASS check
 bundle exec sass -c static/css/style.scss
-## jscs
-# jscs static/js/
+# jscs
+jscs static/js/
 ## jshint
 # jshint static/js/
 # csslint

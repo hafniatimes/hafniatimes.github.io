@@ -1,9 +1,7 @@
 {
     // jscs rules
     // ==========
-    "disallowEmptyBlocks": {
-        "allExcept": "comments"
-    },
+    "disallowEmptyBlocks": true,
     "disallowIdentifierNames": ["foo", "bar", "baz", "qux"],
     "disallowMixedSpacesAndTabs": true,
     "disallowMultipleSpaces": false,
@@ -23,6 +21,7 @@
     "disallowTrailingComma": true,
     "disallowYodaConditions": true,
     "requireAlignedObjectValues": "all",
+    "requireAlignedMultilineParams": 2,
     // "requireCamelCaseOrUpperCaseIdentifiers": true,
     "requireCapitalizedComments": true,
     "requireCommaBeforeLineBreak": true,
