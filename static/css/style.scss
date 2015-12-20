@@ -127,7 +127,10 @@ h5 {
             border: 1px solid $black;
             @include border-radius(5px);
 
-            &:hover { background-color: $grey; }
+            &:hover {
+                background-color: $greyHex;
+                background-color: $grey;
+            }
         }
 
         a { @extend %a; }
@@ -175,6 +178,7 @@ h5 {
             &,
             &:active,
             &:visited {
+                background-color: $greyHex;
                 background-color: $grey;
             }
 
@@ -194,6 +198,7 @@ h5 {
         blockquote {
             margin: $padding 0;
             padding: 0 $padding 0 $padding + $blockquoteBorder;
+            border-left: 3px solid $greyHex;
             border-left: 3px solid $grey;
         }
 
@@ -272,9 +277,13 @@ h5 {
 
         .embed { margin: $padding auto; }
 
-        .footnotes { border-top: $footnoteBorder solid $grey; }
+        .footnotes {
+            border-top: $footnoteBorder solid $greyHex;
+            border-top: $footnoteBorder solid $grey;
+        }
         hr {
             height: $footnoteBorder;
+            background: $greyHex;
             background: $grey;
             border: none;
         }

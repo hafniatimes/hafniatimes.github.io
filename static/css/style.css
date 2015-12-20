@@ -363,6 +363,7 @@ h5 {
     -moz-border-radius: 5px;
     border-radius: 5px; }
     .post .translations li:hover {
+      background-color: #EEE;
       background-color: rgba(215, 215, 215, 0.7); }
 .post h2 {
   font-size: 1.5em;
@@ -391,6 +392,7 @@ h5 {
   .post .updated.box a, .post .updated.box:active, .post .updated.box:visited {
     color: #555; }
 .post .post-content a, .post .post-content a:active, .post .post-content a:visited {
+  background-color: #EEE;
   background-color: rgba(215, 215, 215, 0.7); }
 .post .post-content a:hover {
   background-color: #FFA; }
@@ -399,6 +401,7 @@ h5 {
 .post .post-content blockquote {
   margin: 20px 0;
   padding: 0 20px 0 23px;
+  border-left: 3px solid #EEE;
   border-left: 3px solid rgba(215, 215, 215, 0.7); }
 .post .post-content li blockquote {
   margin: 20px; }
@@ -449,9 +452,11 @@ h5 {
 .post .post-content .embed {
   margin: 20px auto; }
 .post .post-content .footnotes {
+  border-top: 3px solid #EEE;
   border-top: 3px solid rgba(215, 215, 215, 0.7); }
 .post .post-content hr {
   height: 3px;
+  background: #EEE;
   background: rgba(215, 215, 215, 0.7);
   border: none; }
 
