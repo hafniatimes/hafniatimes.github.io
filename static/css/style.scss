@@ -281,10 +281,13 @@ h5 {
             border-top: $footnoteBorder solid $greyHex;
             border-top: $footnoteBorder solid $grey;
         }
+
         hr {
-            height: $footnoteBorder;
             background: $greyHex;
             background: $grey;
+
+            height: $footnoteBorder;
+
             border: none;
         }
     }

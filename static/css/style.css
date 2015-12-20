@@ -455,9 +455,9 @@ h5 {
   border-top: 3px solid #EEE;
   border-top: 3px solid rgba(215, 215, 215, 0.7); }
 .post .post-content hr {
-  height: 3px;
   background: #EEE;
   background: rgba(215, 215, 215, 0.7);
+  height: 3px;
   border: none; }
 
 hr.separator {
