@@ -24,9 +24,14 @@
     {% endif %}
     {% if page.image %}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta property="og:image" content="{{ site.url }}{{ base_relative }}assets/{{ page.slug }}/image.png" />
+        <meta property="og:image:secure_url" content="{{ site.url }}{{ base_relative }}assets/{{ page.slug }}/image.png" />
+        <meta property="og:image" content="{{ site.url }}{{ base_relative }}assets/{{ page.slug }}/hotlink-ok/image.png" />
     {% else %}
         <meta name="twitter:card" content="summary" />
-        <meta property="og:image" content="{{ site.url }}/static/icons/identicon.png" />
+        <meta property="og:image:secure_url" content="{{ site.url }}/static/icons/hotlink-ok/identicon.png" />
+        <meta property="og:image" content="{{ site.url }}/static/icons/hotlink-ok/identicon.png" />
+        <meta property="og:image:width" content="420" />
+        <meta property="og:image:height" content="420" />
     {% endif %}
+        <meta property="og:image:type" content="image/png" />
         <meta property="og:locale" content="{{ page_language }}" />
