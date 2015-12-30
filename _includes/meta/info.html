@@ -24,6 +24,7 @@
     {% endif %}
     {% if page.image %}
         <meta name="twitter:card" content="summary_large_image" />
+        <meta name="thumbnail" content="{{ site.url }}{{ base_relative }}assets/{{ page.slug }}/hotlink-ok/image.png" />
         <meta property="og:image:secure_url" content="{{ site.url }}{{ base_relative }}assets/{{ page.slug }}/image.png" />
         <meta property="og:image" content="{{ site.url }}{{ base_relative }}assets/{{ page.slug }}/hotlink-ok/image.png" />
     {% else %}
