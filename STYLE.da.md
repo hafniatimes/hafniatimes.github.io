@@ -14,6 +14,7 @@ Ordbog
  ligebehandling    | ligestilling
  migrantarbejder   | gæste-/fremmedarbejder
  redigér           | rediger
+ USAs              | USA’s
 
 Undlad generelt at gengive **spinbegreber** såsom
 
