@@ -340,11 +340,28 @@ Monolithic concepts like “Internet” and “Technology” are capitalized, pa
 
 Tweets
 ------
+
+### Linking to Articles ###
+
 Tweets for and about a Hafnia Times article should read:
 
->"Article Title" link [optional Twitter-uploaded image]
+>“Article Title” link [optional Twitter-uploaded image]
 
 Do not use a colon to point towards the link.
+
+### Breaking ###
+
+Only use the term “Breaking” if you are the only one breaking the news.
+
+Do not preface your tweets
+
+> Breaking:
+
+Instead, you can go with something like
+
+> Just in:
+
+Capitalize at your own discretion.
 
 Finance
 -------
