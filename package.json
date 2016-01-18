@@ -1,6 +1,6 @@
 {
   "name": "style",
-  "version": "1.1.2",
+  "version": "1.1.4",
   "description": "Linting packages for webdev workflow.",
   "keywords": [
     "linting"
@@ -13,8 +13,8 @@
   "devDependencies": {
     "csslint":    "~0.10.0",
     "htmlhint":   "~0.9.6",
-    "jshint":     "~2.8.0",
-    "jscs":       "~2.5.1",
+    "jshint":     "~2.9.1",
+    "jscs":       "~2.8.0",
     "esprima-fb": "*",
     "write-good": "~0.9.1",
     "hicat":      "*"
