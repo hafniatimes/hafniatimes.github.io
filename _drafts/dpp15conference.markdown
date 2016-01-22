@@ -65,7 +65,7 @@ There are those who tell us it can't be done.. [sic]<br />
 There are those who tell us we {don't have the right}.<br />
 Journalists who report from the border of Hungary as if border cops are villains and bandits, and stone-throwing youths are {heroic freedom fighters}.
 
-<span class="highlight">UN's Ban Ki Moon who accuses Hungary of treating people unacceptably. Is it the stone-throwing youths he's thinking of? Let me make it clear: you can accuse Hungary of many things. But they won't receive any critique for securing their borders from here. Every country has the right to defend its borders and decide who to open the doors for!</span>
+<span>UN's Ban Ki Moon who accuses Hungary of treating people unacceptably. Is it the stone-throwing youths he's thinking of? Let me make it clear: you can accuse Hungary of many things. But they won't receive any critique for securing their borders from here. Every country has the right to defend its borders and decide who to open the doors for!</span>{: .highlight}
 
 EU's and thereby Denmark's challenges basically come from two things:
 
@@ -75,7 +75,7 @@ In Danish People's Party we already knew in 2001 that it was just {hand-waving}.
 It wouldn't work.<br />
 And indeed it hasn't. And now the problems are {overwhelming} Europe.
 
-<span class="highlight">*The other* cause is German and is named Chancellor Angela Merkel.</span>
+<span>*The other* cause is German and is named Chancellor Angela Merkel.</span>{: .highlight}
 
 Two weeks ago, Merkel decided to open the border Germany's borders wide open.<br />
 But Germany knew that a part of the challenge was passed on to other countries---including Denmark.<br />
@@ -94,7 +94,7 @@ When we suddenly see {hordes}[^hob] people who refuse to be registered and yel t
 
 [^hob]: The Danish word used is "hob"---not "hord".
 
-<span class="highlight">And we know that some of them are picked up by immigrant[^indvandrer] gangs...</span>
+<span>And we know that some of them are picked up by immigrant[^indvandrer] gangs...</span>{: .highlight}
 
 [^indvandrer]: This is translated from "indvandrer", which technically is Danish for "immigrant", but colloquially refers to brown people, native citizens or not.
 
@@ -110,8 +110,8 @@ The thing is that what has happened for years since Denmark's {Schengen membersh
 
 [^trains]: During the first days of the new wave of refugees and migrants, the authorities were reluctant to allow people to travel to Sweden by train, in part because it could be considered people-smuggling. They soon changed their mind to allow them to pass through.
 
-<span class="highlight">{At The Social Democrats'}, party leader Mette Frederiksen has largely been silent and flown under the radar as much as possible. It seems as if she's thinking: "Hah, [PM] Løkke's got a problem! He'll have to sort that out himself."<br />
-{Her call.} If this is modern responsbility to the Social Democrats in the Autumn of 2015, {that's her call}. But not a whole lot of proposals for solutions have been seen from that camp!</span>
+<span>{At The Social Democrats'}, party leader Mette Frederiksen has largely been silent and flown under the radar as much as possible. It seems as if she's thinking: "Hah, [PM] Løkke's got a problem! He'll have to sort that out himself."<br />
+{Her call.} If this is modern responsbility to the Social Democrats in the Autumn of 2015, {that's her call}. But not a whole lot of proposals for solutions have been seen from that camp!</span>{: .highlight}
 
 It's become so modern in politics to say that you *clearly* want something or other.<br />
 So I want to {say *clearly*}, so it can be heard in Aalborg, where the Social Democrats are congregated these days:
@@ -130,7 +130,7 @@ I hope you now see how Germany, of all!---and Holland and Poland---with more on 
 
 [^dashes]: Mr Kristian Thulesen Dahl is a fan of parenthetical thinking, so you'll see cases of m-dashes nested inside em dashes. I use em dashes without surrounding spaces in general, and em dashes *with* surrounding spaces, when they go inside em dashes.
 
-Even in today's Parliament in the wake of a few weeks of experience with {extra pressure} on the border, Danish People's Party is still the only party on [parliament building] Christiansborg that insists on border control. <span class="highlight">And even we are 37 MPs against 142[^parliament]---a slightly uneven fight---we press on.</span>
+Even in today's Parliament in the wake of a few weeks of experience with {extra pressure} on the border, Danish People's Party is still the only party on [parliament building] Christiansborg that insists on border control. <span>And even we are 37 MPs against 142[^parliament]---a slightly uneven fight---we press on.</span>{: .highlight}
 
 [^parliament]: Danish parliament has 179 seats total. DPP have 37.
 
@@ -148,17 +148,17 @@ But we also need to do more than that!
 
 * * * *
 
-<span class="highlight">We want Denmark to COMPLETELY {revamp} our asylum policy.[^asyl]<br />
-We want to do that fundamentally and comprehensively. We need to rethink it.</span> It's good that we've dealt with parts of the foreigner policy[^told-ya]. Amongst other things, we've lowered the benefits you get when you arrive in Denmark. <span class="highlight">But we need to keep going!</span>
+<span>We want Denmark to COMPLETELY {revamp} our asylum policy.[^asyl]<br />
+We want to do that fundamentally and comprehensively. We need to rethink it.</span>{: .highlight} It's good that we've dealt with parts of the foreigner policy[^told-ya]. Amongst other things, we've lowered the benefits you get when you arrive in Denmark. <span>But we need to keep going!</span>{: .highlight}
 
 [^asyl]: Asylum policy, like foreigner, immigrant, refugee, and integration policy, is basically used interchangeably.
 [^told-ya]: See?
 
-For this reason, {I took last week} to encouraging a national compromise on how we help <span class="highlight">actual refugees</span> for the money we spend while <span class="highlight">ensuring the safe-keeping of the Denmark we know</span>.
+For this reason, {I took last week} to encouraging a national compromise on how we help <span>actual refugees</span>{: .highlight} for the money we spend while <span>ensuring the safe-keeping of the Denmark we know</span>{: .highlight}.
 
-<span class="highlight">A Denmark that's safe for all Danes.<br />
+<span>A Denmark that's safe for all Danes.<br />
 A Denmark for the foreigners we ourselves choose to admit, and who can contribute to a positive development of Denmark.<br />
-A Denmark where we continue to have resources for care and support, where we have resources to develop our core welfare for the sick and elderly and vulnerable. Where there is safety!.[^safety]</span>
+A Denmark where we continue to have resources for care and support, where we have resources to develop our core welfare for the sick and elderly and vulnerable. Where there is safety!.[^safety]</span>{: .highlight}
 
 [^safety]: My Danish-to-English dictionary does a good job of explaining the Danishness of the Danish word for *"safety"*, *"tryghed"*, with its three suggestions:
 
@@ -170,10 +170,10 @@ A Denmark where we continue to have resources for care and support, where we hav
 
     See [BBC][] and [Visit Denmark][] on the concept of hygge. Visit Denmark use the word "cosiness", which is important to the idea of safety and the factors that threatens to upset the blissful status quo.
 
-<span class="highlight">This is why Danish People's Party are here:<br />
+<span>This is why Danish People's Party are here:<br />
 To keep Denmark Danish.<br />
 To preserve the welfare society generations before us have built.<br />
-To preserve a society where we can fundamentally walk in safety and trust each other.</span>
+To preserve a society where we can fundamentally walk in safety and trust each other.</span>{: .highlight}
 
 For a number of years, there has been a counterproductive conflation of immigration policy and asylum policy. Refugees staying temporarily have been treated as immigrants---they've been given three-year immigration programs, courses in Danish, and a legal right to housing[^housing].<br />
 All of it's been {helped along} by parties and {employers' associations} who believe that refugees would be an amazing contribution to the labour market.
@@ -186,23 +186,23 @@ All of it's been {helped along} by parties and {employers' associations} who bel
 
 But that's not how it works in the real world!
 
-For the numbers we know refute this: a survey from the Confederation of Danish Employers (DA) from March shows that among the Syrians who've immigrated to Denmark for the last couple of years, only 13 per cent are actually employed after 4 years in Denmark, while Iraqis and Iranians' job frequency is actually a tad higher. The job frequency of <span class="highlight">the Danes</span>, meanwhile, is around 80 ...
+For the numbers we know refute this: a survey from the Confederation of Danish Employers (DA) from March shows that among the Syrians who've immigrated to Denmark for the last couple of years, only 13 per cent are actually employed after 4 years in Denmark, while Iraqis and Iranians' job frequency is actually a tad higher. The job frequency of <span>the Danes</span>{: .highlight}, meanwhile, is around 80 ...
 
 And all focus has been on integration, not for them to head home, when the opportunity is actually there.
 
 {That's no good!}
 
-<span class="highlight">Refugees who've come here should not be itnegrated, they should not be put in years-long integration courses---and their legal right to housing --- which means that they skip the queue on housing---should be removed.</span>
+<span>Refugees who've come here should not be itnegrated, they should not be put in years-long integration courses---and their legal right to housing --- which means that they skip the queue on housing---should be removed.</span>{: .highlight}
 
-Refugees who come to Denmark should go home as soon as the conditions in their home countries and {nærområder} allow it. For some, this will happen fast, for others, it <span class="highlight">can</span> take years.
+Refugees who come to Denmark should go home as soon as the conditions in their home countries and {nærområder} allow it. For some, this will happen fast, for others, it <span>can</span>{: .highlight} take years.
 
-<span class="highlight">While they're in Denmark, then must live in asylum centres run by the state.</span>
+<span>While they're in Denmark, then must live in asylum centres run by the state.</span>{: .highlight}
 
-<span class="highlight">The municipalities are hard-pressed as it is. Additional costs for housing and integration are squeezing the municipalities' ability to help the Danes who need help ..</span>
+<span>The municipalities are hard-pressed as it is. Additional costs for housing and integration are squeezing the municipalities' ability to help the Danes who need help ..</span>{: .highlight}
 
-<span class="highlight">If we go ahead with the change that we're proposing, we ensure that refugees know that they can find shelter here in Denmark from persecution, war, and destruction. But they *can't* get lasting residence, they won't become a part of Denmark, our country is not a new, lasting destination for them.</span>
+<span>If we go ahead with the change that we're proposing, we ensure that refugees know that they can find shelter here in Denmark from persecution, war, and destruction. But they *can't* get lasting residence, they won't become a part of Denmark, our country is not a new, lasting destination for them.</span>{: .highlight}
 
-<span class="highlight">We don't know whether the developing situation means we'll get more refugees for a while. But if our change is passed, it's probably doubtful.</span>
+<span>We don't know whether the developing situation means we'll get more refugees for a while. But if our change is passed, it's probably doubtful.</span>{: .highlight}
 
 When the new reality dawns on the people-smugglers[^menneskesmugler] and the people, who aren't actually fleeing, but taking advantage of the existing refugee situation to replace a dismal and difficult life in Africa of the Middle East with a better one in Denmark, they'll probably not try to come here. It doesn't seem to be temporary protection these people are looking for, even though it would probably be desireable enough for many refugees.[^real-refugees]
 
@@ -236,7 +236,7 @@ It was with this paradox in midn that I last week encouraged the rest of Parliam
 
 Denmark will become the world's biggest contributor to {nærområderne}!
 
-<span class="highlight">It's part of our Danish set of values to help people in need. We Danes have always done that. It has also always been the policy of Danish People's Party.</span>
+<span>It's part of our Danish set of values to help people in need. We Danes have always done that. It has also always been the policy of Danish People's Party.</span>{: .highlight}
 
 This is why we should increase the aid to {nærområderne}!<br />
 We would like for Denmark to become---relative to its size---one of the world's biggest contributors.[^biggest-contributor]
@@ -251,16 +251,16 @@ And then things will really start rolling!
 
 We help the most by helping them where most people already are.<br />
 In their home countries or in {nærområderne}.<br />
-<span class="highlight">Whether we help seven, 10 or 20 more on the [dollar] by helping them there and not here is frankly immaterial. That's a fight over numbers you argue about for a long time</span>.
+<span>Whether we help seven, 10 or 20 more on the [dollar] by helping them there and not here is frankly immaterial. That's a fight over numbers you argue about for a long time</span>{: .highlight}.
 
-<span class="highlight">But that it's *a lot more* that we'll be helping for each [dollar] used is beyond any doubt.</span>
+<span>But that it's *a lot more* that we'll be helping for each [dollar] used is beyond any doubt.</span>{: .highlight}
 
-<span class="highlight">And once for all, let's stop with making this a discussion about whether you're good or evil. Whether you're loving thy neighbour.</span>
+<span>And once for all, let's stop with making this a discussion about whether you're good or evil. Whether you're loving thy neighbour.</span>{: .highlight}
 
-The Red-Greens, Socialist People's Party, and Social Liberals can fight amongst themselves about who's the purest in the eyes of the Lord, and who most swiftly and effectively can <span class="highlight">devastate</span> Denmark socially, politically, culrurally, and economically by opening their arms and inviting everyone up here---refugees and migrants among them.<br />
+The Red-Greens, Socialist People's Party, and Social Liberals can fight amongst themselves about who's the purest in the eyes of the Lord, and who most swiftly and effectively can <span>devastate</span>{: .highlight} Denmark socially, politically, culrurally, and economically by opening their arms and inviting everyone up here---refugees and migrants among them.<br />
 {"C'mon-over!"}
 
-While they fight, I suggest that all other parties solve this in a way that both secures Denmark and the Danes for the future and effectively helps more of the people <span class="highlight">who are in need</span>.
+While they fight, I suggest that all other parties solve this in a way that both secures Denmark and the Danes for the future and effectively helps more of the people <span>who are in need</span>{: .highlight}.
 
 Help in {nærområderne}. Works. If anyone had any doubt, [weekly newspaper] Weekendavisen documented it in an article[^wa] last Friday. A report from two universities in Great Britain and the US documents that refugees both stay in {områderne}, when sufficient aid is there, and that the welfare of {områderne} improves---even after peace has been restored, the camps have been shut down, and the Red Cross have gone home.
 
