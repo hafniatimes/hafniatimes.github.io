@@ -158,6 +158,15 @@ General
  slaveholder           | slave owner
  use                   | usage
 
+### Donts ###
+
+Don’t use these words in general:
+
+* honour killing
+* problematic
+* racial profiling
+* tragedy
+
 ### Danish Stuff ###
 
  Right       | Wrong
@@ -174,14 +183,6 @@ General
 When the gender is unknown, use the pronoun “they”—not “s/he”.
 
 Do not use “Mrs” and “missus”.
-
-### Donts ###
-
-Don’t use these words in general:
-
-* problematic
-* racial profiling
-* tragedy
 
 #### Specious Geography ####
 

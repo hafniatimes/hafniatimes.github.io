@@ -76,6 +76,7 @@ Undlad **ladede udtryk**, hvis anvendelse ikke begrundes i artiklen:
 ### Andre Frarådede Begreber ###
 
 * (-)krænke/-r/-t/-lse
+* æresdrab
 
 ### Typiske Forvekslinger ###
 
