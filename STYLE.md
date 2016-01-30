@@ -467,6 +467,10 @@ Use **immigrants** in general and avoid **expatriots**.
 
 You can use **expatriots** to draw an explicit distinction between immigrants who intend permanent residence to a expatriots whose future residency plans are significantly more ambiguous.
 
+Migrants vs Refugees
+--------------------
+<http://www.unhcr.org/55df0e556.html>
+
 Reporting on Politics
 ---------------------
 Be sure to distinguish between:
@@ -502,7 +506,7 @@ Avoid nouns defining people by traits, and generally nounified adjectives:
  illegal( immigrant)s                | people living [somewhere] illegally
  men, women                          | males, females
 
-Be particularly careful with referring to people “victims”.
+Be particularly careful with referring to people as “victims”; “survivors” is generally an adequate substitute.
 
 By using an adjective rather than a noun for your description, you describe a trait instead of defining an identity.
 
