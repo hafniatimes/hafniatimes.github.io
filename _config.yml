@@ -2,7 +2,7 @@ name: Hafnia Times
 url: https://hafniatimes.com
 shorturl: http://hafnia.co
 repo: https://github.com/hafniatimes/hafniatimes.github.io
-data_source: data
+data_dir: data
 timezone: Europe/Copenhagen
 
 # Settings # # # # # # # # # # #
@@ -38,10 +38,9 @@ kramdown:
     auto_id_stripping: false
     auto_ids: true
     input: GFM
-    syntax_highlighter: pygments
+    syntax_highlighter: rouge
     toc_levels: 3..6
-redcarpet:
-    extensions: ["smart", "footnotes", "tables"]
+highlighter: rouge
  # # # # # # # # # # # # # # # # # # # # # # # # #
 
 gems:
