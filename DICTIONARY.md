@@ -46,11 +46,11 @@ Danish
  blå blok      | the right coalition
  rød blok      | the left coalition
  Folketing     | parliament
+ x-ordfører    | spokesperson on X
  partileder    | party leader
  partiformand  | party chair(wo)man
- x-ordfører    | spokesperson on X
- værdiordfører | spokesperson on values
  udvalg        | committee
+ værdiordfører | spokesperson on values
 
 #### Ministers ####
 
