@@ -10,6 +10,7 @@ Danish
  Danish              | English
 :--------------------|:-------------------
  aflytning           |  wiretapping
+ aktindsigt          |  Freedom of Information request
  demonstration       |  protest
  indvandringspolitik |  immigration policy
  indvandrer          |  immigrant
