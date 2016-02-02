@@ -56,25 +56,10 @@ Danish
 
  Danish                     | English
 :---------------------------|:-------------------
- Beskæftigelsesminister     | employment minister
- Erhvervs- og vækstminister | business and growth minister
- Finansminister             | finance minister
- Forsvarsminister           | defence minister
- Justitsminister            | justice minister
- Kirkeminister              | ecclesiastical minister
- Klima-, energi- og miljøminister | climate, energy, and building minister
- Kulturminister             | culture minister
- Miljøminister              | environment minister
- By-, bolig- og landdistriktsminister | housing, urban, and rural minister
- Børn-, ligestillings-, integrations- og socialminister | children's, gender-equality, integration, and social minister
- Fødevare-, landsbrugs- og fiskeriminister | food, agriculture, and fishery minister
- Sundheds- og forebyggelsesminister | health minister
- Skatteminister             | taxation minister
- Transportminister          | transport minister, transportation
- Uddannelses- og forskningsminister | higher-education and science minister
- Udenrigsminister           | foreign minister
- Undervisningsminister      | education minister
- Økonomi- og indenrigsminister | economic minister
+ Ministry of X              | ministry of x
+ x minister                 | X Minister, minister of x
+
+For the full list of ministries and ministers, consult [the index of the government][ministers].
 
 #### Committees ####
 
@@ -157,5 +142,6 @@ Read more on the Danish court system [here][courts] and [here][wiki-courts].
 
 
 [committees]: http://www.thedanishparliament.dk/Committees_and_delegations/Committees.aspx
+[ministers]: http://www.thedanishparliament.dk/Members/The_Government.aspx
 [courts]: http://www.domstol.dk/om/otherlanguages/english/Pages/default.aspx
 [wiki-courts]: https://en.wikipedia.org/wiki/Courts_of_Denmark
