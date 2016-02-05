@@ -2,6 +2,7 @@
 .sass-cache/
 _site/
 node_modules/
+.jekyll-metadata
 Gemfile.lock
 npm-debug.log
 TODO.md
