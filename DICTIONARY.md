@@ -11,9 +11,12 @@ Danish
 :--------------------|:-------------------
  aflytning           |  wiretapping
  aktindsigt          |  Freedom of Information request
+ beslutningsforslag  |  resolution
  demonstration       |  protest
  indvandringspolitik |  immigration policy
  indvandrer          |  immigrant
+ lov (vedtaget)      |  act
+ lovforslag          |  bill
  meningsmåling       | (opinion) poll
  overvågning         |  surveillance
  privatdata, privatliv, privacy | privacy
