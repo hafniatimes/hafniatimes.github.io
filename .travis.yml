@@ -28,7 +28,7 @@ before_script:
   - bundle-audit update
 
 script:
-  - bundle exec jekyll build --trace
+  - bundle exec jekyll build --profile --trace
 
 after_script:
   - bundle-audit check
