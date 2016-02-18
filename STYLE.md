@@ -18,6 +18,7 @@ An excerpt from some of the [examples][oed]:
  ibid                 | ibid.
  90s, CDs, dos, donts | Plural apostrophes, except for disambiguation
  Jr, Sr (w/o comma)   | Jr., Sr. (w/ comma)
+ jewelry              | jewellery
 
 Formatting
 ----------
