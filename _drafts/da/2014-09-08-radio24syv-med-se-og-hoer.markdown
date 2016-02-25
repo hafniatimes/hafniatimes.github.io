@@ -20,6 +20,7 @@ Programmets vinkel---"de kan da bare lade være"---var i sig selv påfaldende[^d
 >En gruppe Hollywood-kendisser er i oprør. Intime billeder, de har fået taget af sig selv, er sluppet ud på internettet. Det er som regel en fordel for de kendte, når de kan ses uden tøj på - det mener Se & Hørs chefredaktør.
 
 ### Første Del ###
+
 Forud for ... om ...
 
 #### Interviewet ####
@@ -79,6 +80,7 @@ Forud for ... om ...
 **(Continued.)**
 
 **K:** Mindst hundrede kvindelige skuespil---
+
 
 [^link]: [Link][link] til programside. [Direkte link][direct-link]; [mirror][mirror].
 [^df]: Logikken er påfaldende lig [Dansk Folkepartis][df] om kvinder, der overfaldes og chikaneres på grund af deres hovedtørklæder.
