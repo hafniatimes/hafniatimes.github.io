@@ -9,6 +9,8 @@ updated: true
 slug: v-regering
 categories: [da, articles]
 redirect_from: [/da/articles/2015/06/29/regering.html]
+
+lang: da
 ---
 Her følger en læselig redegørelse for de nye ministerier og deres ressortområder fra [Statsministeriets hjemeside][pdf].
 

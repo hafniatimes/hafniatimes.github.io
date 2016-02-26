@@ -8,8 +8,7 @@ embedded_tweets: true
 slug: haevet-uber-loven
 categories: [da, articles]
 
-layout: post
-author: ndarville
+lang: da
 ---
 > **[Taxilovens § 1][taxiloven]:** Den, der udfører erhvervsmæssig personbefordring (taxikørsel, limousinekørsel, sygetransport og offentlig servicetrafik) med et dansk indregistreret motorkøretøj indrettet til befordring af højst 9 personer, føreren medregnet, skal have tilladelse hertil.
 

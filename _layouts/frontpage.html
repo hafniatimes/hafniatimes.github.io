@@ -16,9 +16,9 @@ section: frontpage
         <h2>{{ u.articles }}</h2>
 
         <ul>
-        {% for post in site.posts %}{% unless post.lang != page.lang %}
+        {% for post in site.posts %}{% if post.lang == page.lang %}
             <li><time class="article-date" datetime="{{ post.date }}" is="time-ago" title="{{ post.date }}">{{ post.date | date_to_string }}</time> <span class="article-link"><a href="{{ post.url }}">{{ post.title | markdownify | strip_html }}</a></span></li>
-        {% endunless %}{% endfor %}
+        {% endif %}{% endfor %}
         </ul>
     </section>
 {% endif %}
