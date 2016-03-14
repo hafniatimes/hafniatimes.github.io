@@ -26,6 +26,7 @@
     //     "strict": true
     // },
     "requireCapitalizedComments": true,
+    "requireCapitalizedConstructorsNew": true,
     "requireCommaBeforeLineBreak": true,
     "requireLineBreakAfterVariableAssignment": true,
     "requireSemiColons": true,
@@ -83,9 +84,13 @@
     // React.js support
     // ================
     "disallowParenthesesAroundArrowParam": true,
+    "disallowSpacesInsideTemplateStringPlaceholders": true,
     "esprima": "esprima-fb",
     "fileExtensions": [".jsx"],
     "requireArrowFunctions": true,
+    "requireImportAlphabetized": false,
+    "requireNewlineBeforeSingleStatementsInIf": false,
     "requireShorthandArrowFunctions": true,
+    "requireSpaceBeforeDestructuredValues": true,
     "requireTemplateStrings": false
 }
