@@ -126,6 +126,13 @@ translations:
     _links:
         da: "Andre danske artikler om Danmark"
         en: "Other English articles on Denmark"
+    404:
+        da:
+            title: "Side Ikke Fundet (404)"
+            text: "Siden du søgte fandtes ikke her. Beklager meget."
+        en:
+            title: "Page Not Found (404)"
+            text: "The page you were looking for is not here. Sorry."
     navigation:
         da:
             code: "Kode"
