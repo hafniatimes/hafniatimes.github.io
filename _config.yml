@@ -81,6 +81,7 @@ exclude:
     - "*.log"
     - "*.md"
     - "Gemfile*"
+    - "identicon.png"
     - "package.json"
     - "data/links/"
     - "node_modules/"
@@ -263,6 +264,7 @@ prose:
     ignore:
         - _config.yml
         - .csslintrc
+        - .gitattributes
         - .gitignore
         - .htaccess
         - .jscsrc
