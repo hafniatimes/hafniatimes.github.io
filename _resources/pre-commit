@@ -9,7 +9,7 @@ bundle exec jekyll build --trace
 
 # bundle exec bundle-audit
 ## htmlproof URLs
-# bundle exec htmlproof --check-html _site/
+# bundle exec htmlproofer --check-html _site/
 # htmlhint
 htmlhint _site
 # scss-lint
