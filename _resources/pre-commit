@@ -12,19 +12,17 @@ bundle exec jekyll build --trace
 # bundle exec htmlproofer --check-html _site/
 # htmlhint
 htmlhint _site
-# scss-lint
-bundle exec scss-lint static/css/*.scss
+# stylelint
+stylelint static/css/*.scss --syntax scss
 # SASS check
 bundle exec sass -c static/css/style.scss
 # jscs
 jscs static/js/
 ## jshint
 # jshint static/js/
-# csslint
-csslint --format=compact --quiet static/css/style.css
 # kwalify link .yml
 bundle exec kwalify -lf .link-lint.yml data/links/da.yml && bundle exec kwalify -lf .link-lint.yml data/links/en.yml
-# mdl
-mdl -c .mdlrc _posts/*.markdown _posts/*/*.markdown ./*.md
+# markdownlint
+markdownlint _posts/*.markdown _posts/*/*.markdown ./*.md
 ## Git
 git diff --check # Show whitespace errors

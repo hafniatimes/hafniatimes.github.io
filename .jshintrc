@@ -11,6 +11,7 @@
     "quotmark": "double",
 // Exclude warnings
     "-W008": false, // Forbid leading decimal point
+    "-W069": false, // Encourage dot notation
     "-W083": false, // Forbid functions in loops
     "-W101": false  // Enforce line length
 }

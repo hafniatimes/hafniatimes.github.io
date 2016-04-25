@@ -35,15 +35,13 @@ after_script:
   - bundle exec htmlproofer --check-html --file-ignore=$HTML_EXCLUDES $HTML_FOLDER
   - htmlhint $HTML_FOLDER
 # - tidy -config .tidy-config && tidy -e -q $HTML_FOLDER/index.html
-  - bundle exec scss-lint $STYLE_FOLDER/*.scss
+  - stylelint $STYLE_FOLDER/*.scss --syntax scss
   - bundle exec sass -c static/css/style.scss
-  - csslint --format=compact --quiet --exclude-list=$CSS_EXCLUDES $CSS_FILES
-  - csslint --quiet --errors=bulletproof-font-face,gradients,fallback-colors,text-indent --exclude-list=$CSS_EXCLUDES $CSS_FILES
   - jscs $JS_FOLDER
   - jshint $JS_FOLDER
   - bundle exec kwalify -lf .link-lint.yml data/links/da.yml && bundle exec kwalify -lf .link-lint.yml data/links/en.yml
   - shellcheck _resources/pre-commit
-  - gem install --quiet mdl && mdl -c .mdlrc _posts/*.markdown _posts/*/*.markdown *.md
+  - markdownlint _posts/*.markdown _posts/*/*.markdown *.md
 
 notifications:
   email:

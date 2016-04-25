@@ -17,8 +17,10 @@
         "beforeOpeningRoundBrace": true
     },
     "disallowSpacesInCallExpression": true,
+    "disallowSpacesInsideImportedObjectBraces": true,
     "disallowSpacesInsideParentheses": true,
     "disallowTrailingComma": true,
+    "disallowUnusedVariables": true,
     "disallowYodaConditions": true,
     "requireAlignedObjectValues": "all",
     "requireAlignedMultilineParams": 2,
@@ -76,13 +78,15 @@
     "requireSpaceBetweenArguments": true,
     "requireSpacesInConditionalExpression": true,
     "requireSpacesInForStatement": true,
+    "requireUseStrict": false,
     "validateAlignedFunctionParameters": false,
     // "validateIndentation": 4,
     // "validateLineBreaks": "CRLF",
     "validateQuoteMarks": "\"",
 
-    // React.js support
-    // ================
+    // ES6
+    // ===
+    "disallowArrayDestructuringReturn": false,
     "disallowParenthesesAroundArrowParam": true,
     "disallowSpacesInsideTemplateStringPlaceholders": true,
     "esprima": "esprima-fb",
@@ -91,6 +95,7 @@
     "requireImportAlphabetized": false,
     "requireNewlineBeforeSingleStatementsInIf": false,
     "requireShorthandArrowFunctions": true,
+    ""
     "requireSpaceBeforeDestructuredValues": true,
     "requireTemplateStrings": false
 }
