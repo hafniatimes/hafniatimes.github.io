@@ -95,7 +95,6 @@
     "requireImportAlphabetized": false,
     "requireNewlineBeforeSingleStatementsInIf": false,
     "requireShorthandArrowFunctions": true,
-    ""
     "requireSpaceBeforeDestructuredValues": true,
     "requireTemplateStrings": false
 }
