@@ -22,7 +22,7 @@
     "hicat"      : "*"
   },
   "engineStrict": true,
-  "engines": {"node": ">= 6.0.0"},
+  "engines": {"node": ">= v5.10.1"},
   "scripts": {
     "check-html" : "htmlproofer --check-html --only-4xx",
     "lint-html"  : "htmlhint",
