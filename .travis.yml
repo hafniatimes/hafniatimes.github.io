@@ -6,6 +6,7 @@ rvm:
 
 env:
   global:
+    - NODE_VERSION="5.10.1"
     - HTML_FOLDER="_site/"
     - HTML_EXCLUDES=""
     - STYLE_FOLDER="static/css"
@@ -20,6 +21,7 @@ before_install:
 install:
   - bundle install --verbose
   - npm install
+  - n $NODE_VERSION
 # - brew install shellcheck # && brew tap homebrew/dupes && brew install homebrew/dupes/tidy --HEAD
 
 before_script:
