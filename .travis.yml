@@ -32,7 +32,7 @@ script:
 
 after_script:
   - bundle exec bundle-audit check
-  - bundle exec htmlproofer --check-html --file-ignore=$HTML_EXCLUDES $HTML_FOLDER
+# - bundle exec htmlproofer --check-html --file-ignore=$HTML_EXCLUDES $HTML_FOLDER
   - htmlhint $HTML_FOLDER
 # - tidy -config .tidy-config && tidy -e -q $HTML_FOLDER/index.html
   - stylelint $STYLE_FOLDER/*.scss --syntax scss
