@@ -1,6 +1,6 @@
 {
   "name": "style",
-  "version": "2.2.0",
+  "version": "2.2.2",
   "description": "Linting and guidelines for webdev workflow.",
   "keywords": [
     "linting"
@@ -19,7 +19,8 @@
     "esprima-fb" : "*",
     "markdownlint-cli" : "0.1.0",
     "write-good" : "~0.9.1",
-    "hicat"      : "*"
+    "hicat"      : "*",
+    "n"          : "*"
   },
   "engineStrict": true,
   "engines": {"node": ">= v5.10.1"},
