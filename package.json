@@ -21,15 +21,15 @@
     "write-good" : "~0.9.1",
     "hicat"      : "*"
   },
+  "engineStrict": true,
+  "engines": {"node": ">= 6.0.0"},
   "scripts": {
     "check-html" : "htmlproofer --check-html --only-4xx",
     "lint-html"  : "htmlhint",
     "lint-css"   : "stylelint",
     "lint-scss"  : "stylelint --syntax scss",
     "lint-bash"  : "shellcheck",
-    "lint-md"    : "markdownlint",
-    "percy-snap" : "percy snapshot",
-    "percy-snap-multi": "percy snapshot --widths '320, 768, 1080' _site/"
+    "lint-md"    : "markdownlint"
    },
   "license": "MIT",
   "private": true
