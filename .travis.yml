@@ -24,6 +24,8 @@ install:
 # - brew install shellcheck # && brew tap homebrew/dupes && brew install homebrew/dupes/tidy --HEAD
 
 before_script:
+  - node -v && npm -v
+  - ruby -v
   - cat Gemfile.lock
 # - bundle outdated
   - bundle exec bundle-audit
