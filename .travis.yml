@@ -28,13 +28,12 @@ before_script:
   - ruby -v
   - cat Gemfile.lock
 # - bundle outdated
-  - bundle exec bundle-audit
+# - bundle exec bundle-audit check # Returns error code on fail
 
 script:
   - bundle exec jekyll build --profile --trace
 
 after_script:
-# - bundle exec bundle-audit check # Returns error code on fail
 # - bundle exec htmlproofer --check-html --file-ignore=$HTML_EXCLUDES $HTML_FOLDER
   - htmlhint $HTML_FOLDER
 # - tidy -config .tidy-config && tidy -e -q $HTML_FOLDER/index.html
