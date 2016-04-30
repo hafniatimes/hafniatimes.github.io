@@ -4,44 +4,45 @@ $dyslexiaDir: "/static/typefaces/open-dyslexic";
 
 @mixin font-face-src($font, $dir: $dyslexiaDir) {
     src: url("#{$dir}/eot/#{$font}.eot"); // IE9 Compat Modes
-    src: url("#{$dir}/eot/#{$font}.eot?#iefix") format("embedded-opentype"), // IE6-IE8
-//     url("#{$dir}/woff/#{$font}.woff2") format("woff2"), // Super Modern Browsers
-       url("#{$dir}/woff/#{$font}.woff") format("woff"), // Pretty Modern Browsers
-       url("#{$dir}/otf/#{$font}.otf") format("opentype"), // Safari, Android, iOS
-       url("#{$dir}/otf/#{$font}.ttf") format("truetype"), // Safari, Android, iOS
-       url("#{$dir}/svg/#{$font}.svg#svgFontName") format("svg"); // Legacy
+    src:
+        url("#{$dir}/eot/#{$font}.eot?#iefix") format("embedded-opentype"), // IE6-IE8
+//      url("#{$dir}/woff/#{$font}.woff2") format("woff2"), // Super Modern Browsers
+        url("#{$dir}/woff/#{$font}.woff") format("woff"), // Pretty Modern Browsers
+        url("#{$dir}/otf/#{$font}.otf") format("opentype"), // Safari, Android, iOS
+        url("#{$dir}/otf/#{$font}.ttf") format("truetype"), // Safari, Android, iOS
+        url("#{$dir}/svg/#{$font}.svg#svgFontName") format("svg"); // Legacy
 }
 
 @font-face { // Regular
-    font-family: "opendyslexic";
+    font-family: opendyslexic;
     @include font-face-src("OpenDyslexic-Regular");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face { // Bold
-    font-family: "opendyslexic";
+    font-family: opendyslexic;
     @include font-face-src("OpenDyslexic-Bold");
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face { // Italic
-    font-family: "opendyslexic";
+    font-family: opendyslexic;
     @include font-face-src("OpenDyslexic-Italic");
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face { // Bold italic
-    font-family: "opendyslexic";
+    font-family: opendyslexic;
     @include font-face-src("OpenDyslexic-BoldItalic");
     font-weight: bold;
     font-style: italic;
 }
 
 @font-face { // Monospace
-    font-family: "opendyslexicmonoregular";
+    font-family: opendyslexicmonoregular;
     @include font-face-src("OpenDyslexicMono-Regular");
     font-weight: normal;
     font-style: normal;
@@ -61,10 +62,10 @@ pre {
 
 p:nth-child(even),
 li:nth-child(even) {
-    background-color: rgba(0, 0, 0, .03) !important;
+    background-color: rgba(0,0,0,.03) !important;
 }
 
 p:hover,
 li:hover {
-    background-color: rgba(0, 0, 0, .1) !important;
+    background-color: rgba(0,0,0,.1) !important;
 }

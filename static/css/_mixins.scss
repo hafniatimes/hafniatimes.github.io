@@ -13,16 +13,20 @@
 }
 
 @mixin box-sizing() {
+/* stylelint-disable indentation */
 // http://css-tricks.com/box-sizing/
     -webkit-box-sizing: border-box;
        -moz-box-sizing: border-box;
             box-sizing: border-box;
+/* stylelint-enable indentation */
 }
 
 @mixin border-radius($rounding: 5px) {
+/* stylelint-disable indentation */
     -webkit-border-radius: $rounding;
        -moz-border-radius: $rounding;
             border-radius: $rounding;
+/* stylelint-enable indentation */
 }
 
 @mixin center() {

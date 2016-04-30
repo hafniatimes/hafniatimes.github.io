@@ -57,7 +57,10 @@ h5 {
     #articles,
     #linked-articles {
         h2 { text-align: center; }
-        li { list-style: none; clear: both; }
+        li {
+            list-style: none;
+            clear: both;
+        }
 
         time.article-date {
             float: left;
@@ -231,8 +234,10 @@ h5 {
             border-bottom: 2px solid #333;
 
             caption {
+                /* stylelint-disable max-line-length */
                 // font: #{$font-size-larger}/#{$line-height-larger} Georgia small-caps;
                 // font: 1.2em/1.4em Georgia small-caps; //
+                /* stylelint-enable max-line-length */
                 background-color: $table-faded-blue;
 
                 text-align: center;
@@ -273,7 +278,7 @@ h5 {
             th:hover { background-color: $table-mm; }
 
             tr:hover { background-color: $table-yellow; }
-    }
+        }
 
         .embed { margin: $padding auto; }
 
@@ -312,7 +317,7 @@ table {
     margin-top: 1em;
 }
 
-ol ul,
+ol ol,
 ul ul,
 ol ul,
 ul ol {

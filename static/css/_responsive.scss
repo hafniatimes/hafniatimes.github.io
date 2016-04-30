@@ -32,7 +32,7 @@
 
 @media only screen {
     @media (max-device-width: $mobileWidth) { @include mobile-mq; }
-    @media (-webkit-device-pixel-ratio: 3)  { @include mobile-mq; }
+    @media (-webkit-device-pixel-ratio: 3) { @include mobile-mq; }
 
     // iPhone 5+
     // @media #{$mediaQueryiPhoneLarge} { @include iphone-mq; }

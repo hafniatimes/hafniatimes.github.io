@@ -14,9 +14,11 @@ body {
 }
 
 #site-navigation {
+/* stylelint-disable indentation */
     -webkit-box-shadow: none;
        -moz-box-shadow: none;
             box-shadow: none;
+/* stylelint-enable indentation */
 }
 
 .post {

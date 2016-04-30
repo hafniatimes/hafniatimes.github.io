@@ -1,51 +1,51 @@
 $font: Georgia, serif;
 
-$blue:    #517CB4;
-$black:   #555;
-$grey:    rgba(215, 215, 215, .7);
+$blue: #517CB4;
+$black: #555;
+$grey: rgba(215,215,215,.7);
 $greyHex: #EEE;
-$yellow:  #FFA;
+$yellow: #FFA;
 
 $containerWidth: 500px;
-$mobileWidth:    600px;
+$mobileWidth: 600px;
 $maxMobileWidth: 320px;
 
 $boxPaddingVer: 2.5em;
-$boxPaddingHor:     0;
-$padding:        20px;
+$boxPaddingHor: 0;
+$padding: 20px;
 
-$fontSize:   16px;
+$fontSize: 16px;
 $lineHeight: 1.5 * $fontSize; // 21px
 
-$mobileFontSize:   10px; //!
+$mobileFontSize: 10px; //!
 $mobileLineHeight: $mobileFontSize*1.5;
 
-$avatarSize:       125px;
-$avatarSizeMobile:  75px;
-$avatarShape:   "circle";  // "rounded"
+$avatarSize: 125px;
+$avatarSizeMobile: 75px;
+$avatarShape: "circle";  // "rounded"
 
 $blockquoteBorder: 3px;
-$footnoteBorder:   3px;
+$footnoteBorder: 3px;
 
 // Tables
-$cell-padding:     0 .5em;
-$cell-padding-hor:   .5em;
-$cell-spacing-ver:    5px;
-$table-font:       #111;
+$cell-padding: 0 .5em;
+$cell-padding-hor: .5em;
+$cell-spacing-ver: 5px;
+$table-font: #111;
 $table-faded-blue: #F5FAFA;
-$table-mm:         #CFC;
-$table-yellow:     #FFA;
-$table-beige:      beige;
+$table-mm: #CFC;
+$table-yellow: #FFA;
+$table-beige: beige;
 
 // Desktop
 $navigationSize: 16px;
-$nameH1Size:     48px;
-$footerSize:     12px;
+$nameH1Size: 48px;
+$footerSize: 12px;
 
-$postTitleSize:  24px;
+$postTitleSize: 24px;
 $postBylineSize: 16px;
 $postUpdateSize: 14px;
 
 // Mobile
 $mobileNavigationSize: $navigationSize;
-$mobilenameH1Size:     $nameH1Size;
+$mobilenameH1Size: $nameH1Size;

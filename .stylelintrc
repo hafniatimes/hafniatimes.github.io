@@ -69,7 +69,9 @@ rules:
     declaration-colon-newline-after: always-multi-line
     declaration-colon-space-after: always-single-line
     declaration-colon-space-before: never
-    declaration-no-important: true # | null
+    declaration-no-important:
+        - true # | null
+        - severity: warning
 
     declaration-block-no-duplicate-properties:
         - true
@@ -121,7 +123,9 @@ rules:
 
     root-no-standard-properties: null # | true
 
-    rule-nested-empty-line-before: never
+    rule-nested-empty-line-before:
+        - always-multi-line
+        - except: ["first-nested"]
     rule-non-nested-empty-line-before: null # | always, never
 
     media-feature-colon-space-after: always
@@ -154,12 +158,15 @@ rules:
     max-line-length:
         - 78
         - ignore: [non-comments]
+        - severity: warning
     max-nesting-depth: null
     no-browser-hacks: null
     no-descending-specificity: null # | true
     no-duplicate-selectors: true
     no-eol-whitespace: true
-    no-indistinguishable-colors: true
+    no-indistinguishable-colors:
+        - true
+        - severity: warning
     no-invalid-double-slash-comments: true
     no-missing-eof-newline: true
     no-unknown-animations: true
