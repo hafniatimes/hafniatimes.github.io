@@ -34,7 +34,7 @@ before_install:
 install:
   - bundle install --verbose
   - npm install
-# - brew install shellcheck # && brew tap homebrew/dupes && brew install homebrew/dupes/tidy --HEAD
+  - brew install shellcheck # && brew tap homebrew/dupes && brew install homebrew/dupes/tidy --HEAD
 
 before_script:
   - node -v && npm -v
