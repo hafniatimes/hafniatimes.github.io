@@ -98,10 +98,13 @@ rules:
     block-opening-brace-space-before: always
 
     selector-attribute-brackets-space-inside: never
+    selector-attribute-operator-space-after: never
+    selector-attribute-operator-space-before: never
     selector-class-pattern: null
     selector-combinator-space-after: null # | always
     selector-combinator-space-before: null # | always
     selector-id-pattern: null
+    selector-max-empty-lines: 0
     selector-max-specificity: null
     selector-no-attribute: null
     selector-no-combinator: null
@@ -111,6 +114,7 @@ rules:
     selector-no-universal: true
     selector-no-vendor-prefix: true
     selector-pseudo-class-case: lower
+    selector-pseudo-element-no-unknown: true
     selector-pseudo-class-parentheses-space-inside: null # |
     selector-pseudo-element-case: lower
     selector-pseudo-element-colon-notation: single
@@ -147,6 +151,7 @@ rules:
 
     at-rule-empty-line-before: null # |
     # at-rule-name-case: lower
+    at-rule-name-space-after: always
     at-rule-no-vendor-prefix: null
     at-rule-semicolon-newline-after: always
 
@@ -165,6 +170,7 @@ rules:
     no-descending-specificity: null # | true
     no-duplicate-selectors: true
     no-eol-whitespace: true
+    no-extra-semicolons: true
     no-indistinguishable-colors:
         - true
         - severity: warning
