@@ -64,6 +64,8 @@ rules:
     property-value-whitelist: null
     property-whitelist: null
 
+    keyframe-declaration-no-important: null # | true
+
     declaration-bang-space-after: never
     declaration-bang-space-before: always
     declaration-colon-newline-after: always-multi-line
@@ -98,12 +100,15 @@ rules:
     block-opening-brace-space-before: always
 
     selector-attribute-brackets-space-inside: never
+    selector-attribute-operator-blacklist: null
+    selector-attribute-operator-whitelist: null
     selector-attribute-operator-space-after: never
     selector-attribute-operator-space-before: never
     selector-class-pattern: null
     selector-combinator-space-after: null # | always
     selector-combinator-space-before: null # | always
     selector-id-pattern: null
+    selector-max-compound-selectors: null
     selector-max-empty-lines: 0
     selector-max-specificity: null
     selector-no-attribute: null
@@ -119,7 +124,9 @@ rules:
     selector-pseudo-element-case: lower
     selector-pseudo-element-colon-notation: single
     selector-root-no-composition: null # | true
+    selector-pseudo-class-no-unknown: true
     selector-type-case: lower
+    selector-type-no-unknown: true
 
     selector-list-comma-newline-after: always
     selector-list-comma-newline-before: null
