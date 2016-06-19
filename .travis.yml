@@ -50,7 +50,7 @@ after_script:
 # - bundle exec htmlproofer --check-html --file-ignore=$HTML_EXCLUDES $HTML_FOLDER
   - htmlhint --config node_modules/style/html/.htmlhintrc $HTML_FOLDER
 # - tidy -config .tidy-config && tidy -e -q $HTML_FOLDER/index.html
-  - stylelint --config node_modules/style/css/.stylelintrc $STYLE_FOLDER/*.scss --syntax scss
+  - stylelint --config node_modules/style/css/.stylelintrc --ignore-path .stylelintignore $STYLE_FOLDER/*.scss --syntax scss
   - bundle exec sass -c static/css/style.scss
   - jscs --config node_modules/style/javascript/.jscsrc $JS_FOLDER
   - jshint --config node_modules/style/javascript/.jshintrc $JS_FOLDER

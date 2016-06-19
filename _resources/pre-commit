@@ -9,7 +9,7 @@ bundle exec jekyll build --trace
 # bundle exec bundle-audit
 # bundle exec htmlproofer --check-html _site/
 htmlhint --config node_modules/style/html/.htmlhintrc _site
-stylelint --config node_modules/style/css/.stylelintrc static/css/*.scss --syntax scss
+stylelint --config node_modules/style/css/.stylelintrc --ignore-path .stylelintignore static/css/*.scss --syntax scss
 bundle exec sass -c static/css/style.scss
 jscs --config node_modules/style/javascript/.jscsrc static/js/
 # jshint --config node_modules/style/javascript/.jshintrc static/js/
