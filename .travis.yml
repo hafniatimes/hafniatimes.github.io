@@ -48,15 +48,15 @@ script:
 
 after_script:
 # - bundle exec htmlproofer --check-html --file-ignore=$HTML_EXCLUDES $HTML_FOLDER
-  - htmlhint $HTML_FOLDER
+  - htmlhint --config node_modules/style/html/.htmlhintrc $HTML_FOLDER
 # - tidy -config .tidy-config && tidy -e -q $HTML_FOLDER/index.html
-  - stylelint $STYLE_FOLDER/*.scss --syntax scss --config node_modules/style/css/.stylelintrc
+  - stylelint --config node_modules/style/css/.stylelintrc $STYLE_FOLDER/*.scss --syntax scss
   - bundle exec sass -c static/css/style.scss
-  - jscs $JS_FOLDER
-  - jshint $JS_FOLDER
+  - jscs --config node_modules/style/javascript/.jscsrc $JS_FOLDER
+  - jshint --config node_modules/style/javascript/.jshintrc $JS_FOLDER
   - bundle exec kwalify -lf .link-lint.yml data/links/da.yml && bundle exec kwalify -lf .link-lint.yml data/links/en.yml
   - shellcheck _resources/pre-commit
-  - markdownlint _posts/*.markdown _posts/*/*.markdown *.md
+  - markdownlint --config node_modules/style/markdown/.markdownlintrc _posts/*.markdown _posts/*/*.markdown *.md
 
 matrix:
   allow_failures:
