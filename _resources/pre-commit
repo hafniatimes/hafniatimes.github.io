@@ -2,14 +2,14 @@
 
 cd "$(git rev-parse --git-dir)" && cd ..
 
-npm install --silent
+npm cache clean && npm install --silent ndarville/style
 bundle install --quiet
 bundle exec jekyll build --trace
 
 # bundle exec bundle-audit
 # bundle exec htmlproofer --check-html _site/
 htmlhint _site
-stylelint static/css/*.scss --syntax scss
+stylelint static/css/*.scss --syntax scss --config node_modules/style/css/.stylelintrc
 bundle exec sass -c static/css/style.scss
 jscs static/js/
 # jshint static/js/
