@@ -33,7 +33,7 @@ before_install:
 
 install:
   - bundle install --verbose
-  - npm cache clean && npm install http://github.com/ndarville/style # Install with HTTP because of proxy
+  - npm install ndarville/style
 # - brew install shellcheck # && brew tap homebrew/dupes && brew install homebrew/dupes/tidy --HEAD
 
 before_script:
