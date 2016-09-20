@@ -53,7 +53,7 @@
     {% include meta/languages.html %}
     {% include meta/info.html %}
     </head>
-    {% if page.section == "frontpage" %}<body id="frontpage">{% else %}<body>{% endif %}
+    <body{% if page.section == "frontpage" %} id="frontpage"{% endif %}>
         <div id="container">
         <div id="padder">
             {% include site-navigation.html %}
