@@ -15,7 +15,7 @@
 
 {% comment %} hreflang and og:locale:alternate {% endcomment %}
 {% comment %} Frontpage {% endcomment %}
-    {% if page.section == "frontpage" %}
+    {% if layout.section == "frontpage" %}
         {% for l in site.languages %}{% unless l.value == page_language %}
             <link
                 rel="alternate"

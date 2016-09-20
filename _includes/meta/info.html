@@ -19,7 +19,7 @@
     {% if page.url %}
         <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     {% endif %}
-    {% if page.section != "frontpage" %}
+    {% if layout.section != "frontpage" %}
         <meta property="og:type" content="article" />
     {% endif %}
     {% if page.image %}
