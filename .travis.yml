@@ -26,6 +26,7 @@ env:
     - CSS_EXCLUDES=""
     - JS_FOLDER="static/js/"
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # Speeds up htmlproof
+    - CXX=g++-4.8 # To support node_js>4
 
 before_install:
   - rvm install 2.2.0-dev
@@ -78,3 +79,10 @@ notifications:
   email:
     on_success: change
     on_failure: always
+
+addons: # To support node_js>4
+  apt:
+    sources:
+      - ubuntu-toolchain-r-test
+    packages:
+      - g++-4.8
