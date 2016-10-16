@@ -28,6 +28,15 @@ env:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # Speeds up htmlproof
     - CXX=g++-4.8 # To support node_js>4
 
+cache:
+  bundler: true
+  pip: true
+  directories:
+    - node_modules
+    - $HOME/.yarn-cache
+before_cache:
+  - rm -f $HOME/.cache/pip/log/debug.log
+
 before_install:
   - rvm install 2.2.0-dev
 # - brew update
