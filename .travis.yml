@@ -34,7 +34,7 @@ before_install:
 
 install:
   - bundle install --verbose
-  - npm install yarn
+  - npm install --global yarn
   - yarn
 # - brew install shellcheck # && brew tap homebrew/dupes && brew install homebrew/dupes/tidy --HEAD
 
