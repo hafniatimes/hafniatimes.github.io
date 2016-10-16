@@ -7,3 +7,4 @@ Gemfile.lock
 npm-debug.log
 TODO.md
 Thumbs.db
+yarn.lock
