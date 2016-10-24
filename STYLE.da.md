@@ -15,6 +15,7 @@ Ordbog
  migrantarbejder   | gæste-/fremmedarbejder
  redigér           | rediger
  USAs              | USA’s
+ samhandel         | frihandel
 
 Undlad generelt at gengive **spinbegreber** såsom
 
