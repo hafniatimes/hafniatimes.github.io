@@ -49,9 +49,12 @@ Danish
  blå blok      | the right coalition
  rød blok      | the left coalition
  Folketing     | parliament
+ x-forbehold   | ?
  x-ordfører    | spokesperson on X
  partileder    | party leader
  partiformand  | party chair(wo)man
+ regeringsgrundlag | coalition agreement
+ støtteparti   | ?
  udvalg        | committee
  værdiordfører | spokesperson on values
 
@@ -137,6 +140,15 @@ More on the committees [here][committees].
 
 Read more on the Danish court system [here][courts] and [here][wiki-courts].
 
+#### Danish Prosecution Service (Anklagemyndigheden) ####
+
+ Danish         | English
+:---------------|:-------
+ Rigsadvokaten  | Director of Public Prosecutions
+ Statsadvokaten | regional prosecutor
+ Politimestrene | police constables
+
+For more, read [the wiki on the Danish Prosecution Service][wiki-anklagemyndigheden]
 ### Miscellaneous ###
 
  Danish          | English
@@ -148,3 +160,4 @@ Read more on the Danish court system [here][courts] and [here][wiki-courts].
 [ministers]: http://www.thedanishparliament.dk/Members/The_Government.aspx
 [courts]: http://www.domstol.dk/om/otherlanguages/english/Pages/default.aspx
 [wiki-courts]: https://en.wikipedia.org/wiki/Courts_of_Denmark
+[wiki-anklagemyndigheden]: https://en.wikipedia.org/wiki/Danish_Prosecution_Service
