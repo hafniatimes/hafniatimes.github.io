@@ -32,7 +32,9 @@ For a long time, we have said that the, frankly, careless and irresponsible hand
 For even longer, we have said that scrapping the Danish border control in 2001 was indefensible and would cause problems.<br />
 There, too, have we been proven more right than we {are comfortable with}!
 
-And finally, we've been saying for a long time that the aid to the {nærområder} people are fleeing from should be increased.
+And finally, we've been saying for a long time that the aid to the {nærområder}[^nærområder] people are fleeing from should be increased.
+
+[^nærområder]: In the English translation of [the PM's New Year's speech][nye16], the phrase "[location] close to their native country" is used.
 
 {I'll get back to all that.}
 
@@ -262,17 +264,28 @@ The Red-Greens, Socialist People's Party, and Social Liberals can fight amongst 
 
 While they fight, I suggest that all other parties solve this in a way that both secures Denmark and the Danes for the future and effectively helps more of the people <span>who are in need</span>{: .highlight}.
 
-Help in {nærområderne}. Works. If anyone had any doubt, [weekly newspaper] Weekendavisen documented it in an article[^wa] last Friday. A report from two universities in Great Britain and the US documents that refugees both stay in {områderne}, when sufficient aid is there, and that the welfare of {områderne} improves---even after peace has been restored, the camps have been shut down, and the Red Cross have gone home.
+<span>Help in {nærområderne}. Works. If anyone had any doubt, [weekly newspaper] Weekendavisen documented it in an article[^wa] last Friday. A report from two universities in Great Britain and the US documents that refugees both stay in {områderne}, when sufficient aid is there, and that the welfare of {områderne} improves---even after peace has been restored, the camps have been shut down, and the Red Cross have gone home.</span>{: .highlight}
 
 [^wa]: {}
 
-That has to be what you call a win-win-win situation :) [sic]
+<span>That has to be what you call a win-win-win situation :)</span>{: .highlight} [sic]
 
 * * * *
+
+We have to ensure that the society that was handed over to us by previous generations, and which we value so deeply, is preserved and <span>defended</span>{: .highlight}.
+
+This can only be dine if we secure both a strong {business community} who can {earn the money back} while being careful with how we spend the money.
+
+And with regards to the first, let me make it clear that to the Danish People's Party, there is no doubt whatsoever that we need to ensure good {conditions} for growth and production.
+
+We must ensure that entrepreneurs think it's fun to kick things off in Denmark. That you are not overburdened by administrative requirements, and that you can get financing.
+
+And we need to
 
 
 [source]: http://www.danskfolkeparti.dk/Årsmødetaler_tekst_video
 [video]: https://youtube.com/watch?v=JwezewoNt-A
+[nye16]: /nye16/
 [text]: http://www.danskfolkeparti.dk/pictures_org/KTD%20Årsmødetale%202015.pdf
 [Dublin Regulation]: http://mobile.nytimes.com/2015/09/17/world/europe/europe-refugees-migrants-rules.amp.html
 [mainland]: https://www.wolframalpha.com/input/?i=length+of+border+denmark%2C+germany&a=*DPClash.CountryP.input-_*BordersLengths-
