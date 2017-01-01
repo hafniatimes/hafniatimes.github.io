@@ -4,7 +4,7 @@ PATH=$PATH:~/.rbenv/shims:/usr/local/bin:/usr/bin:/bin:/usr/local/Homebrew/bin
 
 cd "$(git rev-parse --git-dir)" && cd ..
 
-yarn cache clean && yarn add ndarville/style # Used to be --silent in npm
+yarn cache clean && yarn # Used to be --silent in npm
 bundle install --quiet
 bundle exec jekyll build --trace
 
