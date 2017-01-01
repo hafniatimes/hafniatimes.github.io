@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+PATH=$PATH:~/.rbenv/shims:/usr/local/bin:/usr/bin:/bin:/usr/local/Homebrew/bin
+
 cd "$(git rev-parse --git-dir)" && cd ..
 
 npm cache clean && npm install --silent ndarville/style
