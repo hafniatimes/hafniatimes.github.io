@@ -123,6 +123,16 @@ More on the committees [here][committees].
  Danish        | English
 :--------------|:------------------
  betinget dom  | suspended sentence
+ stadfæste     | affirm
+ dømt          | convicted/sentenced
+ sigtet        | charged
+ sigtede (n.)  | ?
+ sagsøger      | plaintiff
+ anklager      | prosecutor
+ nævningene    | the jury (members)
+ kære          | appeal
+
+#### Statsforvaltningen ####
 
 #### Courts ####
 
