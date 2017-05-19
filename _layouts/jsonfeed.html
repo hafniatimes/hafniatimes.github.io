@@ -28,7 +28,7 @@ layout: none
             "summary": {{ t.frontpage[page_language].description | smartify | jsonify }},
         {% endif %}
             "date_published": "{{ post.date }}"
-         {% comment %}"author" : ""{% endcomment %}
+         {% comment %}"author": ""{% endcomment %}
         }{% unless forloop.last == true %},{% endunless %}
 {% endunless %}{% endfor %}
     ]
