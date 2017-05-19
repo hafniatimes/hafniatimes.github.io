@@ -71,11 +71,6 @@ It may feel like you have to change your writing style to adapt to writing for a
 
 Adapting your prose to people with screenreaders differs little from making your visual media accessible to colour-blind readers, and your auditory media accessible to people hard of hearing.
 
-### Important Distinctions ###
-
-* “among” vs “between”
-* “compare with” vs “compare to”
-
 Characters
 ----------
  Right   | Wrong
@@ -151,11 +146,11 @@ General
  NATO                  | Nato
  no one                | no-one
  on-demand economy/labour | sharing/gig economy
+ autonomous vehicle    | self-driving, driverless car/etc
  pro-/anti-, for/against abortion | pro-choice/life
  revise                | revize
  ride-booking, ride-hailing | ride-sharing
  sex worker            | prostitute, hooker
- sharing economy       | on-demand industry
  slaveholder           | slave owner
  use                   | usage
 
@@ -163,6 +158,7 @@ General
 
 Don’t use these words in general:
 
+* bias crime
 * honour killing
 * problematic
 * racial profiling
@@ -200,6 +196,12 @@ You might also reconsider the specificity of such geographies as
 * Arabic countries
 * Asia
 * the Middle East
+
+If you want a geographical reference, you can use the [UN's official regions][un-regions]. That way, you can at least defend your terminology to critics.
+
+It doesn't help to live in Denmark, a place where you have to stay on top of what is Northern Europe, Scandinavia, and the Nordic countries.
+
+People who live inside England, Great Britain, the United Kingdom, and the British Isles also have a rough time.
 
 ### Nerdy Terms ###
 
@@ -427,12 +429,14 @@ Common Misconceptions
 ### Learn the Difference ###
 
 * -ly vs -ally
+* accuracy vs prediction
+* among vs between
 * amoral, disinterested vs immoral, uninterested
 * assure vs ensure vs insure
 * awhile vs a while
-* accuracy vs prediction
 * born, aid, breath vs borne, aide, breathe
 * classic vs classical
+* compare with vs compare to
 * complementary vs complimentary
 * counsellor vs councillor
 * disk vs disc
@@ -441,6 +445,7 @@ Common Misconceptions
 * fiancé vs fiancée
 * historic vs historical
 * phase vs faze
+* residence vs residency
 * seize vs cease
 * surveillance vs wiretapping (vs dragnet)
 * you and I vs you and me
@@ -668,6 +673,7 @@ TODO
 [v]: http://www.venstre.dk/servicemenu/english/facts-about-venstre/
 [ø]: http://enhedslisten.dk/content/red-green-alliance
 
+[un-regions]: http://unstats.un.org/unsd/methods/m49/m49regin.htm#
 [broadband]: http://www.fcc.gov/reports/2015-broadband-progress-report
 [genocide]: http://www.ohchr.org/EN/ProfessionalInterest/Pages/CrimeOfGenocide.aspx
 [torture]: http://www.hrweb.org/legal/cat.html#Article%201.1
