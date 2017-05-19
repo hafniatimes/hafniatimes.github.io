@@ -1,0 +1,35 @@
+---
+layout: none
+---
+{% if page.lang != "en" %}
+    {% assign base = site.url | append: "/" | append: page.lang %}
+{% else %}
+    {% assign base = site.url %}
+{% endif %}
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": {{ site.name | smartify | jsonify }},
+    "description": {{ site.description | smartify | jsonify }},
+    "home_page_url": "{{ base }}/",
+    "feed_url": "{{ base }}/feed.json",
+    "icon": "{{ base }}/static/icons/hotlink-ok/identicon.png",
+    {% comment %}"favicon": "",{% endcomment %}
+    "expired": false,
+    "items": [
+{% for post in site.posts %}{% unless post.lang != page.lang %}
+        {
+            "id": "{{ post.id }}",
+            "title": {{ post.title | smartify | jsonify }},
+            "content_html": {{ post.content | jsonify }},
+            "url": "{{ site.url }}{{ post.url }}",
+        {% if post.excerpt %}
+            "summary": {{ post.excerpt | smartify | jsonify }},
+        {% else %}
+            "summary": {{ t.frontpage[page_language].description | smartify | jsonify }},
+        {% endif %}
+            "date_published": "{{ post.date }}"
+         {% comment %}"author" : ""{% endcomment %}
+        }{% unless forloop.last == true %},{% endunless %}
+{% endunless %}{% endfor %}
+    ]
+}

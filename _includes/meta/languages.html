@@ -6,6 +6,12 @@
             type="application/atom+xml"
         />
         <link
+            href="{% if l.value != "en" %}/{{ l.value }}{% endif %}/feed.json"
+            rel="alternate"
+            title="{{ site.translations._feed[l.value] }} (JSON)"
+            type="application/json"
+        />
+        <link
             href="{% if l.value != "en" %}/{{ l.value }}{% endif %}/links.atom"
             rel="alternate"
             title="{{ site.translations._links[l.value] }}"
