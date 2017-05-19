@@ -9,7 +9,7 @@ layout: none
 {
     "version": "https://jsonfeed.org/version/1",
     "title": {{ site.name | smartify | jsonify }},
-    "description": {{ site.description | smartify | jsonify }},
+    {% if site.description %}"description": {{ site.description | smartify | jsonify }},{% endif %}
     "home_page_url": "{{ base }}/",
     "feed_url": "{{ base }}/feed.json",
     "icon": "{{ base }}/static/icons/hotlink-ok/identicon.png",
