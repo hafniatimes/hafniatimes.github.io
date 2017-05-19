@@ -8,7 +8,7 @@ layout: none
     {% else %}
         {% assign base = site.url %}
     {% endif %}
-    <title>{{ site.name }}</title>
+    <title>{{ site.name | smartify | xml_escape }} </title>
     <link href="{{ base }}/feed.atom" rel="self"/>
     <link href="{{ base }}/"/>
     <updated>{{ site.time | date_to_xmlschema }}</updated>
@@ -16,10 +16,10 @@ layout: none
 
 {% for post in site.posts %}{% unless post.lang != page.lang %}
     <entry>
-        <title>{{ post.title | xml_escape }}</title>
+        <title>{{ post.title | smartify | xml_escape }}</title>
         <link href="{{ site.url }}{{ post.url }}"/>
         <updated>{{ post.date | date_to_xmlschema }}</updated>
-        <id>{{ site.url }}{{ post.id }}</id>
+        <id>{{ page.id }}</id>
         <content type="html">{{ post.content | xml_escape }}</content>
     </entry>
 {% endunless %}{% endfor %}
