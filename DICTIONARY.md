@@ -11,7 +11,7 @@ Danish
 :--------------------|:-------------------
  aflytning           |  wiretapping
  aktindsigt          |  Freedom of Information request
- beslutningsforslag  |  resolution
+ boligområde         |  residential area
  demonstration       |  protest
  indvandringspolitik |  immigration policy
  indvandrer          |  immigrant
